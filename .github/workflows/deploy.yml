@@ -1,0 +1,83 @@
+name: Deploy
+
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: 'ref to build'
+        required: true
+      path:
+        description: 'path'
+      build_flags:
+        description: 'additional build flags'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Print Inputs
+      run: |
+        echo "ref: ${{ github.event.inputs.ref }}"
+        echo "build_flags: ${{ github.event.inputs.build_flags }}"
+    - name: Checkout gh-pages
+      uses: actions/checkout@v3
+      with:
+        ref: gh-pages
+        path: gh-pages
+    - name: Checkout genshin-optimizer
+      uses: actions/checkout@v3
+      with:
+        repository: eeeqeee/genshin-optimizer
+        ref: ${{ github.event.inputs.ref }}
+        path: checkout
+    - name: Disable clone_genshindata.js
+      run: |
+        echo > checkout/clone_genshindata.js
+    - name: Checkout GenshinData
+      uses: actions/checkout@v3
+      with:
+        repository: Dimbreath/GenshinData
+        path: checkout/pipeline/GenshinData
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 18
+    - name: Get npm cache directory
+      id: npm-cache-dir
+      run: |
+        echo "::set-output name=dir::$(npm config get cache)"
+    - uses: actions/cache@v3
+      id: npm-cache # use this to check for `cache-hit` ==> if: steps.npm-cache.outputs.cache-hit != 'true'
+      with:
+        path: ${{ steps.npm-cache-dir.outputs.dir }}
+        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          ${{ runner.os }}-node-
+    - name: Get path or commit hash
+      id: get-path
+      run: |
+        if [[ ${{ github.event.inputs.path }} ]]; then
+          echo "::set-output name=path::${{ github.event.inputs.path }}"
+        else
+          echo "::set-output name=path::$(git rev-parse HEAD)"
+        fi
+      working-directory: checkout
+    - run: |
+        npm ci
+      working-directory: checkout
+    - name: Build genshin-optimizer
+      run: |
+        PUBLIC_URL="/genshin-optimizer/${{ steps.get-path.outputs.path }}" npm run build ${{ github.event.inputs.build_flags }}
+      working-directory: checkout
+    - name: Move to gh-pages
+      run: |
+        mkdir --parents "gh-pages/genshin-optimizer/${{ steps.get-path.outputs.path }}"
+        rm -rfv "gh-pages/genshin-optimizer/${{ steps.get-path.outputs.path }}" || true
+        mv "checkout/build" "gh-pages/genshin-optimizer/${{ steps.get-path.outputs.path }}"
+    - name: Make commit to deploy
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add "genshin-optimizer/${{ steps.get-path.outputs.path }}"
+        git commit -m "deploy: ${{ steps.get-path.outputs.path }}"
+        git push origin gh-pages
+      working-directory: gh-pages
