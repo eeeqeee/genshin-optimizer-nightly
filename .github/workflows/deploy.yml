@@ -55,10 +55,12 @@ jobs:
     - name: Get path or commit hash
       id: get-path
       run: |
-        if [[ ${{ github.event.inputs.path }} ]]; then
-          echo "::set-output name=path::${{ github.event.inputs.path }}"
-        else
+        if [[ -z "${{ github.event.inputs.path }}" ]]; then
           echo "::set-output name=path::$(git rev-parse HEAD)"
+          echo "::set-output name=msg::\"deploy: $(git rev-parse HEAD)\""
+        else
+          echo "::set-output name=path::${{ github.event.inputs.path }}"
+          echo "::set-output name=msg::\"deploy: $(git rev-parse HEAD) to ${{ steps.get-path.outputs.path }}\""
         fi
       working-directory: checkout
     - run: |
@@ -78,6 +80,6 @@ jobs:
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add "genshin-optimizer/${{ steps.get-path.outputs.path }}"
-        git commit -m "deploy: ${{ steps.get-path.outputs.path }}"
+        git commit -m ${{ steps.get-path.outputs.msg }}
         git push origin gh-pages
       working-directory: gh-pages
