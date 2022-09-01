@@ -29,15 +29,15 @@ jobs:
       with:
         repository: eeeqeee/genshin-optimizer
         ref: ${{ github.event.inputs.ref }}
-        path: checkout
+        path: genshin-optimizer
     - name: Disable clone_genshindata.js
       run: |
-        echo > checkout/clone_genshindata.js
+        echo > genshin-optimizer/clone_genshindata.js
     - name: Checkout GenshinData
       uses: actions/checkout@v3
       with:
         repository: Dimbreath/GenshinData
-        path: checkout/pipeline/GenshinData
+        path: genshin-optimizer/pipeline/GenshinData
     - uses: actions/setup-node@v3
       with:
         node-version: 18
@@ -60,21 +60,21 @@ jobs:
           echo "::set-output name=msg::\"deploy: $(git rev-parse HEAD)\""
         else
           echo "::set-output name=path::${{ github.event.inputs.path }}"
-          echo "::set-output name=msg::\"deploy: $(git rev-parse HEAD) to ${{ steps.get-path.outputs.path }}\""
+          echo "::set-output name=msg::\"deploy: $(git rev-parse HEAD) to genshin-optimizer/${{ steps.get-path.outputs.path }}\""
         fi
-      working-directory: checkout
+      working-directory: genshin-optimizer
     - run: |
         npm ci
-      working-directory: checkout
+      working-directory: genshin-optimizer
     - name: Build genshin-optimizer
       run: |
         PUBLIC_URL="/genshin-optimizer/${{ steps.get-path.outputs.path }}" npm run build ${{ github.event.inputs.build_flags }}
-      working-directory: checkout
+      working-directory: genshin-optimizer
     - name: Move to gh-pages
       run: |
         mkdir --parents "gh-pages/genshin-optimizer/${{ steps.get-path.outputs.path }}"
         rm -rfv "gh-pages/genshin-optimizer/${{ steps.get-path.outputs.path }}" || true
-        mv "checkout/build" "gh-pages/genshin-optimizer/${{ steps.get-path.outputs.path }}"
+        mv "genshin-optimizer/build" "gh-pages/genshin-optimizer/${{ steps.get-path.outputs.path }}"
     - name: Make commit to deploy
       run: |
         git config user.name "github-actions[bot]"
