@@ -10,6 +10,9 @@ on:
         description: 'path'
       build_flags:
         description: 'additional build flags'
+      repository:
+        description: 'repository for genshin-optimizer'
+        default: eeeqeee/genshin-optimizer
 
 jobs:
   deploy:
@@ -27,9 +30,10 @@ jobs:
     - name: Checkout genshin-optimizer
       uses: actions/checkout@v3
       with:
-        repository: eeeqeee/genshin-optimizer
+        repository: ${{ github.event.inputs.repository }}
         ref: ${{ github.event.inputs.ref }}
         path: genshin-optimizer
+        ssh-key: ${{ secrets.ssh_key }}
     - name: Disable clone_genshindata.js
       run: |
         echo > genshin-optimizer/clone_genshindata.js
@@ -60,7 +64,7 @@ jobs:
           echo "::set-output name=msg::\"deploy: $(git rev-parse HEAD)\""
         else
           echo "::set-output name=path::${{ github.event.inputs.path }}"
-          echo "::set-output name=msg::\"deploy: $(git rev-parse HEAD) to genshin-optimizer/${{ steps.get-path.outputs.path }}\""
+          echo "::set-output name=msg::\"deploy: $(git rev-parse HEAD) to genshin-optimizer/${{ github.event.inputs.path }}\""
         fi
       working-directory: genshin-optimizer
     - run: |
