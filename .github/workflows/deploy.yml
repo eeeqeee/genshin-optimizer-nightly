@@ -51,7 +51,7 @@ jobs:
     - name: Get npm cache directory
       id: npm-cache-dir
       run: |
-        echo "::set-output name=dir::$(npm config get cache)"
+        echo "dir=$(npm config get cache)" >> $GITHUB_OUTPUT
     - uses: actions/cache@v3
       id: npm-cache # use this to check for `cache-hit` ==> if: steps.npm-cache.outputs.cache-hit != 'true'
       with:
@@ -63,21 +63,22 @@ jobs:
       id: get-path
       run: |
         if [[ -z "${{ github.event.inputs.path }}" ]]; then
-          echo "::set-output name=path::$(git rev-parse HEAD)"
+          echo "path=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
         else
-          echo "::set-output name=path::${{ github.event.inputs.path }}"
+          echo "path=${{ github.event.inputs.path }}" >> $GITHUB_OUTPUT
         fi
       working-directory: genshin-optimizer
     - name: Get commit msg
       id: get-commit-msg
       run: |
-        echo "::set-output name=msg::\"deploy: $(git rev-parse HEAD) to genshin-optimizer/${{ steps.get-path.outputs.path }}\""
-    - run: |
-        npm ci
+        echo "msg=\"deploy: $(git rev-parse HEAD) to genshin-optimizer/${{ steps.get-path.outputs.path }}\"" >> $GITHUB_OUTPUT
       working-directory: genshin-optimizer
     - run: |
         npm ci
       working-directory: genshin-optimizer/pipeline
+    - run: |
+        npm ci
+      working-directory: genshin-optimizer
     - name: Build genshin-optimizer
       run: |
         PUBLIC_URL="/genshin-optimizer/${{ steps.get-path.outputs.path }}" npm run build ${{ github.event.inputs.build_flags }}
