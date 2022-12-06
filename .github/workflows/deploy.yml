@@ -20,11 +20,6 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout gh-pages
-      uses: actions/checkout@v3
-      with:
-        ref: gh-pages
-        path: gh-pages
     - name: Checkout genshin-optimizer
       uses: actions/checkout@v3
       with:
@@ -85,6 +80,11 @@ jobs:
       run: |
         PUBLIC_URL="/genshin-optimizer/${{ steps.get-path.outputs.path }}" ${{ github.event.inputs.env }} npm run build ${{ github.event.inputs.build_flags }}
       working-directory: genshin-optimizer
+    - name: Checkout gh-pages
+      uses: actions/checkout@v3
+      with:
+        ref: gh-pages
+        path: gh-pages
     - name: Move to gh-pages
       run: |
         mkdir --parents "gh-pages/genshin-optimizer/${{ steps.get-path.outputs.path }}"
