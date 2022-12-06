@@ -10,6 +10,8 @@ on:
         description: 'path'
       build_flags:
         description: 'additional build flags'
+      env:
+        description: 'set env for npm run build'
       repository:
         description: 'repository for genshin-optimizer'
         default: eeeqeee/genshin-optimizer
@@ -81,7 +83,7 @@ jobs:
       working-directory: genshin-optimizer
     - name: Build genshin-optimizer
       run: |
-        PUBLIC_URL="/genshin-optimizer/${{ steps.get-path.outputs.path }}" npm run build ${{ github.event.inputs.build_flags }}
+        PUBLIC_URL="/genshin-optimizer/${{ steps.get-path.outputs.path }}" ${{ github.event.inputs.env }} npm run build ${{ github.event.inputs.build_flags }}
       working-directory: genshin-optimizer
     - name: Move to gh-pages
       run: |
