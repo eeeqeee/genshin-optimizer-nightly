@@ -8,7 +8,9 @@ on:
         required: true
       path:
         description: 'path'
-      build_flags:
+      public-url:
+        description: 'public url for build'
+      build-flags:
         description: 'additional build flags'
       env:
         description: 'set env for npm run build'
@@ -60,15 +62,24 @@ jobs:
       id: get-path
       run: |
         if [[ -z "${{ github.event.inputs.path }}" ]]; then
-          echo "path=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
+          echo "path=/genshin-optimizer/$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
         else
           echo "path=${{ github.event.inputs.path }}" >> $GITHUB_OUTPUT
+        fi
+      working-directory: genshin-optimizer
+    - name: Get public url
+      id: get-public-url
+      run: |
+        if [[ -z "${{ github.event.inputs.public-url }}" ]]; then
+          echo "url=${{ steps.get-path.outputs.path }}" >> $GITHUB_OUTPUT
+        else
+          echo "url=${{ github.event.inputs.public-url }}" >> $GITHUB_OUTPUT
         fi
       working-directory: genshin-optimizer
     - name: Get commit msg
       id: get-commit-msg
       run: |
-        echo "msg=\"deploy: $(git rev-parse HEAD) to genshin-optimizer/${{ steps.get-path.outputs.path }}\"" >> $GITHUB_OUTPUT
+        echo "msg=\"deploy: $(git rev-parse HEAD) to ${{ steps.get-path.outputs.path }}\"" >> $GITHUB_OUTPUT
       working-directory: genshin-optimizer
     - run: |
         npm ci
@@ -78,7 +89,7 @@ jobs:
       working-directory: genshin-optimizer
     - name: Build genshin-optimizer
       run: |
-        PUBLIC_URL="/genshin-optimizer/${{ steps.get-path.outputs.path }}" ${{ github.event.inputs.env }} npm run build ${{ github.event.inputs.build_flags }}
+        PUBLIC_URL="${{ steps.get-public-url.outputs.url }}" ${{ github.event.inputs.env }} npm run build ${{ github.event.inputs.build-flags }}
       working-directory: genshin-optimizer
     - name: Checkout gh-pages
       uses: actions/checkout@v3
@@ -87,14 +98,14 @@ jobs:
         path: gh-pages
     - name: Move to gh-pages
       run: |
-        mkdir --parents "gh-pages/genshin-optimizer/${{ steps.get-path.outputs.path }}"
-        rm -rfv "gh-pages/genshin-optimizer/${{ steps.get-path.outputs.path }}" || true
-        mv "genshin-optimizer/build" "gh-pages/genshin-optimizer/${{ steps.get-path.outputs.path }}"
+        mkdir --parents "gh-pages/${{ steps.get-path.outputs.path }}"
+        rm -rfv "gh-pages/${{ steps.get-path.outputs.path }}" || true
+        mv "genshin-optimizer/build" "gh-pages/${{ steps.get-path.outputs.path }}"
     - name: Make commit to deploy
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add "genshin-optimizer/${{ steps.get-path.outputs.path }}"
+        git add ./"${{ steps.get-path.outputs.path }}"
         git commit -m ${{ steps.get-commit-msg.outputs.msg }}
         git push origin gh-pages
       working-directory: gh-pages
