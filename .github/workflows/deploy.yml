@@ -71,7 +71,7 @@ jobs:
       id: get-public-url
       run: |
         if [[ -z "${{ github.event.inputs.public-url }}" ]]; then
-          echo "url=${{ steps.get-path.outputs.path }}" >> $GITHUB_OUTPUT
+          echo "url=." >> $GITHUB_OUTPUT
         else
           echo "url=${{ github.event.inputs.public-url }}" >> $GITHUB_OUTPUT
         fi
