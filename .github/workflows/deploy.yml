@@ -42,6 +42,7 @@ jobs:
       uses: actions/checkout@v3
       with:
         repository: eeeqeee/GenshinData
+        ref: trimmed
         path: genshin-optimizer/pipeline/GenshinData
         ssh-key: ${{ secrets.ssh_key_genshindata }}
     - uses: actions/setup-node@v3
