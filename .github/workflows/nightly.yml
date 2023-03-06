@@ -128,7 +128,7 @@ jobs:
       working-directory: genshin-optimizer
     - name: Build genshin-optimizer
       run: |
-        ${{ inputs.env }} yarn run buildall --base-href="${{ steps.get-public-url.outputs.url }}" ${{ inputs.build-flags }}
+        ${{ inputs.env }} yarn run nx run frontend:build --base-href="${{ steps.get-public-url.outputs.url }}" ${{ inputs.build-flags }}
       working-directory: genshin-optimizer
 
     - name: Random Wait
