@@ -1,0 +1,45 @@
+name: 'Deploy'
+description: ''
+
+runs:
+  using: "composite"
+  steps:
+    - name: Add hash to list
+      shell: bash
+      run: |
+        PREV_HASH=$(tail -n1 "$REMOTE_REF/builds.txt" || true)
+        echo "$GIT_HASH" >> "$REMOTE_REF/builds.txt"
+        if [[ -n $PREV_HASH ]]; then
+          rm "$REMOTE_REF/$PREV_HASH/index.html"
+          ln -s "$REMOTE_REF/inner.index.html" "$REMOTE_REF/$PREV_HASH/index.html"
+        fi
+      working-directory: gh-pages
+    - name: Run mk_base.js
+      shell: bash
+      run: |
+        node mk_base.js "$REMOTE_REF" "$GIT_HASH" > ../gh-pages/$REMOTE_REF/index.html
+      working-directory: main
+    - name: Move to gh-pages
+      shell: bash
+      run: |
+        mkdir --parents "gh-pages/$DEPLOY_PATH"
+        mkdir --parents "gh-pages/$REMOTE_REF/$GIT_HASH/"
+        rm -rfv "gh-pages/$DEPLOY_PATH" || true
+        cp "genshin-optimizer/dist/apps/frontend/index.html" "gh-pages/$REMOTE_REF/$GIT_HASH/index.html"
+        cp -r "genshin-optimizer/dist/apps/frontend" "gh-pages/$DEPLOY_PATH"
+        rm "gh-pages/$DEPLOY_PATH/index.html"
+    - name: Save etag
+      shell: bash
+      run: |
+        mkdir --parents "$REMOTE_REF"
+        printf "%s" "$ETAG_TXT" > $REMOTE_REF/etag.txt
+      working-directory: gh-pages
+    - name: Make commit to deploy
+      shell: bash
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add .
+        git commit -m "$COMMIT_MSG"
+        git push origin gh-pages
+      working-directory: gh-pages

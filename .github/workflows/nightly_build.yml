@@ -1,0 +1,29 @@
+name: Nightly Build
+
+permissions:
+  contents: write
+
+on:
+    schedule:
+      - cron: '0 0 * * *'
+    workflow_dispatch:
+
+jobs:
+  build-frzyc-master:
+    uses: ./.github/workflows/nightly.yml
+    with:
+      remote: frzyc
+      repository: frzyc/genshin-optimizer
+      ref: master
+      patch-workers: false
+    secrets:
+      ssh_key_genshindata: ${{ secrets.ssh_key_genshindata }}
+  build-eeeqeee-tc-opt:
+    uses: ./.github/workflows/nightly.yml
+    with:
+      remote: eeeqeee
+      repository: eeeqeee/genshin-optimizer
+      ref: tc-opt
+      patch-workers: true
+    secrets:
+      ssh_key_genshindata: ${{ secrets.ssh_key_genshindata }}

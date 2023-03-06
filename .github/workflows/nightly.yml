@@ -1,0 +1,192 @@
+name: Nightly
+
+on:
+  workflow_call:
+    inputs:
+      remote:
+        description: 'Remote'
+        type: string
+        required: true
+      repository:
+        description: 'Repository'
+        type: string
+        required: true
+      ref:
+        description: 'ref'
+        type: string
+        required: true
+      env:
+        description: 'ref'
+        type: string
+      build-flags:
+        description: 'ref'
+        type: string
+      patch-workers:
+        description: 'Patch Workers'
+        type: boolean
+    secrets:
+      ssh_key_optimizer:
+      ssh_key_genshindata:
+        required: true
+
+jobs:
+  check:
+    outputs:
+      status: ${{ steps.check.outputs.status }}
+      hash: ${{ steps.check.outputs.hash }}
+      etag_txt: ${{ steps.check.outputs.etag_txt }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+    - name: Checkout gh-pages
+      uses: actions/checkout@v3
+      with:
+        ref: gh-pages
+        path: gh-pages
+        persist-credentials: false
+    - run: |
+        mkdir --parents "gh-pages/${{ inputs.remote }}/${{ inputs.ref }}"
+    - name: Check if updated
+      id: check
+      run: |
+        CURL_HASH=$(curl -s --fail-with-body \
+          --etag-compare etag.txt --etag-save etag.txt \
+          -H 'authorization: Bearer ${{ github.token }}' \
+          -H "Accept: application/vnd.github.sha" \
+          https://api.github.com/repos/${{ inputs.repository }}/commits/${{ inputs.ref }} \
+        )
+        echo "hash=$CURL_HASH" >> $GITHUB_OUTPUT
+        echo "etag_txt=$(cat etag.txt)" >> $GITHUB_OUTPUT
+        if [[ $CURL_HASH ]]; then
+          echo "status=deploy" >> $GITHUB_OUTPUT
+        else
+          echo "status=exit" >> $GITHUB_OUTPUT
+        fi
+      working-directory: gh-pages/${{ inputs.remote }}/${{ inputs.ref }}
+
+  deploy:
+    needs: check
+    if: needs.check.outputs.status == 'deploy'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        path: main
+        persist-credentials: false
+    - name: Checkout genshin-optimizer
+      uses: actions/checkout@v3
+      with:
+        repository: ${{ inputs.repository }}
+        ref: ${{ needs.check.outputs.hash }}
+        path: genshin-optimizer
+        ssh-key: ${{ secrets.ssh_key_optimizer }}
+        persist-credentials: false
+    - uses: ./main/.github/actions/cached-checkout-repo
+      with:
+        repository: eeeqeee/GenshinData
+        ref: trimmed
+        path: genshin-optimizer/libs/dm/GenshinData
+        ssh-key: ${{ secrets.ssh_key_genshindata }}
+        persist-credentials: false
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 18
+        cache: 'yarn'
+        cache-dependency-path: genshin-optimizer/yarn.lock
+    - name: Change version to git hash
+      run: |
+        TEMP_FILE=$(mktemp)
+        jq --arg v "$(git rev-parse HEAD)" '.version = $v' package.json > $TEMP_FILE
+        cp $TEMP_FILE package.json
+      working-directory: genshin-optimizer
+    - name: Disable files
+      run: |
+        echo > genshin-optimizer/libs/dm/scripts/loadDM.ts
+    - name: Get path
+      id: get-path
+      run: |
+        echo "path=${{ inputs.remote }}/${{ inputs.ref }}/_dist/" >> $GITHUB_OUTPUT
+    - name: Get public url
+      id: get-public-url
+      run: |
+        echo "url=/genshin-optimizer-nightly/${{ steps.get-path.outputs.path }}" >> $GITHUB_OUTPUT
+    - name: Get commit msg
+      id: get-commit-msg
+      run: |
+        echo "msg=deploy: $(git rev-parse HEAD) to ${{ steps.get-path.outputs.path }}" >> $GITHUB_OUTPUT
+      working-directory: genshin-optimizer
+
+    - run: |
+        yarn install --immutable --immutable-cache --check-cache
+      working-directory: genshin-optimizer
+    - name: Patch for worker bug
+      if: inputs.patch-workers
+      run: |
+        sed -i "s/scriptType: internalOptions.esm ? 'module' : undefined,/scriptType: 'text\/javascript',/" node_modules/@nrwl/webpack/src/utils/config.js
+      working-directory: genshin-optimizer
+    - name: Build genshin-optimizer
+      run: |
+        ${{ inputs.env }} yarn run buildall --base-href="${{ steps.get-public-url.outputs.url }}" ${{ inputs.build-flags }}
+      working-directory: genshin-optimizer
+
+    - name: Random Wait
+      run: |
+        node main/wait.js
+    - name: Checkout gh-pages
+      uses: actions/checkout@v3
+      with:
+        ref: gh-pages
+        path: gh-pages
+    - name: Deploy 0
+      uses: ./main/.github/actions/deploy
+      id: deploy-0
+      env:
+        REMOTE_REF: ${{ inputs.remote }}/${{ inputs.ref }}
+        GIT_HASH: ${{ needs.check.outputs.hash }}
+        DEPLOY_PATH: ${{ steps.get-path.outputs.path }}
+        COMMIT_MSG: ${{ steps.get-commit-msg.outputs.msg }}
+        ETAG_TXT: ${{ needs.check.outputs.etag_txt }}
+
+    - name: Random Wait
+      if: ${{ failure() && steps.deploy-0.conclusion == 'failure' }}
+      run: |
+        node main/wait.js
+    - name: Checkout gh-pages
+      if: ${{ failure() && steps.deploy-0.conclusion == 'failure' }}
+      uses: actions/checkout@v3
+      with:
+        ref: gh-pages
+        path: gh-pages
+    - name: Deploy 1
+      if: ${{ failure() && steps.deploy-0.conclusion == 'failure' }}
+      uses: ./main/.github/actions/deploy
+      id: deploy-1
+      env:
+        REMOTE_REF: ${{ inputs.remote }}/${{ inputs.ref }}
+        GIT_HASH: ${{ needs.check.outputs.hash }}
+        DEPLOY_PATH: ${{ steps.get-path.outputs.path }}
+        COMMIT_MSG: ${{ steps.get-commit-msg.outputs.msg }}
+        ETAG_TXT: ${{ needs.check.outputs.etag_txt }}
+
+    - name: Random Wait
+      if: ${{ failure() && steps.deploy-1.conclusion == 'failure' }}
+      run: |
+        node main/wait.js
+    - name: Checkout gh-pages
+      if: ${{ failure() && steps.deploy-1.conclusion == 'failure' }}
+      uses: actions/checkout@v3
+      with:
+        ref: gh-pages
+        path: gh-pages
+    - name: Deploy 2
+      uses: ./main/.github/actions/deploy
+      if: ${{ failure() && steps.deploy-1.conclusion == 'failure' }}
+      id: deploy-2
+      env:
+        REMOTE_REF: ${{ inputs.remote }}/${{ inputs.ref }}
+        GIT_HASH: ${{ needs.check.outputs.hash }}
+        DEPLOY_PATH: ${{ steps.get-path.outputs.path }}
+        COMMIT_MSG: ${{ steps.get-commit-msg.outputs.msg }}
+        ETAG_TXT: ${{ needs.check.outputs.etag_txt }}

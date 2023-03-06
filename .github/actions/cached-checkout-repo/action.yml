@@ -1,0 +1,56 @@
+name: 'Cached Checkout Repo'
+description: ''
+inputs:
+  repository:
+    description: 'Repository'
+    type: string
+    required: true
+  ref:
+    description: 'ref'
+    type: string
+    required: true
+  path:
+    description: 'Path'
+    type: string
+    required: true
+  ssh-key:
+    description: 'SSH Key'
+    type: string
+  persist-credentials:
+    description: 'Persist Credentials'
+    type: boolean
+runs:
+  using: "composite"
+  steps:
+    - uses: ./main/.github/actions/checkout
+      with:
+        fetch-depth: 0
+        repository: ${{ inputs.repository }}
+        ref: ${{ inputs.ref }}
+        path: ${{ inputs.path }}
+        ssh-key: ${{ inputs.ssh-key }}
+        persist-credentials: true
+    - name: Get latest ref
+      id: check
+      shell: bash
+      working-directory: ${{ inputs.path }}
+      run: |
+        echo "hash=$(git ls-remote origin ${{ inputs.ref }} | cut -f1)" >> $GITHUB_OUTPUT
+    - uses: actions/cache@v3
+      id: cache
+      with:
+        path: ${{ inputs.path }}
+        key: cached-checkout-repo-${{ inputs.repository }}-${{ steps.check.outputs.hash }}
+    - name: Delete Checkout
+      if: steps.cache.outputs.cache-hit != 'true'
+      shell: bash
+      run: |
+        rm -rf ${{ inputs.path }}
+    - uses: actions/checkout@v3
+      if: steps.cache.outputs.cache-hit != 'true'
+      with:
+        repository: ${{ inputs.repository }}
+        ref: ${{ inputs.ref }}
+        path: ${{ inputs.path }}
+        ssh-key: ${{ inputs.ssh-key }}
+        persist-credentials: ${{ inputs.persist-credentials }}
