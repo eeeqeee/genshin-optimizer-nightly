@@ -8,7 +8,7 @@ const isInner = false
     const title = `Nightly build of ${remoteAndBranch}`
     const canonical = isInner ? `../` : `/genshin-optimizer-nightly/${remoteAndBranch}/${commit}`
     const relLink = isInner ? `\n    <link rel="canonical" href="${canonical}">` : ''
-    const redirectTime = isInner ? '1' : '0'
+    const redirectTime = isInner ? '0' : '0'
     const html = fs.readFileSync('base.html')
     const str = eval('`' + html + '`')
     console.log(str)

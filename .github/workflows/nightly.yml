@@ -90,11 +90,14 @@ jobs:
         path: genshin-optimizer/libs/dm/GenshinData
         ssh-key: ${{ secrets.ssh_key_genshindata }}
         persist-credentials: false
+    - run: |
+        yarn set version 3.4.1
     - uses: actions/setup-node@v3
       with:
         node-version: 18
         cache: 'yarn'
         cache-dependency-path: genshin-optimizer/yarn.lock
+      working-directory: genshin-optimizer
     - name: Change version to git hash
       run: |
         TEMP_FILE=$(mktemp)
@@ -119,7 +122,7 @@ jobs:
       working-directory: genshin-optimizer
 
     - run: |
-        yarn install --immutable --immutable-cache --check-cache
+        yarn install --immutable
       working-directory: genshin-optimizer
     - name: Patch for worker bug
       if: inputs.patch-workers

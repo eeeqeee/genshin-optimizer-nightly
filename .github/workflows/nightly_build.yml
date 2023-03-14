@@ -18,12 +18,22 @@ jobs:
       patch-workers: false
     secrets:
       ssh_key_genshindata: ${{ secrets.ssh_key_genshindata }}
+  build-frzyc-master-profile:
+    uses: ./.github/workflows/nightly.yml
+    with:
+      remote: frzyc-profile
+      repository: frzyc/genshin-optimizer
+      ref: master
+      patch-workers: false
+      build-flags: '--profile --source-map'
+    secrets:
+      ssh_key_genshindata: ${{ secrets.ssh_key_genshindata }}
   build-eeeqeee-tc-opt:
     uses: ./.github/workflows/nightly.yml
     with:
       remote: eeeqeee
       repository: eeeqeee/genshin-optimizer
       ref: tc-opt
-      patch-workers: true
+      patch-workers: false
     secrets:
       ssh_key_genshindata: ${{ secrets.ssh_key_genshindata }}
