@@ -15,7 +15,6 @@ jobs:
       remote: frzyc
       repository: frzyc/genshin-optimizer
       ref: master
-      patch-workers: false
     secrets:
       ssh_key_genshindata: ${{ secrets.ssh_key_genshindata }}
   build-frzyc-master-profile:
@@ -24,7 +23,6 @@ jobs:
       remote: frzyc-profile
       repository: frzyc/genshin-optimizer
       ref: master
-      patch-workers: false
       build-flags: '--profile --source-map'
     secrets:
       ssh_key_genshindata: ${{ secrets.ssh_key_genshindata }}
@@ -34,6 +32,5 @@ jobs:
       remote: eeeqeee
       repository: eeeqeee/genshin-optimizer
       ref: tc-opt
-      patch-workers: false
     secrets:
       ssh_key_genshindata: ${{ secrets.ssh_key_genshindata }}

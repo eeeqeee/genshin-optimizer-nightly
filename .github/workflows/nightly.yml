@@ -21,9 +21,6 @@ on:
       build-flags:
         description: 'ref'
         type: string
-      patch-workers:
-        description: 'Patch Workers'
-        type: boolean
     secrets:
       ssh_key_optimizer:
       ssh_key_genshindata:
@@ -97,7 +94,6 @@ jobs:
         node-version: 18
         cache: 'yarn'
         cache-dependency-path: genshin-optimizer/yarn.lock
-      working-directory: genshin-optimizer
     - name: Change version to git hash
       run: |
         TEMP_FILE=$(mktemp)
@@ -123,11 +119,6 @@ jobs:
 
     - run: |
         yarn install --immutable
-      working-directory: genshin-optimizer
-    - name: Patch for worker bug
-      if: inputs.patch-workers
-      run: |
-        sed -i "s/scriptType: internalOptions.esm ? 'module' : undefined,/scriptType: 'text\/javascript',/" node_modules/@nrwl/webpack/src/utils/config.js
       working-directory: genshin-optimizer
     - name: Build genshin-optimizer
       run: |
