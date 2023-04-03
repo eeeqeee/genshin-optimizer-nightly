@@ -88,7 +88,7 @@ jobs:
         ssh-key: ${{ secrets.ssh_key_genshindata }}
         persist-credentials: false
     - run: |
-        yarn set version 3.4.1
+        corepack prepare yarn@3.4.1
     - uses: actions/setup-node@v3
       with:
         node-version: 18
