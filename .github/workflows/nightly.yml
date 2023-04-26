@@ -4,7 +4,7 @@ on:
   workflow_call:
     inputs:
       remote:
-        description: 'Remote'
+        description: 'Name'
         type: string
         required: true
       repository:
@@ -61,9 +61,12 @@ jobs:
         fi
       working-directory: gh-pages/${{ inputs.remote }}/${{ inputs.ref }}
 
-  deploy:
+  build:
     needs: check
     if: needs.check.outputs.status == 'deploy'
+    outputs:
+      get-path: ${{ steps.get-path.outputs.path }}
+      get-commit-msg: ${{ steps.get-commit-msg.outputs.msg }}
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
@@ -88,12 +91,24 @@ jobs:
         ssh-key: ${{ secrets.ssh_key_genshindata }}
         persist-credentials: false
     - run: |
-        corepack prepare yarn@3.4.1
+        corepack prepare yarn@3.4.1 --activate
+        corepack enable
+        yarn --version
     - uses: actions/setup-node@v3
       with:
         node-version: 18
-        cache: 'yarn'
-        cache-dependency-path: genshin-optimizer/yarn.lock
+    - name: Get yarn cache directory path
+      id: yarn-cache-dir-path
+      run: |
+        echo "dir=$(yarn config get cacheFolder)" >> $GITHUB_OUTPUT
+      working-directory: genshin-optimizer
+    - name: Restore yarn cache
+      uses: actions/cache@v3
+      with:
+        path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
+        key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-yarn-
     - name: Change version to git hash
       run: |
         TEMP_FILE=$(mktemp)
@@ -117,70 +132,49 @@ jobs:
         echo "msg=deploy: $(git rev-parse HEAD) to ${{ steps.get-path.outputs.path }}" >> $GITHUB_OUTPUT
       working-directory: genshin-optimizer
 
-    - run: |
+    - name: Yarn install
+      run: |
+        yarn --version
         yarn install --immutable
       working-directory: genshin-optimizer
     - name: Build genshin-optimizer
       run: |
         ${{ inputs.env }} yarn run nx run frontend:build --base-href="${{ steps.get-public-url.outputs.url }}" ${{ inputs.build-flags }}
       working-directory: genshin-optimizer
-
-    - name: Random Wait
+    - name: Tar files
       run: |
-        node main/wait.js
+        tar --zstd -cvf build.tar.zst genshin-optimizer/dist/apps/frontend
+    - uses: actions/upload-artifact@v3
+      with:
+        name: build-${{ inputs.remote }}-${{ inputs.ref }}
+        path: build.tar.zst
+
+  deploy:
+    needs: [build, check]
+    concurrency: deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        path: main
+        persist-credentials: false
+    - uses: actions/download-artifact@v3
+      with:
+        name: build-${{ inputs.remote }}-${{ inputs.ref }}
+    - name: Un tar files
+      run: |
+        tar --zstd -xvf build.tar.zstd
     - name: Checkout gh-pages
       uses: actions/checkout@v3
       with:
         ref: gh-pages
         path: gh-pages
-    - name: Deploy 0
+    - name: Deploy
       uses: ./main/.github/actions/deploy
-      id: deploy-0
       env:
         REMOTE_REF: ${{ inputs.remote }}/${{ inputs.ref }}
         GIT_HASH: ${{ needs.check.outputs.hash }}
-        DEPLOY_PATH: ${{ steps.get-path.outputs.path }}
-        COMMIT_MSG: ${{ steps.get-commit-msg.outputs.msg }}
-        ETAG_TXT: ${{ needs.check.outputs.etag_txt }}
-
-    - name: Random Wait
-      if: ${{ failure() && steps.deploy-0.conclusion == 'failure' }}
-      run: |
-        node main/wait.js
-    - name: Checkout gh-pages
-      if: ${{ failure() && steps.deploy-0.conclusion == 'failure' }}
-      uses: actions/checkout@v3
-      with:
-        ref: gh-pages
-        path: gh-pages
-    - name: Deploy 1
-      if: ${{ failure() && steps.deploy-0.conclusion == 'failure' }}
-      uses: ./main/.github/actions/deploy
-      id: deploy-1
-      env:
-        REMOTE_REF: ${{ inputs.remote }}/${{ inputs.ref }}
-        GIT_HASH: ${{ needs.check.outputs.hash }}
-        DEPLOY_PATH: ${{ steps.get-path.outputs.path }}
-        COMMIT_MSG: ${{ steps.get-commit-msg.outputs.msg }}
-        ETAG_TXT: ${{ needs.check.outputs.etag_txt }}
-
-    - name: Random Wait
-      if: ${{ failure() && steps.deploy-1.conclusion == 'failure' }}
-      run: |
-        node main/wait.js
-    - name: Checkout gh-pages
-      if: ${{ failure() && steps.deploy-1.conclusion == 'failure' }}
-      uses: actions/checkout@v3
-      with:
-        ref: gh-pages
-        path: gh-pages
-    - name: Deploy 2
-      uses: ./main/.github/actions/deploy
-      if: ${{ failure() && steps.deploy-1.conclusion == 'failure' }}
-      id: deploy-2
-      env:
-        REMOTE_REF: ${{ inputs.remote }}/${{ inputs.ref }}
-        GIT_HASH: ${{ needs.check.outputs.hash }}
-        DEPLOY_PATH: ${{ steps.get-path.outputs.path }}
-        COMMIT_MSG: ${{ steps.get-commit-msg.outputs.msg }}
+        DEPLOY_PATH: ${{ needs.build.outputs.get-path }}
+        COMMIT_MSG: ${{ needs.build.outputs.get-commit-msg }}
         ETAG_TXT: ${{ needs.check.outputs.etag_txt }}

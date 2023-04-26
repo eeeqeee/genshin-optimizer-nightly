@@ -47,7 +47,7 @@ inputs:
     description: 'Whether to execute `git clean -ffdx && git reset --hard HEAD` before fetching'
     default: true
   fetch-depth:
-    description: 'Number of commits to fetch. Negative indicates all history for all branches and tags.'
+    description: 'Number of commits to fetch. -1 indicates all history for all branches and tags.'
     default: 1
   lfs:
     description: 'Whether to download Git-LFS files'

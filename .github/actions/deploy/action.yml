@@ -8,6 +8,7 @@ runs:
       shell: bash
       run: |
         PREV_HASH=$(tail -n1 "$REMOTE_REF/builds.txt" || true)
+        mkdir --parents "$REMOTE_REF"
         echo "$GIT_HASH" >> "$REMOTE_REF/builds.txt"
         if [[ -n $PREV_HASH ]]; then
           rm "$REMOTE_REF/$PREV_HASH/index.html"
