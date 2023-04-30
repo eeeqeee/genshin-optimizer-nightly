@@ -164,7 +164,7 @@ jobs:
         name: build-${{ inputs.remote }}-${{ inputs.ref }}
     - name: Un tar files
       run: |
-        tar --zstd -xvf build.tar.zstd
+        tar --zstd -xvf build.tar.zst
     - name: Checkout gh-pages
       uses: actions/checkout@v3
       with:
