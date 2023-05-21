@@ -975,23 +975,23 @@
     "name": "Character Card Draw",
     "description": "Receive one random Character Card"
   },
-  "KamisatoAyakaForCB": {
+  "KamisatoAyakaForCB1": {
     "name": "Kamisato Ayaka - for CB1",
     "description": "Get Lv.15 Kamisato Ayaka"
   },
-  "XianglingForCB": {
+  "XianglingForCB1": {
     "name": "Xiangling - for CB1",
     "description": "Get Lv.15 Xiangling"
   },
-  "JeanForCB": {
+  "JeanForCB1": {
     "name": "Jean - for CB1",
     "description": "Get Lv.15 Jean"
   },
-  "DilucForCB": {
+  "DilucForCB1": {
     "name": "Diluc - for CB1",
     "description": "Get Lv.15 Diluc"
   },
-  "VentiForCB": {
+  "VentiForCB1": {
     "name": "Venti - for CB1",
     "description": "Get Lv.15 Venti"
   },
@@ -1031,11 +1031,11 @@
     "name": "Barbara Test Package",
     "description": "Barbara Stardust x16"
   },
-  "BarbaraForCB": {
+  "BarbaraForCB1": {
     "name": "Barbara - for CB1",
     "description": "Get Lv.15 Barbara"
   },
-  "RazorForCB": {
+  "RazorForCB1": {
     "name": "Razor - for CB1",
     "description": "Get Lv.15 Razor"
   },
@@ -1335,9 +1335,13 @@
     "name": "Extreme Escape",
     "description": "Musk's Travel Journal. In the notes regarding Musk Reef is a line that reads: \"Only on a morning sea breeze can one glide here from Lover's Cape...\""
   },
-  "IncompleteScorePart": {
+  "IncompleteScorePart1": {
     "name": "Incomplete Score (Part 1)",
     "description": "The first half of the sheet music for \"Yellow.\" \"S to J\" is written in the bottom right corner."
+  },
+  "IncompleteScorePart2": {
+    "name": "Incomplete Score (Part 2)",
+    "description": "The second half of the sheet music for \"Yellow.\""
   },
   "PrivateLetterFromLisaToJean": {
     "name": "Private Letter from Lisa to Jean",
@@ -1359,9 +1363,17 @@
     "name": "Barbara's Treatment",
     "description": "Lisa has asked you to give this to Barbara."
   },
-  "IncompletePoemPart": {
+  "IncompletePoemPart1": {
     "name": "Incomplete Poem (Part 1)",
     "description": "The poem Venti asked you to look for, though only the first part of it."
+  },
+  "IncompletePoemPart2": {
+    "name": "Incomplete Poem (Part 2)",
+    "description": "The poem Venti asked you to look for, though it would seem there is more."
+  },
+  "IncompletePoemPart3": {
+    "name": "Incomplete Poem (Part 3)",
+    "description": "The poem Venti asked you to look for, piece the three pages together to reveal a love verselet."
   },
   "InscriptionRubbing": {
     "name": "Inscription Rubbing",
@@ -1415,12 +1427,52 @@
     "name": "Crimson Crystal",
     "description": "A teardrop crystal in which gloomy red gleams flow. Seems to have been left by the dragon. Perhaps the person that was talking with the dragon knows more about it, but where did he go?"
   },
-  "SealClue": {
+  "SealClue101": {
     "name": "Seal Clue 101",
     "description": "Seal Clue"
   },
-  "BreakSeal": {
+  "SealClue102": {
+    "name": "Seal Clue 102",
+    "description": "Seal Clue"
+  },
+  "SealClue103": {
+    "name": "Seal Clue 103",
+    "description": "Seal Clue"
+  },
+  "SealClue201": {
+    "name": "Seal Clue 201",
+    "description": "Seal Clue"
+  },
+  "SealClue202": {
+    "name": "Seal Clue 202",
+    "description": "Seal Clue"
+  },
+  "SealClue203": {
+    "name": "Seal Clue 203",
+    "description": "Seal Clue"
+  },
+  "SealClue301": {
+    "name": "Seal Clue 301",
+    "description": "Seal Clue"
+  },
+  "SealClue302": {
+    "name": "Seal Clue 302",
+    "description": "Seal Clue"
+  },
+  "SealClue303": {
+    "name": "Seal Clue 303",
+    "description": "Seal Clue"
+  },
+  "BreakSeal1": {
     "name": "Break Seal 1",
+    "description": "Break Seal"
+  },
+  "BreakSeal2": {
+    "name": "Break Seal 2",
+    "description": "Break Seal"
+  },
+  "BreakSeal3": {
+    "name": "Break Seal 3",
     "description": "Break Seal"
   },
   "InvestigateTheSealOfStormterrorsLair": {
@@ -1435,8 +1487,16 @@
     "name": "Fragmented Memory (Wind)",
     "description": "Bring it close to your ear and it seems you can hear faint whispers, but can't make out what's being said. (Not available)"
   },
-  "SwordCemeterySeal": {
+  "SwordCemeterySeal1": {
     "name": "Sword Cemetery Seal 1",
+    "description": "Break Seal"
+  },
+  "SwordCemeterySeal2": {
+    "name": "Sword Cemetery Seal 2",
+    "description": "Break Seal"
+  },
+  "SwordCemeterySeal3": {
+    "name": "Sword Cemetery Seal 3",
     "description": "Break Seal"
   },
   "TeardropCrystal": {
@@ -1655,7 +1715,7 @@
     "name": "The Pale Princess and the Six Pygmies (VII)",
     "description": "A fairytale story that has been told throughout Teyvat for ages. The final installment brings everything to a conclusion, and includes the Night Mother's prophecy."
   },
-  "YearsOfLoneliness": {
+  "1000YearsOfLoneliness": {
     "name": "1000 Years of Loneliness",
     "description": "The beginning of the Springvale Hunter's tragic fantasy journey. Where did misfortune first befall him? What marks the start and finish of the 1000-year journey of loneliness? Let this first volume of 1000 Years of Loneliness be your guide through the fantastical fog that is the life of Gothson."
   },
@@ -1867,8 +1927,72 @@
     "name": "Plain Liquor",
     "description": "A common alcoholic drink available anywhere."
   },
-  "TESTCocktail": {
+  "TESTCocktail16": {
     "name": "(TEST) Cocktail 16",
+    "description": "(TEST) The latest creation of the new bartender in Mondstadt"
+  },
+  "TESTCocktail17": {
+    "name": "(TEST) Cocktail 17",
+    "description": "(TEST) The latest creation of the new bartender in Mondstadt"
+  },
+  "TESTCocktail18": {
+    "name": "(TEST) Cocktail 18",
+    "description": "(TEST) The latest creation of the new bartender in Mondstadt"
+  },
+  "TESTCocktail19": {
+    "name": "(TEST) Cocktail 19",
+    "description": "(TEST) The latest creation of the new bartender in Mondstadt"
+  },
+  "TESTCocktail20": {
+    "name": "(TEST) Cocktail 20",
+    "description": "(TEST) The latest creation of the new bartender in Mondstadt"
+  },
+  "TESTCocktail21": {
+    "name": "(TEST) Cocktail 21",
+    "description": "(TEST) The latest creation of the new bartender in Mondstadt"
+  },
+  "TESTCocktail22": {
+    "name": "(TEST) Cocktail 22",
+    "description": "(TEST) The latest creation of the new bartender in Mondstadt"
+  },
+  "TESTCocktail23": {
+    "name": "(TEST) Cocktail 23",
+    "description": "(TEST) The latest creation of the new bartender in Mondstadt"
+  },
+  "TESTCocktail24": {
+    "name": "(TEST) Cocktail 24",
+    "description": "(TEST) The latest creation of the new bartender in Mondstadt"
+  },
+  "TESTCocktail25": {
+    "name": "(TEST) Cocktail 25",
+    "description": "(TEST) The latest creation of the new bartender in Mondstadt"
+  },
+  "TESTCocktail26": {
+    "name": "(TEST) Cocktail 26",
+    "description": "(TEST) The latest creation of the new bartender in Mondstadt"
+  },
+  "TESTCocktail27": {
+    "name": "(TEST) Cocktail 27",
+    "description": "(TEST) The latest creation of the new bartender in Mondstadt"
+  },
+  "TESTCocktail28": {
+    "name": "(TEST) Cocktail 28",
+    "description": "(TEST) The latest creation of the new bartender in Mondstadt"
+  },
+  "TESTCocktail29": {
+    "name": "(TEST) Cocktail 29",
+    "description": "(TEST) The latest creation of the new bartender in Mondstadt"
+  },
+  "TESTCocktail30": {
+    "name": "(TEST) Cocktail 30",
+    "description": "(TEST) The latest creation of the new bartender in Mondstadt"
+  },
+  "TESTCocktail31": {
+    "name": "(TEST) Cocktail 31",
+    "description": "(TEST) The latest creation of the new bartender in Mondstadt"
+  },
+  "TESTCocktail32": {
+    "name": "(TEST) Cocktail 32",
     "description": "(TEST) The latest creation of the new bartender in Mondstadt"
   },
   "GodwinsLetter": {
@@ -2527,7 +2651,7 @@
     "name": "Ragged Notebook",
     "description": "Anonymously authored notes. They describe a place seemingly not far from here."
   },
-  "KnightsOfFavoniusHandbookThEdition": {
+  "KnightsOfFavoniusHandbook5thEdition": {
     "name": "Knights of Favonius Handbook - 5th Edition",
     "description": "A code of conduct covering language usage and behavioral norms for Mondstadt's Knights of Favonius, personally edited by Acting Grand Master Jean. All knights are expected to strictly abide by these rules and regulate their words and deeds accordingly."
   },
@@ -4303,7 +4427,7 @@
     "name": "Princess Mina of the Fallen Nation (VI)",
     "description": "The truth of the world is revealed — and what a terrible joke it is! Even when separated, the two cannot escape the chains of fate.\\nThis may be the final volume of \"Princess Mina of the Fallen Nation,\" but our story isn't over yet!"
   },
-  "FlowersForPrincessFischl": {
+  "FlowersForPrincessFischl0": {
     "name": "Flowers for Princess Fischl (0)",
     "description": "The preliminary volume of the \"Flowers for Princess Fischl\" series.\\nThis work originally came in a violet and black wooden box as a limited edition gift, but many hardcore fans of the series who wanted to collect the whole saga were enraged by the great amount of content versus the small number of copies printed.\\nDue to this, Yae Publishing House would name this book \"Volume 0\" and sell it separately. Eventually, the original work, the boxed collector's edition, and Volume 0 would all come to be regarded as standard by fans."
   },
@@ -4483,9 +4607,13 @@
     "name": "Treasure Hoarders' Treasure Map",
     "description": "This treasure map, once torn in two and kept in different hiding spots by the Treasure Hoarders, is now whole again.\\nIf you follow the symbol on it, you might discover some special treasure!"
   },
-  "StorehouseSecurityKeyNo": {
+  "StorehouseSecurityKeyNo1": {
     "name": "Storehouse Security Key No. 1",
     "description": "A key to a certain storehouse that was hidden in a very obvious place, yet was never found by the Treasure Hoarders. Guess they're not as good at their job as they think, huh?"
+  },
+  "StorehouseSecurityKeyNo2": {
+    "name": "Storehouse Security Key No. 2",
+    "description": "A key to a certain storehouse that was hidden in an incredibly obvious place, yet was never found by the Treasure Hoarders. They should probably go back to Hoarder school."
   },
   "ASetOfCannonballs": {
     "name": "A Set of Cannonballs",
@@ -4951,9 +5079,21 @@
     "name": "Let's Go, Dodoco!",
     "description": "Message From the Editor: \"Let's Go, Dodoco!\" is the combined work of an older girl and a younger girl. Every chapter brims with their gentleness and good wishes, as the story is intended as a gift to our readers. I hope this book — in spite of its small volume — can bring you some simple joy after a long day of work."
   },
-  "AkosTreasureLocation": {
+  "AkosTreasureLocation1": {
     "name": "Ako's Treasure: Location 1",
     "description": "Before Ako Domeki and company left, they had hidden a treasure here and agreed to unearth it when they met in the archipelago again. The secret of where the treasure is was split into four parts, and this is the first part."
+  },
+  "AkosTreasureLocation2": {
+    "name": "Ako's Treasure: Location 2",
+    "description": "Before Ako Domeki and company left, they had hidden a treasure here and agreed to unearth it when they met in the archipelago again. The secret of where the treasure is was split into four parts, and this is the second part."
+  },
+  "AkosTreasureLocation3": {
+    "name": "Ako's Treasure: Location 3",
+    "description": "Before Ako Domeki and company left, they had hidden a treasure here and agreed to unearth it when they met in the archipelago again. The secret of where the treasure is was split into four parts, and this is the third part."
+  },
+  "AkosTreasureLocation4": {
+    "name": "Ako's Treasure: Location 4",
+    "description": "Before Ako Domeki and company left, they had hidden a treasure here and agreed to unearth it when they met in the archipelago again. The secret of where the treasure is was split into four parts, and this is the fourth part."
   },
   "YajnaGrass": {
     "name": "Yajna Grass",
@@ -5195,9 +5335,85 @@
     "name": "A Note",
     "description": "A wrinkled note with horrendously slanted handwriting."
   },
-  "RedemptionVoucher": {
+  "RedemptionVoucher1": {
     "name": "Redemption Voucher 1",
     "description": "Used to redeem Mirrorpool Horned Owl: Turning"
+  },
+  "RedemptionVoucher2": {
+    "name": "Redemption Voucher 2",
+    "description": "Used to redeem Mirrorpool Horned Owl: Dancing"
+  },
+  "RedemptionVoucher3": {
+    "name": "Redemption Voucher 3",
+    "description": "Used to redeem Mirrorpool Horned Owl: Air Time"
+  },
+  "RedemptionVoucher4": {
+    "name": "Redemption Voucher 4",
+    "description": "Used to redeem Thundering Horned Owl: Turning"
+  },
+  "RedemptionVoucher5": {
+    "name": "Redemption Voucher 5",
+    "description": "Used to redeem Thundering Horned Owl: Dancing"
+  },
+  "RedemptionVoucher6": {
+    "name": "Redemption Voucher 6",
+    "description": "Used to redeem Thundering Horned Owl: Air Time"
+  },
+  "RedemptionVoucher7": {
+    "name": "Redemption Voucher 7",
+    "description": "Used to redeem Flowfire Horned Owl: Turning"
+  },
+  "RedemptionVoucher8": {
+    "name": "Redemption Voucher 8",
+    "description": "Used to redeem Flowfire Horned Owl: Dancing"
+  },
+  "RedemptionVoucher9": {
+    "name": "Redemption Voucher 9",
+    "description": "Used to redeem Flowfire Horned Owl: Air Time"
+  },
+  "RedemptionVoucher10": {
+    "name": "Redemption Voucher 10",
+    "description": "Used to redeem Traveling Horned Owl"
+  },
+  "RedemptionVoucher11": {
+    "name": "Redemption Voucher 11",
+    "description": "Used to redeem Mirrorpool Triped: Tipping"
+  },
+  "RedemptionVoucher12": {
+    "name": "Redemption Voucher 12",
+    "description": "Used to redeem Mirrorpool Triped: Jiggy"
+  },
+  "RedemptionVoucher13": {
+    "name": "Redemption Voucher 13",
+    "description": "Used to redeem Mirrorpool Triped: Sitting"
+  },
+  "RedemptionVoucher14": {
+    "name": "Redemption Voucher 14",
+    "description": "Used to redeem Thundering Triped: Tipping"
+  },
+  "RedemptionVoucher15": {
+    "name": "Redemption Voucher 15",
+    "description": "Used to redeem Thundering Triped: Jiggy"
+  },
+  "RedemptionVoucher16": {
+    "name": "Redemption Voucher 16",
+    "description": "Used to redeem Thundering Triped: Sitting"
+  },
+  "RedemptionVoucher17": {
+    "name": "Redemption Voucher 17",
+    "description": "Used to redeem Flowfire Triped: Tipping"
+  },
+  "RedemptionVoucher18": {
+    "name": "Redemption Voucher 18",
+    "description": "Used to redeem Flowfire Triped: Jiggy"
+  },
+  "RedemptionVoucher19": {
+    "name": "Redemption Voucher 19",
+    "description": "Used to redeem Flowfire Triped: Sitting"
+  },
+  "RedemptionVoucher20": {
+    "name": "Redemption Voucher 20",
+    "description": "Used to redeem Traveling Triped"
   },
   "PartBreeze": {
     "name": "Part: Breeze",
@@ -5363,8 +5579,16 @@
     "name": "Informant Code Chart",
     "description": "A code chart given to you by Alhaitham. Seems like whoever seeks to purchase \"special commodities\" from Dori has to provide the right code first.\\nCheck this code chart before visiting Dori's contact, just in case."
   },
-  "MisplacedConch": {
+  "MisplacedConch1": {
     "name": "Misplaced Conch 1",
+    "description": "This Imaging Conch should have been placed somewhere else but was abandoned here by someone, causing it to project images out of their proper order. Return it to its rightful place, and who knows what you might find..."
+  },
+  "MisplacedConch2": {
+    "name": "Misplaced Conch 2",
+    "description": "This Imaging Conch should have been placed somewhere else but was abandoned here by someone, causing it to project images out of their proper order. Return it to its rightful place, and who knows what you might find..."
+  },
+  "MisplacedConch3": {
+    "name": "Misplaced Conch 3",
     "description": "This Imaging Conch should have been placed somewhere else but was abandoned here by someone, causing it to project images out of their proper order. Return it to its rightful place, and who knows what you might find..."
   },
   "PrescriptionMedicationFromBimarstanForGurgen": {
@@ -6631,7 +6855,7 @@
     "name": "Survival Grilled Fish",
     "description": "Keqing's specialty. This dish was not grilled. Instead, it was fried from within through the delicate application of Electro. A gentle bite reveals fragrant fish under the lightly charred skin, its taste perfectly balanced. So, is this how she survives in the wild? You really can't judge a book by its cover."
   },
-  "NutritiousMealV": {
+  "NutritiousMealV593": {
     "name": "Nutritious Meal (V.593)",
     "description": "Sucrose's specialty. It looks like some strange alchemical product at first, but Sucrose insists that it is a healthy and nutritious meal, the result of many experiments and painstaking improvements. Its healthy green color comes from a mix of cream and natural vegetable juices... Wait, vegetable juices?"
   },
@@ -7259,7 +7483,7 @@
     "name": "Summer Festival Fish",
     "description": "Yoimiya's specialty. Watching the fireworks, your hands full of the snacks Yoimiya's given you, her carefree, child-like laughter in your ear as the pyrotechnics burst overhead... Amid this unique symphony of sounds, the plump goldfish in your hand almost looks like it might start swimming at any moment..."
   },
-  "DizzinessBeGoneNoJutsuVersion": {
+  "DizzinessBeGoneNoJutsuVersion20": {
     "name": "Dizziness-Be-Gone no Jutsu Version 2.0",
     "description": "Sayu's specialty. The Onigiri has been kneaded by Sayu into a cutesy shape — but remember, it's a mujina, not a tanuki, got it? And now that you mention it, this must be how Sayu can sleep for a whole day after eating, right?"
   },
@@ -9635,7 +9859,7 @@
     "name": "BP Bounty",
     "description": "\"When you journey through lands steeped in darkness, you need such weapons of blazing light. They lie within this vessel, awaiting the hour when they must cut through the encroaching shadows.\""
   },
-  "BPPickOfTestBundle": {
+  "BPPick1Of3TestBundle": {
     "name": "BP Pick 1 of 3 Test Bundle",
     "description": ""
   },
@@ -10999,9 +11223,397 @@
     "name": "Wings of the Starlit Feast",
     "description": "A stylized wind glider and a gift that celebrates a festival witnessed in a distant world."
   },
-  "RadiantSpincrystal": {
+  "RadiantSpincrystal1": {
     "name": "Radiant Spincrystal 1",
     "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is the \"Dawn Winery Theme.\""
+  },
+  "RadiantSpincrystal2": {
+    "name": "Radiant Spincrystal 2",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"A Sweet Smile.\""
+  },
+  "RadiantSpincrystal3": {
+    "name": "Radiant Spincrystal 3",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Lone Sojourner.\""
+  },
+  "RadiantSpincrystal4": {
+    "name": "Radiant Spincrystal 4",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"A Day in Mondstadt.\""
+  },
+  "RadiantSpincrystal5": {
+    "name": "Radiant Spincrystal 5",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"The Edge of the Prairie.\""
+  },
+  "RadiantSpincrystal6": {
+    "name": "Radiant Spincrystal 6",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"A Tale of Two Dragons.\""
+  },
+  "RadiantSpincrystal7": {
+    "name": "Radiant Spincrystal 7",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Happy Journey.\""
+  },
+  "RadiantSpincrystal8": {
+    "name": "Radiant Spincrystal 8",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Legend of the Wind.\""
+  },
+  "RadiantSpincrystal9": {
+    "name": "Radiant Spincrystal 9",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Bustling Afternoon in Mondstadt.\""
+  },
+  "RadiantSpincrystal10": {
+    "name": "Radiant Spincrystal 10",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Dusk in Mondstadt.\""
+  },
+  "RadiantSpincrystal11": {
+    "name": "Radiant Spincrystal 11",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Mondstadt Starlit.\""
+  },
+  "RadiantSpincrystal12": {
+    "name": "Radiant Spincrystal 12",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Moonlight in Mondstadt.\""
+  },
+  "RadiantSpincrystal13": {
+    "name": "Radiant Spincrystal 13",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Another Day in Mondstadt.\""
+  },
+  "RadiantSpincrystal14": {
+    "name": "Radiant Spincrystal 14",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Windborne Hymn.\""
+  },
+  "RadiantSpincrystal15": {
+    "name": "Radiant Spincrystal 15",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Knights of Favonius.\""
+  },
+  "RadiantSpincrystal16": {
+    "name": "Radiant Spincrystal 16",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Angel's Share.\""
+  },
+  "RadiantSpincrystal17": {
+    "name": "Radiant Spincrystal 17",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"A Happy Day.\""
+  },
+  "RadiantSpincrystal18": {
+    "name": "Radiant Spincrystal 18",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Tender Strength.\""
+  },
+  "RadiantSpincrystal19": {
+    "name": "Radiant Spincrystal 19",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Before Dawn, at the Winery.\""
+  },
+  "RadiantSpincrystal20": {
+    "name": "Radiant Spincrystal 20",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Whispering Plain.\""
+  },
+  "RadiantSpincrystal21": {
+    "name": "Radiant Spincrystal 21",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"A New Day With Hope.\""
+  },
+  "RadiantSpincrystal22": {
+    "name": "Radiant Spincrystal 22",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Eternal Anamnesis.\""
+  },
+  "RadiantSpincrystal23": {
+    "name": "Radiant Spincrystal 23",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Journey of Hope.\""
+  },
+  "RadiantSpincrystal24": {
+    "name": "Radiant Spincrystal 24",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Sun Rises in Liyue.\""
+  },
+  "RadiantSpincrystal25": {
+    "name": "Radiant Spincrystal 25",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Good Night, Liyue.\""
+  },
+  "RadiantSpincrystal26": {
+    "name": "Radiant Spincrystal 26",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Call It a Day in Liyue.\""
+  },
+  "RadiantSpincrystal27": {
+    "name": "Radiant Spincrystal 27",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Clear Sky Over Liyue.\""
+  },
+  "RadiantSpincrystal28": {
+    "name": "Radiant Spincrystal 28",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Cozy Leisure Time.\""
+  },
+  "RadiantSpincrystal29": {
+    "name": "Radiant Spincrystal 29",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Winding River.\""
+  },
+  "RadiantSpincrystal30": {
+    "name": "Radiant Spincrystal 30",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Mild Waves.\""
+  },
+  "RadiantSpincrystal31": {
+    "name": "Radiant Spincrystal 31",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Rhythm Amidst the Reeds.\""
+  },
+  "RadiantSpincrystal32": {
+    "name": "Radiant Spincrystal 32",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Flows of Jade-Like Water.\""
+  },
+  "RadiantSpincrystal33": {
+    "name": "Radiant Spincrystal 33",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Flow of Mildness.\""
+  },
+  "RadiantSpincrystal34": {
+    "name": "Radiant Spincrystal 34",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Vague Whispers.\""
+  },
+  "RadiantSpincrystal35": {
+    "name": "Radiant Spincrystal 35",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Legends Swept Away.\""
+  },
+  "RadiantSpincrystal36": {
+    "name": "Radiant Spincrystal 36",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Plain of Nostalgia.\""
+  },
+  "RadiantSpincrystal37": {
+    "name": "Radiant Spincrystal 37",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Rhythms From the Conch.\""
+  },
+  "RadiantSpincrystal38": {
+    "name": "Radiant Spincrystal 38",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Peaceful Hike.\""
+  },
+  "RadiantSpincrystal39": {
+    "name": "Radiant Spincrystal 39",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is the \"The Fading Stories.\""
+  },
+  "RadiantSpincrystal40": {
+    "name": "Radiant Spincrystal 40",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Above the Sea of Clouds.\""
+  },
+  "RadiantSpincrystal41": {
+    "name": "Radiant Spincrystal 41",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Rainbow at Summit.\""
+  },
+  "RadiantSpincrystal42": {
+    "name": "Radiant Spincrystal 42",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Red Leaf on the Chessboard.\""
+  },
+  "RadiantSpincrystal43": {
+    "name": "Radiant Spincrystal 43",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Slumbering Lore.\""
+  },
+  "RadiantSpincrystal44": {
+    "name": "Radiant Spincrystal 44",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Lost Expectation.\""
+  },
+  "RadiantSpincrystal45": {
+    "name": "Radiant Spincrystal 45",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"The Realm Within.\""
+  },
+  "RadiantSpincrystal46": {
+    "name": "Radiant Spincrystal 46",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Sojourner's Sweet Dream.\""
+  },
+  "RadiantSpincrystal47": {
+    "name": "Radiant Spincrystal 47",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Miko's Night.\""
+  },
+  "RadiantSpincrystal48": {
+    "name": "Radiant Spincrystal 48",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Streets of Elegance.\""
+  },
+  "RadiantSpincrystal49": {
+    "name": "Radiant Spincrystal 49",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"The Land of Her Serenity.\""
+  },
+  "RadiantSpincrystal50": {
+    "name": "Radiant Spincrystal 50",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"The Mysterious Islands.\""
+  },
+  "RadiantSpincrystal51": {
+    "name": "Radiant Spincrystal 51",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Everlasting Devotion.\""
+  },
+  "RadiantSpincrystal52": {
+    "name": "Radiant Spincrystal 52",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Kitsune's Mask.\""
+  },
+  "RadiantSpincrystal53": {
+    "name": "Radiant Spincrystal 53",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Hanachirusato.\""
+  },
+  "RadiantSpincrystal54": {
+    "name": "Radiant Spincrystal 54",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Time to Say Farewell.\""
+  },
+  "RadiantSpincrystal55": {
+    "name": "Radiant Spincrystal 55",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Flickering Sakura.\""
+  },
+  "RadiantSpincrystal56": {
+    "name": "Radiant Spincrystal 56",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Murmuring Creek.\""
+  },
+  "RadiantSpincrystal57": {
+    "name": "Radiant Spincrystal 57",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Scarred Island.\""
+  },
+  "RadiantSpincrystal58": {
+    "name": "Radiant Spincrystal 58",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Silent Testimony.\""
+  },
+  "RadiantSpincrystal59": {
+    "name": "Radiant Spincrystal 59",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Island of Hanabi.\""
+  },
+  "RadiantSpincrystal60": {
+    "name": "Radiant Spincrystal 60",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Preparation of Matsuri.\""
+  },
+  "RadiantSpincrystal61": {
+    "name": "Radiant Spincrystal 61",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Illuminated Coral Palace.\""
+  },
+  "RadiantSpincrystal62": {
+    "name": "Radiant Spincrystal 62",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"A Tranquil Town.\""
+  },
+  "RadiantSpincrystal63": {
+    "name": "Radiant Spincrystal 63",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"In a Harmonious Atmosphere.\""
+  },
+  "RadiantSpincrystal64": {
+    "name": "Radiant Spincrystal 64",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Island of Crystal and Pearl.\""
+  },
+  "RadiantSpincrystal65": {
+    "name": "Radiant Spincrystal 65",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Misty Truth.\""
+  },
+  "RadiantSpincrystal66": {
+    "name": "Radiant Spincrystal 66",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Sorrows of Strays.\""
+  },
+  "RadiantSpincrystal67": {
+    "name": "Radiant Spincrystal 67",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Ruu's Melody.\""
+  },
+  "RadiantSpincrystal68": {
+    "name": "Radiant Spincrystal 68",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Roaming in Silence.\""
+  },
+  "RadiantSpincrystal69": {
+    "name": "Radiant Spincrystal 69",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Echoes of Solitude.\""
+  },
+  "RadiantSpincrystal70": {
+    "name": "Radiant Spincrystal 70",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Dirge of the Soundless.\""
+  },
+  "RadiantSpincrystal71": {
+    "name": "Radiant Spincrystal 71",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Nothing but Ivy.\""
+  },
+  "RadiantSpincrystal72": {
+    "name": "Radiant Spincrystal 72",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Forgotten Epic.\""
+  },
+  "RadiantSpincrystal73": {
+    "name": "Radiant Spincrystal 73",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Beyond Klesha.\""
+  },
+  "RadiantSpincrystal74": {
+    "name": "Radiant Spincrystal 74",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Melody of Hidden Seeds.\""
+  },
+  "RadiantSpincrystal75": {
+    "name": "Radiant Spincrystal 75",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Varuna's Mercy.\""
+  },
+  "RadiantSpincrystal76": {
+    "name": "Radiant Spincrystal 76",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Vestige of Dahri.\""
+  },
+  "RadiantSpincrystal77": {
+    "name": "Radiant Spincrystal 77",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Chatter Between Roots.\""
+  },
+  "RadiantSpincrystal78": {
+    "name": "Radiant Spincrystal 78",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Whirling of Leaves and Petals.\""
+  },
+  "RadiantSpincrystal79": {
+    "name": "Radiant Spincrystal 79",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Hustle and Bustle of Ormos.\""
+  },
+  "RadiantSpincrystal80": {
+    "name": "Radiant Spincrystal 80",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Halcyon Times.\""
+  },
+  "RadiantSpincrystal81": {
+    "name": "Radiant Spincrystal 81",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"A Puff of Cool Breeze.\""
+  },
+  "RadiantSpincrystal82": {
+    "name": "Radiant Spincrystal 82",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"On the Barren Sands.\""
+  },
+  "RadiantSpincrystal83": {
+    "name": "Radiant Spincrystal 83",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Arid Canyon.\""
+  },
+  "RadiantSpincrystal84": {
+    "name": "Radiant Spincrystal 84",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Settlement for Exiles.\""
+  },
+  "RadiantSpincrystal85": {
+    "name": "Radiant Spincrystal 85",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Ruins of Scorching Might.\""
+  },
+  "RadiantSpincrystal86": {
+    "name": "Radiant Spincrystal 86",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Eye of Deshret.\""
+  },
+  "RadiantSpincrystal87": {
+    "name": "Radiant Spincrystal 87",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Emerald in the Desert.\""
+  },
+  "RadiantSpincrystal88": {
+    "name": "Radiant Spincrystal 88",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+  },
+  "RadiantSpincrystal89": {
+    "name": "Radiant Spincrystal 89",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+  },
+  "RadiantSpincrystal90": {
+    "name": "Radiant Spincrystal 90",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+  },
+  "RadiantSpincrystal91": {
+    "name": "Radiant Spincrystal 91",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+  },
+  "RadiantSpincrystal92": {
+    "name": "Radiant Spincrystal 92",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+  },
+  "RadiantSpincrystal93": {
+    "name": "Radiant Spincrystal 93",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+  },
+  "RadiantSpincrystal94": {
+    "name": "Radiant Spincrystal 94",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+  },
+  "RadiantSpincrystal95": {
+    "name": "Radiant Spincrystal 95",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+  },
+  "RadiantSpincrystal96": {
+    "name": "Radiant Spincrystal 96",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+  },
+  "RadiantSpincrystal97": {
+    "name": "Radiant Spincrystal 97",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+  },
+  "RadiantSpincrystal98": {
+    "name": "Radiant Spincrystal 98",
+    "description": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
   },
   "FragrantSteak": {
     "name": "Fragrant Steak",
@@ -11987,7 +12599,7 @@
     "name": "Condensed Resin",
     "description": "You can hold no more than 5 at a time.\\nCondensed tree resin that can be used instead of Original Resin to revitalize Petrified Trees and Ley Line Blossoms to receive greater rewards.\\nCrystal filled with immense energy.\\nThe silver-white Irminsul trees and blossoms are connected to ley lines that have become blocked over time. The energy contained in tree resin can purify the obstructing substance."
   },
-  "NREMenu": {
+  "NREMenu30": {
     "name": "NRE (Menu 30)",
     "description": "A handy meal-in-a-pouch that can transform most foods into instantly absorbable nutritional matter. Despite the fact that it can greatly increase the efficiency of nutritional intake, most knights aren't too keen to put their food in it..."
   },
@@ -12255,7 +12867,7 @@
     "name": "Instructions: Condensed Resin",
     "description": "Detailed step-by-step instructions for making Condensed Resin. Using resin in this condensed form to activate certain Ley Line Blossoms and Petrified Trees will increase your efficiency. You can hold no more than 5 Condensed Resin at a time."
   },
-  "DiagramNREMenu": {
+  "DiagramNREMenu30": {
     "name": "Diagram: NRE (Menu 30)",
     "description": "A detailed step-by-step diagram for making a Nutrition, Ready-to-Eat (NRE) meal-in-a-pouch. Learn it and you can create a tool that makes ingesting food much quicker."
   },
@@ -13023,7 +13635,7 @@
     "name": "Gunnhildr's Legacy",
     "description": "Jean's outfit. This classic knight's ceremonial outfit is suited to all manner of occasions."
   },
-  "Outrider": {
+  "100Outrider": {
     "name": "100% Outrider",
     "description": "Amber's outfit. This is a more formal — but no less cool — version of the Outrider's uniform!"
   },

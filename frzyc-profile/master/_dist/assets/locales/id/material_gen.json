@@ -975,23 +975,23 @@
     "name": "",
     "description": ""
   },
-  "KamisatoAyakaForCB": {
+  "KamisatoAyakaForCB1": {
     "name": "Kamisato Ayaka",
     "description": "Mendapatkan Kamisato Ayaka Lv. 15. (Item berlebih dapat dikonversi menjadi 4 Starglitter yang dapat digunakan untuk Talent karakter)"
   },
-  "XianglingForCB": {
+  "XianglingForCB1": {
     "name": "Xiangling",
     "description": "Mendapatkan Xiangling Lv. 15. (Item berlebih dapat dikonversi menjadi 4 Starglitter yang dapat digunakan untuk Talent karakter)"
   },
-  "JeanForCB": {
+  "JeanForCB1": {
     "name": "Jean",
     "description": "Mendapatkan Jean Lv. 15. (Item berlebih dapat dikonversi menjadi 4 Starglitter yang dapat digunakan untuk Talent karakter)"
   },
-  "DilucForCB": {
+  "DilucForCB1": {
     "name": "Diluc",
     "description": "Mendapatkan Diluc Lv. 15. (Item berlebih dapat dikonversi menjadi 4 Starglitter yang dapat digunakan untuk Talent karakter)"
   },
-  "VentiForCB": {
+  "VentiForCB1": {
     "name": "Venti",
     "description": "Mendapatkan Venti Lv. 15. (Item berlebih dapat dikonversi menjadi 4 Starglitter yang dapat digunakan untuk Talent karakter)"
   },
@@ -1031,11 +1031,11 @@
     "name": "",
     "description": ""
   },
-  "BarbaraForCB": {
+  "BarbaraForCB1": {
     "name": "Barbara",
     "description": "Mendapatkan Barbara Lv. 15. (Item berlebih dapat dikonversi menjadi 4 Starglitter yang dapat digunakan untuk Talent karakter)"
   },
-  "RazorForCB": {
+  "RazorForCB1": {
     "name": "Razor",
     "description": "Mendapatkan Razor Lv. 15. (Item berlebih dapat dikonversi menjadi 4 Starglitter yang dapat digunakan untuk Talent karakter)"
   },
@@ -1335,9 +1335,13 @@
     "name": "Penyelamatan Diri yang Esktrem",
     "description": "Catatan perjalanan Musk, di bagian catatan mengenai Musk Reef, terdapat sebuah kalimat yang bertuliskan: \"Hanya dengan mengikuti angin dini hari yang menatap lautan, tempat ini dapat dicapai dari Lover's Cape...\""
   },
-  "IncompleteScorePart": {
+  "IncompleteScorePart1": {
     "name": "Partitur yang Tidak Lengkap (Bagian Awal)",
     "description": "Lembaran musik bagian awal untuk lagu berjudul \"Yellow\". Terdapat inisial \"S to J\" di pojok kanan bawah."
+  },
+  "IncompleteScorePart2": {
+    "name": "Partitur yang Tidak Lengkap (Bagian Akhir)",
+    "description": "Bagian akhir dari lembaran musik lagu \"Yellow\"."
   },
   "PrivateLetterFromLisaToJean": {
     "name": "Surat Pribadi dari Lisa untuk Jean",
@@ -1359,9 +1363,17 @@
     "name": "Obat Barbara",
     "description": "Lisa memintamu untuk memberikan ini pada Barbara"
   },
-  "IncompletePoemPart": {
+  "IncompletePoemPart1": {
     "name": "Robekan Puisi (Awal)",
     "description": "Puisi yang dicari Venti, walau ini hanyalah bagian pertamanya saja."
+  },
+  "IncompletePoemPart2": {
+    "name": "Robekan Puisi (Tengah)",
+    "description": "Puisi yang dicari Venti, sepertinya masih ada bagian lainnya."
+  },
+  "IncompletePoemPart3": {
+    "name": "Robekan Puisi (Akhir)",
+    "description": "Puisi yang dicari Venti, gabungkan ketiga halamannya agar menjadi sebuah puisi cinta."
   },
   "InscriptionRubbing": {
     "name": "Arsiran Teks Kuno",
@@ -1415,12 +1427,52 @@
     "name": "Kristal Merah",
     "description": "Kristal berbentuk tetesan air yang memancarkan cahaya merah tua. Sepertinya dijatuhkan oleh naga itu, mungkin orang yang berbicara dengan naga tadi mengetahui sesuatu. Tapi, ke mana dia pergi?"
   },
-  "SealClue": {
+  "SealClue101": {
     "name": "Petunjuk Segel 101",
     "description": "Petunjuk Segel"
   },
-  "BreakSeal": {
+  "SealClue102": {
+    "name": "Petunjuk Segel 102",
+    "description": "Petunjuk Segel"
+  },
+  "SealClue103": {
+    "name": "Petunjuk Segel 103",
+    "description": "Petunjuk Segel"
+  },
+  "SealClue201": {
+    "name": "Petunjuk Segel 201",
+    "description": "Petunjuk Segel"
+  },
+  "SealClue202": {
+    "name": "Petunjuk Segel 202",
+    "description": "Petunjuk Segel"
+  },
+  "SealClue203": {
+    "name": "Petunjuk Segel 203",
+    "description": "Petunjuk Segel"
+  },
+  "SealClue301": {
+    "name": "Petunjuk Segel 301",
+    "description": "Petunjuk Segel"
+  },
+  "SealClue302": {
+    "name": "Petunjuk Segel 302",
+    "description": "Petunjuk Segel"
+  },
+  "SealClue303": {
+    "name": "Petunjuk Segel 303",
+    "description": "Petunjuk Segel"
+  },
+  "BreakSeal1": {
     "name": "Buka Segel 1",
+    "description": "Buka Segel"
+  },
+  "BreakSeal2": {
+    "name": "Buka Segel 2",
+    "description": "Buka Segel"
+  },
+  "BreakSeal3": {
+    "name": "Buka Segel 3",
     "description": "Buka Segel"
   },
   "InvestigateTheSealOfStormterrorsLair": {
@@ -1435,8 +1487,16 @@
     "name": "Serpihan Memori (Anemo)",
     "description": "Saat didekatkan ke telinga, terdengar suara sayup-sayup, tetapi tidak dapat terdengar jelas. (Sementara tidak terbuka)"
   },
-  "SwordCemeterySeal": {
+  "SwordCemeterySeal1": {
     "name": "Segel Sword Cemetery 1",
+    "description": "Buka Segel"
+  },
+  "SwordCemeterySeal2": {
+    "name": "Segel Sword Cemetery 2",
+    "description": "Buka Segel"
+  },
+  "SwordCemeterySeal3": {
+    "name": "Segel Sword Cemetery 3",
     "description": "Buka Segel"
   },
   "TeardropCrystal": {
@@ -1655,7 +1715,7 @@
     "name": "Putri Putih dan Enam Kurcaci (VII)",
     "description": "Dongeng yang terkenal di seluruh Teyvat sejak zaman dahulu. Seri terakhir ini membawa kesimpulan kepada ceritanya dan termasuk ralaman dari Night Mother."
   },
-  "YearsOfLoneliness": {
+  "1000YearsOfLoneliness": {
     "name": "Kesepian 1.000 Tahun",
     "description": "Awal dari perjalanan tragis seorang pemburu Springvale. Di manakah kemalangan pertama kali menimpanya? Apa yang menandai awal mula dan akhir dari perjalanan 1.000 tahun seorang diri itu? Bagian pertama dari Kesepian 1.000 Tahun akan menjadi panduanmu dalam mengungkap kabut mimpi kehidupan Gothson."
   },
@@ -1867,7 +1927,71 @@
     "name": "Anggur Biasa Saja",
     "description": "Minuman beralkohol umum yang tersedia di mana-mana."
   },
-  "TESTCocktail": {
+  "TESTCocktail16": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail17": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail18": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail19": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail20": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail21": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail22": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail23": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail24": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail25": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail26": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail27": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail28": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail29": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail30": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail31": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail32": {
     "name": "",
     "description": ""
   },
@@ -2527,7 +2651,7 @@
     "name": "Catatan yang Terkoyak",
     "description": "Sebuah catatan yang tidak diketahui siapa penulisnya. Sepertinya menuliskan tentang suatu tempat yang letaknya tidak jauh dari sini."
   },
-  "KnightsOfFavoniusHandbookThEdition": {
+  "KnightsOfFavoniusHandbook5thEdition": {
     "name": "Panduan Knights of Favonius - Edisi 5",
     "description": "Buku pedoman yang berisi peraturan dan petunjuk untuk sikap teladan seorang Knights of Favonius, disunting langsung oleh Grand Master Jean. Semua Knight diwajibkan untuk mematuhi ketentuan-ketentuan, serta memperhatikan perilaku dan ucapan-ucapan mereka sesuai dengan yang tertera di buku ini."
   },
@@ -4303,7 +4427,7 @@
     "name": "Putri Mina dan Bangsa yang Hancur (VI)",
     "description": "Kebenaran dunia kini terungkap — betapa mengerikannya ironi ini! Bahkan setelah terpisah pun, keduanya tidak bisa lepas dari belenggu takdir.\\nIni merupakan jilid terakhir dari \"Putri Mina dan Bangsa yang Hancur\", tapi kisah kita — belumlah berakhir!"
   },
-  "FlowersForPrincessFischl": {
+  "FlowersForPrincessFischl0": {
     "name": "Bunga untuk Tuan Putri Fischl (0)",
     "description": "Volume awal dari seri novel \"Bunga untuk Tuan Putri Fischl\".\\nKarya ini awalnya datang dalam kotak kayu ungu dan hitam sebagai hadiah edisi terbatas, tetapi karena kontennya sangat beragam, produksi salinan yang sedikit membuat banyak penggemar berat yang ingin mengumpulkan seluruh seri mengamuk.\\nOleh karena itu, Yae Publishing House menamakan buku ini sebagai \"Volume 0\" dan menjualnya secara terpisah. Sejak itu, karya asli, edisi koleksian yang berkotak, dan Volume 0 dianggap sebagai standar pengukur penggemar."
   },
@@ -4483,9 +4607,13 @@
     "name": "Peta Harta Karun Treasure Hoarders",
     "description": "Peta harta karun yang pernah tersobek menjadi dua bagian dan disembunyikan di tempat yang berbeda oleh Treasure Hoarder ini, kini sudah menjadi utuh kembali.\\nIkuti simbol di atasnya, barangkali kamu bisa menemukan harta karun spesial!"
   },
-  "StorehouseSecurityKeyNo": {
+  "StorehouseSecurityKeyNo1": {
     "name": "Kunci Keamanan Gudang No. 1",
     "description": "Kunci gudang tertentu yang tersembunyi di tempat yang mencolok, tapi tidak kunjung ditemukan oleh Treasure Hoarder. Sepertinya kemampuan mereka patut diragukan, ya?"
+  },
+  "StorehouseSecurityKeyNo2": {
+    "name": "Kunci Keamanan Gudang No. 2",
+    "description": "Kunci gudang tertentu lainnya yang tersembunyi di tempat yang sangat mencolok, tapi tidak kunjung ditemukan oleh Treasure Hoarder. Sepertinya mereka harus menempa pelatihan dasar sebagai Treasure Hoarder lagi, ya?"
   },
   "ASetOfCannonballs": {
     "name": "Satu Set Amunisi",
@@ -4951,9 +5079,21 @@
     "name": "Ayo, Dodoco!",
     "description": "Catatan editor: \"Ayo, Dodoco!\" adalah cerita yang penulisannya diselesaikan secara bersama-sama oleh seorang wanita dewasa dan seorang gadis cilik, semua potongan kecil dalam cerita mengandung kelembutan dan berkah, sekaligus merupakan hadiah untuk para pembacanya. Mudah-mudahan, buku kecil yang tipis ini dapat melimpahkan sedikit kegembiraan kepada para pembacanya di tengah sibuknya jadwal mereka."
   },
-  "AkosTreasureLocation": {
+  "AkosTreasureLocation1": {
     "name": "Harta Karun Ako: Lokasi 1",
     "description": "Sebelum Ako Domeki dan kawan-kawannya pergi, mereka menyembunyikan harta karun di sini dan mereka setuju untuk menggalinya lagi saat bertemu kembali di kepulauan ini. Rahasia lokasi harta tersebut terbagi menjadi empat bagian, dan ini bagian pertamanya."
+  },
+  "AkosTreasureLocation2": {
+    "name": "Harta Karun Ako: Lokasi 2",
+    "description": "Sebelum Ako Domeki dan kawan-kawannya pergi, mereka menyembunyikan harta karun di sini dan mereka setuju untuk menggalinya lagi saat bertemu kembali di kepulauan ini. Rahasia lokasi harta tersebut terbagi menjadi empat bagian, dan ini bagian keduanya."
+  },
+  "AkosTreasureLocation3": {
+    "name": "Harta Karun Ako: Lokasi 3",
+    "description": "Sebelum Ako Domeki dan kawan-kawannya pergi, mereka menyembunyikan harta karun di sini dan mereka setuju untuk menggalinya lagi saat bertemu kembali di kepulauan ini. Rahasia lokasi harta tersebut terbagi menjadi empat bagian, dan ini bagian ketiganya."
+  },
+  "AkosTreasureLocation4": {
+    "name": "Harta Karun Ako: Lokasi 4",
+    "description": "Sebelum Ako Domeki dan kawan-kawannya pergi, mereka menyembunyikan harta karun di sini dan mereka setuju untuk menggalinya lagi saat bertemu kembali di kepulauan ini. Rahasia lokasi harta tersebut terbagi menjadi empat bagian, dan ini bagian keempatnya."
   },
   "YajnaGrass": {
     "name": "Rumput Yajna",
@@ -5195,9 +5335,85 @@
     "name": "Selembar Catatan",
     "description": "Catatan yang tulisannya amburadul."
   },
-  "RedemptionVoucher": {
+  "RedemptionVoucher1": {
     "name": "Kupon Penukaran 1",
     "description": "Dapat ditukarkan dengan Burung Hantu Air: Muter"
+  },
+  "RedemptionVoucher2": {
+    "name": "Kupon Penukaran 2",
+    "description": "Dapat ditukarkan dengan Burung Hantu Air: Joget"
+  },
+  "RedemptionVoucher3": {
+    "name": "Kupon Penukaran 3",
+    "description": "Dapat ditukarkan dengan Burung Hantu Air: Layang"
+  },
+  "RedemptionVoucher4": {
+    "name": "Kupon Penukaran 4",
+    "description": "Dapat ditukarkan dengan Burung Hantu Geledek: Muter"
+  },
+  "RedemptionVoucher5": {
+    "name": "Kupon Penukaran 5",
+    "description": "Dapat ditukarkan dengan Burung Hantu Geledek: Joget"
+  },
+  "RedemptionVoucher6": {
+    "name": "Kupon Penukaran 6",
+    "description": "Dapat ditukarkan dengan Burung Hantu Geledek: Layang"
+  },
+  "RedemptionVoucher7": {
+    "name": "Kupon Penukaran 7",
+    "description": "Dapat ditukarkan dengan Burung Hantu Berkobar: Muter"
+  },
+  "RedemptionVoucher8": {
+    "name": "Kupon Penukaran 8",
+    "description": "Dapat ditukarkan dengan Burung Hantu Berkobar: Joget"
+  },
+  "RedemptionVoucher9": {
+    "name": "Kupon Penukaran 9",
+    "description": "Dapat ditukarkan dengan Burung Hantu Berkobar: Layang"
+  },
+  "RedemptionVoucher10": {
+    "name": "Kupon Penukaran 10",
+    "description": "Dapat ditukarkan dengan Burung Hantu Berkelana"
+  },
+  "RedemptionVoucher11": {
+    "name": "Kupon Penukaran 11",
+    "description": "Dapat ditukarkan dengan Kaki Tiga Perairan: Lempar Topi"
+  },
+  "RedemptionVoucher12": {
+    "name": "Kupon Penukaran 12",
+    "description": "Dapat ditukarkan dengan Kaki Tiga Perairan: Sa-tu-Du-a-!"
+  },
+  "RedemptionVoucher13": {
+    "name": "Kupon Penukaran 13",
+    "description": "Dapat ditukarkan dengan Kaki Tiga Perairan: Duduk Manis"
+  },
+  "RedemptionVoucher14": {
+    "name": "Kupon Penukaran 14",
+    "description": "Dapat ditukarkan dengan Kaki Tiga Perkilatan: Lempar Topi"
+  },
+  "RedemptionVoucher15": {
+    "name": "Kupon Penukaran 15",
+    "description": "Dapat ditukarkan dengan Kaki Tiga Perkilatan: Sa-tu-Du-a-!"
+  },
+  "RedemptionVoucher16": {
+    "name": "Kupon Penukaran 16",
+    "description": "Dapat ditukarkan dengan Kaki Tiga Perkilatan: Duduk Manis"
+  },
+  "RedemptionVoucher17": {
+    "name": "Kupon Penukaran 17",
+    "description": "Dapat ditukarkan dengan Kaki Tiga Menyala: Lempar Topi"
+  },
+  "RedemptionVoucher18": {
+    "name": "Kupon Penukaran 18",
+    "description": "Dapat ditukarkan dengan Kaki Tiga Menyala: Sa-tu-Du-a-!"
+  },
+  "RedemptionVoucher19": {
+    "name": "Kupon Penukaran 19",
+    "description": "Dapat ditukarkan dengan Kaki Tiga Menyala: Duduk Manis"
+  },
+  "RedemptionVoucher20": {
+    "name": "Kupon Penukaran 20",
+    "description": "Dapat ditukarkan dengan Kaki Tiga Jalan-Jalan"
   },
   "PartBreeze": {
     "name": "Komponen: Angin",
@@ -5363,8 +5579,16 @@
     "name": "Daftar Kode Informan",
     "description": "Bagan kode yang diberikan oleh Alhaitham. Sepertinya siapa pun yang ingin membeli \"komoditas khusus\" dari Dori harus memberikan kode yang benar terlebih dahulu.\\nPeriksa bagan kode ini sebelum mengunjungi Dori."
   },
-  "MisplacedConch": {
+  "MisplacedConch1": {
     "name": "Keong yang Salah Tempat 1",
+    "description": "Keong Proyeksi ini harusnya disimpan di tempat lain, namun ditinggalkan di sini oleh seseorang. Akibatnya, ia mengeluarkan rekaman proyeksi yang tidak berurutan. Kembalikan keong ini ke tempat yang seharusnya, dan lihatlah apa yang akan kamu ketahui darinya ...."
+  },
+  "MisplacedConch2": {
+    "name": "Keong yang Salah Tempat 2",
+    "description": "Keong Proyeksi ini harusnya disimpan di tempat lain, namun ditinggalkan di sini oleh seseorang. Akibatnya, ia mengeluarkan rekaman proyeksi yang tidak berurutan. Kembalikan keong ini ke tempat yang seharusnya, dan lihatlah apa yang akan kamu ketahui darinya ...."
+  },
+  "MisplacedConch3": {
+    "name": "Keong yang Salah Tempat 3",
     "description": "Keong Proyeksi ini harusnya disimpan di tempat lain, namun ditinggalkan di sini oleh seseorang. Akibatnya, ia mengeluarkan rekaman proyeksi yang tidak berurutan. Kembalikan keong ini ke tempat yang seharusnya, dan lihatlah apa yang akan kamu ketahui darinya ...."
   },
   "PrescriptionMedicationFromBimarstanForGurgen": {
@@ -6631,7 +6855,7 @@
     "name": "Survival Grilled Fish",
     "description": "Spesialisasi Keqing. Ikan ini bukan dipanggang dengan api, melainkan dimasak dengan kekuatan elemen Electro. Daging ikannya dimasak matang seperti sudah digoreng. Saat menggigit daging ikan renyah yang dibaluti kulit ikan kecoklatan, kelezatannya sangat sempurna. Jadi apakah begini cara dia bertahan hidup di alam liar? Kita memang tidak bisa menebak orang dari penampilan luar saja."
   },
-  "NutritiousMealV": {
+  "NutritiousMealV593": {
     "name": "Nutritious Meal (V. 593)",
     "description": "Spesialisasi Sucrose. Saat dilihat, bentuknya seperti barang kimiawi aneh, tapi Sucrose menegaskan bahwa ini adalah makanan bernutrisi hasil dari banyak eksperimennya. Warna hijaunya yang \"sehat\" berasal dari campuran krim dan jus sayur alami... Hah, jus sayuran?"
   },
@@ -7259,7 +7483,7 @@
     "name": "Summer Festival Fish",
     "description": "Spesialisasi Yoimiya. Menonton kembang api, tanganmu penuh dengan camilan yang diberikan oleh Yoimiya, terdengar tawanya yang bebas dan seperti anak kecil di telingamu saat kembang api meledak di atas kepalamu... Di tengah simfoni suara yang unik ini, ikan mas gemuk yang ada di tanganmu seolah mengibaskan ekornya seperti akan berenang..."
   },
-  "DizzinessBeGoneNoJutsuVersion": {
+  "DizzinessBeGoneNoJutsuVersion20": {
     "name": "Dizziness-Be-Gone no Jutsu Version 2.0",
     "description": "Spesialisasi Sayu. Onigiri ini sudah dibentuk oleh Sayu menjadi bentuk yang sangat lucu — tapi ingat, ini adalah mujina, bukan tanuki, oke? Hm, ini pasti rahasia bagaimana Sayu bisa tidur sepanjang hari setelah makan."
   },
@@ -9635,7 +9859,7 @@
     "name": "BP Bounty",
     "description": "\"Ketika kamu melakukan perjalanan melalui kegelapan, kamu membutuhkan senjata seperti cahaya yang menyala. Mereka ada di dalam sini, menunggu saat ketika mereka harus menembus bayangan yang kelam.\""
   },
-  "BPPickOfTestBundle": {
+  "BPPick1Of3TestBundle": {
     "name": "BP Pilih 1 dari 3 Test Bundle",
     "description": ""
   },
@@ -10999,9 +11223,397 @@
     "name": "Wings of the Starlit Feast",
     "description": "Model Wind Glider. Hadiah bagi kalian yang telah menyaksikan perayaan dunia nan jauh di sana."
   },
-  "RadiantSpincrystal": {
+  "RadiantSpincrystal1": {
     "name": "Radiant Spincrystal 1",
     "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Dawn Winery Theme\"."
+  },
+  "RadiantSpincrystal2": {
+    "name": "Radiant Spincrystal 2",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"A Sweet Smile\"."
+  },
+  "RadiantSpincrystal3": {
+    "name": "Radiant Spincrystal 3",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Lone Sojourner\"."
+  },
+  "RadiantSpincrystal4": {
+    "name": "Radiant Spincrystal 4",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"A Day in Mondstadt\"."
+  },
+  "RadiantSpincrystal5": {
+    "name": "Radiant Spincrystal 5",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"The Edge of the Prairie\"."
+  },
+  "RadiantSpincrystal6": {
+    "name": "Radiant Spincrystal 6",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"A Tale of Two Dragons\"."
+  },
+  "RadiantSpincrystal7": {
+    "name": "Radiant Spincrystal 7",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Happy Journey\"."
+  },
+  "RadiantSpincrystal8": {
+    "name": "Radiant Spincrystal 8",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Legend of the Wind\"."
+  },
+  "RadiantSpincrystal9": {
+    "name": "Radiant Spincrystal 9",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Bustling Afternoon in Mondstadt\"."
+  },
+  "RadiantSpincrystal10": {
+    "name": "Radiant Spincrystal 10",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Dusk in Mondstadt\"."
+  },
+  "RadiantSpincrystal11": {
+    "name": "Radiant Spincrystal 11",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Mondstadt Starlit\"."
+  },
+  "RadiantSpincrystal12": {
+    "name": "Radiant Spincrystal 12",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Moonlight in Mondstadt\"."
+  },
+  "RadiantSpincrystal13": {
+    "name": "Radiant Spincrystal 13",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Another Day in Mondstadt\"."
+  },
+  "RadiantSpincrystal14": {
+    "name": "Radiant Spincrystal 14",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Windborne Hymn\"."
+  },
+  "RadiantSpincrystal15": {
+    "name": "Radiant Spincrystal 15",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Knights of Favonius\"."
+  },
+  "RadiantSpincrystal16": {
+    "name": "Radiant Spincrystal 16",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Angel's Share\"."
+  },
+  "RadiantSpincrystal17": {
+    "name": "Radiant Spincrystal 17",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"A Happy Day\"."
+  },
+  "RadiantSpincrystal18": {
+    "name": "Radiant Spincrystal 18",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Tender Strength\"."
+  },
+  "RadiantSpincrystal19": {
+    "name": "Radiant Spincrystal 19",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Before Dawn, at the Winery\"."
+  },
+  "RadiantSpincrystal20": {
+    "name": "Radiant Spincrystal 20",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Whispering Plain\"."
+  },
+  "RadiantSpincrystal21": {
+    "name": "Radiant Spincrystal 21",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"A New Day With Hope\"."
+  },
+  "RadiantSpincrystal22": {
+    "name": "Radiant Spincrystal 22",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Eternal Anamnesis\"."
+  },
+  "RadiantSpincrystal23": {
+    "name": "Radiant Spincrystal 23",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Journey of Hope\"."
+  },
+  "RadiantSpincrystal24": {
+    "name": "Radiant Spincrystal 24",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Sun Rises in Liyue\"."
+  },
+  "RadiantSpincrystal25": {
+    "name": "Radiant Spincrystal 25",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Good Night, Liyue\"."
+  },
+  "RadiantSpincrystal26": {
+    "name": "Radiant Spincrystal 26",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Call It a Day in Liyue\"."
+  },
+  "RadiantSpincrystal27": {
+    "name": "Radiant Spincrystal 27",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Clear Sky Over Liyue\"."
+  },
+  "RadiantSpincrystal28": {
+    "name": "Radiant Spincrystal 28",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Cozy Leisure Time\"."
+  },
+  "RadiantSpincrystal29": {
+    "name": "Radiant Spincrystal 29",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Winding River\"."
+  },
+  "RadiantSpincrystal30": {
+    "name": "Radiant Spincrystal 30",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Mild Waves\"."
+  },
+  "RadiantSpincrystal31": {
+    "name": "Radiant Spincrystal 31",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Rhythm Amidst the Reeds\"."
+  },
+  "RadiantSpincrystal32": {
+    "name": "Radiant Spincrystal 32",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Flows of Jade-Like Water\"."
+  },
+  "RadiantSpincrystal33": {
+    "name": "Radiant Spincrystal 33",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Flow of Mildness\"."
+  },
+  "RadiantSpincrystal34": {
+    "name": "Radiant Spincrystal 34",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Vague Whispers\"."
+  },
+  "RadiantSpincrystal35": {
+    "name": "Radiant Spincrystal 35",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Legends Swept Away\"."
+  },
+  "RadiantSpincrystal36": {
+    "name": "Radiant Spincrystal 36",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Plain of Nostalgia\"."
+  },
+  "RadiantSpincrystal37": {
+    "name": "Radiant Spincrystal 37",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Rhythms From the Conch\"."
+  },
+  "RadiantSpincrystal38": {
+    "name": "Radiant Spincrystal 38",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Peaceful Hike\"."
+  },
+  "RadiantSpincrystal39": {
+    "name": "Radiant Spincrystal 39",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"The Fading Stories\"."
+  },
+  "RadiantSpincrystal40": {
+    "name": "Radiant Spincrystal 40",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Above the Sea of Clouds\"."
+  },
+  "RadiantSpincrystal41": {
+    "name": "Radiant Spincrystal 41",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Rainbow at Summit\"."
+  },
+  "RadiantSpincrystal42": {
+    "name": "Radiant Spincrystal 42",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Red Leaf on the Chessboard\"."
+  },
+  "RadiantSpincrystal43": {
+    "name": "Radiant Spincrystal 43",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Slumbering Lore\"."
+  },
+  "RadiantSpincrystal44": {
+    "name": "Radiant Spincrystal 44",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Lost Expectation\"."
+  },
+  "RadiantSpincrystal45": {
+    "name": "Radiant Spincrystal 45",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"The Realm Within\"."
+  },
+  "RadiantSpincrystal46": {
+    "name": "Radiant Spincrystal 46",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Sojourner's Sweet Dream\"."
+  },
+  "RadiantSpincrystal47": {
+    "name": "Radiant Spincrystal 47",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Miko's Night\"."
+  },
+  "RadiantSpincrystal48": {
+    "name": "Radiant Spincrystal 48",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Streets of Elegance\"."
+  },
+  "RadiantSpincrystal49": {
+    "name": "Radiant Spincrystal 49",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"The Land of Her Serenity\"."
+  },
+  "RadiantSpincrystal50": {
+    "name": "Radiant Spincrystal 50",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"The Mysterious Islands\"."
+  },
+  "RadiantSpincrystal51": {
+    "name": "Radiant Spincrystal 51",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Everlasting Devotion\"."
+  },
+  "RadiantSpincrystal52": {
+    "name": "Radiant Spincrystal 52",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Kitsune's Mask\"."
+  },
+  "RadiantSpincrystal53": {
+    "name": "Radiant Spincrystal 53",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Hanachirusato\"."
+  },
+  "RadiantSpincrystal54": {
+    "name": "Radiant Spincrystal 54",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Time to Say Farewell\"."
+  },
+  "RadiantSpincrystal55": {
+    "name": "Radiant Spincrystal 55",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Flickering Sakura\"."
+  },
+  "RadiantSpincrystal56": {
+    "name": "Radiant Spincrystal 56",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Murmuring Creek\"."
+  },
+  "RadiantSpincrystal57": {
+    "name": "Radiant Spincrystal 57",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Scarred Island\"."
+  },
+  "RadiantSpincrystal58": {
+    "name": "Radiant Spincrystal 58",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Silent Testimony\"."
+  },
+  "RadiantSpincrystal59": {
+    "name": "Radiant Spincrystal 59",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Island of Hanabi\"."
+  },
+  "RadiantSpincrystal60": {
+    "name": "Radiant Spincrystal 60",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Preparation of Matsuri\"."
+  },
+  "RadiantSpincrystal61": {
+    "name": "Radiant Spincrystal 61",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Illuminated Coral Palace\"."
+  },
+  "RadiantSpincrystal62": {
+    "name": "Radiant Spincrystal 62",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"A Tranquil Town\"."
+  },
+  "RadiantSpincrystal63": {
+    "name": "Radiant Spincrystal 63",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"In a Harmonious Atmosphere\"."
+  },
+  "RadiantSpincrystal64": {
+    "name": "Radiant Spincrystal 64",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Island of Crystal and Pearl\"."
+  },
+  "RadiantSpincrystal65": {
+    "name": "Radiant Spincrystal 65",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Misty Truth\"."
+  },
+  "RadiantSpincrystal66": {
+    "name": "Radiant Spincrystal 66",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Sorrows of Strays\"."
+  },
+  "RadiantSpincrystal67": {
+    "name": "Radiant Spincrystal 67",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Ruu's Melody\"."
+  },
+  "RadiantSpincrystal68": {
+    "name": "Radiant Spincrystal 68",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Roaming in Silence\"."
+  },
+  "RadiantSpincrystal69": {
+    "name": "Radiant Spincrystal 69",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Echoes of Solitude\"."
+  },
+  "RadiantSpincrystal70": {
+    "name": "Radiant Spincrystal 70",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Dirge of the Soundless\"."
+  },
+  "RadiantSpincrystal71": {
+    "name": "Radiant Spincrystal 71",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Nothing but Ivy\"."
+  },
+  "RadiantSpincrystal72": {
+    "name": "Radiant Spincrystal 72",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Forgotten Epic\"."
+  },
+  "RadiantSpincrystal73": {
+    "name": "Radiant Spincrystal 73",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Beyond Klesha\"."
+  },
+  "RadiantSpincrystal74": {
+    "name": "Radiant Spincrystal 74",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Melody of Hidden Seeds\"."
+  },
+  "RadiantSpincrystal75": {
+    "name": "Radiant Spincrystal 75",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Varuna's Mercy\"."
+  },
+  "RadiantSpincrystal76": {
+    "name": "Radiant Spincrystal 76",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Vestige of Dahri\"."
+  },
+  "RadiantSpincrystal77": {
+    "name": "Radiant Spincrystal 77",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Chatter Between Roots\"."
+  },
+  "RadiantSpincrystal78": {
+    "name": "Radiant Spincrystal 78",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Whirling of Leaves and Petals\"."
+  },
+  "RadiantSpincrystal79": {
+    "name": "Radiant Spincrystal 79",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Hustle and Bustle of Ormos\"."
+  },
+  "RadiantSpincrystal80": {
+    "name": "Radiant Spincrystal 80",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Halcyon Times\"."
+  },
+  "RadiantSpincrystal81": {
+    "name": "Radiant Spincrystal 81",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"A Puff of Cool Breeze\"."
+  },
+  "RadiantSpincrystal82": {
+    "name": "Radiant Spincrystal 82",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"On the Barren Sands\"."
+  },
+  "RadiantSpincrystal83": {
+    "name": "Radiant Spincrystal 83",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Arid Canyon\"."
+  },
+  "RadiantSpincrystal84": {
+    "name": "Radiant Spincrystal 84",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Settlement for Exiles\"."
+  },
+  "RadiantSpincrystal85": {
+    "name": "Radiant Spincrystal 85",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Ruins of Scorching Might\"."
+  },
+  "RadiantSpincrystal86": {
+    "name": "Radiant Spincrystal 86",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Eye of Deshret\"."
+  },
+  "RadiantSpincrystal87": {
+    "name": "Radiant Spincrystal 87",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Emerald in the Desert\"."
+  },
+  "RadiantSpincrystal88": {
+    "name": "Radiant Spincrystal 88",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+  },
+  "RadiantSpincrystal89": {
+    "name": "Radiant Spincrystal 89",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+  },
+  "RadiantSpincrystal90": {
+    "name": "Radiant Spincrystal 90",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+  },
+  "RadiantSpincrystal91": {
+    "name": "Radiant Spincrystal 91",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+  },
+  "RadiantSpincrystal92": {
+    "name": "Radiant Spincrystal 92",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+  },
+  "RadiantSpincrystal93": {
+    "name": "Radiant Spincrystal 93",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+  },
+  "RadiantSpincrystal94": {
+    "name": "Radiant Spincrystal 94",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+  },
+  "RadiantSpincrystal95": {
+    "name": "Radiant Spincrystal 95",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+  },
+  "RadiantSpincrystal96": {
+    "name": "Radiant Spincrystal 96",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+  },
+  "RadiantSpincrystal97": {
+    "name": "Radiant Spincrystal 97",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+  },
+  "RadiantSpincrystal98": {
+    "name": "Radiant Spincrystal 98",
+    "description": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
   },
   "FragrantSteak": {
     "name": "Fragrant Steak",
@@ -11987,7 +12599,7 @@
     "name": "Condensed Resin",
     "description": "Kamu bisa memiliki maksimal 5 buah dalam satu waktu.\\nDapat digunakan sebagai pengganti Original Resin untuk mendapatkan lebih banyak hadiah dari Petrified Tree dan Ley Line Blossom.\\nKristal yang mengandung banyak energi.\\nPohon dan bunga yang berwarna perak ini terhubung ke Ley Line dengan menggunakan energi di dalam Resin, dan memurnikan endapan yang ada di dalamnya."
   },
-  "NREMenu": {
+  "NREMenu30": {
     "name": "NRE (Menu 30)",
     "description": "Dapat mengubah sebagian besar jenis makanan menjadi \"nutrisi\" yang dapat langsung diserap. Meskipun benda ini dapat meningkatkan efisiensi suplemen nutrisi, tidak banyak Knight yang mau menggunakannya..."
   },
@@ -12255,7 +12867,7 @@
     "name": "Panduan: Condensed Resin",
     "description": "Penjelasan terperinci tentang proses pembuatan \"Condensed Resin\". Menggunakan resin pekat ini untuk mengaktifkan Ley Line Blossom dan Petrified Tree dapat meningkatkan kualitas hadiah yang didapatkan. Kamu hanya bisa membawa 5 Condensed Resin dalam waktu bersamaan."
   },
-  "DiagramNREMenu": {
+  "DiagramNREMenu30": {
     "name": "Diagram: NRE (Menu 30)",
     "description": "Penjelasan terperinci tentang proses pembuatan makanan instan \"Nutrition, Ready-to-Eat (NRE)\". Setelah menguasainya, kamu bisa menciptakan alat yang bisa membuat makanan diserap lebih cepat."
   },
@@ -13023,7 +13635,7 @@
     "name": "Gunnhildr's Legacy",
     "description": "Model pakaian Jean. Pakaian formal Knight yang elegan ini cocok dipakai untuk segala jenis acara."
   },
-  "Outrider": {
+  "100Outrider": {
     "name": "100% Outrider",
     "description": "Model pakaian Amber. Yang muncul kali ini, tidak lain adalah Outrider yang lebih keren dan lebih formal loh!"
   },

@@ -975,23 +975,23 @@
     "name": "",
     "description": ""
   },
-  "KamisatoAyakaForCB": {
+  "KamisatoAyakaForCB1": {
     "name": "Ayaka Kamisato - pour bêta-test 1",
     "description": "Ayaka Kamisato Niv.15 obtenue."
   },
-  "XianglingForCB": {
+  "XianglingForCB1": {
     "name": "Xiangling - pour bêta-test 1",
     "description": "Xiangling Niv.15 obtenue."
   },
-  "JeanForCB": {
+  "JeanForCB1": {
     "name": "Jean - pour bêta-test 1",
     "description": "Jean Niv.15 obtenue."
   },
-  "DilucForCB": {
+  "DilucForCB1": {
     "name": "Diluc - pour bêta-test 1",
     "description": "Diluc Niv.15 obtenu."
   },
-  "VentiForCB": {
+  "VentiForCB1": {
     "name": "Venti - pour bêta-test 1",
     "description": "Venti Niv.15 obtenu."
   },
@@ -1031,11 +1031,11 @@
     "name": "",
     "description": ""
   },
-  "BarbaraForCB": {
+  "BarbaraForCB1": {
     "name": "Barbara - pour bêta-test 1",
     "description": "Barbara Niv.15 obtenue."
   },
-  "RazorForCB": {
+  "RazorForCB1": {
     "name": "Razor - pour bêta-test 1",
     "description": "Razor Niv.15 obtenu."
   },
@@ -1335,9 +1335,13 @@
     "name": "L'Échappée Belle",
     "description": "Le journal de bord de Musk avec des remarques sur le Récif de Musk, dont une qui dit : « Il est uniquement possible d'arriver ici en planant depuis le Cap de la Promesse avec la brise marine du petit matin... »"
   },
-  "IncompleteScorePart": {
+  "IncompleteScorePart1": {
     "name": "Partition incomplète (Partie 1)",
     "description": "La première partie de la partition de « Yellow » avec l'inscription « pour J de la part de S » sur le coin droit en bas de page."
+  },
+  "IncompleteScorePart2": {
+    "name": "Partition incomplète (Partie 2)",
+    "description": "La première partie de la partition de « Yellow »."
   },
   "PrivateLetterFromLisaToJean": {
     "name": "Lettre de Lisa à Jean",
@@ -1359,9 +1363,17 @@
     "name": "Remède de Barbara",
     "description": "Lisa vous a demandé de donner cet objet à Barbara."
   },
-  "IncompletePoemPart": {
+  "IncompletePoemPart1": {
     "name": "Poème incomplet (partie 1)",
     "description": "La première partie du poème que Venti vous a demandé de trouver."
+  },
+  "IncompletePoemPart2": {
+    "name": "Poème incomplet (partie 2)",
+    "description": "La deuxième partie du poème que Venti vous a demandé de trouver. Il semble encore incomplet..."
+  },
+  "IncompletePoemPart3": {
+    "name": "Poème incomplet (partie 3)",
+    "description": "Le poème que Venti vous a demandé de trouver. Les trois pages réunies forment un poème d'amour."
   },
   "InscriptionRubbing": {
     "name": "Copier l'inscription",
@@ -1415,12 +1427,52 @@
     "name": "Cristal écarlate",
     "description": "Un cristal en forme de goutte brillant d'une lumière rouge que le dragon a dû faire tomber tout à l'heure. La personne qui lui parlait en sait sans doute davantage sur cet objet, mais où est-elle passée ?"
   },
-  "SealClue": {
+  "SealClue101": {
     "name": "Indice sur le sceau 101",
     "description": "Indice sur le sceau"
   },
-  "BreakSeal": {
+  "SealClue102": {
+    "name": "Indice sur le sceau 102",
+    "description": "Indice sur le sceau"
+  },
+  "SealClue103": {
+    "name": "Indice sur le sceau 103",
+    "description": "Indice sur le sceau"
+  },
+  "SealClue201": {
+    "name": "Indice sur le sceau 201",
+    "description": "Indice sur le sceau"
+  },
+  "SealClue202": {
+    "name": "Indice sur le sceau 202",
+    "description": "Indice sur le sceau"
+  },
+  "SealClue203": {
+    "name": "Indice sur le sceau 203",
+    "description": "Indice sur le sceau"
+  },
+  "SealClue301": {
+    "name": "Indice sur le sceau 301",
+    "description": "Indice sur le sceau"
+  },
+  "SealClue302": {
+    "name": "Indice sur le sceau 302",
+    "description": "Indice sur le sceau"
+  },
+  "SealClue303": {
+    "name": "Indice sur le sceau 303",
+    "description": "Indice sur le sceau"
+  },
+  "BreakSeal1": {
     "name": "Sceau brisé 1",
+    "description": "Briser le sceau"
+  },
+  "BreakSeal2": {
+    "name": "Sceau brisé 2",
+    "description": "Briser le sceau"
+  },
+  "BreakSeal3": {
+    "name": "Sceau brisé 3",
     "description": "Briser le sceau"
   },
   "InvestigateTheSealOfStormterrorsLair": {
@@ -1435,8 +1487,16 @@
     "name": "Fragment de souvenir (Anémo)",
     "description": "Cet objet émet un son presque inaudible si vous le plaquez contre votre oreille. (Indisponible)"
   },
-  "SwordCemeterySeal": {
+  "SwordCemeterySeal1": {
     "name": "Sceau du Cimetière d'épées 1",
+    "description": "Briser le sceau"
+  },
+  "SwordCemeterySeal2": {
+    "name": "Sceau du Cimetière d'épées 2",
+    "description": "Briser le sceau"
+  },
+  "SwordCemeterySeal3": {
+    "name": "Sceau du Cimetière d'épées 3",
     "description": "Briser le sceau"
   },
   "TeardropCrystal": {
@@ -1655,7 +1715,7 @@
     "name": "Princesse Neige et les Six Nains - Tome VII",
     "description": "Un conte traditionnel populaire en Teyvat qui touche à sa fin dans ce tome."
   },
-  "YearsOfLoneliness": {
+  "1000YearsOfLoneliness": {
     "name": "Mille ans de solitude",
     "description": "Le commencement de la tragique histoire d'un chasseur de Deauclaire."
   },
@@ -1867,8 +1927,72 @@
     "name": "Liqueur ordinaire",
     "description": "Une liqueur répandue que vous pouvez trouver partout."
   },
-  "TESTCocktail": {
+  "TESTCocktail16": {
     "name": "(TEST) Vin 16",
+    "description": "(TEST) Le nouveau cocktail de Mondstadt."
+  },
+  "TESTCocktail17": {
+    "name": "(TEST) Vin 17",
+    "description": "(TEST) Le nouveau cocktail de Mondstadt."
+  },
+  "TESTCocktail18": {
+    "name": "(TEST) Vin 18",
+    "description": "(TEST) Le nouveau cocktail de Mondstadt."
+  },
+  "TESTCocktail19": {
+    "name": "(TEST) Vin 19",
+    "description": "(TEST) Le nouveau cocktail de Mondstadt."
+  },
+  "TESTCocktail20": {
+    "name": "(TEST) Vin 20",
+    "description": "(TEST) Le nouveau cocktail de Mondstadt."
+  },
+  "TESTCocktail21": {
+    "name": "(TEST) Vin 21",
+    "description": "(TEST) Le nouveau cocktail de Mondstadt."
+  },
+  "TESTCocktail22": {
+    "name": "(TEST) Vin 22",
+    "description": "(TEST) Le nouveau cocktail de Mondstadt."
+  },
+  "TESTCocktail23": {
+    "name": "(TEST) Vin 23",
+    "description": "(TEST) Le nouveau cocktail de Mondstadt."
+  },
+  "TESTCocktail24": {
+    "name": "(TEST) Vin 24",
+    "description": "(TEST) Le nouveau cocktail de Mondstadt."
+  },
+  "TESTCocktail25": {
+    "name": "(TEST) Vin 25",
+    "description": "(TEST) Le nouveau cocktail de Mondstadt."
+  },
+  "TESTCocktail26": {
+    "name": "(TEST) Vin 26",
+    "description": "(TEST) Le nouveau cocktail de Mondstadt."
+  },
+  "TESTCocktail27": {
+    "name": "(TEST) Vin 27",
+    "description": "(TEST) Le nouveau cocktail de Mondstadt."
+  },
+  "TESTCocktail28": {
+    "name": "(TEST) Vin 28",
+    "description": "(TEST) Le nouveau cocktail de Mondstadt."
+  },
+  "TESTCocktail29": {
+    "name": "(TEST) Vin 29",
+    "description": "(TEST) Le nouveau cocktail de Mondstadt."
+  },
+  "TESTCocktail30": {
+    "name": "(TEST) Vin 30",
+    "description": "(TEST) Le nouveau cocktail de Mondstadt."
+  },
+  "TESTCocktail31": {
+    "name": "(TEST) Vin 31",
+    "description": "(TEST) Le nouveau cocktail de Mondstadt."
+  },
+  "TESTCocktail32": {
+    "name": "(TEST) Vin 32",
     "description": "(TEST) Le nouveau cocktail de Mondstadt."
   },
   "GodwinsLetter": {
@@ -2527,7 +2651,7 @@
     "name": "Journal décrépit",
     "description": "Un journal dont le contenu a un rapport avec cet endroit..."
   },
-  "KnightsOfFavoniusHandbookThEdition": {
+  "KnightsOfFavoniusHandbook5thEdition": {
     "name": "Code de l'Ordre de Favonius - 5e édition",
     "description": "Un ouvrage qui consigne toutes les règles de conduite de l'Ordre de Favonius, intégralement révisé par Jean, la Grande Maîtresse suppléante. Tous les chevaliers doivent s'y conformer."
   },
@@ -4303,7 +4427,7 @@
     "name": "Princesse Mina de la nation déchue - VI",
     "description": "Le secret du monde est enfin dévoilé... Et quelle blague !\\nMême séparés, les deux protagonistes ne peuvent échapper aux chaînes du destin. Il s'agit peut-être du dernier volume de la « Princesse Mina de la nation déchue », mais notre histoire est loin d'être terminée !"
   },
-  "FlowersForPrincessFischl": {
+  "FlowersForPrincessFischl0": {
     "name": "Fleurs pour la princesse Fischl (0)",
     "description": "Un livre qui présente les fondations de la saga « Fleurs pour la princesse Fischl ».\\nÀ l'origine, il était vendu dans une boîte en bois violette et noire en édition collector, mais son tirage réduit malgré l'immense contenu qu'il proposait a suscité la colère d'un grand nombre de fans de la série.\\nLa Chambre Yae a donc décidé de commercialiser ce livre séparément en tant que « volume 0 ». Aujourd'hui, l'édition collector et ce volume 0 sont considérés comme des objets que tout fan se doit d'avoir."
   },
@@ -4483,9 +4607,13 @@
     "name": "Carte au trésor des Pilleurs de trésors",
     "description": "Une carte au trésor déchirée en deux, puis éparpillée par les Pilleurs de trésors qui est désormais entière.\\nPeut-être est-il possible de trouver un trésor en suivant les indications qui figurent dessus ?"
   },
-  "StorehouseSecurityKeyNo": {
+  "StorehouseSecurityKeyNo1": {
     "name": "Clé de sécurité de l'entrepôt 1",
     "description": "La clé d'un entrepôt. Elle a été cachée dans un endroit facile à trouver, mais les Pilleurs de trésors n'ont pas réussi à mettre la main dessus. Ces gens manquent vraiment de professionnalisme..."
+  },
+  "StorehouseSecurityKeyNo2": {
+    "name": "Clé de sécurité de l'entrepôt 2",
+    "description": "La clé d'un entrepôt. Elle a été cachée dans un endroit facile à trouver, mais les Pilleurs de trésors n'ont pas réussi à mettre la main dessus. C'est à se demander qui leur a appris le métier..."
   },
   "ASetOfCannonballs": {
     "name": "Lot de boulets de canon",
@@ -4951,9 +5079,21 @@
     "name": "Allez, Dodoco !",
     "description": "Message de l'éditeur : « Allez, Dodoco ! » est une œuvre née de la collaboration entre deux filles dont l'une est plus jeune que l'autre. Leur gentillesse et leur bienveillance transparaissent dans chaque chapitre, car cette histoire est un cadeau qu'elles offrent aux lecteurs. J'espère que ce livre vous fera sourire après une longue journée de travail."
   },
-  "AkosTreasureLocation": {
+  "AkosTreasureLocation1": {
     "name": "Emplacement du trésor d'Ako I",
     "description": "Un trésor secret que l'équipage d'Ako Domeki a caché avant de partir. Ses membres l'ont enterré et se sont promis de le récupérer plus tard lorsqu'ils se retrouveront. Les indices qui mènent au trésor ont été divisés en quatre. Ceci est la première partie."
+  },
+  "AkosTreasureLocation2": {
+    "name": "Emplacement du trésor d'Ako II",
+    "description": "Un trésor secret que l'équipage d'Ako Domeki a caché avant de partir. Ses membres l'ont enterré et se sont promis de le récupérer plus tard lorsqu'ils se retrouveront. Les indices qui mènent au trésor ont été divisés en quatre. Ceci est la deuxième partie."
+  },
+  "AkosTreasureLocation3": {
+    "name": "Emplacement du trésor d'Ako III",
+    "description": "Un trésor secret que l'équipage d'Ako Domeki a caché avant de partir. Ses membres l'ont enterré et se sont promis de le récupérer plus tard lorsqu'ils se retrouveront. Les indices qui mènent au trésor ont été divisés en quatre. Ceci est la troisième partie."
+  },
+  "AkosTreasureLocation4": {
+    "name": "Emplacement du trésor d'Ako IV",
+    "description": "Un trésor secret que l'équipage d'Ako Domeki a caché avant de partir. Ses membres l'ont enterré et se sont promis de le récupérer plus tard lorsqu'ils se retrouveront. Les indices qui mènent au trésor ont été divisés en quatre. Ceci est la quatrième partie."
   },
   "YajnaGrass": {
     "name": "Herbe yajna",
@@ -5195,9 +5335,85 @@
     "name": "Note",
     "description": "Une note avec une écriture très inclinée..."
   },
-  "RedemptionVoucher": {
+  "RedemptionVoucher1": {
     "name": "Coupon d'échange 1",
     "description": "Un coupon d'échange utilisé pour obtenir le petit-duc d'eau «{NON_BREAK_SPACE}Toupie{NON_BREAK_SPACE}»."
+  },
+  "RedemptionVoucher2": {
+    "name": "Coupon d'échange 2",
+    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc d'eau «{NON_BREAK_SPACE}Coucou{NON_BREAK_SPACE}»."
+  },
+  "RedemptionVoucher3": {
+    "name": "Coupon d'échange 3",
+    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc d'eau «{NON_BREAK_SPACE}Aérien{NON_BREAK_SPACE}»."
+  },
+  "RedemptionVoucher4": {
+    "name": "Coupon d'échange 4",
+    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc d'éclair «{NON_BREAK_SPACE}Toupie{NON_BREAK_SPACE}»."
+  },
+  "RedemptionVoucher5": {
+    "name": "Coupon d'échange 5",
+    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc d'éclair «{NON_BREAK_SPACE}Coucou{NON_BREAK_SPACE}»."
+  },
+  "RedemptionVoucher6": {
+    "name": "Coupon d'échange 6",
+    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc d'éclair «{NON_BREAK_SPACE}Aérien{NON_BREAK_SPACE}»."
+  },
+  "RedemptionVoucher7": {
+    "name": "Coupon d'échange 7",
+    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc de feu «{NON_BREAK_SPACE}Toupie{NON_BREAK_SPACE}»."
+  },
+  "RedemptionVoucher8": {
+    "name": "Coupon d'échange 8",
+    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc de feu «{NON_BREAK_SPACE}Coucou{NON_BREAK_SPACE}»."
+  },
+  "RedemptionVoucher9": {
+    "name": "Coupon d'échange 9",
+    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc de feu «{NON_BREAK_SPACE}Aérien{NON_BREAK_SPACE}»."
+  },
+  "RedemptionVoucher10": {
+    "name": "Coupon d'échange 10",
+    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc «{NON_BREAK_SPACE}Voyageur{NON_BREAK_SPACE}»."
+  },
+  "RedemptionVoucher11": {
+    "name": "Coupon d'échange 11",
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode d'eau «{NON_BREAK_SPACE}Bascule{NON_BREAK_SPACE}»."
+  },
+  "RedemptionVoucher12": {
+    "name": "Coupon d'échange 12",
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode d'eau «{NON_BREAK_SPACE}Danse{NON_BREAK_SPACE}»."
+  },
+  "RedemptionVoucher13": {
+    "name": "Coupon d'échange 13",
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode d'eau «{NON_BREAK_SPACE}Assis{NON_BREAK_SPACE}»."
+  },
+  "RedemptionVoucher14": {
+    "name": "Coupon d'échange 14",
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode d'éclair «{NON_BREAK_SPACE}Bascule{NON_BREAK_SPACE}»."
+  },
+  "RedemptionVoucher15": {
+    "name": "Coupon d'échange 15",
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode d'éclair «{NON_BREAK_SPACE}Danse{NON_BREAK_SPACE}»."
+  },
+  "RedemptionVoucher16": {
+    "name": "Coupon d'échange 16",
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode d'éclair «{NON_BREAK_SPACE}Assis{NON_BREAK_SPACE}»."
+  },
+  "RedemptionVoucher17": {
+    "name": "Coupon d'échange 17",
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode de feu «{NON_BREAK_SPACE}Bascule{NON_BREAK_SPACE}»."
+  },
+  "RedemptionVoucher18": {
+    "name": "Coupon d'échange 18",
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode de feu «{NON_BREAK_SPACE}Danse{NON_BREAK_SPACE}»."
+  },
+  "RedemptionVoucher19": {
+    "name": "Coupon d'échange 19",
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode de feu «{NON_BREAK_SPACE}Assis{NON_BREAK_SPACE}»."
+  },
+  "RedemptionVoucher20": {
+    "name": "Coupon d'échange 20",
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode «{NON_BREAK_SPACE}Voyageur{NON_BREAK_SPACE}»."
   },
   "PartBreeze": {
     "name": "Morceau : Brise",
@@ -5363,8 +5579,16 @@
     "name": "Codes des informateurs",
     "description": "Une liste de messages codés qui vous a été fournie par Alhaitham. Il semble qu'il soit nécessaire de prononcer le bon message codé pour acheter les produits spéciaux de Dori.\\nIl est préférable que vous inspectiez cette liste avant de rencontrer le contact de Dori."
   },
-  "MisplacedConch": {
+  "MisplacedConch1": {
     "name": "Conque déplacée 1",
+    "description": "Cette conque de mirage aurait dû être placée à un autre endroit, mais elle a été abandonnée ici... Ce qui lui a donc fait projeter des images d'ailleurs. Remettez-la à sa juste place, et qui sait ce que vous pourriez découvrir..."
+  },
+  "MisplacedConch2": {
+    "name": "Conque déplacée 2",
+    "description": "Cette conque de mirage aurait dû être placée à un autre endroit, mais elle a été abandonnée ici... Ce qui lui a donc fait projeter des images d'ailleurs. Remettez-la à sa juste place, et qui sait ce que vous pourriez découvrir..."
+  },
+  "MisplacedConch3": {
+    "name": "Conque déplacée 3",
     "description": "Cette conque de mirage aurait dû être placée à un autre endroit, mais elle a été abandonnée ici... Ce qui lui a donc fait projeter des images d'ailleurs. Remettez-la à sa juste place, et qui sait ce que vous pourriez découvrir..."
   },
   "PrescriptionMedicationFromBimarstanForGurgen": {
@@ -6631,7 +6855,7 @@
     "name": "Poisson grillé du survivant",
     "description": "Spécialité culinaire de Keqing. Ce poisson n'a pas été grillé à la flamme, mais frit de l'intérieur grâce à de l'énergie Électro. Vous succomberez à sa saveur exquise dès que vous mordrez sa peau croustillante. C'est donc grâce à ce genre de repas que Keqing survit dans la nature ? On aurait du mal à le croire..."
   },
-  "NutritiousMealV": {
+  "NutritiousMealV593": {
     "name": "Repas nº593",
     "description": "Spécialité culinaire de Sucrose. Ce plat ressemble à un étrange produit alchimique au premier abord, mais la jeune fille vous assure qu'il est plein de bons nutriments après avoir conduit de nombreuses expériences. Un mélange de crème et de légumes lui donne une couleur verte... Quels légumes ?"
   },
@@ -7259,7 +7483,7 @@
     "name": "Poissons du festival d'été",
     "description": "Spécialité culinaire de Yoimiya. Vous admirez les feux d'artifice, les mains pleines des sucreries que Yoimiya vous a données, son rire insouciant et enfantin résonnant à vos oreilles tandis que la pyrotechnie éclate dans le ciel au-dessus de vous... Au milieu de cette symphonie unique de sons, on dirait que le poisson rouge dans vos mains peut se mettre à nager à tout moment..."
   },
-  "DizzinessBeGoneNoJutsuVersion": {
+  "DizzinessBeGoneNoJutsuVersion20": {
     "name": "Remède contre le tournis 2.0",
     "description": "Spécialité culinaire de Sayu. Sayu a pétri les onigiris pour leur donner une forme amusante. Mais rappelez-vous, c'est un mujina, pas un Tanuki, compris ? D'ailleurs, c'est peut-être la raison pour laquelle elle dort toute une journée après en avoir mangé."
   },
@@ -9635,7 +9859,7 @@
     "name": "Coffre PB",
     "description": "« Lorsque votre chemin est recouvert par l'obscurité, seules ces armes pourront vous guider avec leur lumière. Elles reposent dans cet humble coffre en attendant le jour où elles pourront fendre les ténèbres. »"
   },
-  "BPPickOfTestBundle": {
+  "BPPick1Of3TestBundle": {
     "name": "Packs PB (Choisissez en 1 sur 3)",
     "description": ""
   },
@@ -10999,9 +11223,397 @@
     "name": "Ailes de festin étoilé",
     "description": "Un modèle de planeur et un cadeau célébrant un festival vu dans un monde lointain."
   },
-  "RadiantSpincrystal": {
+  "RadiantSpincrystal1": {
     "name": "Gyrocristal radiant 1",
     "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Dawn Winery Theme »."
+  },
+  "RadiantSpincrystal2": {
+    "name": "Gyrocristal radiant 2",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « A Sweet Smile »."
+  },
+  "RadiantSpincrystal3": {
+    "name": "Gyrocristal radiant 3",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Lone Sojourner »."
+  },
+  "RadiantSpincrystal4": {
+    "name": "Gyrocristal radiant 4",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « A Day in Mondstadt »."
+  },
+  "RadiantSpincrystal5": {
+    "name": "Gyrocristal radiant 5",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « The Edge of the Prairie »."
+  },
+  "RadiantSpincrystal6": {
+    "name": "Gyrocristal radiant 6",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « A Tale of Two Dragons »."
+  },
+  "RadiantSpincrystal7": {
+    "name": "Gyrocristal radiant 7",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Happy Journey »."
+  },
+  "RadiantSpincrystal8": {
+    "name": "Gyrocristal radiant 8",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Legend of the Wind »."
+  },
+  "RadiantSpincrystal9": {
+    "name": "Gyrocristal radiant 9",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Bustling Afternoon in Mondstadt »."
+  },
+  "RadiantSpincrystal10": {
+    "name": "Gyrocristal radiant 10",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Dusk in Mondstadt »."
+  },
+  "RadiantSpincrystal11": {
+    "name": "Gyrocristal radiant 11",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Mondstadt Starlit »."
+  },
+  "RadiantSpincrystal12": {
+    "name": "Gyrocristal radiant 12",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Moonlight in Mondstadt »."
+  },
+  "RadiantSpincrystal13": {
+    "name": "Gyrocristal radiant 13",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Another Day in Mondstadt »."
+  },
+  "RadiantSpincrystal14": {
+    "name": "Gyrocristal radiant 14",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Windborne Hymn »."
+  },
+  "RadiantSpincrystal15": {
+    "name": "Gyrocristal radiant 15",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Knights of Favonius »."
+  },
+  "RadiantSpincrystal16": {
+    "name": "Gyrocristal radiant 16",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Angel's Share »."
+  },
+  "RadiantSpincrystal17": {
+    "name": "Gyrocristal radiant 17",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « A Happy Day »."
+  },
+  "RadiantSpincrystal18": {
+    "name": "Gyrocristal radiant 18",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Tender Strength »."
+  },
+  "RadiantSpincrystal19": {
+    "name": "Gyrocristal radiant 19",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Before Dawn, at the Winery »."
+  },
+  "RadiantSpincrystal20": {
+    "name": "Gyrocristal radiant 20",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Whispering Plain »."
+  },
+  "RadiantSpincrystal21": {
+    "name": "Gyrocristal radiant 21",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « A New Day With Hope »."
+  },
+  "RadiantSpincrystal22": {
+    "name": "Gyrocristal radiant 22",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Eternal Anamnesis »."
+  },
+  "RadiantSpincrystal23": {
+    "name": "Gyrocristal radiant 23",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Journey of Hope »."
+  },
+  "RadiantSpincrystal24": {
+    "name": "Gyrocristal radiant 24",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Sun Rises in Liyue »."
+  },
+  "RadiantSpincrystal25": {
+    "name": "Gyrocristal radiant 25",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Good Night, Liyue »."
+  },
+  "RadiantSpincrystal26": {
+    "name": "Gyrocristal radiant 26",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Call It a Day in Liyue »."
+  },
+  "RadiantSpincrystal27": {
+    "name": "Gyrocristal radiant 27",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Clear Sky Over Liyue »."
+  },
+  "RadiantSpincrystal28": {
+    "name": "Gyrocristal radiant 28",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Cozy Leisure Time »."
+  },
+  "RadiantSpincrystal29": {
+    "name": "Gyrocristal radiant 29",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Winding River »."
+  },
+  "RadiantSpincrystal30": {
+    "name": "Gyrocristal radiant 30",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Mild Waves »."
+  },
+  "RadiantSpincrystal31": {
+    "name": "Gyrocristal radiant 31",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Rhythm Amidst the Reeds »."
+  },
+  "RadiantSpincrystal32": {
+    "name": "Gyrocristal radiant 32",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Flows of Jade-Like Water »."
+  },
+  "RadiantSpincrystal33": {
+    "name": "Gyrocristal radiant 33",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Flow of Mildness »."
+  },
+  "RadiantSpincrystal34": {
+    "name": "Gyrocristal radiant 34",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Vague Whispers »."
+  },
+  "RadiantSpincrystal35": {
+    "name": "Gyrocristal radiant 35",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Legends Swept Away »."
+  },
+  "RadiantSpincrystal36": {
+    "name": "Gyrocristal radiant 36",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Plain of Nostalgia »."
+  },
+  "RadiantSpincrystal37": {
+    "name": "Gyrocristal radiant 37",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Rhythms From the Conch »."
+  },
+  "RadiantSpincrystal38": {
+    "name": "Gyrocristal radiant 38",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Peaceful Hike »."
+  },
+  "RadiantSpincrystal39": {
+    "name": "Gyrocristal radiant 39",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « The Fading Stories »."
+  },
+  "RadiantSpincrystal40": {
+    "name": "Gyrocristal radiant 40",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Above the Sea of Clouds »."
+  },
+  "RadiantSpincrystal41": {
+    "name": "Gyrocristal radiant 41",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Rainbow at Summit »."
+  },
+  "RadiantSpincrystal42": {
+    "name": "Gyrocristal radiant 42",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Red Leaf on the Chessboard »."
+  },
+  "RadiantSpincrystal43": {
+    "name": "Gyrocristal radiant 43",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Slumbering Lore »."
+  },
+  "RadiantSpincrystal44": {
+    "name": "Gyrocristal radiant 44",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Lost Expectation »."
+  },
+  "RadiantSpincrystal45": {
+    "name": "Gyrocristal radiant 45",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « The Realm Within »."
+  },
+  "RadiantSpincrystal46": {
+    "name": "Gyrocristal radiant 46",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Sojourner's Sweet Dream »."
+  },
+  "RadiantSpincrystal47": {
+    "name": "Gyrocristal radiant 47",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Miko's Night »."
+  },
+  "RadiantSpincrystal48": {
+    "name": "Gyrocristal radiant 48",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Streets of Elegance »."
+  },
+  "RadiantSpincrystal49": {
+    "name": "Gyrocristal radiant 49",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « The Land of Her Serenity »."
+  },
+  "RadiantSpincrystal50": {
+    "name": "Gyrocristal radiant 50",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « The Mysterious Islands »."
+  },
+  "RadiantSpincrystal51": {
+    "name": "Gyrocristal radiant 51",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Everlasting Devotion »."
+  },
+  "RadiantSpincrystal52": {
+    "name": "Gyrocristal radiant 52",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Kitsune's Mask »."
+  },
+  "RadiantSpincrystal53": {
+    "name": "Gyrocristal radiant 53",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Hanachirusato »."
+  },
+  "RadiantSpincrystal54": {
+    "name": "Gyrocristal radiant 54",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Time to Say Farewell »."
+  },
+  "RadiantSpincrystal55": {
+    "name": "Gyrocristal radiant 55",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Flickering Sakura »."
+  },
+  "RadiantSpincrystal56": {
+    "name": "Gyrocristal radiant 56",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Murmuring Creek »."
+  },
+  "RadiantSpincrystal57": {
+    "name": "Gyrocristal radiant 57",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Scarred Island »."
+  },
+  "RadiantSpincrystal58": {
+    "name": "Gyrocristal radiant 58",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Silent Testimony »."
+  },
+  "RadiantSpincrystal59": {
+    "name": "Gyrocristal radiant 59",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Island of Hanabi »."
+  },
+  "RadiantSpincrystal60": {
+    "name": "Gyrocristal radiant 60",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Preparation of Matsuri »."
+  },
+  "RadiantSpincrystal61": {
+    "name": "Gyrocristal radiant 61",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Illuminated Coral Palace »."
+  },
+  "RadiantSpincrystal62": {
+    "name": "Gyrocristal radiant 62",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « A Tranquil Town »."
+  },
+  "RadiantSpincrystal63": {
+    "name": "Gyrocristal radiant 63",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « In a Harmonious Atmosphere »."
+  },
+  "RadiantSpincrystal64": {
+    "name": "Gyrocristal radiant 64",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Island of Crystal and Pearl »."
+  },
+  "RadiantSpincrystal65": {
+    "name": "Gyrocristal radiant 65",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Misty Truth »."
+  },
+  "RadiantSpincrystal66": {
+    "name": "Gyrocristal radiant 66",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Sorrows of Strays »."
+  },
+  "RadiantSpincrystal67": {
+    "name": "Gyrocristal radiant 67",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Ruu's Melody »."
+  },
+  "RadiantSpincrystal68": {
+    "name": "Gyrocristal radiant 68",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Roaming in Silence »."
+  },
+  "RadiantSpincrystal69": {
+    "name": "Gyrocristal radiant 69",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Echoes of Solitude »."
+  },
+  "RadiantSpincrystal70": {
+    "name": "Gyrocristal radiant 70",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Dirge of the Soundless »."
+  },
+  "RadiantSpincrystal71": {
+    "name": "Gyrocristal radiant 71",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Nothing but Ivy »."
+  },
+  "RadiantSpincrystal72": {
+    "name": "Gyrocristal radiant 72",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Forgotten Epic »."
+  },
+  "RadiantSpincrystal73": {
+    "name": "Gyrocristal radiant 73",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Beyond Klesha »."
+  },
+  "RadiantSpincrystal74": {
+    "name": "Gyrocristal radiant 74",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Melody of Hidden Seeds »."
+  },
+  "RadiantSpincrystal75": {
+    "name": "Gyrocristal radiant 75",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Varuna's Mercy »."
+  },
+  "RadiantSpincrystal76": {
+    "name": "Gyrocristal radiant 76",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Vestige of Dahri »."
+  },
+  "RadiantSpincrystal77": {
+    "name": "Gyrocristal radiant 77",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Chatter Between Roots »."
+  },
+  "RadiantSpincrystal78": {
+    "name": "Gyrocristal radiant 78",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Whirling of Leaves and Petals »."
+  },
+  "RadiantSpincrystal79": {
+    "name": "Gyrocristal radiant 79",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Hustle and Bustle of Ormos »."
+  },
+  "RadiantSpincrystal80": {
+    "name": "Gyrocristal radiant 80",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Halcyon Times »."
+  },
+  "RadiantSpincrystal81": {
+    "name": "Gyrocristal radiant 81",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « A Puff of Cool Breeze »."
+  },
+  "RadiantSpincrystal82": {
+    "name": "Gyrocristal radiant 82",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « On the Barren Sands »."
+  },
+  "RadiantSpincrystal83": {
+    "name": "Gyrocristal radiant 83",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Arid Canyon »."
+  },
+  "RadiantSpincrystal84": {
+    "name": "Gyrocristal radiant 84",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Settlement for Exiles »."
+  },
+  "RadiantSpincrystal85": {
+    "name": "Gyrocristal radiant 85",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Ruins of Scorching Might »."
+  },
+  "RadiantSpincrystal86": {
+    "name": "Gyrocristal radiant 86",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Eye of Deshret »."
+  },
+  "RadiantSpincrystal87": {
+    "name": "Gyrocristal radiant 87",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Emerald in the Desert »."
+  },
+  "RadiantSpincrystal88": {
+    "name": "Gyrocristal radiant 88",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+  },
+  "RadiantSpincrystal89": {
+    "name": "Gyrocristal radiant 89",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+  },
+  "RadiantSpincrystal90": {
+    "name": "Gyrocristal radiant 90",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+  },
+  "RadiantSpincrystal91": {
+    "name": "Gyrocristal radiant 91",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+  },
+  "RadiantSpincrystal92": {
+    "name": "Gyrocristal radiant 92",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+  },
+  "RadiantSpincrystal93": {
+    "name": "Gyrocristal radiant 93",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+  },
+  "RadiantSpincrystal94": {
+    "name": "Gyrocristal radiant 94",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+  },
+  "RadiantSpincrystal95": {
+    "name": "Gyrocristal radiant 95",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+  },
+  "RadiantSpincrystal96": {
+    "name": "Gyrocristal radiant 96",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+  },
+  "RadiantSpincrystal97": {
+    "name": "Gyrocristal radiant 97",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+  },
+  "RadiantSpincrystal98": {
+    "name": "Gyrocristal radiant 98",
+    "description": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
   },
   "FragrantSteak": {
     "name": "Steak (parfumé)",
@@ -11987,7 +12599,7 @@
     "name": "Résine condensée",
     "description": "Vous pouvez en détenir jusqu'à 5 simultanément.\\nRésine contenant une importante quantité d'énergie, pouvant être utilisée à la place de la Résine originelle pour activer les Fleurs des lignes énergétiques et les Arbres pétrifiés afin d'obtenir d'importantes récompenses.\\nLes anciens arbres argentés, au contact des lignes énergétiques, libèrent l'énergie contenue dans leur résine, qui vient ensuite circuler à travers les canaux énergétiques, raffinant les matières qui y reposent et produisant parfois ce type de matière."
   },
-  "NREMenu": {
+  "NREMenu30": {
     "name": "Poche nutritive V30",
     "description": "Cet outil est capable de transformer en un éclair la plupart des plats en « matières à haute teneur nutritive ». Bien que cette invention constitue un atout indéniable, très peu de chevaliers sont enclins à l'utiliser..."
   },
@@ -12255,7 +12867,7 @@
     "name": "Instructions : Résine condensée",
     "description": "Instructions détaillées pour fabriquer de la Résine condensée. Activer certaines Fleurs des lignes énergétiques et certains Arbres pétrifiés avec celle-ci peut augmenter le rendement de ces derniers. Vous pouvez détenir jusqu'à 5 Résines condensées simultanément."
   },
-  "DiagramNREMenu": {
+  "DiagramNREMenu30": {
     "name": "Plan : Poche nutritive V30",
     "description": "Plan détaillé pour la construction d'une Poche nutritive V30. Apprenez-le et fabriquez cet outil qui vous permettra d'ingérer vos aliments plus rapidement."
   },
@@ -13023,7 +13635,7 @@
     "name": "Héritage de Gunnhildr",
     "description": "Tenue de Jean. Cette classique tenue de cérémonie de chevalier convient à toutes sortes d'occasions."
   },
-  "Outrider": {
+  "100Outrider": {
     "name": "Éclaireuse 100{NON_BREAK_SPACE}%",
     "description": "Tenue d'Amber. C'est une version plus formelle, mais non moins cool, de l'uniforme des Éclaireurs !"
   },
