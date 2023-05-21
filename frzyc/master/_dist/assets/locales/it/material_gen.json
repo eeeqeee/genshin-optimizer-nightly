@@ -975,23 +975,23 @@
     "name": "",
     "description": ""
   },
-  "KamisatoAyakaForCB": {
+  "KamisatoAyakaForCB1": {
     "name": "",
     "description": ""
   },
-  "XianglingForCB": {
+  "XianglingForCB1": {
     "name": "",
     "description": ""
   },
-  "JeanForCB": {
+  "JeanForCB1": {
     "name": "",
     "description": ""
   },
-  "DilucForCB": {
+  "DilucForCB1": {
     "name": "",
     "description": ""
   },
-  "VentiForCB": {
+  "VentiForCB1": {
     "name": "",
     "description": ""
   },
@@ -1031,11 +1031,11 @@
     "name": "",
     "description": ""
   },
-  "BarbaraForCB": {
+  "BarbaraForCB1": {
     "name": "",
     "description": ""
   },
-  "RazorForCB": {
+  "RazorForCB1": {
     "name": "",
     "description": ""
   },
@@ -1335,9 +1335,13 @@
     "name": "Fuga estrema",
     "description": "Diario di viaggio di Musk. Tra gli appunti riguardanti lo Scoglio di Musk spicca una nota che recita: \"Solo una brezza mattutina può condurti da qui al Promontorio degli amanti...\""
   },
-  "IncompleteScorePart": {
+  "IncompleteScorePart1": {
     "name": "Punteggio incompleto (Parte 1)",
     "description": "La prima metà della partitura musicale per \"Yellow\". In basso a destra c'è scritto: \"Da S per J\"."
+  },
+  "IncompleteScorePart2": {
+    "name": "Punteggio incompleto (Parte 2)",
+    "description": "La seconda metà della partitura musicale per \"Yellow\"."
   },
   "PrivateLetterFromLisaToJean": {
     "name": "Lettera personale di Lisa per Jean",
@@ -1359,9 +1363,17 @@
     "name": "Rimedio di Barbara",
     "description": "Lisa ti ha chiesto di portare quest'oggetto a Barbara."
   },
-  "IncompletePoemPart": {
+  "IncompletePoemPart1": {
     "name": "Poesia incompleta (Parte 1)",
     "description": "La poesia che Venti ti ha chiesto di cercare, anche se solo la prima parte."
+  },
+  "IncompletePoemPart2": {
+    "name": "Poesia incompleta (Parte 2)",
+    "description": "La poesia che Venti ti ha chiesto di cercare, anche se sembra incompleta."
+  },
+  "IncompletePoemPart3": {
+    "name": "Poesia incompleta (Parte 3)",
+    "description": "La poesia che Venti ti ha chiesto di cercare. Unisci le tre pagine per rivelare un verso d'amore."
   },
   "InscriptionRubbing": {
     "name": "Copia dell'iscrizione",
@@ -1415,12 +1427,52 @@
     "name": "Cristallo cremisi",
     "description": "Una lacrima di cristallo che brilla di una luce rossastra. Probabilmente lasciata qui dal drago. La persona che stava parlando con lui potrebbe avere più informazioni al riguardo, ma... dove sarà andato?"
   },
-  "SealClue": {
+  "SealClue101": {
     "name": "Indizio del sigillo 101",
     "description": "Indizio del sigillo"
   },
-  "BreakSeal": {
+  "SealClue102": {
+    "name": "Indizio del sigillo 102",
+    "description": "Indizio del sigillo"
+  },
+  "SealClue103": {
+    "name": "Indizio del sigillo 103",
+    "description": "Indizio del sigillo"
+  },
+  "SealClue201": {
+    "name": "Indizio del sigillo 201",
+    "description": "Indizio del sigillo"
+  },
+  "SealClue202": {
+    "name": "Indizio del sigillo 202",
+    "description": "Indizio del sigillo"
+  },
+  "SealClue203": {
+    "name": "Indizio del sigillo 203",
+    "description": "Indizio del sigillo"
+  },
+  "SealClue301": {
+    "name": "Indizio del sigillo 301",
+    "description": "Indizio del sigillo"
+  },
+  "SealClue302": {
+    "name": "Indizio del sigillo 302",
+    "description": "Indizio del sigillo"
+  },
+  "SealClue303": {
+    "name": "Indizio del sigillo 303",
+    "description": "Indizio del sigillo"
+  },
+  "BreakSeal1": {
     "name": "Rompi il sigillo 1",
+    "description": "Rompi il sigillo"
+  },
+  "BreakSeal2": {
+    "name": "Rompi il sigillo 2",
+    "description": "Rompi il sigillo"
+  },
+  "BreakSeal3": {
+    "name": "Rompi il sigillo 3",
     "description": "Rompi il sigillo"
   },
   "InvestigateTheSealOfStormterrorsLair": {
@@ -1435,8 +1487,16 @@
     "name": "Memoria frammentata (Anemo)",
     "description": "Avvicinala al tuo orecchio e ti sembrerà di sentire dei deboli sussurri, ma senza comprendere le parole. (Non disponibile)."
   },
-  "SwordCemeterySeal": {
+  "SwordCemeterySeal1": {
     "name": "Sigillo del Cimitero delle spade 1",
+    "description": "Rompi il sigillo"
+  },
+  "SwordCemeterySeal2": {
+    "name": "Sigillo del Cimitero delle spade 2",
+    "description": "Rompi il sigillo"
+  },
+  "SwordCemeterySeal3": {
+    "name": "Sigillo del Cimitero delle spade 3",
     "description": "Rompi il sigillo"
   },
   "TeardropCrystal": {
@@ -1655,7 +1715,7 @@
     "name": "La principessa delle nevi e i sei nani (VII)",
     "description": "Una favola tramandata a Teyvat per secoli. La parte finale conclude la storia, e include la profezia della Madre della notte."
   },
-  "YearsOfLoneliness": {
+  "1000YearsOfLoneliness": {
     "name": "Mille anni di solitudine",
     "description": "L'inizio del viaggio \"fantasti-tragico\" di un cacciatore del Villaggio Acquachiara. Quand'è che venne colpito dalla sfortuna? Cosa scandiscono i mille anni del suo viaggio solitario? Lascia che Mille anni di solitudine sia la tua guida nella nebbia fantastica che avvolge la vita di Gothson."
   },
@@ -1867,7 +1927,71 @@
     "name": "Liquore di base",
     "description": "Una comune bevanda alcolica facile da reperire."
   },
-  "TESTCocktail": {
+  "TESTCocktail16": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail17": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail18": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail19": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail20": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail21": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail22": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail23": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail24": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail25": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail26": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail27": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail28": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail29": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail30": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail31": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail32": {
     "name": "",
     "description": ""
   },
@@ -2527,7 +2651,7 @@
     "name": "Taccuino rovinato",
     "description": "Degli appunti anonimi. Descrivono un posto che non sembra essere troppo lontano da qui."
   },
-  "KnightsOfFavoniusHandbookThEdition": {
+  "KnightsOfFavoniusHandbook5thEdition": {
     "name": "Manuale dei Cavalieri di Favonius, 5ª edizione",
     "description": "Un codice di condotta sul linguaggio e sulle norme comportamentali che devono seguire i Cavalieri di Favonius di Mondstadt, a cura della Gran Maestra Reggente Jean. Tutti i cavalieri sono tenuti a seguirlo rigorosamente, comportandosi e parlando di conseguenza."
   },
@@ -4303,7 +4427,7 @@
     "name": "La principessa Mina della nazione caduta (VI)",
     "description": "La verità del mondo viene rivelata... e sembra veramente essere un brutto scherzo! Anche se sono separati, i due non possono sfuggire alle catene del destino.\\nAnche se questo è il volume conclusivo de La principessa Mina della nazione caduta, la nostra storia non finisce qui!"
   },
-  "FlowersForPrincessFischl": {
+  "FlowersForPrincessFischl0": {
     "name": "Fiori per la principessa Fischl (0)",
     "description": "Il primo volume della serie Fiori per la principessa Fischl.\\nInizialmente questo libro era distribuito in una scatola di legno nera e viola come edizione limitata regalo, ma molti fan sfegatati della serie, che volevano possedere l'intera saga, s'infuriarono per la gran quantità di contenuti inserita nelle poche copie stampate di questa edizione.\\nPer questo motivo, la Casa editrice Yae ha chiamato questo libro \"Volume 0\" e lo vende separatamente. Da quel momento, l'opera originale, ossia l'edizione in scatola, e il volume 0 vennero considerati dai fan una parte standard della storia."
   },
@@ -4483,9 +4607,13 @@
     "name": "Mappa del tesoro dei Cacciatori di tesori",
     "description": "Questa mappa del tesoro, una volta strappata in due e nascosta dai Cacciatori di tesori in luoghi separati, è di nuovo completa.\\nSe segui il simbolo sopra di essa, potresti scoprire un tesoro speciale."
   },
-  "StorehouseSecurityKeyNo": {
+  "StorehouseSecurityKeyNo1": {
     "name": "Chiave del magazzino 1",
     "description": "La chiave di un magazzino nascosta in un posto molto evidente, ma che non è stata mai trovata dai Cacciatori di tesori. A quanto pare non sono abili come pensano nel loro lavoro, eh?"
+  },
+  "StorehouseSecurityKeyNo2": {
+    "name": "Chiave del magazzino 2",
+    "description": "La chiave di un magazzino nascosta in un posto incredibilmente evidente, ma che non è stata mai trovata dai Cacciatori di tesori. Farebbero meglio a tornare alla scuola dei Cacciatori."
   },
   "ASetOfCannonballs": {
     "name": "Set di palle di cannone",
@@ -4951,9 +5079,21 @@
     "name": "Andiamo, Dodoco!",
     "description": "Messaggio dall'editore: \"Andiamo, Dodoco!\" è l'opera a quattro mani di una ragazza più grande e una più piccola. Ogni capitolo trabocca di delicatezza e buoni auguri, e la storia vuol essere un regalo per i nostri lettori. Spero che questo libriccino possa arrecare una semplice gioia dopo una lunga giornata di lavoro."
   },
-  "AkosTreasureLocation": {
+  "AkosTreasureLocation1": {
     "name": "Il tesoro di Ako: posizione 1",
     "description": "Prima di andarsene, Ako Domeki e la sua compagnia nascosero un tesoro nell'arcipelago, giurando di disseppellirlo una volta che si fossero ritrovati in quel luogo. Il segreto di dov'è nascosto il tesoro fu diviso in quattro parti, questa è la prima."
+  },
+  "AkosTreasureLocation2": {
+    "name": "Il tesoro di Ako: posizione 2",
+    "description": "Prima di andarsene, Ako Domeki e la sua compagnia nascosero un tesoro nell'arcipelago, giurando di disseppellirlo una volta che si fossero ritrovati in quel luogo. Il segreto di dov'è nascosto il tesoro fu diviso in quattro parti, questa è la seconda."
+  },
+  "AkosTreasureLocation3": {
+    "name": "Il tesoro di Ako: posizione 3",
+    "description": "Prima di andarsene, Ako Domeki e la sua compagnia nascosero un tesoro nell'arcipelago, giurando di disseppellirlo una volta che si fossero ritrovati in quel luogo. Il segreto di dov'è nascosto il tesoro fu diviso in quattro parti, questa è la terza."
+  },
+  "AkosTreasureLocation4": {
+    "name": "Il tesoro di Ako: posizione 4",
+    "description": "Prima di andarsene, Ako Domeki e la sua compagnia nascosero un tesoro nell'arcipelago, giurando di disseppellirlo una volta che si fossero ritrovati in quel luogo. Il segreto di dov'è nascosto il tesoro fu diviso in quattro parti, questa è la quarta."
   },
   "YajnaGrass": {
     "name": "Erba di Yajna",
@@ -5195,9 +5335,85 @@
     "name": "Un appunto",
     "description": "Una nota stropicciata con un'orribile grafia inclinata."
   },
-  "RedemptionVoucher": {
+  "RedemptionVoucher1": {
     "name": "Voucher di scambio 1",
     "description": "Usato per riscattare assiolo dello specchio d'acqua Volteggio"
+  },
+  "RedemptionVoucher2": {
+    "name": "Voucher di scambio 2",
+    "description": "Usato per riscattare assiolo dello specchio d'acqua Danza"
+  },
+  "RedemptionVoucher3": {
+    "name": "Voucher di scambio 3",
+    "description": "Usato per riscattare assiolo dello specchio d'acqua Svolazzo"
+  },
+  "RedemptionVoucher4": {
+    "name": "Voucher di scambio 4",
+    "description": "Usato per riscattare assiolo del tuono Volteggio"
+  },
+  "RedemptionVoucher5": {
+    "name": "Voucher di scambio 5",
+    "description": "Usato per riscattare assiolo del tuono Danza"
+  },
+  "RedemptionVoucher6": {
+    "name": "Voucher di scambio 6",
+    "description": "Usato per riscattare assiolo del tuono Svolazzo"
+  },
+  "RedemptionVoucher7": {
+    "name": "Voucher di scambio 7",
+    "description": "Usato per riscattare assiolo delle fiamme Volteggio"
+  },
+  "RedemptionVoucher8": {
+    "name": "Voucher di scambio 8",
+    "description": "Usato per riscattare assiolo delle fiamme Danza"
+  },
+  "RedemptionVoucher9": {
+    "name": "Voucher di scambio 9",
+    "description": "Usato per riscattare assiolo delle fiamme Svolazzo"
+  },
+  "RedemptionVoucher10": {
+    "name": "Voucher di scambio 10",
+    "description": "Usato per riscattare assiolo viaggiatore"
+  },
+  "RedemptionVoucher11": {
+    "name": "Voucher di scambio 11",
+    "description": "Usato per riscattare tripode dello specchio d'acqua Saluto"
+  },
+  "RedemptionVoucher12": {
+    "name": "Voucher di scambio 12",
+    "description": "Usato per riscattare tripode dello specchio d'acqua Tre salti"
+  },
+  "RedemptionVoucher13": {
+    "name": "Voucher di scambio 13",
+    "description": "Usato per riscattare tripode dello specchio d'acqua Ritirata"
+  },
+  "RedemptionVoucher14": {
+    "name": "Voucher di scambio 14",
+    "description": "Usato per riscattare tripode del tuono Saluto"
+  },
+  "RedemptionVoucher15": {
+    "name": "Voucher di scambio 15",
+    "description": "Usato per riscattare tripode del tuono Tre salti"
+  },
+  "RedemptionVoucher16": {
+    "name": "Voucher di scambio 16",
+    "description": "Usato per riscattare tripode del tuono Ritirata"
+  },
+  "RedemptionVoucher17": {
+    "name": "Voucher di scambio 17",
+    "description": "Usato per riscattare tripode delle fiamme Saluto"
+  },
+  "RedemptionVoucher18": {
+    "name": "Voucher di scambio 18",
+    "description": "Usato per riscattare tripode delle fiamme Ballo"
+  },
+  "RedemptionVoucher19": {
+    "name": "Voucher di scambio 19",
+    "description": "Usato per riscattare tripode delle fiamme Ritirata"
+  },
+  "RedemptionVoucher20": {
+    "name": "Voucher di scambio 20",
+    "description": "Usato per riscattare tripode viaggiatore"
   },
   "PartBreeze": {
     "name": "Parte: brezza",
@@ -5363,8 +5579,16 @@
     "name": "Tabella codici dell'informatore",
     "description": "Una tabella dei codici che ti ha dato Alhaitham. A quanto pare, chiunque voglia acquistare \"merci speciali\" da Dori deve prima fornire il codice esatto.\\nPer sicurezza, consulta questa tabella dei codici prima di recarti dal contatto di Dori."
   },
-  "MisplacedConch": {
+  "MisplacedConch1": {
     "name": "Conchiglia mal riposta 1",
+    "description": "Questa conchiglia fotosensibile si sarebbe dovuta trovare da un'altra parte ma è stata abbandonata qui da qualcuno, il che l'ha portata a proiettare delle immagini in un ordine diverso da quello previsto. Rimettila al posto giusto e forse scoprirai qualcosa di speciale..."
+  },
+  "MisplacedConch2": {
+    "name": "Conchiglia mal riposta 2",
+    "description": "Questa conchiglia fotosensibile si sarebbe dovuta trovare da un'altra parte ma è stata abbandonata qui da qualcuno, il che l'ha portata a proiettare delle immagini in un ordine diverso da quello previsto. Rimettila al posto giusto e forse scoprirai qualcosa di speciale..."
+  },
+  "MisplacedConch3": {
+    "name": "Conchiglia mal riposta 3",
     "description": "Questa conchiglia fotosensibile si sarebbe dovuta trovare da un'altra parte ma è stata abbandonata qui da qualcuno, il che l'ha portata a proiettare delle immagini in un ordine diverso da quello previsto. Rimettila al posto giusto e forse scoprirai qualcosa di speciale..."
   },
   "PrescriptionMedicationFromBimarstanForGurgen": {
@@ -6631,7 +6855,7 @@
     "name": "Pesce alla griglia del sopravvissuto",
     "description": "La specialità di Keqing. Il piatto non è stato grigliato. In realtà, è stato fritto dall'interno tramite un uso controllato dell'energia di Electro. Basta un morso delicato per capire che sotto la pelle abbrustolita c'è del pesce fragrante e gustoso che ha un sapore perfettamente bilanciato. Quindi è così che Keqing sopravvive nella natura? Non si deve mai giudicare un libro dalla copertina."
   },
-  "NutritiousMealV": {
+  "NutritiousMealV593": {
     "name": "Pasto nutriente (ver. 593)",
     "description": "La specialità di Sucrose. A prima vista sembra uno strano prodotto alchemico, ma Sucrose insiste che è un pasto sano e nutriente, risultato di una lunga e accurata sperimentazione. Il suo colore verde deriva dalla combinazione della panna con i succhi naturali delle verdure... Aspetta, succhi di verdura?"
   },
@@ -7259,7 +7483,7 @@
     "name": "Pesce del Festival d'estate",
     "description": "La specialità di Yoimiya. Guardare i fuochi d'artificio, avere le mani piene di snack che ti ha dato Yoimiya, sentire la sua risata spensierata e infantile mentre i fuochi d'artificio scoppiano in cielo... Nel mezzo di questa sinfonia unica di suoni, il grassoccio pesce dorato nelle tue mani sembra quasi potersi mettere a nuotare da un momento all'altro..."
   },
-  "DizzinessBeGoneNoJutsuVersion": {
+  "DizzinessBeGoneNoJutsuVersion20": {
     "name": "Tecnica anti-vertigini 2.0",
     "description": "La specialità di Sayu. L'onigiri è stato arrotolato da Sayu in una forma carina... Ma ricorda, è una mujina, non una tanuki, chiaro? E ora che mi ci fai pensare, è questo il motivo per cui Sayu può dormire un giorno intero dopo aver mangiato, giusto?"
   },
@@ -9635,7 +9859,7 @@
     "name": "Bottino PB",
     "description": "\"Quando attraversi terre immerse nell'oscurità, hai bisogno di un'arma dalla luce abbagliante. Esse si trovano in questo forziere, in attesa del momento in cui dovranno nuovamente squarciare le tenebre opprimenti.\""
   },
-  "BPPickOfTestBundle": {
+  "BPPick1Of3TestBundle": {
     "name": "Scegli 1 dei 3 Bundle PB di prova",
     "description": ""
   },
@@ -10999,9 +11223,397 @@
     "name": "Ali del banchetto stellato",
     "description": "Un aliante decorato, nonché un regalo che celebra un festival tenutosi in un mondo lontano."
   },
-  "RadiantSpincrystal": {
+  "RadiantSpincrystal1": {
     "name": "Voltacristallo radioso 1",
     "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Dawn Winery Theme."
+  },
+  "RadiantSpincrystal2": {
+    "name": "Voltacristallo radioso 2",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è A Sweet Smile."
+  },
+  "RadiantSpincrystal3": {
+    "name": "Voltacristallo radioso 3",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Lone Sojourner."
+  },
+  "RadiantSpincrystal4": {
+    "name": "Voltacristallo radioso 4",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è A Day in Mondstadt."
+  },
+  "RadiantSpincrystal5": {
+    "name": "Voltacristallo radioso 5",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è The Edge of the Prairie."
+  },
+  "RadiantSpincrystal6": {
+    "name": "Voltacristallo radioso 6",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è A Tale of Two Dragons."
+  },
+  "RadiantSpincrystal7": {
+    "name": "Voltacristallo radioso 7",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Happy Journey."
+  },
+  "RadiantSpincrystal8": {
+    "name": "Voltacristallo radioso 8",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Legend of the Wind."
+  },
+  "RadiantSpincrystal9": {
+    "name": "Voltacristallo radioso 9",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero: Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Bustling Afternoon in Mondstadt."
+  },
+  "RadiantSpincrystal10": {
+    "name": "Voltacristallo radioso 10",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Dusk in Mondstadt."
+  },
+  "RadiantSpincrystal11": {
+    "name": "Voltacristallo radioso 11",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Mondstadt Starlit."
+  },
+  "RadiantSpincrystal12": {
+    "name": "Voltacristallo radioso 12",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Moonlight in Mondstadt."
+  },
+  "RadiantSpincrystal13": {
+    "name": "Voltacristallo radioso 13",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Another Day in Mondstadt."
+  },
+  "RadiantSpincrystal14": {
+    "name": "Voltacristallo radioso 14",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Windborne Hymn."
+  },
+  "RadiantSpincrystal15": {
+    "name": "Voltacristallo radioso 15",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Knights of Favonius."
+  },
+  "RadiantSpincrystal16": {
+    "name": "Voltacristallo radioso 16",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Angel's Share."
+  },
+  "RadiantSpincrystal17": {
+    "name": "Voltacristallo radioso 17",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è A Happy Day."
+  },
+  "RadiantSpincrystal18": {
+    "name": "Voltacristallo radioso 18",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Tender Strength."
+  },
+  "RadiantSpincrystal19": {
+    "name": "Voltacristallo radioso 19",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Before Dawn, at the Winery."
+  },
+  "RadiantSpincrystal20": {
+    "name": "Voltacristallo radioso 20",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Whispering Plain."
+  },
+  "RadiantSpincrystal21": {
+    "name": "Voltacristallo radioso 21",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è A New Day With Hope."
+  },
+  "RadiantSpincrystal22": {
+    "name": "Voltacristallo radioso 22",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Eternal Anamnesis."
+  },
+  "RadiantSpincrystal23": {
+    "name": "Voltacristallo radioso 23",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Journey of Hope."
+  },
+  "RadiantSpincrystal24": {
+    "name": "Voltacristallo radioso 24",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Sun Rises in Liyue."
+  },
+  "RadiantSpincrystal25": {
+    "name": "Voltacristallo radioso 25",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Good Night, Liyue."
+  },
+  "RadiantSpincrystal26": {
+    "name": "Voltacristallo radioso 26",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Call It a Day in Liyue."
+  },
+  "RadiantSpincrystal27": {
+    "name": "Voltacristallo radioso 27",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Clear Sky Over Liyue."
+  },
+  "RadiantSpincrystal28": {
+    "name": "Voltacristallo radioso 28",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Cozy Leisure Time."
+  },
+  "RadiantSpincrystal29": {
+    "name": "Voltacristallo radioso 29",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Winding River."
+  },
+  "RadiantSpincrystal30": {
+    "name": "Voltacristallo radioso 30",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Mild Waves."
+  },
+  "RadiantSpincrystal31": {
+    "name": "Voltacristallo radioso 31",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Rhythm Amidst the Reeds."
+  },
+  "RadiantSpincrystal32": {
+    "name": "Voltacristallo radioso 32",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Flows of Jade-Like Water."
+  },
+  "RadiantSpincrystal33": {
+    "name": "Voltacristallo radioso 33",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Flow of Mildness."
+  },
+  "RadiantSpincrystal34": {
+    "name": "Voltacristallo radioso 34",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Vague Whispers."
+  },
+  "RadiantSpincrystal35": {
+    "name": "Voltacristallo radioso 35",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Legends Swept Away."
+  },
+  "RadiantSpincrystal36": {
+    "name": "Voltacristallo radioso 36",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Plain of Nostalgia."
+  },
+  "RadiantSpincrystal37": {
+    "name": "Voltacristallo radioso 37",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Rhythms From the Conch."
+  },
+  "RadiantSpincrystal38": {
+    "name": "Voltacristallo radioso 38",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Peaceful Hike."
+  },
+  "RadiantSpincrystal39": {
+    "name": "Voltacristallo radioso 39",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è The Fading Stories."
+  },
+  "RadiantSpincrystal40": {
+    "name": "Voltacristallo radioso 40",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Above the Sea of Clouds."
+  },
+  "RadiantSpincrystal41": {
+    "name": "Voltacristallo radioso 41",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Rainbow at Summit."
+  },
+  "RadiantSpincrystal42": {
+    "name": "Voltacristallo radioso 42",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Red Leaf on the Chessboard."
+  },
+  "RadiantSpincrystal43": {
+    "name": "Voltacristallo radioso 43",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Slumbering Lore."
+  },
+  "RadiantSpincrystal44": {
+    "name": "Voltacristallo radioso 44",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Lost Expectation."
+  },
+  "RadiantSpincrystal45": {
+    "name": "Voltacristallo radioso 45",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è The Realm Within."
+  },
+  "RadiantSpincrystal46": {
+    "name": "Voltacristallo radioso 46",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Sojourner's Sweet Dream."
+  },
+  "RadiantSpincrystal47": {
+    "name": "Voltacristallo radioso 47",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Miko's Night."
+  },
+  "RadiantSpincrystal48": {
+    "name": "Voltacristallo radioso 48",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Streets of Elegance."
+  },
+  "RadiantSpincrystal49": {
+    "name": "Voltacristallo radioso 49",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è The Land of Her Serenity."
+  },
+  "RadiantSpincrystal50": {
+    "name": "Voltacristallo radioso 50",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è The Mysterious Islands."
+  },
+  "RadiantSpincrystal51": {
+    "name": "Voltacristallo radioso 51",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Everlasting Devotion."
+  },
+  "RadiantSpincrystal52": {
+    "name": "Voltacristallo radioso 52",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Kitsune's Mask."
+  },
+  "RadiantSpincrystal53": {
+    "name": "Voltacristallo radioso 53",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Hanachirusato."
+  },
+  "RadiantSpincrystal54": {
+    "name": "Voltacristallo radioso 54",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Time to Say Farewell."
+  },
+  "RadiantSpincrystal55": {
+    "name": "Voltacristallo radioso 55",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Flickering Sakura."
+  },
+  "RadiantSpincrystal56": {
+    "name": "Voltacristallo radioso 56",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Murmuring Creek."
+  },
+  "RadiantSpincrystal57": {
+    "name": "Voltacristallo radioso 57",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Scarred Island."
+  },
+  "RadiantSpincrystal58": {
+    "name": "Voltacristallo radioso 58",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Silent Testimony."
+  },
+  "RadiantSpincrystal59": {
+    "name": "Voltacristallo radioso 59",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Island of Hanabi."
+  },
+  "RadiantSpincrystal60": {
+    "name": "Voltacristallo radioso 60",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Preparation of Matsuri."
+  },
+  "RadiantSpincrystal61": {
+    "name": "Voltacristallo radioso 61",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Illuminated Coral Palace."
+  },
+  "RadiantSpincrystal62": {
+    "name": "Voltacristallo radioso 62",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è A Tranquil Town."
+  },
+  "RadiantSpincrystal63": {
+    "name": "Voltacristallo radioso 63",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è In a Harmonious Atmosphere."
+  },
+  "RadiantSpincrystal64": {
+    "name": "Voltacristallo radioso 64",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Island of Crystal and Pearl."
+  },
+  "RadiantSpincrystal65": {
+    "name": "Voltacristallo radioso 65",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Misty Truth."
+  },
+  "RadiantSpincrystal66": {
+    "name": "Voltacristallo radioso 66",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Sorrows of Strays."
+  },
+  "RadiantSpincrystal67": {
+    "name": "Voltacristallo radioso 67",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Ruu's Melody."
+  },
+  "RadiantSpincrystal68": {
+    "name": "Voltacristallo radioso 68",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Roaming in Silence."
+  },
+  "RadiantSpincrystal69": {
+    "name": "Voltacristallo radioso 69",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Echoes of Solitude."
+  },
+  "RadiantSpincrystal70": {
+    "name": "Voltacristallo radioso 70",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Dirge of the Soundless."
+  },
+  "RadiantSpincrystal71": {
+    "name": "Voltacristallo radioso 71",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Nothing but Ivy."
+  },
+  "RadiantSpincrystal72": {
+    "name": "Voltacristallo radioso 72",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Forgotten Epic."
+  },
+  "RadiantSpincrystal73": {
+    "name": "Voltacristallo radioso 73",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Beyond Klesha."
+  },
+  "RadiantSpincrystal74": {
+    "name": "Voltacristallo radioso 74",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Melody of Hidden Seeds."
+  },
+  "RadiantSpincrystal75": {
+    "name": "Voltacristallo radioso 75",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Varuna's Mercy."
+  },
+  "RadiantSpincrystal76": {
+    "name": "Voltacristallo radioso 76",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Vestige of Dahri."
+  },
+  "RadiantSpincrystal77": {
+    "name": "Voltacristallo radioso 77",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Chatter Between Roots."
+  },
+  "RadiantSpincrystal78": {
+    "name": "Voltacristallo radioso 78",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Whirling of Leaves and Petals."
+  },
+  "RadiantSpincrystal79": {
+    "name": "Voltacristallo radioso 79",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Hustle and Bustle of Ormos."
+  },
+  "RadiantSpincrystal80": {
+    "name": "Voltacristallo radioso 80",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Halcyon Times."
+  },
+  "RadiantSpincrystal81": {
+    "name": "Voltacristallo radioso 81",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è A Puff of Cool Breeze."
+  },
+  "RadiantSpincrystal82": {
+    "name": "Voltacristallo radioso 82",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è On the Barren Sands."
+  },
+  "RadiantSpincrystal83": {
+    "name": "Voltacristallo radioso 83",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Arid Canyon."
+  },
+  "RadiantSpincrystal84": {
+    "name": "Voltacristallo radioso 84",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Settlement for Exiles."
+  },
+  "RadiantSpincrystal85": {
+    "name": "Voltacristallo radioso 85",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Ruins of Scorching Might."
+  },
+  "RadiantSpincrystal86": {
+    "name": "Voltacristallo radioso 86",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Eye of Deshret."
+  },
+  "RadiantSpincrystal87": {
+    "name": "Voltacristallo radioso 87",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è Emerald in the Desert."
+  },
+  "RadiantSpincrystal88": {
+    "name": "Voltacristallo radioso 88",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Sumeru."
+  },
+  "RadiantSpincrystal89": {
+    "name": "Voltacristallo radioso 89",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Sumeru."
+  },
+  "RadiantSpincrystal90": {
+    "name": "Voltacristallo radioso 90",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Sumeru."
+  },
+  "RadiantSpincrystal91": {
+    "name": "Voltacristallo radioso 91",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Sumeru."
+  },
+  "RadiantSpincrystal92": {
+    "name": "Voltacristallo radioso 92",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Sumeru."
+  },
+  "RadiantSpincrystal93": {
+    "name": "Voltacristallo radioso 93",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno del cristallo può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Sumeru."
+  },
+  "RadiantSpincrystal94": {
+    "name": "Voltacristallo radioso 94",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Sumeru, e può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo."
+  },
+  "RadiantSpincrystal95": {
+    "name": "Voltacristallo radioso 95",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Sumeru, e può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo."
+  },
+  "RadiantSpincrystal96": {
+    "name": "Voltacristallo radioso 96",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Sumeru, e può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo."
+  },
+  "RadiantSpincrystal97": {
+    "name": "Voltacristallo radioso 97",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Sumeru, e può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo."
+  },
+  "RadiantSpincrystal98": {
+    "name": "Voltacristallo radioso 98",
+    "description": "Questo meraviglioso cristallo contiene un certo ritmo, come una meraviglia intessuta con della seta delicata. Questi oggetti sono sparsi per tutto il continente o si possono reperire dai mercanti che collezionano rarità. La melodia contenuta all'interno di questo Voltacristallo radioso è una melodia misteriosa proveniente da Sumeru, e può essere ravvivata nella Serenteiera usando Eufonio libero Sinuosità o Eufonio libero Crescendo."
   },
   "FragrantSteak": {
     "name": "Bistecca fragrante",
@@ -11987,7 +12599,7 @@
     "name": "Resina condensata",
     "description": "Non puoi trasportarne più di 5 alla volta.\\nResina d'albero condensata che può essere impiegata per rivitalizzare Alberi pietrificati e Fiori geomantici al posto della Resina primordiale e ricavarne ricompense maggiori.\\nUn cristallo colmo di un'energia immensa.\\nGli alberi e i fiori argentei di Irminsul sono connessi alle linee geomantiche che si sono ostruite nel corso del tempo. L'energia contenuta all'interno della resina dell'albero è in grado di purificare la sostanza ostruente."
   },
-  "NREMenu": {
+  "NREMenu30": {
     "name": "Sacca di nutrienti (ver. 30)",
     "description": "Una pratica sacca che può trasformare gran parte del cibo in una sostanza nutriente ad assorbimento istantaneo. Nonostante aumenti notevolmente l'efficienza dell'apporto nutrizionale, la maggior parte dei cavalieri non è molto propensa a inserirvi il proprio cibo..."
   },
@@ -12255,7 +12867,7 @@
     "name": "Istruzioni: Resina condensata",
     "description": "Delle istruzioni passo dopo passo per realizzare della Resina condensata. Attivando alcuni Fiori geomantici e Alberi pietrificati usando la resina in questa forma condensata, la tua efficienza aumenterà. Non puoi trasportare più di 5 Resine condensate alla volta."
   },
-  "DiagramNREMenu": {
+  "DiagramNREMenu30": {
     "name": "Diagramma: sacca di nutrienti (ver. 30)",
     "description": "Un diagramma con istruzioni passo dopo passo per realizzare una sacca di nutrienti tascabile. Studialo a fondo e potrai creare uno strumento che renderà l'assunzione di cibo molto più veloce."
   },
@@ -13023,7 +13635,7 @@
     "name": "Eredità di Gunnhildr",
     "description": "Il completo di Jean. Questo classico abito cerimoniale da cavaliere è adatto a ogni occasione."
   },
-  "Outrider": {
+  "100Outrider": {
     "name": "100% Vigilante",
     "description": "Il completo di Amber. Una versione più formale, ma non meno alla moda, dell'uniforme da Vigilante!"
   },

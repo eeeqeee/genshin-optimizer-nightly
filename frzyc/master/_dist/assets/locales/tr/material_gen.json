@@ -975,23 +975,23 @@
     "name": "",
     "description": ""
   },
-  "KamisatoAyakaForCB": {
+  "KamisatoAyakaForCB1": {
     "name": "",
     "description": ""
   },
-  "XianglingForCB": {
+  "XianglingForCB1": {
     "name": "",
     "description": ""
   },
-  "JeanForCB": {
+  "JeanForCB1": {
     "name": "",
     "description": ""
   },
-  "DilucForCB": {
+  "DilucForCB1": {
     "name": "",
     "description": ""
   },
-  "VentiForCB": {
+  "VentiForCB1": {
     "name": "",
     "description": ""
   },
@@ -1031,11 +1031,11 @@
     "name": "",
     "description": ""
   },
-  "BarbaraForCB": {
+  "BarbaraForCB1": {
     "name": "",
     "description": ""
   },
-  "RazorForCB": {
+  "RazorForCB1": {
     "name": "",
     "description": ""
   },
@@ -1335,9 +1335,13 @@
     "name": "Zorlu Kaçış",
     "description": "Musk'ın Seyahat Günlüğü. Musk Kayalıkları ile ilgili notlarda şöyle bir bölüm geçer: \"Aşık Burnu'ndan buraya süzülmenin tek yolu sabahın erken saatlerindeki deniz meltemidir...\""
   },
-  "IncompleteScorePart": {
+  "IncompleteScorePart1": {
     "name": "Yarım Kalan Beste (1. Bölüm)",
     "description": "\"Sarı\" adlı bestenin birinci bölüm notaları. Sağ alt köşede \"S'den J'ye\" şeklinde işaretlenmiştir."
+  },
+  "IncompleteScorePart2": {
+    "name": "Yarım Kalan Beste (2. Bölüm)",
+    "description": "\"Sarı\" adlı bestenin ikinci bölüm notaları."
   },
   "PrivateLetterFromLisaToJean": {
     "name": "Lisa'dan Jean'e Özel Mektup",
@@ -1359,9 +1363,17 @@
     "name": "Barbara'nın Tedavisi",
     "description": "Lisa bunu Barbara'ya vermeni istedi."
   },
-  "IncompletePoemPart": {
+  "IncompletePoemPart1": {
     "name": "Yarım Kalan Şiir (1. Bölüm)",
     "description": "Venti'nin senden aramanı istediği şiirin yalnızca ilk bölümü."
+  },
+  "IncompletePoemPart2": {
+    "name": "Yarım Kalan Şiir (2. Bölüm)",
+    "description": "Venti'nin senden aramanı istediği şiir. Devamı da olmalı."
+  },
+  "IncompletePoemPart3": {
+    "name": "Yarım Kalan Şiir (3. Bölüm)",
+    "description": "Venti'nin senden aramanı istediği şiir. Üç sayfayı birleştirince kısa bir aşk şiiri ortaya çıkıyor."
   },
   "InscriptionRubbing": {
     "name": "Eski Yazıt",
@@ -1415,12 +1427,52 @@
     "name": "Kızıl Kristal",
     "description": "Kızıl renkli parlak bir gözyaşı kristali. Ejder bırakmış olabilir. Ejderle konuşan kişi daha fazla bilgi sahibidir belki. Nereye gitti acaba?"
   },
-  "SealClue": {
+  "SealClue101": {
     "name": "Mühür İpucu 101",
     "description": "Mühür İpucu"
   },
-  "BreakSeal": {
+  "SealClue102": {
+    "name": "Mühür İpucu 102",
+    "description": "Mühür İpucu"
+  },
+  "SealClue103": {
+    "name": "Mühür İpucu 103",
+    "description": "Mühür İpucu"
+  },
+  "SealClue201": {
+    "name": "Mühür İpucu 201",
+    "description": "Mühür İpucu"
+  },
+  "SealClue202": {
+    "name": "Mühür İpucu 202",
+    "description": "Mühür İpucu"
+  },
+  "SealClue203": {
+    "name": "Mühür İpucu 203",
+    "description": "Mühür İpucu"
+  },
+  "SealClue301": {
+    "name": "Mühür İpucu 301",
+    "description": "Mühür İpucu"
+  },
+  "SealClue302": {
+    "name": "Mühür İpucu 302",
+    "description": "Mühür İpucu"
+  },
+  "SealClue303": {
+    "name": "Mühür İpucu 303",
+    "description": "Mühür İpucu"
+  },
+  "BreakSeal1": {
     "name": "1. Mührü Kır",
+    "description": "Mührü Kır"
+  },
+  "BreakSeal2": {
+    "name": "2. Mührü Kır",
+    "description": "Mührü Kır"
+  },
+  "BreakSeal3": {
+    "name": "3. Mührü Kır",
     "description": "Mührü Kır"
   },
   "InvestigateTheSealOfStormterrorsLair": {
@@ -1435,8 +1487,16 @@
     "name": "Hatıra Parçası (Rüzgar)",
     "description": "Kulağına yaklaştırdığında belli belirsiz fısıltılar duyabiliyorsun, ancak ne dediklerini çıkaramıyorsun. (Mevcut değil)"
   },
-  "SwordCemeterySeal": {
+  "SwordCemeterySeal1": {
     "name": "Kılıç Mezarlığı Mührü 1",
+    "description": "Mührü Kır"
+  },
+  "SwordCemeterySeal2": {
+    "name": "Kılıç Mezarlığı Mührü 2",
+    "description": "Mührü Kır"
+  },
+  "SwordCemeterySeal3": {
+    "name": "Kılıç Mezarlığı Mührü 3",
     "description": "Mührü Kır"
   },
   "TeardropCrystal": {
@@ -1655,7 +1715,7 @@
     "name": "Soluk Prenses ve Altı Cüceler (VII)",
     "description": "Teyvat'ta asırlardır anlatılan bir masal. Bu son bölümde hikaye sonuca varıyor ve Gece Ana'nın kehanetine yer veriliyor."
   },
-  "YearsOfLoneliness": {
+  "1000YearsOfLoneliness": {
     "name": "Bin Yıllık Yalnızlık",
     "description": "Pınarköy Avcısının acıklı yolculuğunun başlangıcı. Talihsizliği ne zaman başladı? Bin yıl süren bu yalnız yolculuğu nasıl başladı, nasıl sonlandı? Bin Yıllık Yalnızlık serisinin ilk cildi ile Gothson'ın sıra dışı hayatına ilk adımı atın."
   },
@@ -1867,7 +1927,71 @@
     "name": "Sıradan İçki",
     "description": "Her yerde bulunabilen, sıradan bir alkollü içki."
   },
-  "TESTCocktail": {
+  "TESTCocktail16": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail17": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail18": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail19": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail20": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail21": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail22": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail23": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail24": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail25": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail26": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail27": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail28": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail29": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail30": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail31": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail32": {
     "name": "",
     "description": ""
   },
@@ -2527,7 +2651,7 @@
     "name": "Yıpranmış Defter",
     "description": "Kimin yazdığı bilinmeyen notlar. Fazla uzakta olmayan bir yer tarif ediliyor."
   },
-  "KnightsOfFavoniusHandbookThEdition": {
+  "KnightsOfFavoniusHandbook5thEdition": {
     "name": "Favonius Şövalyeleri El Kitabı - 5. Baskı",
     "description": "Büyük Kumandan Vekili Jean'in bizzat düzenlediği davranış kuralları el kitabı. Mondstadt'ın Favonius Şövalyelerinin nasıl konuşması ve davranması gerektiğini açıklıyor. Tüm şövalyelerin bu kurallara harfi harfine uyması ve davranışları ile konuşmalarını kitaba uygun gerçekleştirmesi beklenmektedir."
   },
@@ -4303,7 +4427,7 @@
     "name": "Mağlup Ulusun Prensesi Mina (VI)",
     "description": "Dünya hakkındaki gerçek açığa çıkar. Ne kadar kötü bir şaka bu! Ayrı düşseler bile bu ikili, kaderin zincirlerinden kaçamaz.\\nBu kitap \"Mağlup Ulusun Prensesi Mina\" serisinin son cildi olabilir ancak hikayemiz henüz sona ermedi!"
   },
-  "FlowersForPrincessFischl": {
+  "FlowersForPrincessFischl0": {
     "name": "Prenses Fischl'ın Çiçekleri (0)",
     "description": "Prenses Fischl'ın Çiçekleri serisinin ilk kitabı.\\nBu eser aslında sınırlı sayıda üretilen bir hediye olarak mor ve siyah renkli tahta bir kutuda satışa çıktı. Ancak kitapların sınırlı sayıda basılması, serinin tamamını toplamak isteyen birçok sıkı hayranı öfkelendirdi.\\nBu nedenle Yae Yayınevi bu kitaba \"Cilt 0\" adını vererek ayrı olarak satışa sundu. Böylece orijinal eser, kutulu koleksiyon sürümü ve Cilt 0, hayranlar tarafından standart olarak kabul edildi."
   },
@@ -4483,9 +4607,13 @@
     "name": "Hazine Avcılarının Hazine Haritası",
     "description": "Eskiden yırtılıp ikiye ayrılmış ve parçaları Hazine Avcıları tarafından farklı yerlere saklanan bu hazine haritası şimdi tekrar birleştirildi.\\nÜzerindeki işareti takip edersen özel bir hazine bulabilirsin!"
   },
-  "StorehouseSecurityKeyNo": {
+  "StorehouseSecurityKeyNo1": {
     "name": "1. Depo Güvenlik Anahtarı",
     "description": "Bir deponun anahtarı. Epey göz önünde olan bir yere gizlenmiş ama Hazine Avcıları bu anahtarı asla bulamamış. Görünüşe göre işlerinde sandıkları kadar iyi değiller."
+  },
+  "StorehouseSecurityKeyNo2": {
+    "name": "2. Depo Güvenlik Anahtarı",
+    "description": "Bir deponun anahtarı. Olabildiğince göz önünde olan bir yere gizlenmiş ama Hazine Avcıları bu anahtarı asla bulamamış. Hazine Avcılığını tekrar öğrenseler iyi olacak."
   },
   "ASetOfCannonballs": {
     "name": "Kutu Gülle",
@@ -4951,9 +5079,21 @@
     "name": "Koş Dodoko, Koş!",
     "description": "Editörün Notu: \"Koş Dodoko, Koş!\", biri büyük biri küçük iki kızın ortak eseri. Nezaketleri ve iyi dilekleri her bölümde kağıda dökülmüş çünkü hikayeyi okurlarımıza hediye olarak yazmışlar. Umarım bu kitap, kısa olsa da uzun bir iş gününden sonra size biraz neşe verebilir."
   },
-  "AkosTreasureLocation": {
+  "AkosTreasureLocation1": {
     "name": "Ako'nun Hazinesi: 1. Konum",
     "description": "Ako Domeki ve tayfası gitmeden önce buraya bir hazine saklamış ve takımadalarda yeniden buluştuklarında kazıp çıkarmak üzere sözleşmişler. Hazinenin gizlendiği yeri gösteren ipuçları dört parçaya ayrılmış ve bu da birinci parçası."
+  },
+  "AkosTreasureLocation2": {
+    "name": "Ako'nun Hazinesi: 2. Konum",
+    "description": "Ako Domeki ve tayfası gitmeden önce buraya bir hazine saklamış ve takımadalarda yeniden buluştuklarında kazıp çıkarmak üzere sözleşmişler. Hazinenin gizlendiği yeri gösteren ipuçları dört parçaya ayrılmış ve bu da ikinci parçası."
+  },
+  "AkosTreasureLocation3": {
+    "name": "Ako'nun Hazinesi: 3. Konum",
+    "description": "Ako Domeki ve tayfası gitmeden önce buraya bir hazine saklamış ve takımadalarda yeniden buluştuklarında kazıp çıkarmak üzere sözleşmişler. Hazinenin gizlendiği yeri gösteren ipuçları dört parçaya ayrılmış ve bu da üçüncü parçası."
+  },
+  "AkosTreasureLocation4": {
+    "name": "Ako'nun Hazinesi: 4. Konum",
+    "description": "Ako Domeki ve tayfası gitmeden önce buraya bir hazine saklamış ve takımadalarda yeniden buluştuklarında kazıp çıkarmak üzere sözleşmişler. Hazinenin gizlendiği yeri gösteren ipuçları dört parçaya ayrılmış ve bu da dördüncü parçası."
   },
   "YajnaGrass": {
     "name": "Yajna Otu",
@@ -5195,9 +5335,85 @@
     "name": "Bir Not",
     "description": "Eğri büğrü bir el yazısıyla yazılmış kırışık bir not."
   },
-  "RedemptionVoucher": {
+  "RedemptionVoucher1": {
     "name": "Etkinleştirme Kuponu 1",
     "description": "Bununla Aynavuz Boynuzlu Baykuş: Dönüyor alınabilir."
+  },
+  "RedemptionVoucher2": {
+    "name": "Etkinleştirme Kuponu 2",
+    "description": "Bununla Aynavuz Boynuzlu Baykuş: Dans Ediyor alınabilir."
+  },
+  "RedemptionVoucher3": {
+    "name": "Etkinleştirme Kuponu 3",
+    "description": "Bununla Aynavuz Boynuzlu Baykuş: Uçuş Vakti alınabilir."
+  },
+  "RedemptionVoucher4": {
+    "name": "Etkinleştirme Kuponu 4",
+    "description": "Bununla Gürleyen Boynuzlu Baykuş: Dönüyor alınabilir."
+  },
+  "RedemptionVoucher5": {
+    "name": "Etkinleştirme Kuponu 5",
+    "description": "Bununla Gürleyen Boynuzlu Baykuş: Dans Ediyor alınabilir."
+  },
+  "RedemptionVoucher6": {
+    "name": "Etkinleştirme Kuponu 6",
+    "description": "Bununla Gürleyen Boynuzlu Baykuş: Uçuş Vakti alınabilir."
+  },
+  "RedemptionVoucher7": {
+    "name": "Etkinleştirme Kuponu 7",
+    "description": "Bununla Ateşken Boynuzlu Baykuş: Dönüyor alınabilir."
+  },
+  "RedemptionVoucher8": {
+    "name": "Etkinleştirme Kuponu 8",
+    "description": "Bununla Ateşken Boynuzlu Baykuş: Dans Ediyor alınabilir."
+  },
+  "RedemptionVoucher9": {
+    "name": "Etkinleştirme Kuponu 9",
+    "description": "Bununla Ateşken Boynuzlu Baykuş: Uçuş Vakti alınabilir."
+  },
+  "RedemptionVoucher10": {
+    "name": "Etkinleştirme Kuponu 10",
+    "description": "Bununla Seyyar Boynuzlu Baykuş alınabilir."
+  },
+  "RedemptionVoucher11": {
+    "name": "Etkinleştirme Kuponu 11",
+    "description": "Bununla Aynavuz Üçayak: Eğmece alınabilir."
+  },
+  "RedemptionVoucher12": {
+    "name": "Etkinleştirme Kuponu 12",
+    "description": "Bununla Aynavuz Üçayak: Sallandur alınabilir."
+  },
+  "RedemptionVoucher13": {
+    "name": "Etkinleştirme Kuponu 13",
+    "description": "Bununla Aynavuz Üçayak: Oturgaç alınabilir."
+  },
+  "RedemptionVoucher14": {
+    "name": "Etkinleştirme Kuponu 14",
+    "description": "Bununla Gürleyen Üçayak: Eğmece alınabilir."
+  },
+  "RedemptionVoucher15": {
+    "name": "Etkinleştirme Kuponu 15",
+    "description": "Bununla Gürleyen Üçayak: Sallandur alınabilir."
+  },
+  "RedemptionVoucher16": {
+    "name": "Etkinleştirme Kuponu 16",
+    "description": "Bununla Gürleyen Üçayak: Oturgaç alınabilir."
+  },
+  "RedemptionVoucher17": {
+    "name": "Etkinleştirme Kuponu 17",
+    "description": "Bununla Ateşken Üçayak: Eğmece alınabilir."
+  },
+  "RedemptionVoucher18": {
+    "name": "Etkinleştirme Kuponu 18",
+    "description": "Bununla Ateşken Üçayak: Sallandur alınabilir."
+  },
+  "RedemptionVoucher19": {
+    "name": "Etkinleştirme Kuponu 19",
+    "description": "Bununla Ateşken Üçayak: Oturgaç alınabilir."
+  },
+  "RedemptionVoucher20": {
+    "name": "Etkinleştirme Kuponu 20",
+    "description": "Bununla Seyyar Üçayak alınabilir."
   },
   "PartBreeze": {
     "name": "Parça: Esinti",
@@ -5363,8 +5579,16 @@
     "name": "Muhbir Kodu Şeması",
     "description": "Alhaitham tarafından verilen bir kod şeması. Görünüşe bakılırsa Dori'den özel bir şey almak istediğinde önce doğru kodu vermelisin.\\nDori'nin elemanı ile görüşmeden önce kod şemasını kontrol etmeyi unutma."
   },
-  "MisplacedConch": {
+  "MisplacedConch1": {
     "name": "Yolunu Kaybeden Deniz Kabuğu 1",
+    "description": "Bu Görüntülü Kabuk başka bir yere yerleştirilmeliydi ama birisi onu buraya bırakmış ve bu yüzden de görüntüleri sırasıyla oynatamıyor. Onu olması gereken yere götürmelisin, kim bilir orada daha neler bulacaksın..."
+  },
+  "MisplacedConch2": {
+    "name": "Yolunu Kaybeden Deniz Kabuğu 2",
+    "description": "Bu Görüntülü Kabuk başka bir yere yerleştirilmeliydi ama birisi onu buraya bırakmış ve bu yüzden de görüntüleri sırasıyla oynatamıyor. Onu olması gereken yere götürmelisin, kim bilir orada daha neler bulacaksın..."
+  },
+  "MisplacedConch3": {
+    "name": "Yolunu Kaybeden Deniz Kabuğu 3",
     "description": "Bu Görüntülü Kabuk başka bir yere yerleştirilmeliydi ama birisi onu buraya bırakmış ve bu yüzden de görüntüleri sırasıyla oynatamıyor. Onu olması gereken yere götürmelisin, kim bilir orada daha neler bulacaksın..."
   },
   "PrescriptionMedicationFromBimarstanForGurgen": {
@@ -6631,7 +6855,7 @@
     "name": "Izgara Acil Durum Balığı",
     "description": "Keqing'in özel tarifi. Bu balık ızgarada değil, hassas bir Elektrik uygulaması ile kızartıldı. Küçük bir ısırık alınca hafif yanmış derinin altındaki hoş kokulu balık ortaya çıkıyor. Son derece dengeli bir tada sahip. Keqing vahşi doğada böyle mi hayatta kalıyor yani? Kimseyi dış görünüşüne göre yargılamamak gerek."
   },
-  "NutritiousMealV": {
+  "NutritiousMealV593": {
     "name": "Sağlıklı Yemek (No. 593)",
     "description": "Sucrose'un özel tarifi. İlk bakışta tuhaf bir simya ürününe benzese de Sucrose, bu yemeğin çok sayıda deneme ve itinalı geliştirme çalışmaları sonucunda ortaya çıkan sağlıklı ve besleyici bir yemek olduğunu söylüyor. Sağlıklı yeşil rengini krema ve doğal sebze sularının karışımından alıyor... Bir dakika, sebze suları mı?"
   },
@@ -7259,7 +7483,7 @@
     "name": "Yaz Festivali Balığı",
     "description": "Yoimiya'nın özel tarifi. Havai fişekleri izlerken ellerin Yoimiya'nın verdiği atıştırmalıklarla dolu. Tepede havai fişekler patlarken Yoimiya'nın gamsız ve çocuksu kahkahası kulaklarında çınlıyor... Etraf bu eşsiz seslerle dolmuşken elindeki tombul balık sanki her an yüzmeye başlayabilirmiş gibi görünüyor..."
   },
-  "DizzinessBeGoneNoJutsuVersion": {
+  "DizzinessBeGoneNoJutsuVersion20": {
     "name": "Ağrı Kesici 2.0",
     "description": "Sayu'nun özel tarifi. Sayu, Onigirileri yoğurarak sevimli bir şekil vermiş. Bu bir tanuki değil, mujina. Unutma tamam mı? Sayu'nun yemek yedikten sonra tüm gün uyuyabilmesini sağlayan bu olsa gerek, ne dersin?"
   },
@@ -9635,7 +9859,7 @@
     "name": "SB Ödülü",
     "description": "\"Karanlığın hüküm sürdüğü topraklarda yolculuk yaptığında parlak silahlara ihtiyacın olur. Gizlice saldıracak gölgeleri kesecekleri saati burada muhafaza halde bekliyorlar.\""
   },
-  "BPPickOfTestBundle": {
+  "BPPick1Of3TestBundle": {
     "name": "SB Deneme Paketi (3 Seçenekli)",
     "description": ""
   },
@@ -10999,9 +11223,397 @@
     "name": "Yıldız Işığı Kanatları",
     "description": "Uzak dünyaların birinde kutlanan festival için özel olarak tasarlanmış hediye bir kanat."
   },
-  "RadiantSpincrystal": {
+  "RadiantSpincrystal1": {
     "name": "Parlak Burgu Kristal 1",
     "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Dawn Winery Theme\" müziği vardır."
+  },
+  "RadiantSpincrystal2": {
+    "name": "Parlak Burgu Kristal 2",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"A Sweet Smile\" müziği vardır."
+  },
+  "RadiantSpincrystal3": {
+    "name": "Parlak Burgu Kristal 3",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde bulunan ezgi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalin içerisinde \"Lone Sojourner\" müziği vardır."
+  },
+  "RadiantSpincrystal4": {
+    "name": "Parlak Burgu Kristal 4",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"A Day in Mondstadt\" müziği vardır."
+  },
+  "RadiantSpincrystal5": {
+    "name": "Parlak Burgu Kristal 5",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"The Edge of the Prairie\" müziği vardır."
+  },
+  "RadiantSpincrystal6": {
+    "name": "Parlak Burgu Kristal 6",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"A Tale of Two Dragons\" müziği vardır."
+  },
+  "RadiantSpincrystal7": {
+    "name": "Parlak Burgu Kristal 7",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Happy Journey\" müziği vardır."
+  },
+  "RadiantSpincrystal8": {
+    "name": "Parlak Burgu Kristal 8",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Legend of the Wind\" müziği vardır."
+  },
+  "RadiantSpincrystal9": {
+    "name": "Parlak Burgu Kristal 9",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Bustling Afternoon in Mondstadt\" müziği vardır."
+  },
+  "RadiantSpincrystal10": {
+    "name": "Parlak Burgu Kristal 10",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Dusk in Mondstadt\" müziği vardır."
+  },
+  "RadiantSpincrystal11": {
+    "name": "Parlak Burgu Kristal 11",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Mondstadt Starlit\" müziği vardır."
+  },
+  "RadiantSpincrystal12": {
+    "name": "Parlak Burgu Kristal 12",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Moonlight in Mondstadt\" müziği vardır."
+  },
+  "RadiantSpincrystal13": {
+    "name": "Parlak Burgu Kristal 13",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Another Day in Mondstadt\" müziği vardır."
+  },
+  "RadiantSpincrystal14": {
+    "name": "Parlak Burgu Kristal 14",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Windborne Hymn\" müziği vardır."
+  },
+  "RadiantSpincrystal15": {
+    "name": "Parlak Burgu Kristal 15",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Knights of Favonius\" müziği vardır."
+  },
+  "RadiantSpincrystal16": {
+    "name": "Parlak Burgu Kristal 16",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde\"Angel's Share\" müziği vardır."
+  },
+  "RadiantSpincrystal17": {
+    "name": "Parlak Burgu Kristal 17",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"A Happy Day\" müziği vardır."
+  },
+  "RadiantSpincrystal18": {
+    "name": "Parlak Burgu Kristal 18",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Tender Strength\" müziği vardır."
+  },
+  "RadiantSpincrystal19": {
+    "name": "Parlak Burgu Kristal 19",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Before Dawn, at the Winery\" müziği vardır."
+  },
+  "RadiantSpincrystal20": {
+    "name": "Parlak Burgu Kristal 20",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Whispering Plain\" müziği vardır."
+  },
+  "RadiantSpincrystal21": {
+    "name": "Parlak Burgu Kristal 21",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"A New Day With Hope\" müziği vardır."
+  },
+  "RadiantSpincrystal22": {
+    "name": "Parlak Burgu Kristal 22",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Eternal Anamnesis\" müziği vardır."
+  },
+  "RadiantSpincrystal23": {
+    "name": "Parlak Burgu Kristal 23",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Journey of Hope\" müziği vardır."
+  },
+  "RadiantSpincrystal24": {
+    "name": "Parlak Burgu Kristal 24",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Sun Rises in Liyue\" müziği vardır."
+  },
+  "RadiantSpincrystal25": {
+    "name": "Parlak Burgu Kristal 25",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Good Night, Liyue\" müziği vardır."
+  },
+  "RadiantSpincrystal26": {
+    "name": "Parlak Burgu Kristal 26",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Call It a Day in Liyue\" müziği vardır."
+  },
+  "RadiantSpincrystal27": {
+    "name": "Parlak Burgu Kristal 27",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Clear Sky Over Liyue\" müziği vardır."
+  },
+  "RadiantSpincrystal28": {
+    "name": "Parlak Burgu Kristal 28",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Cozy Leisure Time\" müziği vardır."
+  },
+  "RadiantSpincrystal29": {
+    "name": "Parlak Burgu Kristal 29",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Winding River\" müziği vardır."
+  },
+  "RadiantSpincrystal30": {
+    "name": "Parlak Burgu Kristal 30",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Mild Waves\" müziği vardır."
+  },
+  "RadiantSpincrystal31": {
+    "name": "Parlak Burgu Kristal 31",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Rhythm Amidst the Reeds\" müziği vardır."
+  },
+  "RadiantSpincrystal32": {
+    "name": "Parlak Burgu Kristal 32",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Flows of Jade-Like Water\" müziği vardır."
+  },
+  "RadiantSpincrystal33": {
+    "name": "Parlak Burgu Kristal 33",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Flow of Mildness\" müziği vardır."
+  },
+  "RadiantSpincrystal34": {
+    "name": "Parlak Burgu Kristal 34",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Vague Whispers\" müziği vardır."
+  },
+  "RadiantSpincrystal35": {
+    "name": "Parlak Burgu Kristal 35",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Legends Swept Away\" müziği vardır."
+  },
+  "RadiantSpincrystal36": {
+    "name": "Parlak Burgu Kristal 36",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Plain of Nostalgia\" müziği vardır."
+  },
+  "RadiantSpincrystal37": {
+    "name": "Parlak Burgu Kristal 37",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Rhythms From the Conch\" müziği vardır."
+  },
+  "RadiantSpincrystal38": {
+    "name": "Parlak Burgu Kristal 38",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Peaceful Hike\" müziği vardır."
+  },
+  "RadiantSpincrystal39": {
+    "name": "Parlak Burgu Kristal 39",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"The Fading Stories\" müziği vardır."
+  },
+  "RadiantSpincrystal40": {
+    "name": "Parlak Burgu Kristal 40",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Above the Sea of Clouds\" müziği vardır."
+  },
+  "RadiantSpincrystal41": {
+    "name": "Parlak Burgu Kristal 41",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Rainbow at Summit\" müziği vardır."
+  },
+  "RadiantSpincrystal42": {
+    "name": "Parlak Burgu Kristal 42",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Red Leaf on the Chessboard\" müziği vardır."
+  },
+  "RadiantSpincrystal43": {
+    "name": "Parlak Burgu Kristal 43",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Slumbering Lore\" müziği vardır."
+  },
+  "RadiantSpincrystal44": {
+    "name": "Parlak Burgu Kristal 44",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Lost Expectation\" müziği vardır."
+  },
+  "RadiantSpincrystal45": {
+    "name": "Parlak Burgu Kristal 45",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"The Realm Within\" müziği vardır."
+  },
+  "RadiantSpincrystal46": {
+    "name": "Parlak Burgu Kristal 46",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Sojourner's Sweet Dream\" müziği vardır."
+  },
+  "RadiantSpincrystal47": {
+    "name": "Parlak Burgu Kristal 47",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Miko's Night\" müziği vardır."
+  },
+  "RadiantSpincrystal48": {
+    "name": "Parlak Burgu Kristal 48",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Streets of Elegance\" müziği vardır."
+  },
+  "RadiantSpincrystal49": {
+    "name": "Parlak Burgu Kristal 49",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"The Land of Her Serenity\" müziği vardır."
+  },
+  "RadiantSpincrystal50": {
+    "name": "Parlak Burgu Kristal 50",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"The Mysterious Islands\" müziği vardır."
+  },
+  "RadiantSpincrystal51": {
+    "name": "Parlak Burgu Kristal 51",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Everlasting Devotion\" müziği vardır."
+  },
+  "RadiantSpincrystal52": {
+    "name": "Parlak Burgu Kristal 52",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Kitsune's Mask\" müziği vardır."
+  },
+  "RadiantSpincrystal53": {
+    "name": "Parlak Burgu Kristal 53",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Hanachirusato\" müziği vardır."
+  },
+  "RadiantSpincrystal54": {
+    "name": "Parlak Burgu Kristal 54",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Time to Say Farewell\" müziği vardır."
+  },
+  "RadiantSpincrystal55": {
+    "name": "Parlak Burgu Kristal 55",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Flickering Sakura\" müziği vardır."
+  },
+  "RadiantSpincrystal56": {
+    "name": "Parlak Burgu Kristal 56",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Murmuring Creek\" müziği vardır."
+  },
+  "RadiantSpincrystal57": {
+    "name": "Parlak Burgu Kristal 57",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Scarred Island\" müziği vardır."
+  },
+  "RadiantSpincrystal58": {
+    "name": "Parlak Burgu Kristal 58",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Silent Testimony\" müziği vardır."
+  },
+  "RadiantSpincrystal59": {
+    "name": "Parlak Burgu Kristal 59",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Island of Hanabi\" müziği vardır."
+  },
+  "RadiantSpincrystal60": {
+    "name": "Parlak Burgu Kristal 60",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Preparation of Matsuri\" müziği vardır."
+  },
+  "RadiantSpincrystal61": {
+    "name": "Parlak Burgu Kristal 61",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Illuminated Coral Palace\" müziği vardır."
+  },
+  "RadiantSpincrystal62": {
+    "name": "Parlak Burgu Kristal 62",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"A Tranquil Town\" müziği vardır."
+  },
+  "RadiantSpincrystal63": {
+    "name": "Parlak Burgu Kristal 63",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"In a Harmonious Atmosphere\" müziği vardır."
+  },
+  "RadiantSpincrystal64": {
+    "name": "Parlak Burgu Kristal 64",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Island of Crystal and Pearl\" müziği vardır."
+  },
+  "RadiantSpincrystal65": {
+    "name": "Parlak Burgu Kristal 65",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Misty Truth\" müziği vardır."
+  },
+  "RadiantSpincrystal66": {
+    "name": "Parlak Burgu Kristal 66",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Sorrows of Strays\" müziği vardır."
+  },
+  "RadiantSpincrystal67": {
+    "name": "Parlak Burgu Kristal 67",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Ruu's Melody\" müziği vardır."
+  },
+  "RadiantSpincrystal68": {
+    "name": "Parlak Burgu Kristal 68",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Roaming in Silence\" müziği vardır."
+  },
+  "RadiantSpincrystal69": {
+    "name": "Parlak Burgu Kristal 69",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Echoes of Solitude\" müziği vardır."
+  },
+  "RadiantSpincrystal70": {
+    "name": "Parlak Burgu Kristal 70",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Dirge of the Soundless\" müziği vardır."
+  },
+  "RadiantSpincrystal71": {
+    "name": "Parlak Burgu Kristal 71",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Nothing but Ivy\" müziği vardır."
+  },
+  "RadiantSpincrystal72": {
+    "name": "Parlak Burgu Kristal 72",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Forgotten Epic\" müziği vardır."
+  },
+  "RadiantSpincrystal73": {
+    "name": "Parlak Burgu Kristal 73",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde \"Beyond Klesha\" müziği vardır."
+  },
+  "RadiantSpincrystal74": {
+    "name": "Parlak Burgu Kristal 74",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok güzel bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde \"Melody of Hidden Seeds\" müziği vardır."
+  },
+  "RadiantSpincrystal75": {
+    "name": "Parlak Burgu Kristal 75",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde \"Varuna's Mercy\" müziği vardır."
+  },
+  "RadiantSpincrystal76": {
+    "name": "Parlak Burgu Kristal 76",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde \"Vestige of Dahri\" müziği vardır."
+  },
+  "RadiantSpincrystal77": {
+    "name": "Parlak Burgu Kristal 77",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde \"Chatter Between Roots\" müziği vardır."
+  },
+  "RadiantSpincrystal78": {
+    "name": "Parlak Burgu Kristal 78",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde \"Whirling of Leaves and Petals\" müziği vardır."
+  },
+  "RadiantSpincrystal79": {
+    "name": "Parlak Burgu Kristal 79",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde \"Hustle and Bustle of Ormos\" müziği vardır."
+  },
+  "RadiantSpincrystal80": {
+    "name": "Parlak Burgu Kristal 80",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde \"Halcyon Times\" müziği vardır."
+  },
+  "RadiantSpincrystal81": {
+    "name": "Parlak Burgu Kristal 81",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde \"A Puff of Cool Breeze\" müziği vardır."
+  },
+  "RadiantSpincrystal82": {
+    "name": "Parlak Burgu Kristal 82",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"On the Barren Sands\" müziği vardır."
+  },
+  "RadiantSpincrystal83": {
+    "name": "Parlak Burgu Kristal 83",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Arid Canyon\" müziği vardır."
+  },
+  "RadiantSpincrystal84": {
+    "name": "Parlak Burgu Kristal 84",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Settlement for Exiles\" müziği vardır."
+  },
+  "RadiantSpincrystal85": {
+    "name": "Parlak Burgu Kristal 85",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Ruins of Scorching Might\" müziği vardır."
+  },
+  "RadiantSpincrystal86": {
+    "name": "Parlak Burgu Kristal 86",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Eye of Deshret\" müziği vardır."
+  },
+  "RadiantSpincrystal87": {
+    "name": "Parlak Burgu Kristal 87",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Emerald in the Desert\" müziği vardır."
+  },
+  "RadiantSpincrystal88": {
+    "name": "Parlak Burgu Kristal 88",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+  },
+  "RadiantSpincrystal89": {
+    "name": "Parlak Burgu Kristal 89",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+  },
+  "RadiantSpincrystal90": {
+    "name": "Parlak Burgu Kristal 90",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+  },
+  "RadiantSpincrystal91": {
+    "name": "Parlak Burgu Kristal 91",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+  },
+  "RadiantSpincrystal92": {
+    "name": "Parlak Burgu Kristal 92",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+  },
+  "RadiantSpincrystal93": {
+    "name": "Parlak Burgu Kristal 93",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+  },
+  "RadiantSpincrystal94": {
+    "name": "Parlak Burgu Kristal 94",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+  },
+  "RadiantSpincrystal95": {
+    "name": "Parlak Burgu Kristal 95",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+  },
+  "RadiantSpincrystal96": {
+    "name": "Parlak Burgu Kristal 96",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+  },
+  "RadiantSpincrystal97": {
+    "name": "Parlak Burgu Kristal 97",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+  },
+  "RadiantSpincrystal98": {
+    "name": "Parlak Burgu Kristal 98",
+    "description": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
   },
   "FragrantSteak": {
     "name": "Baharatlı Biftek",
@@ -11987,7 +12599,7 @@
     "name": "Yoğun Reçine",
     "description": "Aynı anda en fazla 5 adet taşıyabilirsin.\\nDaha fazla ödül almak, Taşlaşmış Ağaçları ve Ley Hattı Çiçeklerini canlandırmak için Orijinal Reçine yerine kullanılabilen yoğunlaştırılmış ağaç reçinesi.\\nSınırsız enerjiyle dolu kristal.\\nGümüş beyazı Irminsul ağaçları ve çiçekleri zamanla önüne engel konmuş ley hatlarına bağlanmıştır. Ağaç reçinesinin içerdiği enerji, ley hatlarını engelleyen maddeyi arındırabilir."
   },
-  "NREMenu": {
+  "NREMenu30": {
     "name": "Beslenme Çantası (Menü 30)",
     "description": "Çoğu yemeği anında sindirilebilen besinlere çeviren bir beslenme çantası. Aldıkları besinlerin etkisini inanılmaz derecede artıracak olmasına rağmen çoğu şövalye yemeklerini bu çantanın içine koymaktan çekiniyor."
   },
@@ -12255,7 +12867,7 @@
     "name": "Talimatlar: Yoğun Reçine",
     "description": "Yoğun Reçine yapımını adım adım anlatan ayrıntılı talimatlar. Birkaç Ley Hattı Çiçeğini ve Taşlaşmış Ağacı etkinleştirmek için yoğunlaştırılmış reçine kullanmak verimliliğini artırır. Tek seferde en fazla 5 adet Yoğun Reçine taşıyabilirsin."
   },
-  "DiagramNREMenu": {
+  "DiagramNREMenu30": {
     "name": "Plan: Beslenme Çantası (Menü 30)",
     "description": "Beslenme Çantası yapımını adım adım anlatan ayrıntılı bir plan. Bunu öğrendiğine çok daha hızlı yemek yapan bir alet üretebilirsin."
   },
@@ -13023,7 +13635,7 @@
     "name": "Gunnhildr'ın Mirası",
     "description": "Jean'in giysisi. Bu klasik şövalye tören giysisi her duruma uygun."
   },
-  "Outrider": {
+  "100Outrider": {
     "name": "%100 Kaşif",
     "description": "Amber'ın giysisi. Bu, Kaşif üniformasının daha resmi ama en az onun kadar havalı bir çeşidi!"
   },

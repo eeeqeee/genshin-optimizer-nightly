@@ -975,23 +975,23 @@
     "name": "",
     "description": ""
   },
-  "KamisatoAyakaForCB": {
+  "KamisatoAyakaForCB1": {
     "name": "Kamisato Ayaka – für CB1",
     "description": "Kamisato Ayaka St. 15 erhalten."
   },
-  "XianglingForCB": {
+  "XianglingForCB1": {
     "name": "Xiangling – für CB1",
     "description": "Xiangling St. 15 erhalten."
   },
-  "JeanForCB": {
+  "JeanForCB1": {
     "name": "Jean – für CB1",
     "description": "Jean St. 15 erhalten."
   },
-  "DilucForCB": {
+  "DilucForCB1": {
     "name": "Diluc – für CB1",
     "description": "Diluc St. 15 erhalten."
   },
-  "VentiForCB": {
+  "VentiForCB1": {
     "name": "Venti – für CB1",
     "description": "Venti St. 15 erhalten."
   },
@@ -1031,11 +1031,11 @@
     "name": "",
     "description": ""
   },
-  "BarbaraForCB": {
+  "BarbaraForCB1": {
     "name": "Barbara – für CB1",
     "description": "Barbara St. 15 erhalten."
   },
-  "RazorForCB": {
+  "RazorForCB1": {
     "name": "Razor – für CB1",
     "description": "Razor St. 15 erhalten."
   },
@@ -1335,9 +1335,13 @@
     "name": "Eine weite Flucht",
     "description": "Musks Reiseaufzeichnungen. Im Teil über das Musk-Riff liest du den Satz, „Vom Kap der Liebenden schafft man es nur auf einer morgendlichen Brise hierher.“"
   },
-  "IncompleteScorePart": {
+  "IncompleteScorePart1": {
     "name": "Unvollständiges Notenheft (Teil 1)",
     "description": "Die erste Hälfte des Notenhefts für das Stück „Yellow“. In der Ecke rechts unten steht „Für J, von S“."
+  },
+  "IncompleteScorePart2": {
+    "name": "Unvollständiges Notenheft (Teil 2)",
+    "description": "Die zweite Hälfte des Notenhefts für das Stück „Yellow“."
   },
   "PrivateLetterFromLisaToJean": {
     "name": "Brief von Lisa an Jean",
@@ -1359,9 +1363,17 @@
     "name": "Barbaras Heilmittel",
     "description": "Von Lisa an Barbara."
   },
-  "IncompletePoemPart": {
+  "IncompletePoemPart1": {
     "name": "Unvollständiges Gedicht (Teil 1)",
     "description": "Ein Teil des Gedichts, das du für Venti finden solltest."
+  },
+  "IncompletePoemPart2": {
+    "name": "Unvollständiges Gedicht (Teil 2)",
+    "description": "Ein weiterer Teil des Gedichts, das du für Venti finden solltest."
+  },
+  "IncompletePoemPart3": {
+    "name": "Unvollständiges Gedicht (Teil 3)",
+    "description": "Der letzte Teil des Gedichts, das du für Venti finden solltest. Zusammen ergeben die Teile ein Liebesgedicht."
   },
   "InscriptionRubbing": {
     "name": "Abgepauste Inschrift",
@@ -1415,12 +1427,52 @@
     "name": "Blutroter Kristall",
     "description": "Ein Kristall in Form eines Wassertropfens. Ein tiefes Rot durchzieht ihn. Vielleicht hat dieser Drache ihn zurückgelassen? Diese seltsame Person, die eben mit dem Drachen gesprochen hat, weiß da vielleicht mehr. Aber wo ist sie hin?"
   },
-  "SealClue": {
+  "SealClue101": {
     "name": "Siegelspur 101",
     "description": "Siegelspur"
   },
-  "BreakSeal": {
+  "SealClue102": {
+    "name": "Siegelspur 102",
+    "description": "Siegelspur"
+  },
+  "SealClue103": {
+    "name": "Siegelspur 103",
+    "description": "Siegelspur"
+  },
+  "SealClue201": {
+    "name": "Siegelspur 201",
+    "description": "Siegelspur"
+  },
+  "SealClue202": {
+    "name": "Siegelspur 202",
+    "description": "Siegelspur"
+  },
+  "SealClue203": {
+    "name": "Siegelspur 203",
+    "description": "Siegelspur"
+  },
+  "SealClue301": {
+    "name": "Siegelspur 301",
+    "description": "Siegelspur"
+  },
+  "SealClue302": {
+    "name": "Siegelspur 302",
+    "description": "Siegelspur"
+  },
+  "SealClue303": {
+    "name": "Siegelspur 303",
+    "description": "Siegelspur"
+  },
+  "BreakSeal1": {
     "name": "Brich das Siegel 1",
+    "description": "Brich das Siegel"
+  },
+  "BreakSeal2": {
+    "name": "Brich das Siegel 2",
+    "description": "Brich das Siegel"
+  },
+  "BreakSeal3": {
+    "name": "Brich das Siegel 3",
     "description": "Brich das Siegel"
   },
   "InvestigateTheSealOfStormterrorsLair": {
@@ -1435,8 +1487,16 @@
     "name": "Bruchstückhafte Erinnerung (Anemo)",
     "description": "Es ist fast so, als könntest du Stimmen hören, wenn du es nah genug an dein Ohr hältst. (Nicht verfügbar)"
   },
-  "SwordCemeterySeal": {
+  "SwordCemeterySeal1": {
     "name": "Schwertergrabsiegel 1",
+    "description": "Brich das Siegel"
+  },
+  "SwordCemeterySeal2": {
+    "name": "Schwertergrabsiegel 2",
+    "description": "Brich das Siegel"
+  },
+  "SwordCemeterySeal3": {
+    "name": "Schwertergrabsiegel 3",
     "description": "Brich das Siegel"
   },
   "TeardropCrystal": {
@@ -1655,7 +1715,7 @@
     "name": "Schneemädchen und die sechs Winzlinge – Band VII",
     "description": "Ein Märchen, das man sich in Teyvat erzählt. Der erste Band beinhaltet das Ende der Geschichte und die Weissagung der Mutter der Nacht."
   },
-  "YearsOfLoneliness": {
+  "1000YearsOfLoneliness": {
     "name": "Jahrtausende in Einsamkeit",
     "description": "Der Beginn der fantastischen und tragischen Reise des Jägers aus Quellingen. Worin liegt der Ursprung all des Unglücks? Worin bestehen Anfang und Ende der Reise Jahrtausende in Einsamkeit? Der erste Teil der Reihe „Jahrtausende in Einsamkeit“ wird dich in den traumgleichen Nebel führen, der Gothsons Leben erfüllt."
   },
@@ -1867,7 +1927,71 @@
     "name": "Ungewöhnliches Getränk",
     "description": "Ein Getränk, wie man es überall zu sehen bekommt."
   },
-  "TESTCocktail": {
+  "TESTCocktail16": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail17": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail18": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail19": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail20": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail21": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail22": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail23": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail24": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail25": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail26": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail27": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail28": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail29": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail30": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail31": {
+    "name": "",
+    "description": ""
+  },
+  "TESTCocktail32": {
     "name": "",
     "description": ""
   },
@@ -2527,7 +2651,7 @@
     "name": "Zerrissene Aufzeichnungen",
     "description": "Notizen einer fremden Person. Es scheint um ziemlich wichtige Dinge zu gehen."
   },
-  "KnightsOfFavoniusHandbookThEdition": {
+  "KnightsOfFavoniusHandbook5thEdition": {
     "name": "Handbuch des Ritterordens – 5. Ausgabe",
     "description": "Verhaltensregeln für die Mitglieder des Ordo Favonius von Mondstadt, persönlich bearbeitet von Jean, dem stellvertretenden Großmeister. Ein regelkonformer Ritter muss sich bei seinen Taten und seiner Ausdrucksweise an diese Richtlinien halten."
   },
@@ -4303,7 +4427,7 @@
     "name": "Prinzessin Mina des gefallenen Landes – Band VI",
     "description": "Die Wahrheit der Welt wird enthüllt und was für ein schrecklicher Scherz es ist! Selbst wenn sie getrennt werden, können die beiden den Ketten des Schicksals nicht entkommen.\\nDies mag der letzte Band von „Prinzessin Mina des gefallenen Landes“ sein, aber unsere Geschichte ist noch nicht zu Ende!"
   },
-  "FlowersForPrincessFischl": {
+  "FlowersForPrincessFischl0": {
     "name": "Die Nacht der Prinzessin Fischl – Band Null",
     "description": "Der Vorband der Reihe „Die Nacht der Prinzessin Fischl“. Ursprünglich kam dieses Werk in einer violett-schwarzen Holzbox als Geschenk in limitierter Auflage heraus, aber viele eingefleischte Fans der Reihe, die die ganze Saga sammeln wollten, waren über die große Menge an Inhalt im Vergleich zu der geringen Anzahl an gedruckten Exemplaren erzürnt.\\nDeshalb nannte das Verlagshaus Yae dieses Buch „Band Null“ und verkaufte es separat. Letztendlich wurden das Originalwerk, die Sammlerbox und Band Null von den Fans als wertvolle Sammlerstücke angesehen."
   },
@@ -4483,9 +4607,13 @@
     "name": "Schatzkarte der Schatzräuber",
     "description": "Eine Schatzkarte, die die Schatzräuber einst in zwei Teile gerissen und versteckt haben, jetzt aber wieder zu einer vollständigen Karte zusammengesetzt ist.\\nWenn du den Markierungen auf der Karte folgst, können sie dich zu einem großartigen Schatz führen."
   },
-  "StorehouseSecurityKeyNo": {
+  "StorehouseSecurityKeyNo1": {
     "name": "Lagersicherheitsschlüssel Nr. 1",
     "description": "Ein Schlüssel zum Lagerhaus, der an einem leicht zu findenden Ort versteckt ist. Die Schatzräuber haben ihn jedoch nicht gefunden, was bedeutet, dass ihre Professionalität zu wünschen übrig lässt."
+  },
+  "StorehouseSecurityKeyNo2": {
+    "name": "Lagersicherheitsschlüssel Nr. 2",
+    "description": "Ein weiterer Lagerhausschlüssel, der an einem leicht zu findenden Ort versteckt ist. Den Schatzräubern gelingt es jedoch nicht, ihn zu finden. Vielleicht könnten sie dringend einen Schnellkurs in Diebstahl und Räuberei gebrauchen."
   },
   "ASetOfCannonballs": {
     "name": "Satz Kanonenkugeln",
@@ -4951,9 +5079,21 @@
     "name": "Los geht’s, Dodoco!",
     "description": "Nachricht von der Redaktion: „Los geht’s, Dodoco!“ ist das gemeinsame Werk eines älteren und eines jüngeren Mädchens. Jedes Kapitel strotzt vor ihrer Sanftheit und ihren guten Wünschen, was das Buch zu einem echten Geschenk für euch, unsere Leser, macht. Ich hoffe, dass dieses Buch, trotz seines geringen Umfangs, dir nach einem langen Arbeitstag ein wenig Freude bereiten kann."
   },
-  "AkosTreasureLocation": {
+  "AkosTreasureLocation1": {
     "name": "Akos versteckter Schatz I",
     "description": "Beim Verlassen dieses Ortes entschloss sich die „Ako-Domeki-Bande“, hier einen Schatz zu hinterlassen. Als sie den Schatz vergrub, entschloss sich die Bande, sich später erneut auf der Insel zu versammeln und ihn auszugraben. Zu diesem Zweck erstellten sie eine Meereskarte, auf welcher der Ort, wo der Schatz vergraben liegt, markiert wurde und teilten sie in vier Teile. Dies ist der erste."
+  },
+  "AkosTreasureLocation2": {
+    "name": "Akos versteckter Schatz II",
+    "description": "Beim Verlassen dieses Ortes entschloss sich die „Ako-Domeki-Bande“, hier einen Schatz zu hinterlassen. Als sie den Schatz vergrub, entschloss sich die Bande, sich später erneut auf der Insel zu versammeln und ihn auszugraben. Zu diesem Zweck erstellten sie eine Meereskarte, auf welcher der Ort, wo der Schatz vergraben liegt, markiert wurde und teilten sie in vier Teile. Dies ist der zweite."
+  },
+  "AkosTreasureLocation3": {
+    "name": "Akos versteckter Schatz III",
+    "description": "Beim Verlassen dieses Ortes entschloss sich die „Ako-Domeki-Bande“, hier einen Schatz zu hinterlassen. Als sie den Schatz vergrub, entschloss sich die Bande, sich später erneut auf der Insel zu versammeln und ihn auszugraben. Zu diesem Zweck erstellten sie eine Meereskarte, auf welcher der Ort, wo der Schatz vergraben liegt, markiert wurde und teilten sie in vier Teile. Dies ist der dritte."
+  },
+  "AkosTreasureLocation4": {
+    "name": "Akos versteckter Schatz IV",
+    "description": "Beim Verlassen dieses Ortes entschloss sich die „Ako-Domeki-Bande“, hier einen Schatz zu hinterlassen. Als sie den Schatz vergrub, entschloss sich die Bande, sich später erneut auf der Insel zu versammeln und ihn auszugraben. Zu diesem Zweck erstellten sie eine Meereskarte, auf welcher der Ort, wo der Schatz vergraben liegt, markiert wurde und teilten sie in vier Teile. Dies ist der vierte."
   },
   "YajnaGrass": {
     "name": "Yajna-Gras",
@@ -5195,9 +5335,85 @@
     "name": "Ein Zettel",
     "description": "Ein geknitterter Zettel voller liederlicher Schrift."
   },
-  "RedemptionVoucher": {
+  "RedemptionVoucher1": {
     "name": "Gutschein Nr.1",
     "description": "Ein Gutschein, der gegen „Eule des Spiegelsees – Drehung“ eingetauscht werden kann."
+  },
+  "RedemptionVoucher2": {
+    "name": "Gutschein Nr.2",
+    "description": "Ein Gutschein, der gegen „Eule des Spiegelsees – Tanz“ eingetauscht werden kann."
+  },
+  "RedemptionVoucher3": {
+    "name": "Gutschein Nr.3",
+    "description": "Ein Gutschein, der gegen „Eule des Spiegelsees – Himmel“ eingetauscht werden kann."
+  },
+  "RedemptionVoucher4": {
+    "name": "Gutschein Nr.4",
+    "description": "Ein Gutschein, der gegen „Eule des Donners – Drehung“ eingetauscht werden kann."
+  },
+  "RedemptionVoucher5": {
+    "name": "Gutschein Nr.5",
+    "description": "Ein Gutschein, der gegen „Eule des Donners – Tanz“ eingetauscht werden kann."
+  },
+  "RedemptionVoucher6": {
+    "name": "Gutschein Nr.6",
+    "description": "Ein Gutschein, der gegen „Eule des Donners – Himmel“ eingetauscht werden kann."
+  },
+  "RedemptionVoucher7": {
+    "name": "Gutschein Nr.7",
+    "description": "Ein Gutschein, der gegen „Eule der fließenden Flammen – Drehung“ eingetauscht werden kann."
+  },
+  "RedemptionVoucher8": {
+    "name": "Gutschein Nr.8",
+    "description": "Ein Gutschein, der gegen „Eule der fließenden Flammen – Tanz“ eingetauscht werden kann."
+  },
+  "RedemptionVoucher9": {
+    "name": "Gutschein Nr.9",
+    "description": "Ein Gutschein, der gegen „Eule der fließenden Flammen – Himmel“ eingetauscht werden kann."
+  },
+  "RedemptionVoucher10": {
+    "name": "Gutschein Nr.10",
+    "description": "Ein Gutschein, der gegen „Eule der Reise“ eingetauscht werden kann."
+  },
+  "RedemptionVoucher11": {
+    "name": "Gutschein Nr.11",
+    "description": "Ein Gutschein, der gegen „Dreibeinige Maschine des Spiegelsees – Kippen“ eingetauscht werden kann."
+  },
+  "RedemptionVoucher12": {
+    "name": "Gutschein Nr.12",
+    "description": "Ein Gutschein, der gegen „Dreibeinige Maschine des Spiegelsees – Tanzen“ eingetauscht werden kann."
+  },
+  "RedemptionVoucher13": {
+    "name": "Gutschein Nr.13",
+    "description": "Ein Gutschein, der gegen „Dreibeinige Maschine des Spiegelsees – Sitzen“ eingetauscht werden kann."
+  },
+  "RedemptionVoucher14": {
+    "name": "Gutschein Nr.14",
+    "description": "Ein Gutschein, der gegen „Dreibeinige Maschine des Donners – Kippen“ eingetauscht werden kann."
+  },
+  "RedemptionVoucher15": {
+    "name": "Gutschein Nr.15",
+    "description": "Ein Gutschein, der gegen „Dreibeinige Maschine des Donners – Tanzen“ eingetauscht werden kann."
+  },
+  "RedemptionVoucher16": {
+    "name": "Gutschein Nr.16",
+    "description": "Ein Gutschein, der gegen „Dreibeinige Maschine des Donners – Sitzen“ eingetauscht werden kann."
+  },
+  "RedemptionVoucher17": {
+    "name": "Gutschein Nr.17",
+    "description": "Ein Gutschein, der gegen „Dreibeinige Maschine der fließenden Flammen – Kippen“ eingetauscht werden kann."
+  },
+  "RedemptionVoucher18": {
+    "name": "Gutschein Nr.18",
+    "description": "Ein Gutschein, der gegen „Dreibeinige Maschine der fließenden Flammen – Tanzen“ eingetauscht werden kann."
+  },
+  "RedemptionVoucher19": {
+    "name": "Gutschein Nr.19",
+    "description": "Ein Gutschein, der gegen „Dreibeinige Maschine der fließenden Flammen – Sitzen“ eingetauscht werden kann."
+  },
+  "RedemptionVoucher20": {
+    "name": "Gutschein Nr.20",
+    "description": "Ein Gutschein, der gegen „Dreibeinige Maschine der Reise“ eingetauscht werden kann."
   },
   "PartBreeze": {
     "name": "Teil – Auf dem Wind",
@@ -5363,8 +5579,16 @@
     "name": "Tabelle der Deckwörter der Informanten",
     "description": "Alhaitham hat euch eine Tabelle der Deckwörter der Informanten zur Verfügung gestellt. Es heißt, wer bei Dori „spezielle Waren“ kaufen möchte, müsse zuerst diesen Prozess durchlaufen.\\nAm besten schaut ihr euch noch einmal genau an, was darauf steht, bevor ihr zu Doris Informanten geht."
   },
-  "MisplacedConch": {
+  "MisplacedConch1": {
     "name": "Verlegte Schnecke 1",
+    "description": "Diese widerspiegelnde Schnecke sollte eigentlich woanders liegen, wurde aber hier zurückgelassen, sodass sie nun Abbilder verzerrt projiziert. Bring sie an ihren richtigen Platz zurück. Schau mal, was du dann herausfinden kannst ..."
+  },
+  "MisplacedConch2": {
+    "name": "Verlegte Schnecke 2",
+    "description": "Diese widerspiegelnde Schnecke sollte eigentlich woanders liegen, wurde aber hier zurückgelassen, sodass sie nun Abbilder verzerrt projiziert. Bring sie an ihren richtigen Platz zurück. Schau mal, was du dann herausfinden kannst ..."
+  },
+  "MisplacedConch3": {
+    "name": "Verlegte Schnecke 3",
     "description": "Diese widerspiegelnde Schnecke sollte eigentlich woanders liegen, wurde aber hier zurückgelassen, sodass sie nun Abbilder verzerrt projiziert. Bring sie an ihren richtigen Platz zurück. Schau mal, was du dann herausfinden kannst ..."
   },
   "PrescriptionMedicationFromBimarstanForGurgen": {
@@ -6631,7 +6855,7 @@
     "name": "Lebensrettender Grillfisch",
     "description": "Keqings Spezialzubereitung. Dieser Fisch ist nicht über dem Feuer gegrillt, sondern von innen heraus mithilfe der Elektro-Kraft gegart worden. Schon beim ersten Bissen durch die krosse Fischhaut erliegt man der Versuchung des knusprigen Fisches. Wenn Keqing durch die Wildnis streift, ist dies wohl eine ihrer Überlebensstrategien. Das sieht man ihr wirklich nicht an."
   },
-  "NutritiousMealV": {
+  "NutritiousMealV593": {
     "name": "Nahrhafte Kost Nr. 593",
     "description": "Saccharoses Spezialzubereitung. Auf den ersten Blick scheint dies ein Produkt aus ihrem Labor zu sein. Sie selbst beharrt aber darauf, dass diese nahrhafte Mahlzeit das Ergebnis langwieriger Experimente sei. Die gesund erscheinende grüne Farbe kommt vom Gemüsesaft in der Sahne ... Gemüsesaft?!"
   },
@@ -7259,7 +7483,7 @@
     "name": "Sommerfest-Fisch",
     "description": "Yoimiyas Spezialzubereitung. Du beobachtest das Feuerwerk, hast die Hände voll mit den Knabbereien, die Yoimiya dir mitgegeben hat, und hörst ihr unbeschwertes, kindliches Lachen, während das Feuerwerk über dir explodiert ... Inmitten dieser einzigartigen Sinfonie von Klängen sieht der pralle Goldfisch in deiner Hand fast so aus, als würde er jeden Moment anfangen zu schwimmen ..."
   },
-  "DizzinessBeGoneNoJutsuVersion": {
+  "DizzinessBeGoneNoJutsuVersion20": {
     "name": "Technik zur Vermeidung von Schwindel – Version 2.0",
     "description": "Sayus Spezialität. Das Reisbällchen wurde von Sayu in eine niedliche Form geknetet – aber denk dran, es ist ein Mujina, kein Tanuki, verstanden? Und jetzt, wo du es erwähnst, so kann Sayu nach dem Essen wohl einen ganzen Tag lang schlafen, oder?"
   },
@@ -9635,7 +9859,7 @@
     "name": "Erlebnispass-Tresor",
     "description": "„Wenn dich deine Reise durch finstere Landen führt, brauchst du diese glänzenden Waffen. Hier in diesem Tresor liegen sie und warten auf den Moment, in dem sie die Finsternis durchbrechen können.“"
   },
-  "BPPickOfTestBundle": {
+  "BPPick1Of3TestBundle": {
     "name": "Erlebnispass-Testpaket „1 von 3“",
     "description": ""
   },
@@ -10999,9 +11223,397 @@
     "name": "Flügel des Sternenbanketts",
     "description": "Die Ausgabe eines Windgleiters. Ein Geschenk für denjenigen, der die Feierlichkeiten der fernen Welt miterlebt hat."
   },
-  "RadiantSpincrystal": {
+  "RadiantSpincrystal1": {
     "name": "Strahlender Drehkristall I",
     "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Dawn Winery Theme“."
+  },
+  "RadiantSpincrystal2": {
+    "name": "Strahlender Drehkristall II",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „A Sweet Smile“."
+  },
+  "RadiantSpincrystal3": {
+    "name": "Strahlender Drehkristall III",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Lone Sojourner“."
+  },
+  "RadiantSpincrystal4": {
+    "name": "Strahlender Drehkristall IV",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „A Day in Mondstadt“."
+  },
+  "RadiantSpincrystal5": {
+    "name": "Strahlender Drehkristall V",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „The Edge of the Prairie“."
+  },
+  "RadiantSpincrystal6": {
+    "name": "Strahlender Drehkristall VI",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „A Tale of Two Dragons“."
+  },
+  "RadiantSpincrystal7": {
+    "name": "Strahlender Drehkristall VII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Happy Journey“."
+  },
+  "RadiantSpincrystal8": {
+    "name": "Strahlender Drehkristall VIII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Legend of the Wind“."
+  },
+  "RadiantSpincrystal9": {
+    "name": "Strahlender Drehkristall IX",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Bustling Afternoon in Mondstadt“."
+  },
+  "RadiantSpincrystal10": {
+    "name": "Strahlender Drehkristall X",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Dusk in Mondstadt“."
+  },
+  "RadiantSpincrystal11": {
+    "name": "Strahlender Drehkristall XI",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Mondstadt Starlit“."
+  },
+  "RadiantSpincrystal12": {
+    "name": "Strahlender Drehkristall XII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Moonlight in Mondstadt“."
+  },
+  "RadiantSpincrystal13": {
+    "name": "Strahlender Drehkristall XIII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Another Day in Mondstadt“."
+  },
+  "RadiantSpincrystal14": {
+    "name": "Strahlender Drehkristall XIV",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Windborne Hymn“."
+  },
+  "RadiantSpincrystal15": {
+    "name": "Strahlender Drehkristall XV",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Knights of Favonius“."
+  },
+  "RadiantSpincrystal16": {
+    "name": "Strahlender Drehkristall XVI",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Angel’s Share“."
+  },
+  "RadiantSpincrystal17": {
+    "name": "Strahlender Drehkristall XVII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „A Happy Day“."
+  },
+  "RadiantSpincrystal18": {
+    "name": "Strahlender Drehkristall XVIII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Tender Strength“."
+  },
+  "RadiantSpincrystal19": {
+    "name": "Strahlender Drehkristall XIX",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Before Dawn, at the Winery“."
+  },
+  "RadiantSpincrystal20": {
+    "name": "Strahlender Drehkristall XX",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Whispering Plain“."
+  },
+  "RadiantSpincrystal21": {
+    "name": "Strahlender Drehkristall XXI",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „A New Day With Hope“."
+  },
+  "RadiantSpincrystal22": {
+    "name": "Strahlender Drehkristall XXII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Eternal Anamnesis“."
+  },
+  "RadiantSpincrystal23": {
+    "name": "Strahlender Drehkristall XXIII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Journey of Hope“."
+  },
+  "RadiantSpincrystal24": {
+    "name": "Strahlender Drehkristall XXIV",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Sun Rises in Liyue“."
+  },
+  "RadiantSpincrystal25": {
+    "name": "Strahlender Drehkristall XXV",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Good Night, Liyue“."
+  },
+  "RadiantSpincrystal26": {
+    "name": "Strahlender Drehkristall XXVI",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Call It a Day in Liyue“."
+  },
+  "RadiantSpincrystal27": {
+    "name": "Strahlender Drehkristall XXVII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Clear Sky Over Liyue“."
+  },
+  "RadiantSpincrystal28": {
+    "name": "Strahlender Drehkristall XXVIII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Cozy Leisure Time“."
+  },
+  "RadiantSpincrystal29": {
+    "name": "Strahlender Drehkristall XXIX",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Winding River“."
+  },
+  "RadiantSpincrystal30": {
+    "name": "Strahlender Drehkristall XXX",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Mild Waves“."
+  },
+  "RadiantSpincrystal31": {
+    "name": "Strahlender Drehkristall XXXI",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Rhythm Amidst the Reeds“."
+  },
+  "RadiantSpincrystal32": {
+    "name": "Strahlender Drehkristall XXXII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Flows of Jade-Like Water“."
+  },
+  "RadiantSpincrystal33": {
+    "name": "Strahlender Drehkristall XXXIII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Flow of Mildness“."
+  },
+  "RadiantSpincrystal34": {
+    "name": "Strahlender Drehkristall XXXIV",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Vague Whispers“."
+  },
+  "RadiantSpincrystal35": {
+    "name": "Strahlender Drehkristall XXXV",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Legends Swept Away“."
+  },
+  "RadiantSpincrystal36": {
+    "name": "Strahlender Drehkristall XXXVI",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Plain of Nostalgia“."
+  },
+  "RadiantSpincrystal37": {
+    "name": "Strahlender Drehkristall XXXVII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Rhythms From the Conch“."
+  },
+  "RadiantSpincrystal38": {
+    "name": "Strahlender Drehkristall XXXVIII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Peaceful Hike“."
+  },
+  "RadiantSpincrystal39": {
+    "name": "Strahlender Drehkristall XXXIX",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „The Fading Stories“."
+  },
+  "RadiantSpincrystal40": {
+    "name": "Strahlender Drehkristall XL",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Above the Sea of Clouds“."
+  },
+  "RadiantSpincrystal41": {
+    "name": "Strahlender Drehkristall XLI",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Rainbow at Summit“."
+  },
+  "RadiantSpincrystal42": {
+    "name": "Strahlender Drehkristall XLII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Red Leaf on the Chessboard“."
+  },
+  "RadiantSpincrystal43": {
+    "name": "Strahlender Drehkristall XLIII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Slumbering Lore“."
+  },
+  "RadiantSpincrystal44": {
+    "name": "Strahlender Drehkristall XLIV",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Lost Expectation“."
+  },
+  "RadiantSpincrystal45": {
+    "name": "Strahlender Drehkristall XLV",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „The Realm Within“."
+  },
+  "RadiantSpincrystal46": {
+    "name": "Strahlender Drehkristall XLVI",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Sojourner’s Sweet Dream“."
+  },
+  "RadiantSpincrystal47": {
+    "name": "Strahlender Drehkristall XLVII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Miko’s Night“."
+  },
+  "RadiantSpincrystal48": {
+    "name": "Strahlender Drehkristall XLVIII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Streets of Elegance“."
+  },
+  "RadiantSpincrystal49": {
+    "name": "Strahlender Drehkristall XLIX",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „The Land of Her Serenity“."
+  },
+  "RadiantSpincrystal50": {
+    "name": "Strahlender Drehkristall L",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „The Mysterious Islands“."
+  },
+  "RadiantSpincrystal51": {
+    "name": "Strahlender Drehkristall LI",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Everlasting Devotion“."
+  },
+  "RadiantSpincrystal52": {
+    "name": "Strahlender Drehkristall LII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Kitsune’s Mask“."
+  },
+  "RadiantSpincrystal53": {
+    "name": "Strahlender Drehkristall LIII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Hanachirusato“."
+  },
+  "RadiantSpincrystal54": {
+    "name": "Strahlender Drehkristall LIV",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Time to Say Farewell“."
+  },
+  "RadiantSpincrystal55": {
+    "name": "Strahlender Drehkristall LV",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Flickering Sakura“."
+  },
+  "RadiantSpincrystal56": {
+    "name": "Strahlender Drehkristall LVI",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Murmuring Creek“."
+  },
+  "RadiantSpincrystal57": {
+    "name": "Strahlender Drehkristall LVII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Scarred Island“."
+  },
+  "RadiantSpincrystal58": {
+    "name": "Strahlender Drehkristall LVIII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Silent Testimony“."
+  },
+  "RadiantSpincrystal59": {
+    "name": "Strahlender Drehkristall LIX",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Island of Hanabi“."
+  },
+  "RadiantSpincrystal60": {
+    "name": "Strahlender Drehkristall LX",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Preparation of Matsuri“."
+  },
+  "RadiantSpincrystal61": {
+    "name": "Strahlender Drehkristall LXI",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Illuminated Coral Palace“."
+  },
+  "RadiantSpincrystal62": {
+    "name": "Strahlender Drehkristall LXII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „A Tranquil Town“."
+  },
+  "RadiantSpincrystal63": {
+    "name": "Strahlender Drehkristall LXIII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „In a Harmonious Atmosphere“."
+  },
+  "RadiantSpincrystal64": {
+    "name": "Strahlender Drehkristall LXIV",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Island of Crystal and Pearl“."
+  },
+  "RadiantSpincrystal65": {
+    "name": "Strahlender Drehkristall LXV",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Misty Truth“."
+  },
+  "RadiantSpincrystal66": {
+    "name": "Strahlender Drehkristall LXVI",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Sorrows of Strays“."
+  },
+  "RadiantSpincrystal67": {
+    "name": "Strahlender Drehkristall LXVII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Ruu’s Melody“."
+  },
+  "RadiantSpincrystal68": {
+    "name": "Strahlender Drehkristall LXVIII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Roaming in Silence“."
+  },
+  "RadiantSpincrystal69": {
+    "name": "Strahlender Drehkristall LXIX",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Echoes of Solitude“."
+  },
+  "RadiantSpincrystal70": {
+    "name": "Strahlender Drehkristall LXX",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Dirge of the Soundless“."
+  },
+  "RadiantSpincrystal71": {
+    "name": "Strahlender Drehkristall LXXI",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Nothing but Ivy“."
+  },
+  "RadiantSpincrystal72": {
+    "name": "Strahlender Drehkristall LXXII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Forgotten Epic“."
+  },
+  "RadiantSpincrystal73": {
+    "name": "Strahlender Drehkristall LXXIII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Beyond Klesha“."
+  },
+  "RadiantSpincrystal74": {
+    "name": "Strahlender Drehkristall LXXIV",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Melody of Hidden Seeds“."
+  },
+  "RadiantSpincrystal75": {
+    "name": "Strahlender Drehkristall LXXV",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Varuna’s Mercy“."
+  },
+  "RadiantSpincrystal76": {
+    "name": "Strahlender Drehkristall LXXVI",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Vestige of Dahri“."
+  },
+  "RadiantSpincrystal77": {
+    "name": "Strahlender Drehkristall LXXVII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Chatter Between Roots“."
+  },
+  "RadiantSpincrystal78": {
+    "name": "Strahlender Drehkristall LXXVIII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Whirling of Leaves and Petals“."
+  },
+  "RadiantSpincrystal79": {
+    "name": "Strahlender Drehkristall LXXIX",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Hustle and Bustle of Ormos“."
+  },
+  "RadiantSpincrystal80": {
+    "name": "Strahlender Drehkristall LXXX",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Halcyon Times“."
+  },
+  "RadiantSpincrystal81": {
+    "name": "Strahlender Drehkristall LXXXI",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „A Puff of Cool Breeze“."
+  },
+  "RadiantSpincrystal82": {
+    "name": "Strahlender Drehkristall LXXXII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „On the Barren Sands“."
+  },
+  "RadiantSpincrystal83": {
+    "name": "Strahlender Drehkristall LXXXIII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Arid Canyon“."
+  },
+  "RadiantSpincrystal84": {
+    "name": "Strahlender Drehkristall LXXXIV",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Settlement for Exiles“."
+  },
+  "RadiantSpincrystal85": {
+    "name": "Strahlender Drehkristall LXXXV",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Ruins of Scorching Might“."
+  },
+  "RadiantSpincrystal86": {
+    "name": "Strahlender Drehkristall LXXXVI",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Eye of Deshret“."
+  },
+  "RadiantSpincrystal87": {
+    "name": "Strahlender Drehkristall LXXXVII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Emerald in the Desert“."
+  },
+  "RadiantSpincrystal88": {
+    "name": "Strahlender Drehkristall LXXXVIII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+  },
+  "RadiantSpincrystal89": {
+    "name": "Strahlender Drehkristall LXXXIX",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+  },
+  "RadiantSpincrystal90": {
+    "name": "Strahlender Drehkristall XC",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+  },
+  "RadiantSpincrystal91": {
+    "name": "Strahlender Drehkristall XCI",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+  },
+  "RadiantSpincrystal92": {
+    "name": "Strahlender Drehkristall XCII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+  },
+  "RadiantSpincrystal93": {
+    "name": "Strahlender Drehkristall XCIII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+  },
+  "RadiantSpincrystal94": {
+    "name": "Strahlender Drehkristall XCIV",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+  },
+  "RadiantSpincrystal95": {
+    "name": "Strahlender Drehkristall XCV",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+  },
+  "RadiantSpincrystal96": {
+    "name": "Strahlender Drehkristall XCVI",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+  },
+  "RadiantSpincrystal97": {
+    "name": "Strahlender Drehkristall XCVII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+  },
+  "RadiantSpincrystal98": {
+    "name": "Strahlender Drehkristall XCVIII",
+    "description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
   },
   "FragrantSteak": {
     "name": "Duftendes Steak",
@@ -11987,7 +12599,7 @@
     "name": "Angereichertes Harz",
     "description": "Du kannst zu einem Zeitpunkt bis zu 5 Stück bei dir haben.\\nEin konzentriertes Harz, das bei der Aktivierung von versteinerten Bäumen und Blüten des Flusses der Elemente anstelle von ursprünglichem Harz angewendet werden kann, um größere Schätze zu erhalten.\\nDer Kristall ist mit immenser Energie gefüllt.\\nDie silberweiße Irminsul und ihre Blüten verbinden über den Fluss der Elemente viele Stellen, die sich mit der Zeit zusetzen und blockiert werden können. Die im Harz enthaltene Energie kann die blockierende Substanz reinigen."
   },
-  "NREMenu": {
+  "NREMenu30": {
     "name": "Praktischer Nahrungsbeutel Nr. 30",
     "description": "Kann die meisten Nahrungsmittel in sofort absorbierbare Nährstoffe umwandeln. Obwohl dieses Objekt die Effizienz der Nahrungsaufnahme erheblich steigern kann, sind die meisten Ritter nicht allzu sehr darauf erpicht, ihre Nahrung in diese Erfindung zu legen ..."
   },
@@ -12255,7 +12867,7 @@
     "name": "Erläuterung: Angereichertes Harz",
     "description": "Anleitung mit detaillierten Schritten zur Herstellung von „angereichertes Harz“. Bei der Aktivierung einiger Blüten des Flusses der Elemente und versteinerter Bäume kannst du dieses angereicherte Harz anwenden, um die Effizienz zu erhöhen. Du kannst zu einem Zeitpunkt bis zu 5 Stück bei dir haben."
   },
-  "DiagramNREMenu": {
+  "DiagramNREMenu30": {
     "name": "Bauplan: Praktischer Nahrungsbeutel Nr. 30",
     "description": "Bauplan mit detaillierten Schritten zur Herstellung von „Praktischer Nahrungsbeutel Nr. 30“. Mit dieser Anleitung kannst du einen Beutel basteln, mit dem die Nahrungsaufnahme deutlich erleichtert wird."
   },
@@ -13023,7 +13635,7 @@
     "name": "Gunnhildrs Erbe",
     "description": "Jeans Kleidung. Die elegante Ritterkleidung passt perfekt zu allen möglichen Anlässen."
   },
-  "Outrider": {
+  "100Outrider": {
     "name": "Kundschafter durch und durch",
     "description": "Ambers Kleidung. Mit dieser Kleidung sieht die Kundschafterin umso schicker und prächtiger aus!"
   },
