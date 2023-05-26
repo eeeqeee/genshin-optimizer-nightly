@@ -139,6 +139,7 @@ jobs:
       working-directory: genshin-optimizer
     - name: Build genshin-optimizer
       run: |
+        NX_URL_GITHUB_GO_CURRENT_VERSION="https://github.com/${{ inputs.repository }}/commit/$(git rev-parse HEAD)"
         ${{ inputs.env }} yarn run nx run frontend:build --base-href="${{ steps.get-public-url.outputs.url }}" ${{ inputs.build-flags }}
       working-directory: genshin-optimizer
     - name: Tar files

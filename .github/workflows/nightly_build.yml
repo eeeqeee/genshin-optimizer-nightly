@@ -15,14 +15,6 @@ jobs:
       remote: frzyc
       repository: frzyc/genshin-optimizer
       ref: master
-    secrets:
-      ssh_key_genshindata: ${{ secrets.ssh_key_genshindata }}
-  build-frzyc-master-profile:
-    uses: ./.github/workflows/nightly.yml
-    with:
-      remote: frzyc-profile
-      repository: frzyc/genshin-optimizer
-      ref: master
       build-flags: '--profile --source-map'
     secrets:
       ssh_key_genshindata: ${{ secrets.ssh_key_genshindata }}
