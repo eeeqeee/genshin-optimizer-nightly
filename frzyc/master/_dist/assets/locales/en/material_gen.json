@@ -219,6 +219,10 @@
     "name": "Festive Ticket",
     "description": "You can obtain these reward tickets by taking part in the various festivities during the Windblume Festival. During the event, you can exchange them for rewards."
   },
+  "InvokationCoupons": {
+    "name": "Invokation Coupons",
+    "description": "You can obtain these coupons after participating in various events at the King of Invokations Grand Prix. During the event, you can exchange them for rewards."
+  },
   "Primogem": {
     "name": "Primogem",
     "description": "A primordial crystalline gem that's beyond the mundane world. Shines with the condensed hopes and dreams of universes that once were."
@@ -519,6 +523,10 @@
     "name": "Yelan",
     "description": "A mysterious person who claims to work for the Ministry of Civil Affairs, but is a \"non-entity\" on the Ministry of Civil Affairs' list."
   },
+  "Kirara": {
+    "name": "Kirara",
+    "description": "A courier for Komaniya Express, a delivery company in Inazuma. A nekomata who loves her job and human society."
+  },
   "Aloy": {
     "name": "Aloy",
     "description": "Formerly an outcast, now a hunter of unparalleled skill. Ready to do the right thing at any time."
@@ -790,6 +798,10 @@
   "YelansStellaFortuna": {
     "name": "Yelan's Stella Fortuna",
     "description": "Yelan's Constellation Activation Material"
+  },
+  "KirarasStellaFortuna": {
+    "name": "Kirara's Stella Fortuna",
+    "description": "Kirara's Constellation Activation Material"
   },
   "AloysStellaFortuna": {
     "name": "Aloy's Stella Fortuna",
@@ -5629,7 +5641,7 @@
   },
   "SarehsNote": {
     "name": "Sareh's Note",
-    "description": "This time, we are looking for a kitten named Lale with black and white fur. If you wish to call for Lale's attention in cat language, you need to say \"Meow, meow meow meow, meow—\" with the tone going downward then upward, before ending on an even higher note."
+    "description": "This time, we are looking for a kitten named Lale with black and white fur. If you wish to call for Lale's attention in cat language, you need to say \"Meow, meow meow meow, meeeeow!\" with the tone going downward then upward, before ending on an even higher note."
   },
   "FreshNilotpalaLotus": {
     "name": "Fresh Nilotpala Lotus",
@@ -6693,11 +6705,11 @@
   },
   "CrystalShrimp": {
     "name": "Crystal Shrimp",
-    "description": "One of Liyue's traditional snacks. The stuffing is taken from whole fresh shrimp, and the glistening quality of the flour can be guessed at from the translucence of the outer skin. Has a springy, tasty chew."
+    "description": "One of Liyue's traditional snacks. The stuffing is taken from whole fresh shrimp, and the glistening quality of the flour can be guessed at from the translucence of the outer skin. It has a springy, tasty chew."
   },
   "DeliciousCrystalShrimp": {
     "name": "Delicious Crystal Shrimp",
-    "description": "One of Liyue's traditional snacks. The outer skin is as clear its crystal namesake, and when it enters the mouth, one's tongue could be forgiven for thinking that the fresh shrimp within is still alive. Those who eat it can only lament that four pieces per serving is far, far too few."
+    "description": "One of Liyue's traditional snacks. The outer skin is as clear as its crystal namesake, and when it enters the mouth, one's tongue could be forgiven for thinking that the fresh shrimp within is still alive. Those who eat it can only lament that four pieces per serving is far, far too few."
   },
   "SuspiciousGrilledTigerFish": {
     "name": "Suspicious Grilled Tiger Fish",
@@ -6713,7 +6725,7 @@
   },
   "SuspiciousBarbatosRatatouille": {
     "name": "Suspicious Barbatos Ratatouille",
-    "description": "A simple chowder with a long history. Thought the Anemo Archon is said to symbolize freedom, perhaps this dish has been a bit too liberal in the making. Perhaps the name Stormy Stew might be more fitting here."
+    "description": "A simple chowder with a long history. Though the Anemo Archon is said to symbolize freedom, perhaps this dish has been a bit too liberal in the making. Perhaps the name Stormy Stew might be more fitting here."
   },
   "BarbatosRatatouille": {
     "name": "Barbatos Ratatouille",
@@ -6817,7 +6829,7 @@
   },
   "AllDelicacyParcels": {
     "name": "All-Delicacy Parcels",
-    "description": "Xingqiu's specialty. This dish's almost artisan appearance makes one almost reluctant to tuck in. But once you get a taste, its fresh, light and lovely sweetness will make the dish hard to put down.... Hang on a moment. Did he throw the carrots out, by any chance?"
+    "description": "Xingqiu's specialty. This dish's almost artisan appearance makes one almost reluctant to tuck in. But once you get a taste, its fresh, light and lovely sweetness will make the dish hard to put down... Hang on a moment. Did he throw the carrots out, by any chance?"
   },
   "SweetDream": {
     "name": "\"Sweet Dream\"",
@@ -8181,7 +8193,7 @@
   },
   "TraditionallyMadeCharcoalBakedAjilenakhCake": {
     "name": "Traditionally-Made Charcoal-Baked Ajilenakh Cake",
-    "description": "Faruzan's specialty. The dark and sweet cake, lying as it does atop a minty-green sauce bed, almost looks like some enigmatic mechanism. Your hesitation must have somehow reached Faruzan, for she then straightened up to assertively reassure you that this was a traditional dish in Sumeru and that its flavor is guaranteed. But you can't help wondering... Is it really a 'traditional' dish that catered to the tastes of Sumeru people a hundred years ago?"
+    "description": "Faruzan's specialty. The dark and sweet cake, lying as it does atop a minty-green sauce bed, almost looks like some enigmatic mechanism. Your hesitation must have somehow reached Faruzan, for she then straightened up to assertively reassure you that this was a traditional dish in Sumeru and that its flavor is guaranteed. But you can't help wondering... Is it really a \"traditional\" dish that catered to the tastes of Sumeru people a hundred years ago?"
   },
   "ShimiChazuke": {
     "name": "Shimi Chazuke",
@@ -8273,7 +8285,7 @@
   },
   "GoldflameTajine": {
     "name": "Goldflame Tajine",
-    "description": "Dehya's specialty. As you open the unassuming lid, the supple meat that lies within is so tender one could get drunk on the sensation of it slipping between your lips... It seems that Dehya's dab kitchen hand is as steady as her sword-arm."
+    "description": "Dehya's specialty. As you open the unassuming lid, you are greeted with supple meat that turns out to be so tender that one could get drunk on the sensation of it slipping between your lips... It seems that Dehya's dab kitchen hand is as steady as her sword-arm."
   },
   "SurveyorsBreakfastSandwich": {
     "name": "Surveyor's Breakfast Sandwich",
@@ -8310,6 +8322,10 @@
   "HeatQuellingSoup": {
     "name": "Heat-Quelling Soup",
     "description": "Baizhu's specialty. \"This isn't actually medicine, merely something that can alleviate dryness.\" As Baizhu's concerned voice echoes in your ears, a bowl of lustrous fruit soup greets your gaze. \"This dish didn't use to have sugar, but he was worried that you wouldn't be used to the bitter taste, so he added some to it,\" added Changsheng."
+  },
+  "EnergizingBento": {
+    "name": "Energizing Bento",
+    "description": "Kirara's specialty. A human-friendly bento box Kirara put in a great deal of effort to prepare. By observing the preferences of human girls, she came up with this combination of well-balanced side dishes and adorable cat-shaped rice balls. It's just like a carefully wrapped package... You could receive one every day and never get tired of it!"
   },
   "RecipeItem": {
     "name": "Recipe Item",
@@ -8524,7 +8540,7 @@
     "description": "A detailed step-by-step recipe for making Stir-Fried Fish Noodles."
   },
   "RecipeVegetarianAbalone": {
-    "name": "Recipe:Vegetarian Abalone",
+    "name": "Recipe: Vegetarian Abalone",
     "description": "A detailed step-by-step recipe for making Vegetarian Abalone."
   },
   "RecipeStoneHarborDelicacies": {
@@ -10859,6 +10875,10 @@
     "name": "Food Seeds",
     "description": "The elemental life form known as the Floating Anemo Fungus gave you these seeds. Plant them in a field to grow food that the Fungi enjoy eating. But will there be any Fungi who remember how to till the fields in the future?"
   },
+  "KingOfInvokations": {
+    "name": "King of Invokations",
+    "description": "A light novel centered around the most popular card game in Teyvat — Genius Invokation TCG. The characters are unique and the story is exciting and full of twists, making it one of the hottest new works around."
+  },
   "NamelessAdventurersNotes": {
     "name": "Nameless Adventurer's Notes",
     "description": "Lost notes left in the desert. They seem to have been left by some adventurer."
@@ -10894,6 +10914,10 @@
   "RecordsOfUnknownAttributionII": {
     "name": "Records of Unknown Attribution (II)",
     "description": "Records of Unknown Attribution (II)"
+  },
+  "EmberglowLeaf": {
+    "name": "Emberglow Leaf",
+    "description": "A leaf that you got from Nahida. It can be used to contact the Aranara. If you use it like a whistle, an Aranara will answer the call. The Aranara will only come because they trust Nahida. In other words, you can't just blow on any leaf you find and expect an answer."
   },
   "AkademiyaInvestigationTeamsLogsI": {
     "name": "Akademiya Investigation Team's Logs (I)",
@@ -11751,6 +11775,10 @@
     "name": "Unfading Silky Grace",
     "description": "Specialized refinement material for \"Mailed Flower.\"\\nDecorations can always provide a little something beyond an item's value and function. In times like these, an unwithering flower can lend some romantic essence to even a weapon."
   },
+  "CongealedPupaWax": {
+    "name": "Congealed Pupa Wax",
+    "description": "Specialized refinement material for Ibis Piercer.\\nIn the Great Red Sand, the youth who later became the King of Invokations was requested by the descendants of the Ibis King to spend a few days formulating bowstring wax from Sand Grease Pupae. However, the legendary bow disappeared along with the Ibis King, and only the recipe for making pupa wax was passed down from generation to generation. Perhaps it's still waiting for the day when it can be used again."
+  },
   "FalconsDance": {
     "name": "Falcon's Dance",
     "description": "When a character initiates a Plunging Attack, they will unleash a shockwave that deals AoE DMG to opponents. This effect can be triggered once every 8s per character."
@@ -12463,8 +12491,8 @@
     "name": "Cyno: Silence",
     "description": "Namecard style.\\nWhenever Cyno falls into a profound silence, he must be considering some weighty judgment... Or perhaps he is simply considering something amusing."
   },
-  "CandaceGreyHeron": {
-    "name": "Candace: Grey Heron",
+  "CandaceGrayHeron": {
+    "name": "Candace: Gray Heron",
     "description": "Namecard style.\\nThe burning winds of the past ruffle the heron's feathers, but the bird has eyes only for the morning star at first light."
   },
   "NilouLotusDance": {
@@ -12570,6 +12598,14 @@
   "TravelNotesCrownOfGlory": {
     "name": "Travel Notes: Crown of Glory",
     "description": "Namecard style.\\n\"Knowledge serves as the crown of time, and reminiscence is bound to the time we shared as one.\""
+  },
+  "KiraraNekoBox": {
+    "name": "Kirara: Neko Box",
+    "description": "Namecard style.\\n\"To Kirara, the smiles on her customers' faces are the best rewards possible.\""
+  },
+  "TravelNotesSecrets": {
+    "name": "Travel Notes: Secrets",
+    "description": "Namecard style.\\nNever forget the time you once spent with games and good friends. Never forget what it feels like to have no worries about the future."
   },
   "AnemoculusResonanceStone": {
     "name": "Anemoculus Resonance Stone",
@@ -12889,7 +12925,7 @@
   },
   "SaimonHeirloomBladeDiagram": {
     "name": "Saimon Heirloom Blade Diagram",
-    "description": "The Saimon Clan possessed this diagram of how to make the Amenoma Kageuchi (Sword). You can use it to master art of making this weapon."
+    "description": "The Saimon Clan possessed this diagram of how to make the Amenoma Kageuchi (Sword). You can use it to master the art of making this weapon."
   },
   "DiagramKatsuragikiriNagamasa": {
     "name": "Diagram: Katsuragikiri Nagamasa",
@@ -13067,6 +13103,18 @@
     "name": "Jadeplume Terrorshroom",
     "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
   },
+  "FatuiCryoCicinMage": {
+    "name": "Fatui Cryo Cicin Mage",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "AbyssLectorFathomlessFlames": {
+    "name": "Abyss Lector: Fathomless Flames",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "ElectroHypostasis": {
+    "name": "Electro Hypostasis",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
   "UndividedHeart": {
     "name": "Undivided Heart",
     "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
@@ -13101,6 +13149,10 @@
   },
   "GrandExpectation": {
     "name": "Grand Expectation",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "BunnyTriggered": {
+    "name": "Bunny Triggered",
     "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
   },
   "NaganoharaMeteorSwarm": {
@@ -13179,8 +13231,8 @@
     "name": "Wellspring of War-Lust",
     "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
   },
-  "TamanooyasCasket": {
-    "name": "Tamanooya's Casket",
+  "TamakushiCasket": {
+    "name": "Tamakushi Casket",
     "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
   },
   "PoundingSurprise": {
@@ -13191,8 +13243,24 @@
     "name": "Lightning Storm",
     "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
   },
+  "EmbraceOfWinds": {
+    "name": "Embrace of Winds",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "ConquerorOfEvilGuardianYaksha": {
+    "name": "Conqueror of Evil: Guardian Yaksha",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "DominanceOfEarth": {
+    "name": "Dominance of Earth",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
   "KeenSight": {
     "name": "Keen Sight",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "AbsorbingPrism": {
+    "name": "Absorbing Prism",
     "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
   },
   "SinOfPride": {
@@ -13205,6 +13273,38 @@
   },
   "AratakiIchiban": {
     "name": "Arataki Ichiban",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "MysticalAbandon": {
+    "name": "Mystical Abandon",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "AbyssalMayhemHydrospout": {
+    "name": "Abyssal Mayhem: Hydrospout",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "SanguineRouge": {
+    "name": "Sanguine Rouge",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "WishesUnnumbered": {
+    "name": "Wishes Unnumbered",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "TheShrinesSacredShade": {
+    "name": "The Shrine's Sacred Shade",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "TheSeedOfStoredKnowledge": {
+    "name": "The Seed of Stored Knowledge",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "CicinsColdGlare": {
+    "name": "Cicin's Cold Glare",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "EmbersRekindled": {
+    "name": "Embers Rekindled",
     "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
   },
   "MagicGuide": {
@@ -13355,8 +13455,64 @@
     "name": "General's Ancient Helm",
     "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
   },
+  "AmosBow": {
+    "name": "Amos' Bow",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "AThousandFloatingDreams": {
+    "name": "A Thousand Floating Dreams",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "ElegyForTheEnd": {
+    "name": "Elegy for the End",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "SkywardPride": {
+    "name": "Skyward Pride",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "TheBell": {
+    "name": "The Bell",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "VortexVanquisher": {
+    "name": "Vortex Vanquisher",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "EngulfingLightning": {
+    "name": "Engulfing Lightning",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "SkywardBlade": {
+    "name": "Skyward Blade",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
   "FavoniusSword": {
     "name": "Favonius Sword",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "EmblemOfSeveredFate": {
+    "name": "Emblem of Severed Fate",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "TenacityOfTheMillelith": {
+    "name": "Tenacity of the Millelith",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "ThunderingPoise": {
+    "name": "Thundering Poise",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "VermillionHereafter": {
+    "name": "Vermillion Hereafter",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "CapriciousVisage": {
+    "name": "Capricious Visage",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "ShimenawasReminiscence": {
+    "name": "Shimenawa's Reminiscence",
     "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
   },
   "LiyueHarborWharf": {
@@ -13437,6 +13593,46 @@
   },
   "GrandNarukamiShrine": {
     "name": "Grand Narukami Shrine",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "Tenshukaku": {
+    "name": "Tenshukaku",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "SangonomiyaShrine": {
+    "name": "Sangonomiya Shrine",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "SumeruCity": {
+    "name": "Sumeru City",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "Vanarana": {
+    "name": "Vanarana",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "ChinjuForest": {
+    "name": "Chinju Forest",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "Hanachirusato": {
+    "name": "Hanachirusato",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "KidKujirai": {
+    "name": "Kid Kujirai",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "Xudong": {
+    "name": "Xudong",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "Dunyarzad": {
+    "name": "Dunyarzad",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "Rana": {
+    "name": "Rana",
     "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
   },
   "ElementalResonanceWovenIce": {
@@ -13555,6 +13751,42 @@
     "name": "Abyssal Summons",
     "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
   },
+  "WindAndFreedom": {
+    "name": "Wind and Freedom",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "StoneAndContracts": {
+    "name": "Stone and Contracts",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "ThunderAndEternity": {
+    "name": "Thunder and Eternity",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "NatureAndWisdom": {
+    "name": "Nature and Wisdom",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "FatuiConspiracy": {
+    "name": "Fatui Conspiracy",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "PlungingStrike": {
+    "name": "Plunging Strike",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "HeavyStrike": {
+    "name": "Heavy Strike",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "TheLegendOfVennessa": {
+    "name": "The Legend of Vennessa",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
+  "FriendshipEternal": {
+    "name": "Friendship Eternal",
+    "description": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+  },
   "Origin": {
     "name": "Origin",
     "description": "A Genius Invokation TCG card back that can be obtained and switched around. They say that card backs with different designs also come with minute differences in make and texture. Some players also make collecting card backs of different styles their pursuit and hobby."
@@ -13585,6 +13817,10 @@
   },
   "LazuriteSwirl": {
     "name": "Lazurite Swirl",
+    "description": "A Genius Invokation TCG card back that can be obtained and switched around. They say that card backs with different designs also come with minute differences in make and texture. Some players also make collecting card backs of different styles their pursuit and hobby."
+  },
+  "TreasuresOfTheDeck": {
+    "name": "Treasures of the Deck",
     "description": "A Genius Invokation TCG card back that can be obtained and switched around. They say that card backs with different designs also come with minute differences in make and texture. Some players also make collecting card backs of different styles their pursuit and hobby."
   },
   "BeginnerPlayerBadge": {
@@ -13704,7 +13940,7 @@
     "description": "A detailed step-by-step blueprint for setting up a \"Meeting Room of the 'Strategic Six'.\"\\nA meeting room that was based on the one in the Knights of Favonius Headquarters. A rumor spread among the citizenry, judging from the number of chairs present, that \"six shall be present at any key decision the Knights make.\"\\nThe truth is that only six members of the Knights' leadership enjoy sitting down for meetings. The number of attendees has never been fixed.\\nAfter using this item, you can view it in the Placement Screen."
   },
   "WineOClock": {
-    "name": "Wine o' Clock",
+    "name": "Wine O' Clock",
     "description": "A detailed step-by-step blueprint for setting up \"Wine O'Clock.\"\\nA table and chair set often used during gatherings. The candle stand is used to adjust the lighting and make the food look more enticing. Nonetheless, do watch out for the fire hazard, especially when spirits get high around the table.\\nAfter using this item, you can view it in the Placement Screen."
   },
   "MerchantsWorkingLunch": {
@@ -13865,7 +14101,7 @@
   },
   "SakuraHuedStreet": {
     "name": "Sakura-Hued Street",
-    "description": "A detailed step-by-step blueprint for making a Sakura-Hued Street.\\nA perfect facsimile of Inazuma City's carefully planned shopping district.\\nNo matter what happens, the people of Inazuma live life in a calm, peaceful atmosphere. The walkable streets reflect the living conditions of the residents, which is the truest depiction of the city. By following Thoma, a local who knows Inazuma inside and out, and checking out the various businesses and shops, one can truly understand and appreciate the local customs.\\nAfter using this item, you can view it in the Placement Screen.\\nThis Furnishing Set is favored by the following companions: Yoimiya, Thoma, Kuki Shinobu"
+    "description": "A detailed step-by-step blueprint for making a Sakura-Hued Street.\\nA perfect facsimile of Inazuma City's carefully planned shopping district.\\nNo matter what happens, the people of Inazuma live life in a calm, peaceful atmosphere. The walkable streets reflect the living conditions of the residents, which is the truest depiction of the city. By following Thoma, the Kamisato Clan's Housekeeper who knows Inazuma inside and out, and checking out the various businesses and shops, one can truly understand and appreciate the local customs.\\nAfter using this item, you can view it in the Placement Screen.\\nThis Furnishing Set is favored by the following companions: Yoimiya, Thoma, Kuki Shinobu, Kirara"
   },
   "EternalDomainOfFleetingDreams": {
     "name": "Eternal Domain of Fleeting Dreams",
@@ -13933,7 +14169,7 @@
   },
   "AmidstScentsAndSerenity": {
     "name": "Amidst Scents and Serenity",
-    "description": "An elegant and serene garden that utilizes gazebos drawn from Razan Garden and Pardis Dhyai. This place is less concerned with the absolute unity of the disparate architectural styles, but is more focused on creating an overall air of tranquility.\\nThe lovely blossoms slumber here in peace, and the standing lamps set the fountain aglow... Once the night hours approach, a walk through this garden can cause the noisy thoughts in your head to dissipate like wispy clouds. Perhaps you might even gain inspiration that you would normally struggle to find...\\nThis Furnishing Set is favored by the following companions: Nahida, Kaveh"
+    "description": "An elegant and serene garden that utilizes gazebos drawn from Razan Garden and Pardis Dhyai. This place is less concerned with the absolute unity of the disparate architectural styles, but is more focused on creating an overall air of tranquility.\\nThe lovely blossoms slumber here in peace, and the standing lamps set the fountain aglow... Once the night hours approach, a walk through this garden can cause the noisy thoughts in your head to dissipate like wispy clouds. Perhaps you might even gain inspiration that you would normally struggle to find...\\nThis Furnishing Set is favored by the following companions: Nahida, Kaveh, Kirara"
   },
   "ChorusOfDesertAndWood": {
     "name": "Chorus of Desert and Wood",
@@ -14203,6 +14439,10 @@
     "name": "Scrolls from the Land of Wisdom",
     "description": "A detailed step-by-step blueprint for making Scrolls from the Land of Wisdom.\\nAfter using this item, you can view it in the Creation Screen."
   },
+  "TavernBookcaseEssentialKnowledge": {
+    "name": "Tavern Bookcase - \"Essential Knowledge\"",
+    "description": "A detailed step-by-step blueprint for making a Tavern Bookcase - \"Essential Knowledge.\"\\nAfter using this item, you can view it in the Creation Screen."
+  },
   "SturdyLibraryTable": {
     "name": "Sturdy Library Table",
     "description": "A detailed step-by-step blueprint for making a Sturdy Library Table.\\nAfter using this item, you can view it in the Creation Screen."
@@ -14291,6 +14531,10 @@
     "name": "Athel Wood Compact Desk",
     "description": "A detailed step-by-step blueprint for making an Athel Wood Compact Desk.\\nAfter using this item, you can view it in the Creation Screen."
   },
+  "RoundTavernTableLeapsAndBounds": {
+    "name": "Round Tavern Table - Leaps and Bounds",
+    "description": "A detailed step-by-step blueprint for making a Round Tavern Table - Leaps and Bounds.\\nAfter using this item, you can view it in the Creation Screen."
+  },
   "BreezeBlessedBed": {
     "name": "Breeze-Blessed Bed",
     "description": "A detailed step-by-step blueprint for making a Breeze-Blessed Bed.\\nAfter using this item, you can view it in the Creation Screen."
@@ -14310,6 +14554,10 @@
   "AdhigamaWoodComfortBed": {
     "name": "Adhigama Wood \"Comfort\" Bed",
     "description": "A detailed step-by-step blueprint for making an Adhigama Wood \"Comfort\" Bed.\\nAfter using this item, you can view it in the Creation Screen."
+  },
+  "AdhigamaWoodReposeCouch": {
+    "name": "Adhigama Wood \"Repose\" Couch",
+    "description": "A detailed step-by-step blueprint for making an \"Adhigama Wood 'Repose' Couch.\"\\nAfter using this item, you can view it in the Creation Screen."
   },
   "PineReceptionCounter": {
     "name": "Pine Reception Counter",
@@ -14378,6 +14626,22 @@
   "AdhigamaVineBackedChair": {
     "name": "Adhigama Vine-Backed Chair",
     "description": "A detailed step-by-step blueprint for making an Adhigama Vine-Backed Chair.\\nAfter using this item, you can view it in the Creation Screen."
+  },
+  "SnekusThicket": {
+    "name": "\"Sneku's Thicket\"",
+    "description": "A detailed step-by-step blueprint for making \"Sneku's Thicket.\"\\nAfter using this item, you can view it in the Creation Screen."
+  },
+  "FinnicksCranberrySea": {
+    "name": "\"Finnick's Cranberry Sea\"",
+    "description": "A detailed step-by-step blueprint for making \"Finnick's Cranberry Sea.\"\\nAfter using this item, you can view it in the Creation Screen."
+  },
+  "TavernDiningChairFlavorsMultiplicity": {
+    "name": "Tavern Dining Chair - \"Flavor's Multiplicity\"",
+    "description": "A detailed step-by-step blueprint for making a Tavern Dining Chair - \"Flavor's Multiplicity.\"\\nAfter using this item, you can view it in the Creation Screen."
+  },
+  "TavernDiningChairAcceleratedSobriety": {
+    "name": "Tavern Dining Chair - \"Accelerated Sobriety\"",
+    "description": "A detailed step-by-step blueprint for making a Tavern Dining Chair - \"Accelerated Sobriety.\"\\nAfter using this item, you can view it in the Creation Screen."
   },
   "NorthernStoneHearth": {
     "name": "Northern Stone Hearth",
@@ -14535,6 +14799,26 @@
     "name": "\"Pure Heat\"",
     "description": "A detailed step-by-step blueprint for making \"Pure Heat.\"\\nAfter using this item, you can view it in the Creation Screen."
   },
+  "LittleRosesMangroveHouse": {
+    "name": "\"Little Rose's Mangrove House\"",
+    "description": "A detailed step-by-step blueprint for making \"Little Rose's Mangrove House.\"\\nAfter using this item, you can view it in the Creation Screen."
+  },
+  "NightPilotsWatchtower": {
+    "name": "\"Night Pilot's Watchtower\"",
+    "description": "A detailed step-by-step blueprint for making \"Night Pilot's Watchtower.\"\\nAfter using this item, you can view it in the Creation Screen."
+  },
+  "BaobabsGoldenCradle": {
+    "name": "\"Baobab's Golden Cradle\"",
+    "description": "A detailed step-by-step blueprint for making \"Baobab's Golden Cradle.\"\\nAfter using this item, you can view it in the Creation Screen."
+  },
+  "DionasMiniSofa": {
+    "name": "\"Diona's Mini Sofa\"",
+    "description": "A detailed step-by-step blueprint for making \"Diona's Mini Sofa.\"\\nAfter using this item, you can view it in the Creation Screen."
+  },
+  "TavernDiningCartASnackBetweenDishes": {
+    "name": "Tavern Dining Cart - \"A Snack Between Dishes\"",
+    "description": "A detailed step-by-step blueprint for making Tavern Dining Cart - \"A Snack Between Dishes.\"\\nAfter using this item, you can view it in the Creation Screen."
+  },
   "MondstadtRugCrimsonArdor": {
     "name": "Mondstadt Rug: Crimson Ardor",
     "description": "A detailed step-by-step blueprint for making a Mondstadt Rug: Crimson Ardor.\\nAfter using this item, you can view it in the Creation Screen."
@@ -14574,6 +14858,14 @@
   "PureLikeWheatSprouts": {
     "name": "Pure Like Wheat Sprouts",
     "description": "A detailed step-by-step blueprint for making a Pure Like Wheat Sprouts.\\nAfter using this item, you can view it in the Creation Screen."
+  },
+  "TavernCarpetPassionOfPlay": {
+    "name": "Tavern Carpet - \"Passion of Play\"",
+    "description": "A detailed step-by-step blueprint for making a Tavern Carpet - \"Passion of Play.\"\\nAfter using this item, you can view it in the Creation Screen."
+  },
+  "TavernCarpetDuelistsWisdom": {
+    "name": "Tavern Carpet - \"Duelist's Wisdom\"",
+    "description": "A detailed step-by-step blueprint for making a Tavern Carpet - \"Duelist's Wisdom.\"\\nAfter using this item, you can view it in the Creation Screen."
   },
   "TrustyPortableLamp": {
     "name": "Trusty Portable Lamp",
@@ -14794,6 +15086,18 @@
   "TheDustDifferential": {
     "name": "\"The Dust Differential\"",
     "description": "A detailed step-by-step blueprint for making \"The Dust Differential.\"\\nAfter using this item, you can view it in the Creation Screen."
+  },
+  "DeskComboMiddlelakeIsle": {
+    "name": "Desk Combo - Middlelake Isle",
+    "description": "A detailed step-by-step blueprint for making a Desk Combo - Middlelake Isle.\\nAfter using this item, you can view it in the Creation Screen."
+  },
+  "DeskComboVerdantTotem": {
+    "name": "Desk Combo - Verdant Totem",
+    "description": "A detailed step-by-step blueprint for making a Desk Combo - Verdant Totem.\\nAfter using this item, you can view it in the Creation Screen."
+  },
+  "PrincesWeepingFish": {
+    "name": "\"Prince's Weeping Fish\"",
+    "description": "A detailed step-by-step blueprint for making \"Prince's Weeping Fish.\"\\nAfter using this item, you can view it in the Creation Screen."
   },
   "RealizationsFromTheLandOfWisdom": {
     "name": "\"Realizations from the Land of Wisdom\"",
@@ -15971,6 +16275,10 @@
     "name": "Brightwood Fabric Box Platform",
     "description": "A detailed step-by-step blueprint for making a Brightwood Fabric Box Platform.\\nAfter using this item, you can view it in the Creation Screen."
   },
+  "LeisureDevicePuffyTubby": {
+    "name": "Leisure Device: Puffy Tubby",
+    "description": "A detailed step-by-step blueprint for making a Leisure Device: Puffy Tubby.\\nAfter using this item, you can view it in the Creation Screen."
+  },
   "PottedPlantVerdantVastness": {
     "name": "Potted Plant: Verdant Vastness",
     "description": "A detailed step-by-step blueprint for making a Potted Plant: Verdant Vastness.\\nAfter using this item, you can view it in the Creation Screen."
@@ -16453,7 +16761,7 @@
   },
   "TwoTierVendorsBoothRisingFortunes": {
     "name": "Two-Tier Vendor's Booth: Rising Fortunes",
-    "description": "A detailed step-by-step blueprint for making a Two Tier Vendor's Booth: Rising Fortunes.\\nAfter using this item, you can view it in the Creation Screen."
+    "description": "A detailed step-by-step blueprint for making a Two-Tier Vendor's Booth: Rising Fortunes.\\nAfter using this item, you can view it in the Creation Screen."
   },
   "BambooOutdoorTeaTable": {
     "name": "Bamboo Outdoor Tea Table",

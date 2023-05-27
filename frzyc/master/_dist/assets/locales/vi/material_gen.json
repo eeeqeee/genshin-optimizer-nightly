@@ -219,6 +219,10 @@
     "name": "Phiếu Lễ Hội",
     "description": "Tham gia các hoạt động trong Lễ Hội Hoa Gió sẽ nhận được phiếu thưởng. Trong thời gian hoạt động, có thể dùng để đổi thưởng."
   },
+  "InvokationCoupons": {
+    "name": "Vé Xúc Xắc",
+    "description": "Vé thưởng nhận được khi tham gia các hoạt động tại hội trường \"Giải Đấu Vua Triệu Hồi\". Có thể đổi các loại phần thưởng trong thời gian sự kiện."
+  },
   "Primogem": {
     "name": "Nguyên Thạch",
     "description": "Tinh Thạch Nguyên Thủy, nằm trong vũ trụ hắc ám, ánh sáng được kết tinh từ hy vọng và mộng tưởng."
@@ -519,6 +523,10 @@
     "name": "Yelan",
     "description": "Nhân sĩ thần bí tự xưng làm việc cho Tổng Vụ, nhưng lại là \"người không tồn tại\" trong danh sách của Tổng Vụ."
   },
+  "Kirara": {
+    "name": "Kirara",
+    "description": "Nhân viên giao hàng của \"Công Ty Chuyển Phát Komaniya\" tại Inazuma, là một \"nekomata\" yêu thích công việc của mình và xã hội loài người."
+  },
   "Aloy": {
     "name": "Aloy",
     "description": "Từng là kẻ lưu đày, nay đã trở thành một thợ săn vô cùng nhạy bén. Luôn trong tư thế sẵn sàng giương cung vì chính nghĩa."
@@ -790,6 +798,10 @@
   "YelansStellaFortuna": {
     "name": "Chòm Sao Của Yelan",
     "description": "Nguyên liệu kích hoạt cung mệnh Yelan"
+  },
+  "KirarasStellaFortuna": {
+    "name": "Chòm Sao Của Kirara",
+    "description": "Nguyên liệu kích hoạt cung mệnh Kirara"
   },
   "AloysStellaFortuna": {
     "name": "Chòm Sao Của Aloy",
@@ -8311,6 +8323,10 @@
     "name": "Chè Thanh Nhiệt Hạ Hỏa",
     "description": "Món ăn đặc sắc của Baizhu. \"Đây không được xem là thuốc, chỉ là có chút công dụng giảm mệt mỏi mà thôi.\" Cùng với giọng nói đầy quan tâm của Baizhu vang lên bên tai, là một chén chè trái cây trong vắt đã xuất hiện trước mắt. \"Trước đây không có cho đường đâu, nhưng cái tên này sợ {M#cậu}{F#cô} bị đắng nên đã thêm chút đường vào.\" Changsheng đã chèn thêm một câu."
   },
+  "EnergizingBento": {
+    "name": "Hợp Cơm Tiếp Sức",
+    "description": "Món ăn đặc sắc của Kirara. Kirara bắt chước theo kiểu hộp cơm mà các thiếu nữ thường thích, qua bao cố gắng đã làm ra được món ăn của con người. Nguyên liệu thức ăn có dinh dưỡng cân bằng, thêm tạo hình meo meo dễ thương, giống như một kiện hàng chuyển phát nhanh chứa đầy tâm ý... Ngày ngày nhận được nó đều sẽ không cảm thấy ngán đâu!"
+  },
   "RecipeItem": {
     "name": "Đạo Cụ Công Thức",
     "description": "Mở Đạo Cụ Công Thức"
@@ -10859,6 +10875,10 @@
     "name": "Hạt Giống Thức Ăn",
     "description": "Hạt giống do Nấm Quỷ Phù Du Phong - Sinh Mệnh Nguyên Tố giao cho các bạn, trồng trong ruộng có thể mọc ra thức ăn mà Nấm Quỷ thích. Nhưng sau này còn có Nấm Quỷ biết cách chăm sóc ruộng đất không?"
   },
+  "KingOfInvokations": {
+    "name": "\"Vua Triệu Hồi\"",
+    "description": "Tiểu thuyết được viết theo chủ đề trò chơi \"Thất Thánh Triệu Hồi\" đang làm mưa làm gió tại Teyvat. Thiết kế nhân vật độc đáo sáng tạo, tình tiết câu chuyện đặc sắc gay cấn, là một tác phẩm khá nổi dạo gần đây."
+  },
   "NamelessAdventurersNotes": {
     "name": "Ghi Chép Của Nhà Mạo Hiểm Vô Danh",
     "description": "Mảnh giấy thất lạc trong sa mạc, hình như là của một nhà mạo hiểm nào đó để lại."
@@ -10894,6 +10914,10 @@
   "RecordsOfUnknownAttributionII": {
     "name": "Sổ Tay Không Biết Của Ai II",
     "description": "Sổ Tay Không Biết Của Ai II"
+  },
+  "EmberglowLeaf": {
+    "name": "Lá Ánh Sáng",
+    "description": "Chiếc lá nhận được từ chỗ Nahida, dùng để liên lạc với Aranara. Nếu thổi nó phát ra tiếng thì sẽ có Aranara đến theo tiếng gọi. Aranara đồng ý hưởng ứng loại âm thanh này là vì tin tưởng Nahida, nói cách khác, lúc bình thường có thổi thì cũng vô ích thôi."
   },
   "AkademiyaInvestigationTeamsLogsI": {
     "name": "Nhật Ký Đội Điều Tra Giáo Viện I",
@@ -11751,6 +11775,10 @@
     "name": "Hoa Nở Không Tàn",
     "description": "Đạo cụ tinh luyện của \"Đóa Hoa Tôn Màu Thép\".\\n\"Trang sức\" là một chút tâm ý đính kèm thêm cho bất cứ món đồ nào ngoài giá trị và chức năng vốn có của nó. Dù có là đạo cụ chiến đấu, thì trong những ngày lễ hội, đóa hoa không bao giờ héo tàn này cũng có thể đem lại chút ý nghĩa lãng mạn cho nó."
   },
+  "CongealedPupaWax": {
+    "name": "Sáp Ngưng Đọng",
+    "description": "Đạo cụ chuyên dụng để tinh luyện Mỏ Cò Xuyên Thấu.\\nNghe nói thiếu niên sau này trở thành Vua Triệu Hồi đã từng được hậu duệ của Vua Loài Cò trong biển cát đỏ gửi gắm, mất nhiều ngày để thu thập nhộng cát chế tạo thành loại sáp bảo dưỡng dây cung. Chỉ là, chiếc cung báu trong truyền thuyết cũng đã cùng với Vua Loài Cò biến mất và không quay trở lại, chỉ có cách làm sáp là được lưu truyền đời đời. Có lẽ đây là để chuẩn bị sẵn sàng cho ngày nào đó được dùng lại."
+  },
   "FalconsDance": {
     "name": "Vũ Điệu Chim Ưng",
     "description": "Nhân vật khi tấn công đáp đất sẽ tạo ra sóng xung kích, gây sát thương phạm vi cho địch. Hiệu ứng này mỗi nhân vật mỗi 8s tối đa dùng 1 lần."
@@ -12463,7 +12491,7 @@
     "name": "Cyno - Yên Lặng",
     "description": "Hoa văn danh thiếp.\\nKhi Cyno trông trầm tư và im lặng, chưa chắc là đang nghĩ về một sự phán xét nghiêm túc, cũng có thể là chỉ đang nghĩ về những trò đùa hài hước thôi."
   },
-  "CandaceGreyHeron": {
+  "CandaceGrayHeron": {
     "name": "Candace - Vạc Trời",
     "description": "Hoa văn danh thiếp.\\nNgọn gió thổi qua làm tung bay những chiếc lông đuôi của chim vạc, mà chú chim đó chỉ nhìn về phía bình minh."
   },
@@ -12570,6 +12598,14 @@
   "TravelNotesCrownOfGlory": {
     "name": "Nhật Ký Hành Trình - Vương Miện",
     "description": "Hoa văn danh thiếp.\\n\"Tài trí là chiếc vương miện của năm tháng, cũng giống như nhớ nhung chính là thời gian mà chúng ta cùng trải qua.\""
+  },
+  "KiraraNekoBox": {
+    "name": "Kirara - Bưu Kiện Mèo",
+    "description": "Hoa văn danh thiếp.\\n\"Nụ cười hài lòng của người nhận chính là thù lao tốt nhất đối với Kirara.\""
+  },
+  "TravelNotesSecrets": {
+    "name": "Nhật Ký Hành Trình - Triệu Hồi",
+    "description": "Hoa văn danh thiếp.\\nĐừng quên những ngày tháng cùng bạn bè chơi trò chơi, đừng quên những ngày tháng không phải lo âu về tương lai."
   },
   "AnemoculusResonanceStone": {
     "name": "Đá Cộng Hưởng Phong Thần Đồng",
@@ -12996,7 +13032,7 @@
     "description": "Pháo hoa kinh điển sau khi bung nở sẽ trông như cành liễu rũ xuống, nghe nói đốm lửa tàn của nó có thể chạm được đến khung cửa sổ của tòa lầu cao, đem lại một trải nghiệm tuyệt vời cho người chiêm ngưỡng."
   },
   "MischievousVillosas": {
-    "name": "Tinh Ngịch Ngây Thơ Bánh Ngô Đồng",
+    "name": "Tinh Nghịch Ngây Thơ Bánh Ngô Đồng",
     "description": "Pháo hoa sáng tạo có hình dạng Slime Phong. Do tên Slime Phong đọc lên không thuận miệng lắm, nên người sáng tạo ra nó đã dùng tên của một món ăn dân gian \"Bánh Ngô Đồng\" có màu giống như vậy để thay thế."
   },
   "SparklyShinyDodoco": {
@@ -13067,6 +13103,18 @@
     "name": "Nấm Thúy Linh",
     "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
   },
+  "FatuiCryoCicinMage": {
+    "name": "Fatui - Thuật Sĩ Cicin Băng",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "AbyssLectorFathomlessFlames": {
+    "name": "Học Sĩ Vực Sâu - Uyên Hỏa",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "ElectroHypostasis": {
+    "name": "Lôi Nguyên Bản",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
   "UndividedHeart": {
     "name": "Duy Thử Nhất Tâm",
     "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
@@ -13101,6 +13149,10 @@
   },
   "GrandExpectation": {
     "name": "Tầm Nhìn Phiêu Lưu",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "BunnyTriggered": {
+    "name": "Thỏ Xông Lên",
     "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
   },
   "NaganoharaMeteorSwarm": {
@@ -13179,8 +13231,8 @@
     "name": "Lòng Hiếu Chiến Trỗi Dậy",
     "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
   },
-  "TamanooyasCasket": {
-    "name": "Rương Báu Tamanooya",
+  "TamakushiCasket": {
+    "name": "Rương Báu Tamakushi",
     "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
   },
   "PoundingSurprise": {
@@ -13191,8 +13243,24 @@
     "name": "Sấm Sét Đầy Trời",
     "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
   },
+  "EmbraceOfWinds": {
+    "name": "Cái Ôm Của Gió",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "ConquerorOfEvilGuardianYaksha": {
+    "name": "Hàng Ma - Hộ Pháp Dạ Xoa",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "DominanceOfEarth": {
+    "name": "Xuy Kim Soạn Ngọc",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
   "KeenSight": {
     "name": "Tầm Nhìn Sắc Sảo",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "AbsorbingPrism": {
+    "name": "Lăng Kính Hút Năng Lượng",
     "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
   },
   "SinOfPride": {
@@ -13205,6 +13273,38 @@
   },
   "AratakiIchiban": {
     "name": "Arataki Đệ Nhất",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "MysticalAbandon": {
+    "name": "Vong Huyền",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "AbyssalMayhemHydrospout": {
+    "name": "Tai Họa Vực Sâu - Bắn Nước",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "SanguineRouge": {
+    "name": "Huyết Chi Táo Hỏa",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "WishesUnnumbered": {
+    "name": "Ngàn Vạn Ước Nguyện",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "TheShrinesSacredShade": {
+    "name": "Bóng Râm Đền Thần",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "TheSeedOfStoredKnowledge": {
+    "name": "Hạt Giống Ẩn Chứa Tri Thức",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "CicinsColdGlare": {
+    "name": "Tia Lạnh Cicin Băng",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "EmbersRekindled": {
+    "name": "Tàn Lửa Bùng Lên",
     "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
   },
   "MagicGuide": {
@@ -13355,8 +13455,64 @@
     "name": "Nón Nguyên Soái",
     "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
   },
+  "AmosBow": {
+    "name": "Cung Amos",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "AThousandFloatingDreams": {
+    "name": "Cõi Mộng Ngàn Đêm",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "ElegyForTheEnd": {
+    "name": "Tiếng Thở Dài Vô Tận",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "SkywardPride": {
+    "name": "Thiên Không Kiêu Ngạo",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "TheBell": {
+    "name": "Kiếm Chuông",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "VortexVanquisher": {
+    "name": "Giáo Nịnh Thần",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "EngulfingLightning": {
+    "name": "Đoạn Thảo Trường Đao",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "SkywardBlade": {
+    "name": "Thiên Không Kiếm",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
   "FavoniusSword": {
     "name": "Tây Phong Kiếm",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "EmblemOfSeveredFate": {
+    "name": "Dấu Ấn Ngăn Cách",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "TenacityOfTheMillelith": {
+    "name": "Thiên Nham Vững Chắc",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "ThunderingPoise": {
+    "name": "Diện Mạo Sấm Sét",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "VermillionHereafter": {
+    "name": "Thần Sa Vãng Sinh Lục",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "CapriciousVisage": {
+    "name": "Mặt Nạ Vô Thường",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "ShimenawasReminiscence": {
+    "name": "Dòng Hồi Ức Bất Tận",
     "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
   },
   "LiyueHarborWharf": {
@@ -13437,6 +13593,46 @@
   },
   "GrandNarukamiShrine": {
     "name": "Đền Narukami",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "Tenshukaku": {
+    "name": "Thiên Thủ Các",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "SangonomiyaShrine": {
+    "name": "Sangonomiya",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "SumeruCity": {
+    "name": "Thành Sumeru",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "Vanarana": {
+    "name": "Vanarana",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "ChinjuForest": {
+    "name": "Rừng Chinju",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "Hanachirusato": {
+    "name": "Hanachirusato",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "KidKujirai": {
+    "name": "Tiểu Đệ Kujirai",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "Xudong": {
+    "name": "Xudong",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "Dunyarzad": {
+    "name": "Dunyarzad",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "Rana": {
+    "name": "Rana",
     "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
   },
   "ElementalResonanceWovenIce": {
@@ -13555,6 +13751,42 @@
     "name": "Tiếng Gọi Của Vực Sâu",
     "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
   },
+  "WindAndFreedom": {
+    "name": "Phong Tự Do",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "StoneAndContracts": {
+    "name": "Nham Khế Ước",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "ThunderAndEternity": {
+    "name": "Lôi Vĩnh Hằng",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "NatureAndWisdom": {
+    "name": "Thảo Trí Tuệ",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "FatuiConspiracy": {
+    "name": "Âm Mưu Của Fatui",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "PlungingStrike": {
+    "name": "Chém Rơi",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "HeavyStrike": {
+    "name": "Trọng Công Kích",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "TheLegendOfVennessa": {
+    "name": "Vennessa Truyền Kỳ",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
+  "FriendshipEternal": {
+    "name": "Sức Mạnh Tình Bạn",
+    "description": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+  },
   "Origin": {
     "name": "Nguyên Sơ",
     "description": "Lưng bài nhận được trong \"Thất Thánh Triệu Hồi\", tạo hình rất đa dạng, chất liệu cũng có đôi chút khác nhau. Có nhiều bài thủ có sở thích và đam mê sưu tập lưng bài."
@@ -13585,6 +13817,10 @@
   },
   "LazuriteSwirl": {
     "name": "Thanh Kim Lưu Chuyển",
+    "description": "Lưng bài nhận được trong \"Thất Thánh Triệu Hồi\", tạo hình rất đa dạng, chất liệu cũng có đôi chút khác nhau. Có nhiều bài thủ có sở thích và đam mê sưu tập lưng bài."
+  },
+  "TreasuresOfTheDeck": {
+    "name": "Báu Vật Trong Bài",
     "description": "Lưng bài nhận được trong \"Thất Thánh Triệu Hồi\", tạo hình rất đa dạng, chất liệu cũng có đôi chút khác nhau. Có nhiều bài thủ có sở thích và đam mê sưu tập lưng bài."
   },
   "BeginnerPlayerBadge": {
@@ -13865,7 +14101,7 @@
   },
   "SakuraHuedStreet": {
     "name": "Phố Hoa Anh Đào",
-    "description": "Bản vẽ chi tiết từng bước, ghi lại cách bố trí \"Phố Hoa Anh Đào\".\\nCon đường được bố trí tỉ mỉ giống phố mua sắm của Thành Inazuma.\\nBất luận thế cục bên ngoài thay đổi ra sao, phần lớn cư dân trong Thành Inazuma vẫn có thể sinh sống trong bầu không khí yên bình hài hòa. Còn con đường phố thị bình dân sẽ phản ánh lên tình trạng ăn ở đi lại của người dân, là một bức tranh tả thực vô cùng chân thật về một thành trấn. Chỉ cần đi theo một \"thổ địa\" như quản gia nhà Kamisato, ghé thăm các cửa tiệm, thì sẽ nhanh chóng hiểu được nhân tình thế thái của vùng này.\\nSau khi dùng có thể đến giao diện bày trí để xem.\\nBạn đồng hành thích bộ trang trí này: Yoimiya, Thoma, Kuki Shinobu"
+    "description": "Bản vẽ chi tiết từng bước, ghi lại cách bố trí \"Phố Hoa Anh Đào\".\\nCon đường được bố trí tỉ mỉ giống phố mua sắm của Thành Inazuma.\\nBất luận thế cục bên ngoài thay đổi ra sao, phần lớn cư dân trong Thành Inazuma vẫn có thể sinh sống trong bầu không khí yên bình hài hòa. Còn con đường phố thị bình dân sẽ phản ánh lên tình trạng ăn ở đi lại của người dân, là một bức tranh tả thực vô cùng chân thật về một thành trấn. Chỉ cần đi theo một \"thổ địa\" như quản gia nhà Kamisato, ghé thăm các cửa tiệm, thì sẽ nhanh chóng hiểu được nhân tình thế thái của vùng này.\\nSau khi dùng có thể đến giao diện bày trí để xem.\\nBạn đồng hành thích bộ trang trí này: Yoimiya, Thoma, Kuki Shinobu, Kirara"
   },
   "EternalDomainOfFleetingDreams": {
     "name": "Giấc Mộng Êm Đềm",
@@ -13933,7 +14169,7 @@
   },
   "AmidstScentsAndSerenity": {
     "name": "Đắm Chìm Trong Hương Thơm Nhàn Nhã",
-    "description": "Hoa viên tao nhã thanh tịnh, sử dụng kiểu đình nghỉ chân giống với Vườn Razan và Pardis Dhyai, cũng không câu nệ tính tuyệt đối thống nhất trong phong cách kiến trúc, đồ vật và bố trí đều hướng đến việc tạo nên bầu không khí an nhàn.\\nNhững đóa hoa kiều diễm đang say giấc, cây đèn tinh tế điểm tô cho đài phun nước trang nhã... Chờ khi đêm xuống, bước đi giữa khu vườn này, mọi tạp niệm trong đầu đều sẽ tan biến, có lẽ sẽ tìm thấy được linh cảm khó tìm...\\nBạn đồng hành thích bộ trang trí này: Nahida, Kaveh"
+    "description": "Hoa viên tao nhã thanh tịnh, sử dụng kiểu đình nghỉ chân giống với Vườn Razan và Pardis Dhyai, cũng không câu nệ tính tuyệt đối thống nhất trong phong cách kiến trúc, đồ vật và bố trí đều hướng đến việc tạo nên bầu không khí an nhàn.\\nNhững đóa hoa kiều diễm đang say giấc, cây đèn tinh tế điểm tô cho đài phun nước trang nhã... Chờ khi đêm xuống, bước đi giữa khu vườn này, mọi tạp niệm trong đầu đều sẽ tan biến, có lẽ sẽ tìm thấy được linh cảm khó tìm...\\nBạn đồng hành thích bộ trang trí này: Nahida, Kaveh, Kirara"
   },
   "ChorusOfDesertAndWood": {
     "name": "Bản Hợp Tấu Giữa Rừng Rậm Và Sa Mạc",
@@ -14203,6 +14439,10 @@
     "name": "Kho Tàng Ở Vùng Đất Trí Tuệ",
     "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Kho Tàng Ở Vùng Đất Trí Tuệ\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
   },
+  "TavernBookcaseEssentialKnowledge": {
+    "name": "Kệ Sách Quán Rượu - Kiến Thức Cần Có",
+    "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Kệ Sách Quán Rượu - Kiến Thức Cần Có\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+  },
   "SturdyLibraryTable": {
     "name": "Bàn Thư Viện Dài",
     "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Bàn Thư Viện Dài\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
@@ -14291,6 +14531,10 @@
     "name": "Bàn Gọn Nhẹ Gỗ Sanh",
     "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Bàn Gọn Nhẹ Gỗ Sanh\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
   },
+  "RoundTavernTableLeapsAndBounds": {
+    "name": "Bàn Tròn Quán Rượu - Hàng Ngàn Chấn Động",
+    "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Bàn Tròn Quán Rượu - Hàng Ngàn Chấn Động\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+  },
   "BreezeBlessedBed": {
     "name": "Giường Bảo Vệ Êm Ái",
     "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Giường Bảo Vệ Êm Ái\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
@@ -14310,6 +14554,10 @@
   "AdhigamaWoodComfortBed": {
     "name": "Giường \"Thoải Mái\" Gỗ Adhigama",
     "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo Giường \"Thoải Mái\" Gỗ Adhigama.\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+  },
+  "AdhigamaWoodReposeCouch": {
+    "name": "Giường \"Đãi Tiệc\" Gỗ Adhigama",
+    "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Giường \"Đãi Tiệc\" Gỗ Adhigama\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
   },
   "PineReceptionCounter": {
     "name": "Quầy Lễ Tân Phòng Trọ Gỗ Thông",
@@ -14378,6 +14626,22 @@
   "AdhigamaVineBackedChair": {
     "name": "Ghế Tựa Lưng Dây Leo Adhigama",
     "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ghế Tựa Lưng Dây Leo Adhigama\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+  },
+  "SnekusThicket": {
+    "name": "Bụi Rậm Của Sneku",
+    "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Bụi Rậm Của Sneku\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+  },
+  "FinnicksCranberrySea": {
+    "name": "Biển Việt Quất Của Finnick",
+    "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Biển Việt Quất Của Finnick\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+  },
+  "TavernDiningChairFlavorsMultiplicity": {
+    "name": "Ghế Bàn Ăn - Vị Giác Tăng Mạnh",
+    "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ghế Bàn Ăn - Vị Giác Tăng Mạnh\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+  },
+  "TavernDiningChairAcceleratedSobriety": {
+    "name": "Ghế Bàn Ăn - Mau Chóng Tỉnh Táo",
+    "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ghế Bàn Ăn - Mau Chóng Tỉnh Táo\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
   },
   "NorthernStoneHearth": {
     "name": "Lò Sưởi Bằng Đá Bắc Địa",
@@ -14535,6 +14799,26 @@
     "name": "Nhiệt Liệt Thuần Túy",
     "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Nhiệt Liệt Thuần Túy\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
   },
+  "LittleRosesMangroveHouse": {
+    "name": "Nhà Cây Hoa Hồng Nhỏ",
+    "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Nhà Cây Hoa Hồng Nhỏ\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+  },
+  "NightPilotsWatchtower": {
+    "name": "Tháp Canh Của Kẻ Bay Đêm",
+    "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Tháp Canh Của Kẻ Bay Đêm\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+  },
+  "BaobabsGoldenCradle": {
+    "name": "Nôi Vàng Của Baobab",
+    "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Nôi Vàng Của Baobab\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+  },
+  "DionasMiniSofa": {
+    "name": "Sofa Nhỏ Của Diona",
+    "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Sofa Nhỏ Của Diona\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+  },
+  "TavernDiningCartASnackBetweenDishes": {
+    "name": "Xe Thức Ăn - Bữa Ăn Giữa Trận",
+    "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Xe Thức Ăn - Bữa Ăn Giữa Trận\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+  },
   "MondstadtRugCrimsonArdor": {
     "name": "Thảm Mondstadt - Ngọn Lửa Nhiệt Tình",
     "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Thảm Mondstadt - Ngọn Lửa Nhiệt Tình\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
@@ -14574,6 +14858,14 @@
   "PureLikeWheatSprouts": {
     "name": "Hoa Văn Thuần Khiết Như Mầm Lúa Mì",
     "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Hoa Văn Thuần Khiết Như Mầm Lúa Mì\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+  },
+  "TavernCarpetPassionOfPlay": {
+    "name": "Thảm Quán Rượu - Ván Đấu Nhiệt Tình",
+    "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Thảm Quán Rượu - Ván Đấu Nhiệt Tình\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+  },
+  "TavernCarpetDuelistsWisdom": {
+    "name": "Thảm Quán Rượu - Ván Đấu Lý Trí",
+    "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Thảm Quán Rượu - Ván Đấu Lý Trí\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
   },
   "TrustyPortableLamp": {
     "name": "Đèn Treo Ánh Sáng Bất Tận",
@@ -14794,6 +15086,18 @@
   "TheDustDifferential": {
     "name": "Giữa Tầng Cát Bụi",
     "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Giữa Tầng Cát Bụi\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+  },
+  "DeskComboMiddlelakeIsle": {
+    "name": "Bộ Bàn - Đảo Nhỏ Giữa Hồ",
+    "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Bộ Bàn - Đảo Nhỏ Giữa Hồ\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+  },
+  "DeskComboVerdantTotem": {
+    "name": "Bộ Bàn - Vật Tổ Xanh Lục",
+    "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Bộ Bàn - Vật Tổ Xanh Lục\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+  },
+  "PrincesWeepingFish": {
+    "name": "Cá Khóc Nhè Của Tiểu Hoàng Tử",
+    "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Cá Khóc Nhè Của Tiểu Hoàng Tử\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
   },
   "RealizationsFromTheLandOfWisdom": {
     "name": "Thức Tỉnh Ở Vùng Đất Trí Tuệ",
@@ -15970,6 +16274,10 @@
   "BrightwoodFabricBoxPlatform": {
     "name": "Kệ Hàng Dệt May Gỗ Sáng",
     "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Kệ Hàng Dệt May Gỗ Sáng\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
+  },
+  "LeisureDevicePuffyTubby": {
+    "name": "Cơ Quan Giải Trí - Tubby Phù Phù",
+    "description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Cơ Quan Giải Trí - Tubby Phù Phù\".\\nSau khi dùng có thể đến giao diện chế tạo để xem."
   },
   "PottedPlantVerdantVastness": {
     "name": "Chậu Cây Xanh - Xanh Ngắt Mát Mẻ",
