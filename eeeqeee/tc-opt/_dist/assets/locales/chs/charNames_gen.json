@@ -46,6 +46,7 @@
   "YaeMiko": "八重神子",
   "ShikanoinHeizou": "鹿野院平藏",
   "Yelan": "夜兰",
+  "Kirara": "绮良良",
   "Aloy": "埃洛伊",
   "Shenhe": "申鹤",
   "YunJin": "云堇",
@@ -64,6 +65,9 @@
   "Yaoyao": "瑶瑶",
   "Alhaitham": "艾尔海森",
   "Dehya": "迪希雅",
+  "Mika": "米卡",
+  "Kaveh": "卡维",
+  "Baizhu": "白术",
   "TravelerAnemoF": "荧 (风)",
   "TravelerGeoF": "荧 (岩元素)",
   "TravelerElectroF": "荧 (雷)",
@@ -71,5 +75,6 @@
   "TravelerAnemoM": "空 (风)",
   "TravelerGeoM": "空 (岩元素)",
   "TravelerElectroM": "空 (雷)",
-  "TravelerDendroM": "空 (草元素)"
+  "TravelerDendroM": "空 (草元素)",
+  "Somnia": "Somnia"
 }

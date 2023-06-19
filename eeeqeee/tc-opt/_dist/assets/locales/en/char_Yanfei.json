@@ -1,11 +1,5 @@
 {
-  "seals": [
-    "0 seals",
-    "1 seal",
-    "2 seals",
-    "3 seals",
-    "4 seals"
-  ],
+  "seals": ["0 seals", "1 seal", "2 seals", "3 seals", "4 seals"],
   "perSeal": "(per seal)",
   "maxSeals": "Maximum number of Scarlet Seals",
   "charged": {
@@ -22,7 +16,6 @@
     "sealsConsumed": "Seals consumed by using a Charged Attack"
   },
   "passive2": {
-    "chargedCrit": "Charged Attack deals a CRIT hit",
     "key": "Blazing Eye DMG"
   },
   "c1": {

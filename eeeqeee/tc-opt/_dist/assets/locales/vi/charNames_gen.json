@@ -46,6 +46,7 @@
   "YaeMiko": "Yae Miko",
   "ShikanoinHeizou": "Shikanoin Heizou",
   "Yelan": "Yelan",
+  "Kirara": "Kirara",
   "Aloy": "Aloy",
   "Shenhe": "Shenhe",
   "YunJin": "Yun Jin",
@@ -64,6 +65,9 @@
   "Yaoyao": "Yaoyao",
   "Alhaitham": "Alhaitham",
   "Dehya": "Dehya",
+  "Mika": "Mika",
+  "Kaveh": "Kaveh",
+  "Baizhu": "Baizhu",
   "TravelerAnemoF": "Lumine (Phong)",
   "TravelerGeoF": "Lumine (Nham)",
   "TravelerElectroF": "Lumine (Lôi)",
@@ -71,5 +75,6 @@
   "TravelerAnemoM": "Aether (Phong)",
   "TravelerGeoM": "Aether (Nham)",
   "TravelerElectroM": "Aether (Lôi)",
-  "TravelerDendroM": "Aether (Thảo)"
+  "TravelerDendroM": "Aether (Thảo)",
+  "Somnia": "Somnia"
 }
