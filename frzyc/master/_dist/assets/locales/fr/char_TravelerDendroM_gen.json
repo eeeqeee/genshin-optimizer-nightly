@@ -107,7 +107,7 @@
   "passive2": {
     "name": "Luxe verdoyant",
     "description": {
-      "0": "Chaque point de maîtrise élémentaire que {M#le voyageur}{F#la voyageuse} possède augmente les DGT infligés par <strong>Gerbe acérée</strong> de 0,15{NON_BREAK_SPACE}%, et ceux de <strong>Manifestation surgente</strong> de 0,1 %."
+      "0": "Chaque point de maîtrise élémentaire que {M#le voyageur}{F#la voyageuse} possède augmente les DGT infligés par <strong>Gerbe acérée</strong> de 0,15 %, et ceux de <strong>Manifestation surgente</strong> de 0,1 %."
     }
   },
   "constellation1": {

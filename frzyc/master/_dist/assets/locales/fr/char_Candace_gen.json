@@ -114,7 +114,7 @@
   "passive2": {
     "name": "Dôme céleste de sable",
     "description": {
-      "0": "Lorsqu'un personnage affecté par l'état Prière de couronne cramoisie de <strong>Liturgie : Marée de la bergeronnette</strong> inflige des DGT élémentaires à un ennemi avec une attaque normale, les DGT augmentent de 0,5 % pour chaque tranche de 1{NON_BREAK_SPACE}000 PV max de Candace."
+      "0": "Lorsqu'un personnage affecté par l'état Prière de couronne cramoisie de <strong>Liturgie : Marée de la bergeronnette</strong> inflige des DGT élémentaires à un ennemi avec une attaque normale, les DGT augmentent de 0,5 % pour chaque tranche de 1 000 PV max de Candace."
     }
   },
   "passive3": {

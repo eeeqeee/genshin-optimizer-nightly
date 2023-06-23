@@ -116,7 +116,7 @@
   "passive2": {
     "name": "Farsa inebriante",
     "description": {
-      "0": "L'ATT degli avversari nell'area d'effetto di <strong>Miscela d'autore</strong> si riduce di un 10% per 15{NON_BREAK_SPACE}s."
+      "0": "L'ATT degli avversari nell'area d'effetto di <strong>Miscela d'autore</strong> si riduce di un 10% per 15 s."
     }
   },
   "passive3": {
@@ -135,7 +135,7 @@
     "name": "Agitato, non \"miaoscolato\"",
     "description": {
       "0": "Aumenta i DAN di <strong>Zampe glaciali</strong> e l'assorbimento DAN del suo scudo di un 15%.",
-      "1": "Inoltre, quando le zampe colpiscono i loro bersagli, si genera uno scudo che protegge i personaggi vicini sul campo. Ha un 50% di assorbimento DAN dello scudo di <strong>Zampe glaciali</strong> e dura 5{NON_BREAK_SPACE}s."
+      "1": "Inoltre, quando le zampe colpiscono i loro bersagli, si genera uno scudo che protegge i personaggi vicini sul campo. Ha un 50% di assorbimento DAN dello scudo di <strong>Zampe glaciali</strong> e dura 5 s."
     }
   },
   "constellation3": {

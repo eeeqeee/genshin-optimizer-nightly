@@ -85,7 +85,7 @@
   },
   "WindtraceCoins": {
     "name": "Jetons de traque",
-    "description": "La devise obtenue à l'issue d'une participation au jeu «{NON_BREAK_SPACE}Poursuite du vent{NON_BREAK_SPACE}».\\nL'histoire de ce jeu changera selon les différentes zones. Bien que ce soit toujours un jeu de chasse-et-capture, à Mondstadt, les fuyards sont appelés des «{NON_BREAK_SPACE}rebelles{NON_BREAK_SPACE}» tandis que le poursuivant est un «{NON_BREAK_SPACE}chasseur{NON_BREAK_SPACE}», deux symboles de l'ancienne résistance et de l'oppression.\\nBien sûr, les enfants mondstadtois savent bien qu'il ne s'agit que d'un jeu et aucun véritable sentiment d'animosité ne découle de ces parties."
+    "description": "La devise obtenue à l'issue d'une participation au jeu « Poursuite du vent ».\\nL'histoire de ce jeu changera selon les différentes zones. Bien que ce soit toujours un jeu de chasse-et-capture, à Mondstadt, les fuyards sont appelés des « rebelles » tandis que le poursuivant est un « chasseur », deux symboles de l'ancienne résistance et de l'oppression.\\nBien sûr, les enfants mondstadtois savent bien qu'il ne s'agit que d'un jeu et aucun véritable sentiment d'animosité ne découle de ces parties."
   },
   "ShinyFlotsam": {
     "name": "Coquillage brillant",
@@ -157,7 +157,7 @@
   },
   "IridescentFlotsam": {
     "name": "Coquillage nacré",
-    "description": "Une coquille dure appartenant à une créature marine. On la retrouve dans les quatre coins de l'Archipel de la pomme dorée. Sous l'influence d'un certain pouvoir, sa surface a troqué son motif original contre un rendu irisé.\\nÉchangez-les contre des objets précieux lors de l'événement «{NON_BREAK_SPACE}Séjour estival à la mer »."
+    "description": "Une coquille dure appartenant à une créature marine. On la retrouve dans les quatre coins de l'Archipel de la pomme dorée. Sous l'influence d'un certain pouvoir, sa surface a troqué son motif original contre un rendu irisé.\\nÉchangez-les contre des objets précieux lors de l'événement « Séjour estival à la mer »."
   },
   "StratagemShard": {
     "name": "Éclat de stratagème",
@@ -165,7 +165,7 @@
   },
   "CreativeNote": {
     "name": "Note créative",
-    "description": "Des notes prises au cours de votre aventure résumant les sages conseils de vos compagnons concernant la manière de populariser les figurines d'aranaras. Elles peuvent être échangées contre des trésors précieux pendant l'événement «{NON_BREAK_SPACE}Sculpture d'innocence »."
+    "description": "Des notes prises au cours de votre aventure résumant les sages conseils de vos compagnons concernant la manière de populariser les figurines d'aranaras. Elles peuvent être échangées contre des trésors précieux pendant l'événement « Sculpture d'innocence »."
   },
   "WhimsicalDraft": {
     "name": "Brouillon d'inspiration",
@@ -401,7 +401,7 @@
   },
   "Klee": {
     "name": "Klee",
-    "description": "Une invitée régulière des cellules de l'Ordre de Favonius, et également la maîtresse des explosions à Mondstadt, où on la surnomme « le soleil fuyant{NON_BREAK_SPACE}»."
+    "description": "Une invitée régulière des cellules de l'Ordre de Favonius, et également la maîtresse des explosions à Mondstadt, où on la surnomme « le soleil fuyant »."
   },
   "Zhongli": {
     "name": "Zhongli",
@@ -437,7 +437,7 @@
   },
   "Albedo": {
     "name": "Albedo",
-    "description": "Génie connu sous le surnom de «{NON_BREAK_SPACE}Kreideprinz », Albedo est l'alchimiste en chef et le capitaine des enquêteurs de l'Ordre de Favonius."
+    "description": "Génie connu sous le surnom de « Kreideprinz », Albedo est l'alchimiste en chef et le capitaine des enquêteurs de l'Ordre de Favonius."
   },
   "Diona": {
     "name": "Diona",
@@ -3425,7 +3425,7 @@
   },
   "ArchaicStone": {
     "name": "Pierre séculaire",
-    "description": "Un minerai rare extrait d'un endroit reculé de la montagne.\\nCe type de minerai ne peut être trouvé que dans les veines des montagnes les plus anciennes. Cela est peut-être dû à son extrême rareté, mais de nombreux marchands n'ont même jamais entendu parler de ce type de pierre.\\nLe minerai lui-même est d'une clarté incroyable et ses couleurs sont éblouissantes, semblant presque briller d'une lumière intérieure faisant ressortir sa beauté bleutée, comme un ciel lointain et charmant à l'heure du coucher du soleil.\\nLes quelques chercheurs qui comprennent sa valeur lui ont donné le nom très simple de «{NON_BREAK_SPACE}Pierre séculaire ».\\nSi vous avez l'intention d'en faire cadeau, il serait préférable de l'offrir à quelqu'un qui pourra en comprendre sa valeur."
+    "description": "Un minerai rare extrait d'un endroit reculé de la montagne.\\nCe type de minerai ne peut être trouvé que dans les veines des montagnes les plus anciennes. Cela est peut-être dû à son extrême rareté, mais de nombreux marchands n'ont même jamais entendu parler de ce type de pierre.\\nLe minerai lui-même est d'une clarté incroyable et ses couleurs sont éblouissantes, semblant presque briller d'une lumière intérieure faisant ressortir sa beauté bleutée, comme un ciel lointain et charmant à l'heure du coucher du soleil.\\nLes quelques chercheurs qui comprennent sa valeur lui ont donné le nom très simple de « Pierre séculaire ».\\nSi vous avez l'intention d'en faire cadeau, il serait préférable de l'offrir à quelqu'un qui pourra en comprendre sa valeur."
   },
   "SlightlyDamagedWoodenPlank": {
     "name": "Planche en bois fissurée",
@@ -3693,7 +3693,7 @@
   },
   "ReinsOfRevivalFragmentSerpentsHeart": {
     "name": "Fragment des rênes du renouveau (Cœur du serpent)",
-    "description": "Un fragment des rênes du renouveau. Les trois fragments suivent également « règle des trois{NON_BREAK_SPACE}»."
+    "description": "Un fragment des rênes du renouveau. Les trois fragments suivent également « règle des trois »."
   },
   "ReinsOfRevival": {
     "name": "Rênes du renouveau",
@@ -3949,7 +3949,7 @@
   },
   "BoxOfClothes": {
     "name": "Boîte de vêtements",
-    "description": "Cette boîte contient les vêtements que Ningguang vous a demandé d'aller chercher. Comme elle l'a dit{NON_BREAK_SPACE}: «{NON_BREAK_SPACE}Changer de vêtements permet de changer d'humeur.{NON_BREAK_SPACE}»"
+    "description": "Cette boîte contient les vêtements que Ningguang vous a demandé d'aller chercher. Comme elle l'a dit : « Changer de vêtements permet de changer d'humeur. »"
   },
   "IronChunk": {
     "name": "Morceau de fer",
@@ -5349,83 +5349,83 @@
   },
   "RedemptionVoucher1": {
     "name": "Coupon d'échange 1",
-    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc d'eau «{NON_BREAK_SPACE}Toupie{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc d'eau « Toupie »."
   },
   "RedemptionVoucher2": {
     "name": "Coupon d'échange 2",
-    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc d'eau «{NON_BREAK_SPACE}Coucou{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc d'eau « Coucou »."
   },
   "RedemptionVoucher3": {
     "name": "Coupon d'échange 3",
-    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc d'eau «{NON_BREAK_SPACE}Aérien{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc d'eau « Aérien »."
   },
   "RedemptionVoucher4": {
     "name": "Coupon d'échange 4",
-    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc d'éclair «{NON_BREAK_SPACE}Toupie{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc d'éclair « Toupie »."
   },
   "RedemptionVoucher5": {
     "name": "Coupon d'échange 5",
-    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc d'éclair «{NON_BREAK_SPACE}Coucou{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc d'éclair « Coucou »."
   },
   "RedemptionVoucher6": {
     "name": "Coupon d'échange 6",
-    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc d'éclair «{NON_BREAK_SPACE}Aérien{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc d'éclair « Aérien »."
   },
   "RedemptionVoucher7": {
     "name": "Coupon d'échange 7",
-    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc de feu «{NON_BREAK_SPACE}Toupie{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc de feu « Toupie »."
   },
   "RedemptionVoucher8": {
     "name": "Coupon d'échange 8",
-    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc de feu «{NON_BREAK_SPACE}Coucou{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc de feu « Coucou »."
   },
   "RedemptionVoucher9": {
     "name": "Coupon d'échange 9",
-    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc de feu «{NON_BREAK_SPACE}Aérien{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc de feu « Aérien »."
   },
   "RedemptionVoucher10": {
     "name": "Coupon d'échange 10",
-    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc «{NON_BREAK_SPACE}Voyageur{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le petit-duc « Voyageur »."
   },
   "RedemptionVoucher11": {
     "name": "Coupon d'échange 11",
-    "description": "Un coupon d'échange utilisé pour obtenir le tripode d'eau «{NON_BREAK_SPACE}Bascule{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode d'eau « Bascule »."
   },
   "RedemptionVoucher12": {
     "name": "Coupon d'échange 12",
-    "description": "Un coupon d'échange utilisé pour obtenir le tripode d'eau «{NON_BREAK_SPACE}Danse{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode d'eau « Danse »."
   },
   "RedemptionVoucher13": {
     "name": "Coupon d'échange 13",
-    "description": "Un coupon d'échange utilisé pour obtenir le tripode d'eau «{NON_BREAK_SPACE}Assis{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode d'eau « Assis »."
   },
   "RedemptionVoucher14": {
     "name": "Coupon d'échange 14",
-    "description": "Un coupon d'échange utilisé pour obtenir le tripode d'éclair «{NON_BREAK_SPACE}Bascule{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode d'éclair « Bascule »."
   },
   "RedemptionVoucher15": {
     "name": "Coupon d'échange 15",
-    "description": "Un coupon d'échange utilisé pour obtenir le tripode d'éclair «{NON_BREAK_SPACE}Danse{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode d'éclair « Danse »."
   },
   "RedemptionVoucher16": {
     "name": "Coupon d'échange 16",
-    "description": "Un coupon d'échange utilisé pour obtenir le tripode d'éclair «{NON_BREAK_SPACE}Assis{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode d'éclair « Assis »."
   },
   "RedemptionVoucher17": {
     "name": "Coupon d'échange 17",
-    "description": "Un coupon d'échange utilisé pour obtenir le tripode de feu «{NON_BREAK_SPACE}Bascule{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode de feu « Bascule »."
   },
   "RedemptionVoucher18": {
     "name": "Coupon d'échange 18",
-    "description": "Un coupon d'échange utilisé pour obtenir le tripode de feu «{NON_BREAK_SPACE}Danse{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode de feu « Danse »."
   },
   "RedemptionVoucher19": {
     "name": "Coupon d'échange 19",
-    "description": "Un coupon d'échange utilisé pour obtenir le tripode de feu «{NON_BREAK_SPACE}Assis{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode de feu « Assis »."
   },
   "RedemptionVoucher20": {
     "name": "Coupon d'échange 20",
-    "description": "Un coupon d'échange utilisé pour obtenir le tripode «{NON_BREAK_SPACE}Voyageur{NON_BREAK_SPACE}»."
+    "description": "Un coupon d'échange utilisé pour obtenir le tripode « Voyageur »."
   },
   "PartBreeze": {
     "name": "Morceau : Brise",
@@ -5517,7 +5517,7 @@
   },
   "FertileSoilReportedly": {
     "name": "Terre supposément fertile",
-    "description": "Il est difficile de dire si cette terre est fertile ou non.\\nÀ quoi ce truc va-t-il servir à Akim{NON_BREAK_SPACE}?"
+    "description": "Il est difficile de dire si cette terre est fertile ou non.\\nÀ quoi ce truc va-t-il servir à Akim ?"
   },
   "DiscardedConcresoil": {
     "name": "Polyterre abandonnée",
@@ -5576,7 +5576,7 @@
     "description": "Des concentrés de connaissances achetés au stand de Dori avec les moras qui vous ont été donnés par Alhaitham. Ils ont été mis dans des emballages de produits ordinaires pour ne pas attirer le regard des gens."
   },
   "CannedKnowledgeSwordfightingTechniquesVIII": {
-    "name": "Concentré de connaissances «{NON_BREAK_SPACE}Techniques d'escrime VIII »",
+    "name": "Concentré de connaissances « Techniques d'escrime VIII »",
     "description": "Un concentré de connaissances étiqueté « Techniques d'escrime VIII ». Il a été acheté au stand de Dori au prix de 100 000 moras sous les demandes répétées de Paimon. Vous n'avez aucune idée de l'endroit où se trouvent les sept premiers concentrés de cette série, mais apprendre des techniques de combat pourra toujours vous être utile... Enfin, probablement."
   },
   "BagOfIntelTransactionFunds": {
@@ -5628,7 +5628,7 @@
     "description": ""
   },
   "TheBestWater": {
-    "name": "« La meilleure de toutes les eaux{NON_BREAK_SPACE}»",
+    "name": "« La meilleure de toutes les eaux »",
     "description": "De l'eau recueillie à Vanarana. Elle est limpide, froide et rafraîchissante. Lorsqu'une feuille se pose dessus, on a l'impression que cette dernière flotte dans les airs. C'est une eau transparente d'une qualité extraordinaire."
   },
   "SilverPocketWatch": {
@@ -5685,7 +5685,7 @@
   },
   "PersikovsManuscript": {
     "name": "Manuscrit de Persikov",
-    "description": "Un manuscrit rédigé par Persikov, le chercheur des Fatui. Il contient une carte qui vous amènera aux noyaux cristallins qui manquent au « Mimétisme cognitif{NON_BREAK_SPACE}» si vous suivez les instructions..."
+    "description": "Un manuscrit rédigé par Persikov, le chercheur des Fatui. Il contient une carte qui vous amènera aux noyaux cristallins qui manquent au « Mimétisme cognitif » si vous suivez les instructions..."
   },
   "NormalWood": {
     "name": "Bois ordinaire",
@@ -5697,7 +5697,7 @@
   },
   "TreasureMapInABox": {
     "name": "Carte au trésor dans une boîte",
-    "description": "Une carte au trésor placée au fond d'une boîte. Les indications simples qui figurent dessus pointent vers l'emplacement de «{NON_BREAK_SPACE}quelque chose de bien{NON_BREAK_SPACE}»."
+    "description": "Une carte au trésor placée au fond d'une boîte. Les indications simples qui figurent dessus pointent vers l'emplacement de « quelque chose de bien »."
   },
   "GlintingComponent": {
     "name": "Composant scintillant",
@@ -5705,7 +5705,7 @@
   },
   "SacredSealValley": {
     "name": "Sceau sacré : Vallée",
-    "description": "Une plaque de pierre ornée d'un texte ancien qui semble avoir fait partie d'une quelconque structure. Les sables du désert accueillent de nombreux souhaits inconnus... Qui a fait ces derniers et qui les porte maintenant ? Quoi qu'il en soit, les chercheurs pensent que ce symbole signifiait initialement «{NON_BREAK_SPACE}vallée »."
+    "description": "Une plaque de pierre ornée d'un texte ancien qui semble avoir fait partie d'une quelconque structure. Les sables du désert accueillent de nombreux souhaits inconnus... Qui a fait ces derniers et qui les porte maintenant ? Quoi qu'il en soit, les chercheurs pensent que ce symbole signifiait initialement « vallée »."
   },
   "SacredSealBirdHead": {
     "name": "Sceau sacré : Tête d'oiseau",
@@ -5761,7 +5761,7 @@
   },
   "SacredSealCeremony": {
     "name": "Sceau sacré : Cérémonie",
-    "description": "Une plaque de pierre ornée d'un texte ancien qui semble avoir fait partie d'une quelconque structure. Les sables du désert accueillent de nombreux souhaits inconnus... Qui a fait ces derniers et qui les porte maintenant ? Le sens original de ce mot était très probablement «{NON_BREAK_SPACE}sacrifice », avec le sens plus étendu de « rituel » ou «{NON_BREAK_SPACE}cérémonie » émergeant plus tard."
+    "description": "Une plaque de pierre ornée d'un texte ancien qui semble avoir fait partie d'une quelconque structure. Les sables du désert accueillent de nombreux souhaits inconnus... Qui a fait ces derniers et qui les porte maintenant ? Le sens original de ce mot était très probablement « sacrifice », avec le sens plus étendu de « rituel » ou « cérémonie » émergeant plus tard."
   },
   "SacredSealLabor": {
     "name": "Sceau sacré : Labeur",
@@ -7737,7 +7737,7 @@
   },
   "WayOfTheStrong": {
     "name": "Voie du puissant",
-    "description": "Spécialité culinaire d'Arataki Itto. Il insiste sur le fait qu'il s'agisse d'un plat inégalé lorsqu'il est préparé par «{NON_BREAK_SPACE}Arataki Itto, le plus fin des gourmets{NON_BREAK_SPACE}» en personne. Que vous soyez debout, assis ou couché, votre ventre se remplira d'un coup et vous aurez l'impression d'être en voie de devenir le deuxième être le plus puissant au monde... Quel gars génial."
+    "description": "Spécialité culinaire d'Arataki Itto. Il insiste sur le fait qu'il s'agisse d'un plat inégalé lorsqu'il est préparé par « Arataki Itto, le plus fin des gourmets » en personne. Que vous soyez debout, assis ou couché, votre ventre se remplira d'un coup et vous aurez l'impression d'être en voie de devenir le deuxième être le plus puissant au monde... Quel gars génial."
   },
   "VictoriousLegend": {
     "name": "Légende victorieuse",
@@ -7893,7 +7893,7 @@
   },
   "SuspiciousMushroomHodgepodge": {
     "name": "Mélangé de champignons (suspect)",
-    "description": "Un plat aux champignons aranarien typique. Paimon s'est creusé la tête pour essayer d'améliorer ce plat qui ne consiste à la base que de quelques champignons communs de Sumeru et d'assaisonnements en grande quantité. Doit-on plutôt décrire ce mets comme ayant l'odeur de la forêt, ou plutôt dire qu'il a une odeur de... boue sale ? Quoi qu'il en soit, seuls les sangliers de la forêt sauront apprécier ce «{NON_BREAK_SPACE}cadeau de la nature{NON_BREAK_SPACE}»..."
+    "description": "Un plat aux champignons aranarien typique. Paimon s'est creusé la tête pour essayer d'améliorer ce plat qui ne consiste à la base que de quelques champignons communs de Sumeru et d'assaisonnements en grande quantité. Doit-on plutôt décrire ce mets comme ayant l'odeur de la forêt, ou plutôt dire qu'il a une odeur de... boue sale ? Quoi qu'il en soit, seuls les sangliers de la forêt sauront apprécier ce « cadeau de la nature »..."
   },
   "MushroomHodgepodge": {
     "name": "Mélangé de champignons",
@@ -7973,7 +7973,7 @@
   },
   "DeliciousLambadFishRoll": {
     "name": "Rouleau au poisson de Lambad (délicieux)",
-    "description": "Un plat de poisson grillé avec un léger parfum floral. La chair de poisson dorée et les pétales de rose parfumés rappellent les vagues ondulantes à la surface de la mer qui scintillent sous le soleil couchant. Il est facile de comprendre pourquoi ce plat est aussi appelé «{NON_BREAK_SPACE}romance des marins{NON_BREAK_SPACE}». Mais... cela veut-il dire qu'il n'y a rien d'exagéré dans les récits d'aventures de Lambad ?"
+    "description": "Un plat de poisson grillé avec un léger parfum floral. La chair de poisson dorée et les pétales de rose parfumés rappellent les vagues ondulantes à la surface de la mer qui scintillent sous le soleil couchant. Il est facile de comprendre pourquoi ce plat est aussi appelé « romance des marins ». Mais... cela veut-il dire qu'il n'y a rien d'exagéré dans les récits d'aventures de Lambad ?"
   },
   "SuspiciousCurryShrimp": {
     "name": "Crevettes au curry (suspectes)",
@@ -8029,7 +8029,7 @@
   },
   "Yearning": {
     "name": "Aspiration",
-    "description": "Spécialité culinaire de Collei. Un pain mou garni d'ingrédients riches en nutriments qui est idéal pour les personnes qui doivent se déplacer souvent. Selon Collei, le bifteck qu'il contient est appelé «{NON_BREAK_SPACE}la viande grillée du garde forestier{NON_BREAK_SPACE}»{NON_BREAK_SPACE}! Difficile de ne pas penser à une certaine fille vêtue de rouge pleine d'enthousiasme... C'est sûrement elle qui doit être à l'origine de l'aspiration de Collei."
+    "description": "Spécialité culinaire de Collei. Un pain mou garni d'ingrédients riches en nutriments qui est idéal pour les personnes qui doivent se déplacer souvent. Selon Collei, le bifteck qu'il contient est appelé « la viande grillée du garde forestier » ! Difficile de ne pas penser à une certaine fille vêtue de rouge pleine d'enthousiasme... C'est sûrement elle qui doit être à l'origine de l'aspiration de Collei."
   },
   "ShowMeTheMora": {
     "name": "Aboul'moras",
@@ -8173,11 +8173,11 @@
   },
   "ExtravagantSlumber": {
     "name": "Sommeil extravagant",
-    "description": "Spécialité culinaire de Layla. Les fruits secs éparpillés rappellent des étoiles dans le ciel nocturne tranquille. Une bouchée suffit à détendre et apaiser votre corps et votre esprit après une longue journée de labeur. Après avoir dit à Layla ce que son plat vous inspirait, un air mêlant joie et regret apparaît sur son visage : «{NON_BREAK_SPACE}C—C'est génial ! J'aurais aimé que ça me fasse le même effet.{NON_BREAK_SPACE}»"
+    "description": "Spécialité culinaire de Layla. Les fruits secs éparpillés rappellent des étoiles dans le ciel nocturne tranquille. Une bouchée suffit à détendre et apaiser votre corps et votre esprit après une longue journée de labeur. Après avoir dit à Layla ce que son plat vous inspirait, un air mêlant joie et regret apparaît sur son visage : « C—C'est génial ! J'aurais aimé que ça me fasse le même effet. »"
   },
   "Halvamazd": {
     "name": "Halvamazd",
-    "description": "Spécialité culinaire de Nahida. Le terme «{NON_BREAK_SPACE}mazd » signifie sagesse en sumérien et personne ne peut résister à ce genre de «{NON_BREAK_SPACE}sagesse ». Un sourire apparaît dans les yeux de Nahida : « L'anémone de mer a aidé le petit poisson à grandir, et ce dernier veut évidemment lui rendre la pareille. »"
+    "description": "Spécialité culinaire de Nahida. Le terme « mazd » signifie sagesse en sumérien et personne ne peut résister à ce genre de « sagesse ». Un sourire apparaît dans les yeux de Nahida : « L'anémone de mer a aidé le petit poisson à grandir, et ce dernier veut évidemment lui rendre la pareille. »"
   },
   "SuspiciousSamosa": {
     "name": "Samoussas (suspects)",
@@ -8297,7 +8297,7 @@
   },
   "Fatteh": {
     "name": "Fatteh",
-    "description": "Un plat de longue date de Sumeru. Le pain cuit est d'abord émietté avant d'être mélangé avec des haricots glabres bouillis et une sauce au yaourt, le tout étant finalement dégusté directement. Cette recette est transmise depuis longtemps et possède de nombreuses variantes, mais elles partagent toutes un point commun{NON_BREAK_SPACE}: elles sont à la fois simples et délicieuses."
+    "description": "Un plat de longue date de Sumeru. Le pain cuit est d'abord émietté avant d'être mélangé avec des haricots glabres bouillis et une sauce au yaourt, le tout étant finalement dégusté directement. Cette recette est transmise depuis longtemps et possède de nombreuses variantes, mais elles partagent toutes un point commun : elles sont à la fois simples et délicieuses."
   },
   "DeliciousFatteh": {
     "name": "Fatteh (délicieux)",
@@ -9321,7 +9321,7 @@
   },
   "ChaosStorage": {
     "name": "Conteneur du chaos",
-    "description": "Provient d'un ancien Dragon des ruines désormais inactif.\\nLes Dragons des ruines peuvent absorber l'énergie élémentaire et la stocker dans un composant situé à l'intérieur de leur «{NON_BREAK_SPACE}cou{NON_BREAK_SPACE}»."
+    "description": "Provient d'un ancien Dragon des ruines désormais inactif.\\nLes Dragons des ruines peuvent absorber l'énergie élémentaire et la stocker dans un composant situé à l'intérieur de leur « cou »."
   },
   "ChaosModule": {
     "name": "Module du chaos",
@@ -9525,7 +9525,7 @@
   },
   "QuelledCreeper": {
     "name": "Liane d'oblitération",
-    "description": "La forme finale condensée d'une Hypostase Dendro. Des lianes robustes protègent un cristal élémentaire pur.\\nL'élément Dendro, dont l'existence est la plus opposée à l'ordre naturel des choses, mais l'élément le plus compatible avec la vie, et une Hypostase, un être élémentaire très éloigné de toutes les autres formes de vie, n'auraient pas dû avoir la possibilité de ne faire qu'un dans ce monde. On raconte qu'une Hypostase est capable d'«{NON_BREAK_SPACE}apprendre{NON_BREAK_SPACE}» de leur environnement. C'est pour cette raison que les rêves et les nuances de la forêt n'ont aucun secret pour celle-ci en particulier. Sa forme actuelle est le fruit de milliers d'années de transformation."
+    "description": "La forme finale condensée d'une Hypostase Dendro. Des lianes robustes protègent un cristal élémentaire pur.\\nL'élément Dendro, dont l'existence est la plus opposée à l'ordre naturel des choses, mais l'élément le plus compatible avec la vie, et une Hypostase, un être élémentaire très éloigné de toutes les autres formes de vie, n'auraient pas dû avoir la possibilité de ne faire qu'un dans ce monde. On raconte qu'une Hypostase est capable d'« apprendre » de leur environnement. C'est pour cette raison que les rêves et les nuances de la forêt n'ont aucun secret pour celle-ci en particulier. Sa forme actuelle est le fruit de milliers d'années de transformation."
   },
   "PuppetStrings": {
     "name": "Fils de marionnette",
@@ -9937,7 +9937,7 @@
   },
   "ANoteAlraniLeftForNiloofar": {
     "name": "Note d'Alrani pour Niloofar",
-    "description": "Un mot qu'Alrani a laissé à sa tutrice Niloofar. L'écriture est assez peu soignée, mais son auteur a appuyé si fort sur le papier que quiconque lit la note peut immédiatement ressentir ses émotions intenses. « Je ne veux PLUS écrire d'article universitaire{NON_BREAK_SPACE}!!!{NON_BREAK_SPACE}»"
+    "description": "Un mot qu'Alrani a laissé à sa tutrice Niloofar. L'écriture est assez peu soignée, mais son auteur a appuyé si fort sur le papier que quiconque lit la note peut immédiatement ressentir ses émotions intenses. « Je ne veux PLUS écrire d'article universitaire !!! »"
   },
   "AResearchPaperByPirKavikavus": {
     "name": "Thèse de Pir Kavikavus",
@@ -9964,7 +9964,7 @@
     "description": "Ce lourd sac de moras contient six mois de fonds de recherche de Jazari. Si tout ce qu'il contient est utilisé par accident, Jazari fondra en larmes..."
   },
   "TheUltraInvincibleAdventureHandbook": {
-    "name": "Manuel d'aventure de «{NON_BREAK_SPACE}l'ultra-invulnérable{NON_BREAK_SPACE}»",
+    "name": "Manuel d'aventure de « l'ultra-invulnérable »",
     "description": "Un manuel d'aventure laissé dans une base secrète. Il semble contenir les récits d'aventures d'enfants ainsi que diverses anecdotes intéressantes, bien que l'écriture tordue rende le texte pratiquement illisible..."
   },
   "LostEnergyBlock": {
@@ -10453,7 +10453,7 @@
   },
   "LaylasListOfOrders": {
     "name": "Commande de Layla",
-    "description": "Une liste d'objets que Layla a commandés au trouvetout. Les ingrédients de cuisine qu'elle souhaite acheter se trouvent dessus ainsi que le lieu de rendez-vous avec le trouvetout et les articles que Layla a précédemment achetés. La phrase « Elle a acheté un produit introuvable au Grand bazar » s'y trouve, comme un rappel pour ne pas oublier la jeune femme. Pour une raison qui vous échappe, le lieu de rendez-vous se trouve étonnamment sur une route en dehors de la Ville de Sumeru. Ce «{NON_BREAK_SPACE}trouvetout » semble être très doué pour planifier ses transactions, car il a accepté la commande de Layla alors que sa marchandise n'est pas encore arrivée."
+    "description": "Une liste d'objets que Layla a commandés au trouvetout. Les ingrédients de cuisine qu'elle souhaite acheter se trouvent dessus ainsi que le lieu de rendez-vous avec le trouvetout et les articles que Layla a précédemment achetés. La phrase « Elle a acheté un produit introuvable au Grand bazar » s'y trouve, comme un rappel pour ne pas oublier la jeune femme. Pour une raison qui vous échappe, le lieu de rendez-vous se trouve étonnamment sur une route en dehors de la Ville de Sumeru. Ce « trouvetout » semble être très doué pour planifier ses transactions, car il a accepté la commande de Layla alors que sa marchandise n'est pas encore arrivée."
   },
   "InitialInvestigationClues": {
     "name": "Premiers indices d'enquête",
@@ -10629,7 +10629,7 @@
   },
   "UnattributedRamenVoucher": {
     "name": "Coupon pour ramen d'origine inconnue",
-    "description": "Un cadeau de remerciement pour avoir aidé l'« Authentique Roi oni des scarabées de combat » Arataki Itto à concourir contre le Grand Maître Hanakado lors de «{NON_BREAK_SPACE}L'extraordinaire et exaltante bagarre extrême de scarabées du sublime Arataki ». Il est également la preuve de l'ascension rapide de deux étoiles montantes des combats de scarabées, « Bras droit du Roi oni » et « Melon lavande de fer blanc ».\\nL'Authentique Roi oni des scarabées de combat affirme que vous pouvez « profiter d'un bol de ramen gratuitement pendant deux mois d'affilée » en montrant ce coupon à l'étal. Mais... De quel étal parle-t-il exactement ?"
+    "description": "Un cadeau de remerciement pour avoir aidé l'« Authentique Roi oni des scarabées de combat » Arataki Itto à concourir contre le Grand Maître Hanakado lors de « L'extraordinaire et exaltante bagarre extrême de scarabées du sublime Arataki ». Il est également la preuve de l'ascension rapide de deux étoiles montantes des combats de scarabées, « Bras droit du Roi oni » et « Melon lavande de fer blanc ».\\nL'Authentique Roi oni des scarabées de combat affirme que vous pouvez « profiter d'un bol de ramen gratuitement pendant deux mois d'affilée » en montrant ce coupon à l'étal. Mais... De quel étal parle-t-il exactement ?"
   },
   "NeatNote": {
     "name": "Note soignée",
@@ -10697,7 +10697,7 @@
   },
   "StrangeMushroom": {
     "name": "Champignon étrange",
-    "description": "Les champignons peuvent-ils vraiment pousser dans des champs{NON_BREAK_SPACE}?"
+    "description": "Les champignons peuvent-ils vraiment pousser dans des champs ?"
   },
   "NamelessTabooMedicineOfTheRoyalCourt": {
     "name": "Médicament tabou et anonyme de la cour royale",
@@ -10720,7 +10720,7 @@
     "description": "De la soupe de porc aux pousses de bambou cuisinée avec le cuiseur suprême de Souffle-Nuages. « Son apparence est exquise, et son arôme riche et intense », d'après la critique qu'en a faite Zhongli. Parmi ses ingrédients clés, on trouve notamment des pousses de bambou naissantes, qui sont connues pour être difficiles à trouver... Pour diverses raisons, la valeur commémorative de ce plat dépasse de loin sa valeur culinaire. Étant donné qu'il a été créé par un Adepte, il ne devrait pas se détériorer même si vous le mettez dans votre sac."
   },
   "WarriorsSpiritSwordfightingArenaTicket": {
-    "name": "Ticket d'entrée « La voie du guerrier{NON_BREAK_SPACE}»",
+    "name": "Ticket d'entrée « La voie du guerrier »",
     "description": "Au-delà des nations et des identités, unis par la voie du guerrier."
   },
   "VentisNote": {
@@ -11173,11 +11173,11 @@
   },
   "DivdaRay": {
     "name": "Raie divda",
-    "description": "Un étrange poisson cartilagineux qui était autrefois considéré comme une créature fantastique et que l'on ne trouvait que dans certains anciens parchemins d'art sur l'Île de Watatsumi. Lorsque le sceau d'Enkanomiya a été ouvert, leur véritable apparence a été révélée.\\nIl paraît que l'aspect corporel de ces étranges créatures change de couleur avec le temps. Quand elles sont jeunes, elles sont aussi dorées que la lumière du soleil ce qui leur a valu le nom de « divda » dans les anciens parchemins, ce qui signifie « queue de l'innocence{NON_BREAK_SPACE}»."
+    "description": "Un étrange poisson cartilagineux qui était autrefois considéré comme une créature fantastique et que l'on ne trouvait que dans certains anciens parchemins d'art sur l'Île de Watatsumi. Lorsque le sceau d'Enkanomiya a été ouvert, leur véritable apparence a été révélée.\\nIl paraît que l'aspect corporel de ces étranges créatures change de couleur avec le temps. Quand elles sont jeunes, elles sont aussi dorées que la lumière du soleil ce qui leur a valu le nom de « divda » dans les anciens parchemins, ce qui signifie « queue de l'innocence »."
   },
   "FormaloRay": {
     "name": "Raie formalo",
-    "description": "Un étrange poisson cartilagineux qui était autrefois considéré comme une créature fantastique et que l'on ne trouvait que dans certains anciens parchemins d'art sur l'Île de Watatsumi. Lorsque le sceau d'Enkanomiya a été ouvert, leur véritable apparence a été révélée.\\nIl paraît que l'aspect corporel de ces étranges créatures change de couleur avec le temps. Quand elles sont jeunes, elles sont aussi dorées que la lumière du soleil. Plus tard, cependant, leurs couleurs s'intensifient et leurs deux « ailes » se colorent d'un violet aussi profond que la nuit ce qui leur a valu le nom de «{NON_BREAK_SPACE}formalo{NON_BREAK_SPACE}» dans les anciens parchemins, ce qui signifie «{NON_BREAK_SPACE}gueule de la cupidité{NON_BREAK_SPACE}»."
+    "description": "Un étrange poisson cartilagineux qui était autrefois considéré comme une créature fantastique et que l'on ne trouvait que dans certains anciens parchemins d'art sur l'Île de Watatsumi. Lorsque le sceau d'Enkanomiya a été ouvert, leur véritable apparence a été révélée.\\nIl paraît que l'aspect corporel de ces étranges créatures change de couleur avec le temps. Quand elles sont jeunes, elles sont aussi dorées que la lumière du soleil. Plus tard, cependant, leurs couleurs s'intensifient et leurs deux « ailes » se colorent d'un violet aussi profond que la nuit ce qui leur a valu le nom de « formalo » dans les anciens parchemins, ce qui signifie « gueule de la cupidité »."
   },
   "TrueFruitAngler": {
     "name": "Baudroie de vérifruit",
@@ -11197,11 +11197,11 @@
   },
   "LazuriteAxeMarlin": {
     "name": "Marlin à hache de lazurite",
-    "description": "Un poisson à la morphologie unique, parent éloigné de Sumeru du poisson-papillon. Ce poisson a un large squelette et un corps incurvé unique. La légende veut que les premiers pêcheurs à avoir attrapé ce poisson aient incliné leur canne à pêche à l'extrémité de la nageoire caudale pour constater que les deux, une fois combinées, ressemblaient à une hache, d'où le nom de « marlin à hache ». Comparé à son nom scientifique, «{NON_BREAK_SPACE}papillon à crochet », ce nom est plus parlant, c'est pourquoi beaucoup de gens l'utilisent de manière familière.\\nBien que son nom soit dérivé d'une arme et qu'il surpasse la plupart des poissons en termes de force, le marlin à hache est d'une nature pacifique, notamment ceux dont le corps est rayé de bleu et d'or. De par la solidité de ses écailles et sa force physique, le marlin à hache est capable d'encaisser les attaques d'autres créatures aquatiques, attendant que son agresseur ne s'épuise et parte.\\nSa grande force peut constituer un défi pour un pêcheur, qui ne peut l'attraper qu'en l'appréhendant comme s'il s'agissait d'une créature marine féroce et en attendant que son endurance s'épuise totalement."
+    "description": "Un poisson à la morphologie unique, parent éloigné de Sumeru du poisson-papillon. Ce poisson a un large squelette et un corps incurvé unique. La légende veut que les premiers pêcheurs à avoir attrapé ce poisson aient incliné leur canne à pêche à l'extrémité de la nageoire caudale pour constater que les deux, une fois combinées, ressemblaient à une hache, d'où le nom de « marlin à hache ». Comparé à son nom scientifique, « papillon à crochet », ce nom est plus parlant, c'est pourquoi beaucoup de gens l'utilisent de manière familière.\\nBien que son nom soit dérivé d'une arme et qu'il surpasse la plupart des poissons en termes de force, le marlin à hache est d'une nature pacifique, notamment ceux dont le corps est rayé de bleu et d'or. De par la solidité de ses écailles et sa force physique, le marlin à hache est capable d'encaisser les attaques d'autres créatures aquatiques, attendant que son agresseur ne s'épuise et parte.\\nSa grande force peut constituer un défi pour un pêcheur, qui ne peut l'attraper qu'en l'appréhendant comme s'il s'agissait d'une créature marine féroce et en attendant que son endurance s'épuise totalement."
   },
   "HalcyonJadeAxeMarlin": {
     "name": "Marlin à hache de jade",
-    "description": "Un poisson à la morphologie unique, parent éloigné de Sumeru du poisson-papillon. Ce poisson a un large squelette et un corps incurvé unique. La légende veut que les premiers pêcheurs à avoir attrapé ce poisson aient incliné leur canne à pêche à l'extrémité de la nageoire caudale pour constater que les deux, une fois combinées, ressemblaient à une hache, d'où le nom de « marlin à hache ». Comparé à son nom scientifique, «{NON_BREAK_SPACE}papillon à crochet », ce nom est plus parlant, c'est pourquoi beaucoup de gens l'utilisent de manière familière.\\nLe marlin à hache de couleur jade préfère les zones où les plantes aquatiques sont abondantes, sa forme se fondant facilement dans cet environnement. Les petits poissons qui se promènent dans la végétation se heurtent souvent à son corps camouflé et s'étourdissent, mais le marlin ne se sent pas provoqué et ira plutôt offrir un abri à ses voisins."
+    "description": "Un poisson à la morphologie unique, parent éloigné de Sumeru du poisson-papillon. Ce poisson a un large squelette et un corps incurvé unique. La légende veut que les premiers pêcheurs à avoir attrapé ce poisson aient incliné leur canne à pêche à l'extrémité de la nageoire caudale pour constater que les deux, une fois combinées, ressemblaient à une hache, d'où le nom de « marlin à hache ». Comparé à son nom scientifique, « papillon à crochet », ce nom est plus parlant, c'est pourquoi beaucoup de gens l'utilisent de manière familière.\\nLe marlin à hache de couleur jade préfère les zones où les plantes aquatiques sont abondantes, sa forme se fondant facilement dans cet environnement. Les petits poissons qui se promènent dans la végétation se heurtent souvent à son corps camouflé et s'étourdissent, mais le marlin ne se sent pas provoqué et ira plutôt offrir un abri à ses voisins."
   },
   "WingsOfFirstFlight": {
     "name": "Planeur du débutant",
@@ -12529,7 +12529,7 @@
   },
   "FaruzanSealedSecret": {
     "name": "Faruzan - Secret scellé",
-    "description": "Thème.\\n« B—Bon, il faut m'appeler «{NON_BREAK_SPACE}madame » la prochaine fois que vous me posez une question ! »"
+    "description": "Thème.\\n« B—Bon, il faut m'appeler « madame » la prochaine fois que vous me posez une question ! »"
   },
   "AchievementInvoker": {
     "name": "Succès - Invocateur",
@@ -12585,7 +12585,7 @@
   },
   "AchievementTransientTwilight": {
     "name": "Succès - Crépuscule éphémère",
-    "description": "Thème.\\n« J'oublierai les fleurs d'antan, la lumière du jour, la pluie. Je vous demande de vous souvenir à ma place, dans ce monde naissant, et de vous accrocher à ce rêve perdu.{NON_BREAK_SPACE}»"
+    "description": "Thème.\\n« J'oublierai les fleurs d'antan, la lumière du jour, la pluie. Je vous demande de vous souvenir à ma place, dans ce monde naissant, et de vous accrocher à ce rêve perdu. »"
   },
   "SumeruTheGreatDream": {
     "name": "Sumeru - Grand rêve",
@@ -12649,15 +12649,15 @@
   },
   "MiniSeelieDayflower": {
     "name": "Mini-fée comméline",
-    "description": "Un souvenir de l'événement «{NON_BREAK_SPACE}Richesses perdues{NON_BREAK_SPACE}», équipez-vous-en pour être {M#accompagné}{F#accompagnée} d'une petite Fée.\\nUne Fée miniature bleu marine. À la différence des autres Fées, elle semble n'avoir aucun intérêt à guider, préférant voir le monde à vos côtés."
+    "description": "Un souvenir de l'événement « Richesses perdues », équipez-vous-en pour être {M#accompagné}{F#accompagnée} d'une petite Fée.\\nUne Fée miniature bleu marine. À la différence des autres Fées, elle semble n'avoir aucun intérêt à guider, préférant voir le monde à vos côtés."
   },
   "MiniSeelieRos": {
     "name": "Mini-fée rosée",
-    "description": "Un souvenir de l'événement «{NON_BREAK_SPACE}Richesses perdues{NON_BREAK_SPACE}», équipez-vous-en pour être {M#accompagné}{F#accompagnée} d'une petite Fée.\\nUne Fée miniature rose poudré. Muette, elle aime suivre en silence les personnes qui ont ses faveurs."
+    "description": "Un souvenir de l'événement « Richesses perdues », équipez-vous-en pour être {M#accompagné}{F#accompagnée} d'une petite Fée.\\nUne Fée miniature rose poudré. Muette, elle aime suivre en silence les personnes qui ont ses faveurs."
   },
   "MiniSeelieCurcuma": {
     "name": "Mini-fée curcuma",
-    "description": "Un souvenir de l'événement «{NON_BREAK_SPACE}Richesses perdues{NON_BREAK_SPACE}», équipez-vous-en pour être {M#accompagné}{F#accompagnée} d'une petite Fée.\\nUne Fée miniature couleur d'or. Elle dégage une aura similaire à celle des moras. Certains prétendent que les Fées de cette couleur symbolisent la bonne fortune."
+    "description": "Un souvenir de l'événement « Richesses perdues », équipez-vous-en pour être {M#accompagné}{F#accompagnée} d'une petite Fée.\\nUne Fée miniature couleur d'or. Elle dégage une aura similaire à celle des moras. Certains prétendent que les Fées de cette couleur symbolisent la bonne fortune."
   },
   "WarmingBottle": {
     "name": "Fiole exothermique",
@@ -12741,7 +12741,7 @@
   },
   "MiniSeelieViola": {
     "name": "Mini-fée violette",
-    "description": "Un souvenir de l'événement «{NON_BREAK_SPACE}Richesses perdues{NON_BREAK_SPACE}», équipez-vous-en pour être {M#accompagné}{F#accompagnée} d'une petite Fée.\\nUne Fée miniature violette. Sa couleur est très semblable à celle des objets chargés d'énergie Électro. Qui sait si vous ne serez pas électrisé en la touchant..."
+    "description": "Un souvenir de l'événement « Richesses perdues », équipez-vous-en pour être {M#accompagné}{F#accompagnée} d'une petite Fée.\\nUne Fée miniature violette. Sa couleur est très semblable à celle des objets chargés d'énergie Électro. Qui sait si vous ne serez pas électrisé en la touchant..."
   },
   "AyeshasChaosProspector": {
     "name": "Détecteur du chaos d'Ayesha",
@@ -12773,7 +12773,7 @@
   },
   "BokusoBox": {
     "name": "Boîte de Bokuso",
-    "description": "Utilisez cette boîte pour dissiper l'influence des ténèbres dans une certaine zone d'Enkanomiya.\\nLe nom « Bokuso » est formé de «{NON_BREAK_SPACE}boku{NON_BREAK_SPACE}», qui signifie « s'approcher de ce qui est bon », et « so », qui signifie « éviter ce qui est souillé{NON_BREAK_SPACE}»."
+    "description": "Utilisez cette boîte pour dissiper l'influence des ténèbres dans une certaine zone d'Enkanomiya.\\nLe nom « Bokuso » est formé de « boku », qui signifie « s'approcher de ce qui est bon », et « so », qui signifie « éviter ce qui est souillé »."
   },
   "AratakisGreatAndGloriousDrum": {
     "name": "Tambourin harmonieux d'Arataki",
@@ -12793,7 +12793,7 @@
   },
   "CasketOfTomes": {
     "name": "Coffret d'arcanes",
-    "description": "Une boîte de cartes distribuée par l'Association des joueurs d'Invocation des Sept. Seuls les débutants qui ont appris les règles de base et sont certifiés en tant que joueurs peuvent en récupérer une.\\nOn raconte que ces boîtes ont été fabriquées par des chercheurs de l'Académie de Sumeru et qu'elles disposent d'un mécanisme spécial qui permet de détecter les personnes à proximité qui possèdent également un coffret d'arcanes de ce type.\\nN'hésitez pas à utiliser cette fonction pour participer à des parties contre des joueurs du coin{NON_BREAK_SPACE}!"
+    "description": "Une boîte de cartes distribuée par l'Association des joueurs d'Invocation des Sept. Seuls les débutants qui ont appris les règles de base et sont certifiés en tant que joueurs peuvent en récupérer une.\\nOn raconte que ces boîtes ont été fabriquées par des chercheurs de l'Académie de Sumeru et qu'elles disposent d'un mécanisme spécial qui permet de détecter les personnes à proximité qui possèdent également un coffret d'arcanes de ce type.\\nN'hésitez pas à utiliser cette fonction pour participer à des parties contre des joueurs du coin !"
   },
   "DendroculusResonanceStone": {
     "name": "Pierre de résonance Dendroculus",
@@ -12813,15 +12813,15 @@
   },
   "MiniSeelieMoss": {
     "name": "Mini-fée moussue",
-    "description": "Un souvenir de l'événement «{NON_BREAK_SPACE}Richesses perdues{NON_BREAK_SPACE}», équipez-vous-en pour être {M#accompagné}{F#accompagnée} d'une petite Fée.\\nUne Fée miniature verte. Dès qu'elle s'approche d'un arbre, elle devient joyeuse comme tout."
+    "description": "Un souvenir de l'événement « Richesses perdues », équipez-vous-en pour être {M#accompagné}{F#accompagnée} d'une petite Fée.\\nUne Fée miniature verte. Dès qu'elle s'approche d'un arbre, elle devient joyeuse comme tout."
   },
   "ExquisiteKamera": {
     "name": "Daguerréotype raffiné",
-    "description": "Un Daguerréotype que le petit Razi a emprunté à la boutique du seigneur Sangemah Bay. Il est parfait pour capturer des paysages, s'inspirer de la nature et se souvenir des moments heureux{NON_BREAK_SPACE}!\\nÉtant donné qu'il est décoré avec des motifs en métal, son prix doit être bien plus élevé que celui des autres. Attention à ne pas le casser{NON_BREAK_SPACE}!\\nSelon le contrat de location, il ne peut être utilisé qu'à l'intérieur des frontières de Sumeru."
+    "description": "Un Daguerréotype que le petit Razi a emprunté à la boutique du seigneur Sangemah Bay. Il est parfait pour capturer des paysages, s'inspirer de la nature et se souvenir des moments heureux !\\nÉtant donné qu'il est décoré avec des motifs en métal, son prix doit être bien plus élevé que celui des autres. Attention à ne pas le casser !\\nSelon le contrat de location, il ne peut être utilisé qu'à l'intérieur des frontières de Sumeru."
   },
   "BanusWisdom": {
     "name": "Sagesse de Banu",
-    "description": "Dans un certain scénario, ce sceptre a été enchanté avec un pouvoir mystique. Il a le pouvoir d'entrer en résonance avec les étoiles du futur et d'indiquer l'emplacement de ces dernières.\\nDans un autre scénario, cet objet fait partie de la collection d'une organisation appelée l'« Académie{NON_BREAK_SPACE}», et est enregistré sous le nom de « détecteur du chaos d'Ayesha ». Il est recouvert d'une fine couche de poussière, étant donné que personne ne s'en est servi depuis bien longtemps."
+    "description": "Dans un certain scénario, ce sceptre a été enchanté avec un pouvoir mystique. Il a le pouvoir d'entrer en résonance avec les étoiles du futur et d'indiquer l'emplacement de ces dernières.\\nDans un autre scénario, cet objet fait partie de la collection d'une organisation appelée l'« Académie », et est enregistré sous le nom de « détecteur du chaos d'Ayesha ». Il est recouvert d'une fine couche de poussière, étant donné que personne ne s'en est servi depuis bien longtemps."
   },
   "FishingLineStabilizer": {
     "name": "Stabilisateur de ligne de pêche",
@@ -12829,7 +12829,7 @@
   },
   "VintageLyre": {
     "name": "Lyre ancienne",
-    "description": "Utilisez cet instrument traditionnel de Mondstadt pour faire de la musique. Il peut faire des merveilles lorsqu'il est joué dans les forêts de Sumeru.\\nIl s'agit d'une ancienne lyre empruntée à Amadhiah dans le Village de Vimara.\\nMondstadt est connue pour ses arts traditionnels de poésie et de chant. Les bardes qui y résident ont tendance à s'adresser à leurs instruments en les appelant «{NON_BREAK_SPACE}ami{NON_BREAK_SPACE}» ou « partenaire ». Ainsi, le fait que l'un d'entre eux confie un tel instrument à Amadhiah n'est rien de moins qu'un geste témoignant des liens étroits et de la confiance qui lient ces deux personnes."
+    "description": "Utilisez cet instrument traditionnel de Mondstadt pour faire de la musique. Il peut faire des merveilles lorsqu'il est joué dans les forêts de Sumeru.\\nIl s'agit d'une ancienne lyre empruntée à Amadhiah dans le Village de Vimara.\\nMondstadt est connue pour ses arts traditionnels de poésie et de chant. Les bardes qui y résident ont tendance à s'adresser à leurs instruments en les appelant « ami » ou « partenaire ». Ainsi, le fait que l'un d'entre eux confie un tel instrument à Amadhiah n'est rien de moins qu'un geste témoignant des liens étroits et de la confiance qui lient ces deux personnes."
   },
   "JumpyDumptyPartyPopper": {
     "name": "Bombe de table rebondissante",
@@ -12945,11 +12945,11 @@
   },
   "TaleOfTheForestKing": {
     "name": "Conte du roi de la forêt",
-    "description": "Avec cette histoire, vous pourrez maîtriser les techniques de fabrication de l'épée à deux mains « Apparat de la forêt ».\\n\\nC'est une histoire qui parle du roi de la forêt.\\n« Il y a de très nombreuses lunes, la forêt était un immense labyrinthe...{NON_BREAK_SPACE}»"
+    "description": "Avec cette histoire, vous pourrez maîtriser les techniques de fabrication de l'épée à deux mains « Apparat de la forêt ».\\n\\nC'est une histoire qui parle du roi de la forêt.\\n« Il y a de très nombreuses lunes, la forêt était un immense labyrinthe... »"
   },
   "TaleOfTheDesert": {
     "name": "Conte du désert",
-    "description": "Avec cette histoire, vous pourrez maîtriser les techniques de fabrication de l'épée à une main «{NON_BREAK_SPACE}Lame d'aubier ».\\n\\nC'est une histoire qui parle d'amis emportés par le désert.\\n« Voici un récit qui nous vient des valukas... »"
+    "description": "Avec cette histoire, vous pourrez maîtriser les techniques de fabrication de l'épée à une main « Lame d'aubier ».\\n\\nC'est une histoire qui parle d'amis emportés par le désert.\\n« Voici un récit qui nous vient des valukas... »"
   },
   "TaleOfTheKingsSquire": {
     "name": "Conte du vassal du roi",
@@ -12957,11 +12957,11 @@
   },
   "TaleOfTheMoonlight": {
     "name": "Conte de la lumière lunaire",
-    "description": "Avec cette histoire, vous pourrez maîtriser les techniques de fabrication de l'arme d'hast «{NON_BREAK_SPACE}Perce-lune ».\\n\\nC'est une histoire qui parle de la magie du clair de lune.\\n« Ce conte est celui de tous les enfants envoûtés par la clarté lunaire... »"
+    "description": "Avec cette histoire, vous pourrez maîtriser les techniques de fabrication de l'arme d'hast « Perce-lune ».\\n\\nC'est une histoire qui parle de la magie du clair de lune.\\n« Ce conte est celui de tous les enfants envoûtés par la clarté lunaire... »"
   },
   "TaleOfThePortent": {
     "name": "Conte du présage",
-    "description": "Avec cette histoire, vous pourrez maîtriser les techniques de fabrication du catalyseur « Le fruit de l'accomplissement ».\\n\\nC'est une histoire qui parle de mauvais présage et de calamité.\\n« En réalité, la lune n'est pas toujours ronde comme une perle...{NON_BREAK_SPACE}»"
+    "description": "Avec cette histoire, vous pourrez maîtriser les techniques de fabrication du catalyseur « Le fruit de l'accomplissement ».\\n\\nC'est une histoire qui parle de mauvais présage et de calamité.\\n« En réalité, la lune n'est pas toujours ronde comme une perle... »"
   },
   "InstructionsElectroculusResonanceStone": {
     "name": "Instructions : Pierre de résonance Électroculus",
@@ -13636,59 +13636,59 @@
     "description": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
   },
   "ElementalResonanceWovenIce": {
-    "name": "Résonance élémentaire{NON_BREAK_SPACE}: Glace tissée",
+    "name": "Résonance élémentaire : Glace tissée",
     "description": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
   },
   "ElementalResonanceShatteringIce": {
-    "name": "Résonance élémentaire{NON_BREAK_SPACE}: Gel pulvérisateur",
+    "name": "Résonance élémentaire : Gel pulvérisateur",
     "description": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
   },
   "ElementalResonanceWovenWaters": {
-    "name": "Résonance élémentaire{NON_BREAK_SPACE}: Eau tissée",
+    "name": "Résonance élémentaire : Eau tissée",
     "description": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
   },
   "ElementalResonanceSoothingWater": {
-    "name": "Résonance élémentaire{NON_BREAK_SPACE}: Eau salvatrice",
+    "name": "Résonance élémentaire : Eau salvatrice",
     "description": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
   },
   "ElementalResonanceWovenFlames": {
-    "name": "Résonance élémentaire{NON_BREAK_SPACE}: Feu tissé",
+    "name": "Résonance élémentaire : Feu tissé",
     "description": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
   },
   "ElementalResonanceFerventFlames": {
-    "name": "Résonance élémentaire{NON_BREAK_SPACE}: Flammes de la ferveur",
+    "name": "Résonance élémentaire : Flammes de la ferveur",
     "description": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
   },
   "ElementalResonanceWovenThunder": {
-    "name": "Résonance élémentaire{NON_BREAK_SPACE}: Éclair tissé",
+    "name": "Résonance élémentaire : Éclair tissé",
     "description": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
   },
   "ElementalResonanceHighVoltage": {
-    "name": "Résonance élémentaire{NON_BREAK_SPACE}: Tonnerre puissant",
+    "name": "Résonance élémentaire : Tonnerre puissant",
     "description": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
   },
   "ElementalResonanceWovenWinds": {
-    "name": "Résonance élémentaire{NON_BREAK_SPACE}: Vent tissé",
+    "name": "Résonance élémentaire : Vent tissé",
     "description": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
   },
   "ElementalResonanceImpetuousWinds": {
-    "name": "Résonance élémentaire{NON_BREAK_SPACE}: Vents de la célérité",
+    "name": "Résonance élémentaire : Vents de la célérité",
     "description": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
   },
   "ElementalResonanceWovenStone": {
-    "name": "Résonance élémentaire{NON_BREAK_SPACE}: Terre tissée",
+    "name": "Résonance élémentaire : Terre tissée",
     "description": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
   },
   "ElementalResonanceEnduringRock": {
-    "name": "Résonance élémentaire{NON_BREAK_SPACE}: Roc inamovible",
+    "name": "Résonance élémentaire : Roc inamovible",
     "description": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
   },
   "ElementalResonanceWovenWeeds": {
-    "name": "Résonance élémentaire{NON_BREAK_SPACE}: Herbe tissée",
+    "name": "Résonance élémentaire : Herbe tissée",
     "description": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
   },
   "ElementalResonanceSprawlingGreenery": {
-    "name": "Résonance élémentaire{NON_BREAK_SPACE}: Plante grimpante",
+    "name": "Résonance élémentaire : Plante grimpante",
     "description": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
   },
   "TheBestestTravelCompanion": {
@@ -13708,7 +13708,7 @@
     "description": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
   },
   "IHaventLostYet": {
-    "name": "Pas encore perdu{NON_BREAK_SPACE}!",
+    "name": "Pas encore perdu !",
     "description": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
   },
   "LeaveItToMe": {
@@ -13872,12 +13872,12 @@
     "description": "Tenue de Jean. Cette classique tenue de cérémonie de chevalier convient à toutes sortes d'occasions."
   },
   "100Outrider": {
-    "name": "Éclaireuse 100{NON_BREAK_SPACE}%",
+    "name": "Éclaireuse 100 %",
     "description": "Tenue d'Amber. C'est une version plus formelle, mais non moins cool, de l'uniforme des Éclaireurs !"
   },
   "PactOfStarsAndMoon": {
     "name": "Pacte des étoiles et de la lune",
-    "description": "Tenue de Mona. Un costume spécialement conçu pour englober le concept astrologique du «{NON_BREAK_SPACE}moment destiné{NON_BREAK_SPACE}», obtenu grâce au coupon de remboursement de 30{NON_BREAK_SPACE}% après avoir rendu le globe céleste{NON_BREAK_SPACE}!"
+    "description": "Tenue de Mona. Un costume spécialement conçu pour englober le concept astrologique du « moment destiné », obtenu grâce au coupon de remboursement de 30 % après avoir rendu le globe céleste !"
   },
   "ToTheChurchsFreeSpirit": {
     "name": "Dévote non-conformiste",
@@ -14436,12 +14436,12 @@
     "description": "Étapes de fabrication du « Trésor du pays de la sagesse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "ScrollsFromTheLandOfWisdom": {
-    "name": "« Parchemins du pays de la sagesse{NON_BREAK_SPACE}»",
-    "description": "Étapes de fabrication des «{NON_BREAK_SPACE}Parchemins du pays de la sagesse{NON_BREAK_SPACE}».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "name": "« Parchemins du pays de la sagesse »",
+    "description": "Étapes de fabrication des « Parchemins du pays de la sagesse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "TavernBookcaseEssentialKnowledge": {
-    "name": "Bibliothèque de taverne «{NON_BREAK_SPACE}Connaissances essentielles »",
-    "description": "Étapes de fabrication de la bibliothèque de taverne «{NON_BREAK_SPACE}Connaissances essentielles ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "name": "Bibliothèque de taverne « Connaissances essentielles »",
+    "description": "Étapes de fabrication de la bibliothèque de taverne « Connaissances essentielles ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "SturdyLibraryTable": {
     "name": "Table d'étude robuste",
@@ -14533,7 +14533,7 @@
   },
   "RoundTavernTableLeapsAndBounds": {
     "name": "Table ronde de taverne « Bonds et sauts »",
-    "description": "Étapes de fabrication de la table ronde de taverne « Bonds et sauts{NON_BREAK_SPACE}».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication de la table ronde de taverne « Bonds et sauts ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "BreezeBlessedBed": {
     "name": "Lit « Douce brise »",
@@ -14549,15 +14549,15 @@
   },
   "BrightwoodConcordBed": {
     "name": "Lit « Concorde » en bois radiant",
-    "description": "Étapes de fabrication du lit «{NON_BREAK_SPACE}Concorde » en bois radiant.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication du lit « Concorde » en bois radiant.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "AdhigamaWoodComfortBed": {
     "name": "Lit « Confort » en bois d'épiphanie",
-    "description": "Étapes de fabrication du lit «{NON_BREAK_SPACE}Confort » en bois d'épiphanie.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication du lit « Confort » en bois d'épiphanie.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "AdhigamaWoodReposeCouch": {
     "name": "Canapé « Festin » en bois d'épiphanie",
-    "description": "Étapes de fabrication du canapé «{NON_BREAK_SPACE}Festin » en bois d'épiphanie.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication du canapé « Festin » en bois d'épiphanie.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "PineReceptionCounter": {
     "name": "Comptoir de réception en pin",
@@ -14568,7 +14568,7 @@
     "description": "Étapes de fabrication du comptoir de salon de thé « Toshimaru ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DesertStonePlatformSturdy": {
-    "name": "Plateforme en pierre du désert «{NON_BREAK_SPACE}Robuste »",
+    "name": "Plateforme en pierre du désert « Robuste »",
     "description": "Étapes de fabrication de la plateforme en pierre du désert « Robuste ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DesertFireplaceWarmth": {
@@ -14576,8 +14576,8 @@
     "description": "Étapes de fabrication de la cheminée du désert « Chaleur ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DesertStudyConscientiousness": {
-    "name": "Bibliothèque du désert «{NON_BREAK_SPACE}Consciencieux »",
-    "description": "Étapes de fabrication de la bibliothèque du désert «{NON_BREAK_SPACE}Consciencieux ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "name": "Bibliothèque du désert « Consciencieux »",
+    "description": "Étapes de fabrication de la bibliothèque du désert « Consciencieux ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "WitnessOfTavernAffairs": {
     "name": "Témoin des affaires de taverne",
@@ -14613,15 +14613,15 @@
   },
   "KarmaphalaWoodSubduedSpeechBench": {
     "name": "Banc « Discours discret » en bois de karmaphalien",
-    "description": "Étapes de fabrication du banc «{NON_BREAK_SPACE}Discours discret » en bois de karmaphalien.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication du banc « Discours discret » en bois de karmaphalien.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "KarmaphalaWoodCounterAssaultDiningChair": {
     "name": "Chaise « Contre-assaut » en bois de karmaphalien",
-    "description": "Étapes de fabrication de la chaise «{NON_BREAK_SPACE}Contre-assaut » en bois de karmaphalien.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication de la chaise « Contre-assaut » en bois de karmaphalien.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "SatisfactionOfSatedThirst": {
     "name": "« Satisfaction de la soif rassasiée »",
-    "description": "Étapes de fabrication de la «{NON_BREAK_SPACE}Satisfaction de la soif rassasiée ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication de la « Satisfaction de la soif rassasiée ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "AdhigamaVineBackedChair": {
     "name": "Chaise à dossier de feuille en bois d'épiphanie",
@@ -14713,7 +14713,7 @@
   },
   "FestiveFragranceOfGoldAndJade": {
     "name": "Fragrance festive « D'or et de jade »",
-    "description": "Étapes de fabrication de la fragrance festive « D'or et de jade{NON_BREAK_SPACE}».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication de la fragrance festive « D'or et de jade ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "HuedVaseCerulean": {
     "name": "Vase teinté « Céruléen »",
@@ -14757,11 +14757,11 @@
   },
   "ForestWatchersFastidiousness": {
     "name": "« Méticulosité du brigadier forestier »",
-    "description": "Étapes de fabrication de la «{NON_BREAK_SPACE}Méticulosité du brigadier forestier{NON_BREAK_SPACE}».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication de la « Méticulosité du brigadier forestier ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "ForestRangersProvisions": {
     "name": "« Provisions du garde forestier »",
-    "description": "Étapes de fabrication des «{NON_BREAK_SPACE}Provisions du garde forestier ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication des « Provisions du garde forestier ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DeepwoodDwellersDelicacies": {
     "name": "« Délices de l'habitant des bois »",
@@ -14777,11 +14777,11 @@
   },
   "DeepwoodDwellersAggregation": {
     "name": "« Agrégation de l'habitant des bois »",
-    "description": "Étapes de fabrication de l'«{NON_BREAK_SPACE}Agrégation de l'habitant des bois{NON_BREAK_SPACE}».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication de l'« Agrégation de l'habitant des bois ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "HuedVaseMoltenSand": {
     "name": "Vase teinté « Sable fondu »",
-    "description": "Étapes de fabrication du vase teinté «{NON_BREAK_SPACE}Sable fondu ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication du vase teinté « Sable fondu ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "WarmthAndColdOverlaid": {
     "name": "Superposition chaude et froide",
@@ -14849,7 +14849,7 @@
   },
   "SunScorchedSolemnity": {
     "name": "« Solennité brûlée par le cagnard »",
-    "description": "Étapes de fabrication de la «{NON_BREAK_SPACE}Solennité brûlée par le cagnard ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication de la « Solennité brûlée par le cagnard ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "TheOliveGrove": {
     "name": "Oliveraie",
@@ -14864,7 +14864,7 @@
     "description": "Étapes de fabrication du tapis de taverne « Passion du jeu ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "TavernCarpetDuelistsWisdom": {
-    "name": "Tapis de taverne « Sagesse du joueur{NON_BREAK_SPACE}»",
+    "name": "Tapis de taverne « Sagesse du joueur »",
     "description": "Étapes de fabrication du tapis de taverne « Sagesse du joueur ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "TrustyPortableLamp": {
@@ -14897,7 +14897,7 @@
   },
   "LightOfTheLandOfWisdom": {
     "name": "« Lumière du pays de la sagesse »",
-    "description": "Étapes de fabrication de la «{NON_BREAK_SPACE}Lumière du pays de la sagesse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication de la « Lumière du pays de la sagesse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "NightwatchersCandlelight": {
     "name": "Chandelle du veilleur de nuit",
@@ -15052,12 +15052,12 @@
     "description": "Étapes de fabrication d'« Au milieu des arômes amers ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DeepwoodDwellersIngenuity": {
-    "name": "« Ingéniosité de l'habitant des bois{NON_BREAK_SPACE}»",
-    "description": "Étapes de fabrication de l'«{NON_BREAK_SPACE}Ingéniosité de l'habitant des bois{NON_BREAK_SPACE}».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "name": "« Ingéniosité de l'habitant des bois »",
+    "description": "Étapes de fabrication de l'« Ingéniosité de l'habitant des bois ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DeepwoodDwellersBrilliance": {
     "name": "« Brillance de l'habitant des bois »",
-    "description": "Étapes de fabrication de la «{NON_BREAK_SPACE}Brillance de l'habitant des bois ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication de la « Brillance de l'habitant des bois ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "HuedVaseSprout": {
     "name": "Vase teinté « Germe »",
@@ -15088,7 +15088,7 @@
     "description": "Étapes de fabrication du différentiel de poussière.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DeskComboMiddlelakeIsle": {
-    "name": "Ensemble de bureau « Île dans un lac{NON_BREAK_SPACE}»",
+    "name": "Ensemble de bureau « Île dans un lac »",
     "description": "Étapes de fabrication de l'ensemble de bureau « Île dans un lac ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DeskComboVerdantTotem": {
@@ -15200,16 +15200,16 @@
     "description": "Étapes de fabrication du bouclier résistant en bois de tamaris Athel.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DesertWallDrapesSunset": {
-    "name": "Tenture murale du désert «{NON_BREAK_SPACE}Coucher de soleil »",
+    "name": "Tenture murale du désert « Coucher de soleil »",
     "description": "Étapes de fabrication de la tenture murale du désert « Coucher de soleil ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DesertWallDrapesFlamingFeathers": {
-    "name": "Tenture murale du désert «{NON_BREAK_SPACE}Plumes enflammées »",
+    "name": "Tenture murale du désert « Plumes enflammées »",
     "description": "Étapes de fabrication de la tenture murale du désert « Plumes enflammées ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "ForestWatchersConsiderations": {
     "name": "« Considérations du brigadier forestier »",
-    "description": "Étapes de fabrication des «{NON_BREAK_SPACE}Considérations du brigadier forestier ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication des « Considérations du brigadier forestier ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "AthelwoodMetalCombatShield": {
     "name": "Bouclier de combat en bois de tamaris Athel",
@@ -15217,7 +15217,7 @@
   },
   "LingeringMoment": {
     "name": "« Moment suspendu »",
-    "description": "Étapes de fabrication du «{NON_BREAK_SPACE}Moment suspendu ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication du « Moment suspendu ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "StrawHut": {
     "name": "Cabane en paille",
@@ -15469,7 +15469,7 @@
   },
   "FineStallSplashOfColor": {
     "name": "Étal à merveilles « Touches de couleur »",
-    "description": "Étapes de fabrication de l'étal à merveilles « Touches de couleur{NON_BREAK_SPACE}».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication de l'étal à merveilles « Touches de couleur ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "RainbowStallUltramarine": {
     "name": "Étal arc-en-ciel « Bleu marine »",
@@ -15596,7 +15596,7 @@
     "description": "Étapes de fabrication de l'entrepôt de domaine « Réserves ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "InazumanHomeWatatsumiReminiscence": {
-    "name": "Maison inazumienne «{NON_BREAK_SPACE}Réminiscence watatsumienne{NON_BREAK_SPACE}»",
+    "name": "Maison inazumienne « Réminiscence watatsumienne »",
     "description": "Étapes de fabrication de la maison inazumienne « Réminiscence watatsumienne ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "InazumanHomeHouseOfCoral": {
@@ -15621,10 +15621,10 @@
   },
   "DeepwoodDwellersPerseverance": {
     "name": "« Persévérance de l'habitant des bois »",
-    "description": "Étapes de fabrication de la «{NON_BREAK_SPACE}Persévérance de l'habitant des bois ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication de la « Persévérance de l'habitant des bois ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DesertHouseOrdinaryLives": {
-    "name": "Maison du désert « Vies ordinaires{NON_BREAK_SPACE}»",
+    "name": "Maison du désert « Vies ordinaires »",
     "description": "Étapes de fabrication de la maison du désert « Vies ordinaires ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DesertHouseSpicesAbound": {
@@ -15640,7 +15640,7 @@
     "description": "Étapes de fabrication de la maison du désert « Court repos ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DesertHouseHiddenLight": {
-    "name": "Maison du désert « Lumière cachée{NON_BREAK_SPACE}»",
+    "name": "Maison du désert « Lumière cachée »",
     "description": "Étapes de fabrication de la maison du désert « Lumière cachée ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DesertHouseSaveAndStore": {
@@ -15684,12 +15684,12 @@
     "description": "Étapes de fabrication des « Arômes de la cité de la sagesse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "TenacityOfTheCityOfWisdom": {
-    "name": "« Ténacité de la cité de la sagesse{NON_BREAK_SPACE}»",
-    "description": "Étapes de fabrication de la «{NON_BREAK_SPACE}Ténacité de la cité de la sagesse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "name": "« Ténacité de la cité de la sagesse »",
+    "description": "Étapes de fabrication de la « Ténacité de la cité de la sagesse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "CommerceOfTheCityOfWisdom": {
     "name": "« Commerce de la cité de la sagesse »",
-    "description": "Étapes de fabrication du «{NON_BREAK_SPACE}Commerce de la cité de la sagesse{NON_BREAK_SPACE}».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication du « Commerce de la cité de la sagesse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "ShadeInTheTranquilCourt": {
     "name": "« Ombre sur la cour tranquille »",
@@ -15697,7 +15697,7 @@
   },
   "LightInTheTranquilCourt": {
     "name": "« Lumière sur la cour tranquille »",
-    "description": "Étapes de fabrication de la «{NON_BREAK_SPACE}Lumière sur la cour tranquille ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication de la « Lumière sur la cour tranquille ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "FabricOfTheCityOfWisdom": {
     "name": "« Tissu de la cité de la sagesse »",
@@ -15705,19 +15705,19 @@
   },
   "PotteryOfTheCityOfWisdom": {
     "name": "« Poterie de la cité de la sagesse »",
-    "description": "Étapes de fabrication de la «{NON_BREAK_SPACE}Poterie de la cité de la sagesse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication de la « Poterie de la cité de la sagesse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DiligenceOfTheCityOfWisdom": {
-    "name": "« Diligence de la cité de la sagesse{NON_BREAK_SPACE}»",
-    "description": "Étapes de fabrication de la «{NON_BREAK_SPACE}Diligence de la cité de la sagesse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "name": "« Diligence de la cité de la sagesse »",
+    "description": "Étapes de fabrication de la « Diligence de la cité de la sagesse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "BuildingBlockOfTheCityOfWisdom": {
     "name": "« Universalité de la cité de la sagesse »",
-    "description": "Étapes de fabrication de l'«{NON_BREAK_SPACE}Universalité de la cité de la sagesse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication de l'« Universalité de la cité de la sagesse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "ContrastsOfTheCityOfWisdom": {
-    "name": "« Contraste de la cité de la sagesse{NON_BREAK_SPACE}»",
-    "description": "Étapes de fabrication du «{NON_BREAK_SPACE}Contraste de la cité de la sagesse{NON_BREAK_SPACE}».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "name": "« Contraste de la cité de la sagesse »",
+    "description": "Étapes de fabrication du « Contraste de la cité de la sagesse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "PeaceInTheCityOfWisdom": {
     "name": "« Paix de la cité de la sagesse »",
@@ -15725,7 +15725,7 @@
   },
   "ErrandsInTheCityOfWisdom": {
     "name": "« Commission de la cité de la sagesse »",
-    "description": "Étapes de fabrication de la «{NON_BREAK_SPACE}Commission de la cité de la sagesse{NON_BREAK_SPACE}».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication de la « Commission de la cité de la sagesse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "SilkyQuellerOfSeaMonsters": {
     "name": "« Tissu protecteur des bêtes marines »",
@@ -15736,12 +15736,12 @@
     "description": "Étapes de fabrication de la nuit de sérénité dans la brise de sable.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "TeaFragranceInTheTranquilCourt": {
-    "name": "« Parfum de thé sur la cour tranquille{NON_BREAK_SPACE}»",
+    "name": "« Parfum de thé sur la cour tranquille »",
     "description": "Étapes de fabrication du « Parfum de thé sur la cour tranquille ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "SingingInTheTranquilCourt": {
-    "name": "« Fredonnement sur la cour tranquille{NON_BREAK_SPACE}»",
-    "description": "Étapes de fabrication du «{NON_BREAK_SPACE}Fredonnement sur la cour tranquille ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "name": "« Fredonnement sur la cour tranquille »",
+    "description": "Étapes de fabrication du « Fredonnement sur la cour tranquille ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "FineSandInWarmWeather": {
     "name": "« Sable fin par temps chaud »",
@@ -15796,19 +15796,19 @@
     "description": "Étapes de fabrication de la source « Chaleur débordante » en pierre blanche.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "OfFieldsGreenClearSpringFountain": {
-    "name": "Éden verdoyant «{NON_BREAK_SPACE}Fontaine cristalline »",
+    "name": "Éden verdoyant « Fontaine cristalline »",
     "description": "Étapes de fabrication de l'éden verdoyant « Fontaine cristalline ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "SubSpaceCabochonInSoaringFlight": {
-    "name": "Cabochon dimensionnel «{NON_BREAK_SPACE}Vol plané{NON_BREAK_SPACE}»",
+    "name": "Cabochon dimensionnel « Vol plané »",
     "description": "Étapes de fabrication du cabochon dimensionnel « Vol plané »\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "StoneworksCraneMountainMover": {
-    "name": "Grue de maçonnerie «{NON_BREAK_SPACE}Déplace-montagne »",
+    "name": "Grue de maçonnerie « Déplace-montagne »",
     "description": "Étapes de fabrication de la grue de maçonnerie « Déplace-montagne ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "StoneworksCraneHillTamer": {
-    "name": "Grue de maçonnerie «{NON_BREAK_SPACE}Dompte-plaine »",
+    "name": "Grue de maçonnerie « Dompte-plaine »",
     "description": "Étapes de fabrication de la grue de maçonnerie « Dompte-plaine ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DesertHutMinutiae": {
@@ -15837,7 +15837,7 @@
   },
   "FloralSwing": {
     "name": "« Flottaison florale »",
-    "description": "Étapes de fabrication de la «{NON_BREAK_SPACE}Flottaison florale ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication de la « Flottaison florale ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "PortOrmosGPCraneIII": {
     "name": "Élévateur type III du Port Ormos",
@@ -15984,7 +15984,7 @@
     "description": "Étapes de fabrication de la « Frontière du pêcheur ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DesertStoneStepsClimbing": {
-    "name": "Marches en pierre du désert «{NON_BREAK_SPACE}Grimpette »",
+    "name": "Marches en pierre du désert « Grimpette »",
     "description": "Étapes de fabrication de la marche en pierre du désert « Grimpette ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DesertWallSurpriseAttack": {
@@ -15992,7 +15992,7 @@
     "description": "Étapes de fabrication du mur du désert « Attaque surprise ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DesertWallStalwartDefense": {
-    "name": "Mur du désert « Défense sérieuse{NON_BREAK_SPACE}»",
+    "name": "Mur du désert « Défense sérieuse »",
     "description": "Étapes de fabrication du mur du désert « Défense sérieuse ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DesertGateWindjammer": {
@@ -16000,7 +16000,7 @@
     "description": "Étapes de fabrication du portail du désert « Coupe-vent ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DomedGateForestTune": {
-    "name": "Portail en dôme « Mélodie sylvestre{NON_BREAK_SPACE}»",
+    "name": "Portail en dôme « Mélodie sylvestre »",
     "description": "Étapes de fabrication du portail en dôme « Mélodie sylvestre ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DomedWallTheBirdsSang": {
@@ -16528,7 +16528,7 @@
     "description": "Étapes de fabrication du paravent propice « Instruments au loin ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "PropitiousScreenOldSongsLingering": {
-    "name": "Paravent propice « Chansons d'antan{NON_BREAK_SPACE}»",
+    "name": "Paravent propice « Chansons d'antan »",
     "description": "Étapes de fabrication du paravent propice « Chansons d'antan ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "PropitiousScreenOverlappingCloudsAbovePeaks": {
@@ -16793,7 +16793,7 @@
   },
   "PearOrchardAccessoryAttendAndListen": {
     "name": "Accessoire des poiriers « Audience captivée »",
-    "description": "Étapes de fabrication de l'accessoire des poiriers «{NON_BREAK_SPACE}Audience captivée ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "description": "Étapes de fabrication de l'accessoire des poiriers « Audience captivée ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "KarmaphalaDisplayTable": {
     "name": "Table d'exposition en bois de karmaphalien",
@@ -16828,7 +16828,7 @@
     "description": "Étapes de fabrication des fondations de pierre « Duplicité du temps ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "OfFieldsGreenCookieRoad": {
-    "name": "Éden verdoyant « Chemin biscuité{NON_BREAK_SPACE}»",
+    "name": "Éden verdoyant « Chemin biscuité »",
     "description": "Étapes de fabrication de l'éden verdoyant « Chemin biscuité ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "FoundationsOfStoneGrandDesign": {

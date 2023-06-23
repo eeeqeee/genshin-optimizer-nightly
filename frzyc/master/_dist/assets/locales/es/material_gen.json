@@ -5577,7 +5577,7 @@
   },
   "CannedKnowledgeSwordfightingTechniquesVIII": {
     "name": "Cápsula de conocimiento: Técnicas de espada (VIII)",
-    "description": "Una cápsula de conocimiento con el nombre de “Técnicas de espada (VIII)”. Adquirida en el puesto de Dori durante la investigación de Paimon por el precio de 100{NON_BREAK_SPACE}000 Moras. No se sabe dónde están el resto de las cápsulas, pero siempre viene bien conocer técnicas de lucha. Bueno, al menos en teoría."
+    "description": "Una cápsula de conocimiento con el nombre de “Técnicas de espada (VIII)”. Adquirida en el puesto de Dori durante la investigación de Paimon por el precio de 100 000 Moras. No se sabe dónde están el resto de las cápsulas, pero siempre viene bien conocer técnicas de lucha. Bueno, al menos en teoría."
   },
   "BagOfIntelTransactionFunds": {
     "name": "Bolsa de fondos para comprar información",
@@ -5681,7 +5681,7 @@
   },
   "ActivatedCannedKnowledge": {
     "name": "Cápsula de conocimiento activada",
-    "description": "Una cápsula de conocimiento con el nombre de “Técnicas de espada (VIII)”. Adquirida en el puesto de Dori durante la investigación de Paimon por el precio de 100{NON_BREAK_SPACE}000 Moras. No se sabe dónde están el resto de las cápsulas, pero siempre viene bien conocer técnicas de lucha. Bueno, al menos en teoría."
+    "description": "Una cápsula de conocimiento con el nombre de “Técnicas de espada (VIII)”. Adquirida en el puesto de Dori durante la investigación de Paimon por el precio de 100 000 Moras. No se sabe dónde están el resto de las cápsulas, pero siempre viene bien conocer técnicas de lucha. Bueno, al menos en teoría."
   },
   "PersikovsManuscript": {
     "name": "Manuscrito de Persikov",
@@ -12604,7 +12604,7 @@
     "description": "Diseño de tarjeta de presentación.\\n“La felicidad en el rostro de los destinatarios es la mejor recompensa que Kirara podría esperar”."
   },
   "TravelNotesSecrets": {
-    "name": "PB{NON_BREAK_SPACE}-{NON_BREAK_SPACE}As de la invocación",
+    "name": "PB - As de la invocación",
     "description": "Diseño de tarjeta de presentación.\\nNo olvides nunca los momentos que pasaste jugando con tus amigos. Nunca olvides lo que es vivir sin preocupación alguna."
   },
   "AnemoculusResonanceStone": {
