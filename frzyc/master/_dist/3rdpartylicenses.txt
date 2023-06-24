@@ -333,9 +333,19 @@ MIT
 
 @genshin-optimizer/g-assets
 
+@genshin-optimizer/gi-good
+
 @genshin-optimizer/gi-stats
 
+@genshin-optimizer/gi-svgicons
+
+@genshin-optimizer/gi-util
+
+@genshin-optimizer/react-util
+
 @genshin-optimizer/silly-wisher
+
+@genshin-optimizer/svgicons
 
 @genshin-optimizer/util
 
