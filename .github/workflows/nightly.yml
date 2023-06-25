@@ -117,7 +117,7 @@ jobs:
       working-directory: genshin-optimizer
     - name: Disable files
       run: |
-        echo > genshin-optimizer/libs/dm/scripts/loadDM.ts
+        jq '.targets.build.dependsOn |= map(select(index("loadDM")|not))' libs/dm/project.json
     - name: Get path
       id: get-path
       run: |
@@ -139,7 +139,7 @@ jobs:
       working-directory: genshin-optimizer
     - name: Build genshin-optimizer
       run: |
-        NX_URL_GITHUB_GO_CURRENT_VERSION="https://github.com/${{ inputs.repository }}/commit/$(git rev-parse HEAD)"
+        NX_URL_GITHUB_GO_CURRENT_VERSION="https://github.com/${{ inputs.repository }}/commit/$(git rev-parse HEAD)" \
         ${{ inputs.env }} yarn run nx run frontend:build --base-href="${{ steps.get-public-url.outputs.url }}" ${{ inputs.build-flags }}
       working-directory: genshin-optimizer
     - name: Tar files
@@ -149,6 +149,7 @@ jobs:
       with:
         name: build-${{ inputs.remote }}-${{ inputs.ref }}
         path: build.tar.zst
+        retention-days: 7
 
   deploy:
     needs: [build, check]
