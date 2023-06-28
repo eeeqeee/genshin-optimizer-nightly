@@ -117,7 +117,9 @@ jobs:
       working-directory: genshin-optimizer
     - name: Disable files
       run: |
-        jq '.targets.build.dependsOn |= map(select(index("loadDM")|not))' libs/dm/project.json
+        TEMP_FILE=$(mktemp)
+        jq '.targets.build.dependsOn |= map(select(index("loadDM")|not))' genshin-optimizer/libs/dm/project.json > $TEMP_FILE
+        cp $TEMP_FILE genshin-optimizer/libs/dm/project.json
     - name: Get path
       id: get-path
       run: |
