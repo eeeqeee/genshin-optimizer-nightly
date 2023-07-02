@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[537],{53537:(t,n,r)=>{r.d(n,{A:()=>e,W:()=>c});var u=r(4097);function e(t,n){const r=(0,u.Ay)(t,(t=>o(t)));return n(r),(0,u.Ay)(r,(t=>s(t)))}function c(t,n){const r=o(t);return n(r),s(r)}function o(t){return Object.fromEntries(t.map((t=>[t,{total:0,current:0}])))}function s(t){return(0,u.Ay)(t,(({total:t,current:n})=>n===t?`${t}`:`${n}/${t}`))}}}]);
-//# sourceMappingURL=537.9ea8ab1d5919f096.js.map
