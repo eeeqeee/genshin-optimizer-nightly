@@ -363,6 +363,20 @@
       "0": "Yakarışların Kralı Turnuvasında çeşitli etkinliklere katılarak bu kuponları elde edebilirsin. Etkinlik boyunca biletleri ödüllerle takas edebilirsin."
     }
   },
+  "JoyeuxVoucher": {
+    "name": "Neşe Bileti",
+    "description": {
+      "0": "Biletler, Veluriyam Serabı'nın dört bir yanında, Bilet Kutularının içinde bulunabilir. Kutular çok zarif bir şekilde tasarlanmıştır ve canlı renklere sahiptir. Bu kutulardan birini sırf elinde tuttuğunda bile ödül kazanmışçasına neşelenirsin.",
+      "1": "\"Gizli Yaz Cenneti\" etkinliğinde değerli ödülleri açmak için kullanılabilir."
+    }
+  },
+  "FascinatingPhenocryst": {
+    "name": "Büyüleyici Fenokristal",
+    "description": {
+      "0": "Etrafa muhteşem bir parlaklık yayan bir kristal. Bir müddet ona bakınca katıldığın çeşitli oyunlardaki eğlenceli anılarını hatırlarsın. Veluriyam Serabı'nın içerisinde görülmesi gereken pek çok ilginç manzara varken bu kadar fazla neşenin kristalleşerek saf bir değerli taşa dönüşmesi tuhaf mı?",
+      "1": "\"Gizli Yaz Cenneti\" etkinliğinde değerli ödülleri açmak için kullanılabilir."
+    }
+  },
   "Primogem": {
     "name": "Köken Taşı",
     "description": {
@@ -2561,7 +2575,7 @@
   "LetterFromTheAbyssOrder": {
     "name": "Hiçlik Tarikatı Mektubu",
     "description": {
-      "0": "Hiçlik Tarikatının Karagece Kahramanına gönderdiği bir savaş ilanı gibi duruyor. Önemli kısımların çoğu sansürlenmiş."
+      "0": "Hiçlik Tarikatının Karagece Kahramanı'na gönderdiği bir savaş ilanı gibi duruyor. Önemli kısımların çoğu sansürlenmiş."
     }
   },
   "ThePalePrincessAndTheSixPygmiesI": {
@@ -9794,6 +9808,12 @@
       "0": "Khvarena'nın bıraktığı parça. Geçmiş anıları taşır."
     }
   },
+  "VoucherBox": {
+    "name": "Bilet Kutusu",
+    "description": {
+      "0": "İçinde Neşe Bileti olan bir kutu. Eşsiz bir çiçek benzeri şekilleri vardır ve Veluriyam Serabı'nda bulunabilirler. Ödül kazanmak isteyen misafirler için de önemli bir koleksiyon parçasıdır. Eğlence Kristali ve Mutluluk Kristali kullanmak onların çok daha etkili bir şekilde bulunmasını sağlıyor gibi..."
+    }
+  },
   "Dish": {
     "name": "Yemek",
     "description": {
@@ -16826,6 +16846,22 @@
       "0": "Uluslar ve kimlikler ötesinde, burada yalnızca cesaret ve ihtişam ile bir araya geldik."
     }
   },
+  "ScatteredYetWellPreservedPagesI": {
+    "name": "Dağınık Ama İyi Korunmuş Sayfalar (I)",
+    "description": {}
+  },
+  "ScatteredYetWellPreservedPagesII": {
+    "name": "Dağınık Ama İyi Korunmuş Sayfalar (II)",
+    "description": {}
+  },
+  "ScatteredYetWellPreservedPagesIII": {
+    "name": "Dağınık Ama İyi Korunmuş Sayfalar (III)",
+    "description": {}
+  },
+  "ScatteredYetWellPreservedPagesIV": {
+    "name": "Dağınık Ama İyi Korunmuş Sayfalar (IV)",
+    "description": {}
+  },
   "VentisNote": {
     "name": "Venti'nin Notu",
     "description": {
@@ -17007,6 +17043,61 @@
       "0": "Koribant: Vedana'ya karşılık gelen davul notaları."
     }
   },
+  "ReturningCuriosMementoI": {
+    "name": "\"Tuhaf Dönüşler\" Hatırası (I)",
+    "description": {
+      "0": "Veluriyam Serabı etkinliği \"Tuhaf Dönüşler\"de bir hazine alanında keşfedilen bir hatıra. İçinde bu hatırayı barındıran hazine sandığı ilk şifreye karşılık gelmektedir. \"Her yeri hoş bir sis kapladı ve titreyen lambanın ışığına bakarken neredeyse nefes almayı unuttum. Sonunda çocukluk hatıralarım bana yol gösterdi ve huzur içinde masanın yanındaki yerimi aldım...\""
+    }
+  },
+  "ReturningCuriosMementoII": {
+    "name": "\"Tuhaf Dönüşler\" Hatırası (II)",
+    "description": {
+      "0": "Veluriyam Serabı etkinliği \"Tuhaf Dönüşler\"de bir hazine alanında keşfedilen hatıra. İçinde bu hatırayı barındıran hazine sandığı ikinci şifreye karşılık gelmektedir. \"Sarmaşıklardan oluşan bir kayan yıldız beni sırtında taşıdı, çok sessiz ve sakin bir ormandan geçtik, sonunda saf ve tenha bir hayaller ülkesine vardık.\""
+    }
+  },
+  "ReturningCuriosMementoIII": {
+    "name": "\"Tuhaf Dönüşler\" Hatırası (III)",
+    "description": {
+      "0": "Veluriyam Serabı etkinliği \"Tuhaf Dönüşler\"de bir hazine alanında keşfedilen hatıra. İçinde bu hatırayı barındıran hazine sandığı üçüncü şifreye karşılık gelmektedir. \"Mavi ve tertemiz bir tavan, beyaz şekerlerden bir zemin, yumuşacık yoldaşlar etrafımda ve benim de kanatlarım var!\""
+    }
+  },
+  "MementoCollectionBox": {
+    "name": "Hatıra Koleksiyonu Kutusu",
+    "description": {
+      "0": "Idyia'dan aldığın ve içinde \"Tuhaf Dönüşler\" hatıraları bulunan özel bir kutu. İçindeki eşyaları uzun süre koruyabildiği söylenir. Elinde bu kutu varken özel bir hatıra ve hazine alanı seçerek Veluriyam Serabı'na kendi izini bırakabilirsin..."
+    }
+  },
+  "MysteriousMoraPocketwatch": {
+    "name": "Gizemli Mora Cep Saati",
+    "description": {
+      "0": "Veluriyam Serabı'nda kazara bulduğun Mora şeklinde (ve Mora gibi ışıl ışıl) bir cep saati. \"Tuhaf Dönüşler\"in ilk günlerinde tecrübeli bir maceracının arkasında bıraktığı Mora cep saatine çok benziyor. İnsan bu saatin değerini merak ediyor.",
+      "1": "Ancak Idyia, \"Önemli olan hazinenin veya saatin değeri değil, hazinenin içinde yatan hikayenin değeridir!\" demişti. Bu hatıranın değerini parayla ölçmek pek doğru olmayabilir..."
+    }
+  },
+  "MuralFragmentSwirlingClouds": {
+    "name": "Duvar Resmi Parçası: Dönen Bulutlar",
+    "description": {
+      "0": "Veluriyam Serabı'ndaki yüzen bulutları tasvir eden ve gizemli bir mağarada bulunan bir Ön Baskı parçası. Görünüşe göre Akış Yansıtıcıdan doğru açıyla yapılan bir yansıtma, duvar resminin eksik parçasını tamamlayabiliyor..."
+    }
+  },
+  "MuralFragmentCentralHub": {
+    "name": "Duvar Resmi Parçası: Ana Merkez",
+    "description": {
+      "0": "Veluriyam Serabı'nın merkezindeki devasa yapıyı tasvir eden ve gizemli bir mağarada bulunan bir Ön Baskı parçası. Görünüşe göre Akış Yansıtıcıdan doğru açıyla yapılan bir yansıtma, duvar resminin eksik parçasını tamamlayabiliyor..."
+    }
+  },
+  "MuralFragmentSkyKeep": {
+    "name": "Duvar Resmi Parçası: Gökyüzü Kalesi",
+    "description": {
+      "0": "Gökyüzünde uçan bir şehri tasvir eden ve gizemli bir mağarada bulunan bir Ön Baskı parçası. Görünüşe göre Akış Yansıtıcıdan doğru açıyla yapılan bir yansıtma, duvar resminin eksik parçasını tamamlayabiliyor..."
+    }
+  },
+  "MuralFragmentFlowerOfTheValley": {
+    "name": "Duvar Resmi Parçası: Vadi Çiçeği",
+    "description": {
+      "0": "Vadiye doğru giren bir Çuf Çuf Vagondan görülebilen devasa çiçekleri tasvir eden ve gizemli bir mağarada bulunan bir Ön Baskı parçası. Görünüşe göre Akış Yansıtıcıdan doğru açıyla yapılan bir yansıtma, duvar resminin eksik parçasını tamamlayabiliyor..."
+    }
+  },
   "JuliensDrawingBoard": {
     "name": "Julien'ın Çizim Tahtası",
     "description": {
@@ -17024,6 +17115,30 @@
     "description": {
       "0": "Haniyyah tarafından verilen zarif bir hediye. İçinde Mantarların çok sevdiği Muhteşem Jölelerden var ve bunların arasında Mantarların kendi zevklerine göre beslenebileceği pek çok benzersiz lezzet bulunmakta.",
       "1": "Muhteşem Jöleler, daha önceki Çiçek Jölelerin işlenmiş halidir. Kristalimsi saydamlıkları ve esnek dokuları aynıdır; tehlikeli maddeler içermezler, bu nedenle de Mantarlar için ideal bir yiyecektir. Bununla birlikte, bu Jöleleri evde saklarken çocukların yanlışlıkla yememesine dikkat edilmelidir..."
+    }
+  },
+  "OldGear": {
+    "name": "Eski Dişli",
+    "description": {
+      "0": "Devasa bir makinanın bir parçasına benziyor ama bu dişli tek başına bir işe yaramayabilir. Ancak bir şekilde bu dişliyi döndürmenin bir yolu bulunursa belki bazı sorulara da yanıt bulunabilir."
+    }
+  },
+  "MountaineeringRope": {
+    "name": "Tırmanma İpi",
+    "description": {
+      "0": "Maceracıların tercihi olan bir tırmanma ipi. Biraz eski ama iyi korunmuş, bu yüzden halen normal bir şekilde kullanılabilir. Bu ip buraya bir hediye olarak bırakılmış. Demek ki yükseklere tırmanırken insanlar sadece iplere değil kendilerine uzanan dost eline de ihtiyaç duyuyormuş."
+    }
+  },
+  "FamiliarLookingCandyBox": {
+    "name": "Tanıdık Görünümlü Şeker Kutusu",
+    "description": {
+      "0": "Sumeru'daki çeşitli kutlamalarda yaygın olarak kullanılan bir şeker kutusu. Araştırmacı olmak isteyen kız henüz daha gençken kutudan her gün bir tane şeker alırdı. O zamanlar en büyük korkusu bu şekerlerin bir gün tükenmesiydi. Araştırmacı olduktan sonra ise bu boş şeker kutusu hayatta karşılaşabileceği farklı ihtimalleri hatırlatan nostaljik bir anı olarak kaldı. Bu kutu buraya bir hediye olarak bırakılmış. Araştırmacının gözünde bu aynı zamanda sefaletten kurtulmanın bir simgesi."
+    }
+  },
+  "TravelLamp": {
+    "name": "Seyahat Lambası",
+    "description": {
+      "0": "Çocuğun geceleri ders çalışırken sıklıkla kullandığı bir lamba. Lambanın içerisindeki bir mekanizma aracılığıyla parlaklık ayarlanabilir ve bu, daha önce hiç böyle bir lamba görmeyen bir çocuk için oldukça büyülü bir şey olsa gerek. Bu lambadan yayılan ışığı her gördüğünde, eskiden lambanın ışığında elleriyle yaptığı figürleri ve hayvanları hatırlayacak. Bu lamba buraya bir hediye olarak bırakılmış. Belki de bu, onun yüklerinden kurtulup yoluna devam etmesi içindir."
     }
   },
   "BoxOfSpecialPotions": {
@@ -17060,6 +17175,26 @@
     "name": "Yakarışların Kralı",
     "description": {
       "0": "Teyvat'ın en popüler kart oyunu Dehanın Yakarışını konu alan bir resimli roman. Birbirinden eşsiz karakterleri ve sürükleyici hikayesiyle tüm dikkatleri üzerine çekti. Şu an herkes bu romanı konuşuyor."
+    }
+  },
+  "KeyToTheCastlesSecretChamber": {
+    "name": "Kaledeki Gizli Odanın Anahtarı",
+    "description": {
+      "0": "Daiya'nın Üç Günlük Rüyası içerisindeki \"Taşlaştıran Bakış\" senaryosunda, içinde kadim bir ilaç bulunan gizli odayı açmada kullanılabilecek önemli bir eşya. Görünüş olarak sıradan anahtarlardan pek de bir farkı yoktur."
+    }
+  },
+  "AncientHexCleansingRemedy": {
+    "name": "Kadim Lanet Bozucu İksir",
+    "description": {
+      "0": "Daiya'nın Üç Günlük Rüyası içerisindeki \"Taşlaştıran Bakış\" senaryosu için önemli bir eşya.",
+      "1": "Yalnız Su Tayfına göre bu iksirler, Hayaletlerin yaptığı lanetleri bozma ve taşlaşmış Su Tayflarını önceki hallerine döndürme gücüne sahipmiş.",
+      "2": "Ancak iksirin görünüşüne bakıldığında çok yaygın bir simya kabının kullanıldığı anlaşılıyor. Bu anlatı ortamı mı simya ile ilgili, yoksa tiyatro topluluğu mu masraflardan kaçınıyor bilinmez..."
+    }
+  },
+  "TheGreatEscapePropBook": {
+    "name": "\"Büyük Kaçış\" Dekor Kitabı",
+    "description": {
+      "0": "İçi oyulmuş ve yerine kazı aletleri yerleştirilmiş bir dekor kitabı. Bir sahne dekoru olduğu için tabii ki sayfaları iyice birbirine yapışmış. Ancak yine de kitabın \"içindekiler\", bazen kitabın içindekiler kısmından çok daha önemli olabilir..."
     }
   },
   "NamelessAdventurersNotes": {
@@ -17120,6 +17255,18 @@
     "name": "Akkor Yaprak",
     "description": {
       "0": "Nahida'dan aldığın bir yaprak. Aranaralar ile irtibata geçmek için kullanılabilir. Bu yaprakla ıslık çalarsan çağrına bir Aranara yanıt verecektir. Aranaralar yalnızca Nahida'ya güvendikleri için gelirler. Diğer bir deyişle bulduğun herhangi bir yaprağa öylesine üflersen bir işe yaramaz."
+    }
+  },
+  "SadifesMarkedMap": {
+    "name": "Sadife'nin İşaretli Haritası",
+    "description": {
+      "0": "Sadife tarafından işaretlenmiş bir harita. Belki kutu yakınlarda bir yerdedir..."
+    }
+  },
+  "SadifesCase": {
+    "name": "Sadife'nin Kutusu",
+    "description": {
+      "0": "Sadife'nin Kutusu. Ağzına kadar dolu ve oldukça ağır."
     }
   },
   "AkademiyaInvestigationTeamsLogsI": {
@@ -17222,6 +17369,32 @@
     "name": "Khvarena Abidesi Yazıtı",
     "description": {
       "0": "Khvarena Abidesi Yazıtı"
+    }
+  },
+  "BeautifullyWrappedGiftBox": {
+    "name": "Güzelce Sarılmış Hediye Kutusu",
+    "description": {
+      "0": "Güzel bir kutuya konulmuş bir hediye. Kaeya'ya göre içinde şık bir lamba var. Hediyeyi açıp bakmak için Kaeya ile birlikte tatilden dönene kadar bekleseniz iyi olur."
+    }
+  },
+  "RipeGrapes": {
+    "name": "Olgunlaşmış Üzümler",
+    "description": {
+      "0": "Tunner'ın rehberliğinde büyük bir özenle topladığın üzümler. Zamanla leziz bir şaraba dönüşebilirler."
+    }
+  },
+  "PrinceQubadsIntaglio": {
+    "name": "Prens Qubad'ın Mührü",
+    "description": {
+      "0": "Oyundaki Prens Qubad'ın asil soyunu simgeleyen bir Mühür. Aslında boncuklu bir zincire geçirilip prensin boynuna takılması gerekiyordu ama kaderin cilvesi bu ya, prensin ondan vazgeçmesi gerekti.",
+      "1": "Üzerindeki kan kırmızısı taş, Kaeya'nın kaderle ilgili sana sorduğu o kadim sorunun kristalleşmiş haliydi.",
+      "2": "Cevap vermek için acele etmene gerek yok. İlerleyen zamanlarda gördüğün, dokunduğun ve hissettiğin şeyleri kullanarak içinden geçen cevabı ortaya koyabilirsin."
+    }
+  },
+  "AbsolutionSeekersTestament": {
+    "name": "Bir Günahkarın Son Sözleri",
+    "description": {
+      "0": "Veluriyam Serabı'nda bulduğun bir mektup. Özenli bir şekilde katlanmış ve sararmış haldedir. Birinin uzun zaman önce Zindanda bıraktığı bir şey gibi görünüyor."
     }
   },
   "SilkFlowerSeed": {
@@ -18175,67 +18348,67 @@
   "RadiantSpincrystal88": {
     "name": "Parlak Burgu Kristal 88",
     "description": {
-      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Kingdom of Dust\" müziği vardır."
     }
   },
   "RadiantSpincrystal89": {
     "name": "Parlak Burgu Kristal 89",
     "description": {
-      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Gold Cup of Oases\" müziği vardır."
     }
   },
   "RadiantSpincrystal90": {
     "name": "Parlak Burgu Kristal 90",
     "description": {
-      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Where She Will Return\" müziği vardır."
     }
   },
   "RadiantSpincrystal91": {
     "name": "Parlak Burgu Kristal 91",
     "description": {
-      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Desert Lullaby\" müziği vardır."
     }
   },
   "RadiantSpincrystal92": {
     "name": "Parlak Burgu Kristal 92",
     "description": {
-      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Once-Joyful Dream\" müziği vardır."
     }
   },
   "RadiantSpincrystal93": {
     "name": "Parlak Burgu Kristal 93",
     "description": {
-      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Her Wishes\" müziği vardır."
     }
   },
   "RadiantSpincrystal94": {
     "name": "Parlak Burgu Kristal 94",
     "description": {
-      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"A Pearl Amongst Legends\" müziği vardır."
     }
   },
   "RadiantSpincrystal95": {
     "name": "Parlak Burgu Kristal 95",
     "description": {
-      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Maidens of Sanctity\" müziği vardır."
     }
   },
   "RadiantSpincrystal96": {
     "name": "Parlak Burgu Kristal 96",
     "description": {
-      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Simurgh's Dream\" müziği vardır."
     }
   },
   "RadiantSpincrystal97": {
     "name": "Parlak Burgu Kristal 97",
     "description": {
-      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Where Simurgh Rests\" müziği vardır."
     }
   },
   "RadiantSpincrystal98": {
     "name": "Parlak Burgu Kristal 98",
     "description": {
-      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak canlandırabilirsin. Bu Parlak Burgu Kristalde Sumeru'dan gelen gizemli bir müzik vardır."
+      "0": "Bu harikulade kristal, narin ipekten güzel bir örgü misali çok hoş bir melodi çalar. Bu eşyayı ana karanın farklı yerlerinden veya nadir nesne toplayan tüccarlardan bulabilirsin. Kristalin içinde çalan ezgiyi, Dinginçay Çaydanlığındaki \"Ebedi Ahenk: Dingin Yankılar\" veya \"Ebedi Ahenk: Rüzgarın Ezgileri\" eşyalarını kullanarak dinleyebilirsin. Bu Parlak Burgu Kristalde \"Sorush's Purity\" müziği vardır."
     }
   },
   "FragrantSteak": {
@@ -19879,6 +20052,13 @@
       "1": "Oyunlarla ve iyi arkadaşlarla geçirilen vakitleri sakın unutma. Gelecek hakkında hiçbir endişe hissetmeden yaşamanın nasıl bir his olduğunu hep hatırla."
     }
   },
+  "TravelNotesVividIllumination": {
+    "name": "Gezi Notları: Parlak Aydınlatma",
+    "description": {
+      "0": "İsim Kartı arka planı.",
+      "1": "Kim bilir belki de sadece bu şeffaf camın öteki tarafında var olan hayali ışık, buradaki dünyayı az da olsa aydınlatabilir."
+    }
+  },
   "AnemoculusResonanceStone": {
     "name": "Rüzgar Özü Rezonans Taşı",
     "description": {
@@ -20365,6 +20545,26 @@
     "name": "Arayıcı Pusula",
     "description": {
       "0": "Yadigar kopyalarını bulmak için yapılmış bir \"Arayıcı Pusula\". Bu cihaz, bir zamanlar element enerjilerini saptamak için kullanılan bir cihazdan uyarlandığı için yadigar kopyalarını ararken mevcut elementlerden de etkilenebilir..."
+    }
+  },
+  "FlowingJoyspar": {
+    "name": "Eğlence Kristali",
+    "description": {
+      "0": "Muhteşem görünümlü bir kristal. İçindeki ışık saçan noktalar, belirli bir menzil içinde bulunan mutlu hisleri sezip insanları o yöne doğru yönlendirebiliyor.",
+      "1": "Belirli bir alandaki Neşe Biletlerini bulmak için kullan."
+    }
+  },
+  "FelicitousJoyspar": {
+    "name": "Mutluluk Kristali",
+    "description": {
+      "0": "İçindeki parlaklığın nehir gibi aktığı muhteşem bir kristal. Geniş bir alandaki mutlu hisleri sezip insanları o yöne doğru yönlendirebiliyor gibi görünüyor.",
+      "1": "Veluriyam Serabı'ndaki tüm Neşe Biletlerini bulmak için kullan."
+    }
+  },
+  "InscribedMirror": {
+    "name": "İşlemeli Ayna",
+    "description": {
+      "0": "Amurta araştırmacısı Lamiya'nın ürettiği ayna tarzı bir aygıt. Hayvanların cihazlarına bağlanarak hayvanların bakış açısını aynaya yansıtabilir."
     }
   },
   "InstructionsAnemoculusResonanceStone": {
@@ -21034,6 +21234,24 @@
       "0": "Dehanın Yakarışı Kart Oyunundan sert bir kart. Kartın üzerindeki çizim için özel baskı yöntemleri kullanılmış ve enfes bir görünüm ortaya çıkmıştır."
     }
   },
+  "TheOverflow": {
+    "name": "Taşkın",
+    "description": {
+      "0": "Dehanın Yakarışı Kart Oyunundan sert bir kart. Kartın üzerindeki çizim için özel baskı yöntemleri kullanılmış ve enfes bir görünüm ortaya çıkmıştır."
+    }
+  },
+  "RightOfFinalInterpretation": {
+    "name": "Son Karar Hakkı",
+    "description": {
+      "0": "Dehanın Yakarışı Kart Oyunundan sert bir kart. Kartın üzerindeki çizim için özel baskı yöntemleri kullanılmış ve enfes bir görünüm ortaya çıkmıştır."
+    }
+  },
+  "PoeticsOfFuubutsu": {
+    "name": "Fuubutsu Şiirleri",
+    "description": {
+      "0": "Dehanın Yakarışı Kart Oyunundan sert bir kart. Kartın üzerindeki çizim için özel baskı yöntemleri kullanılmış ve enfes bir görünüm ortaya çıkmıştır."
+    }
+  },
   "MagicGuide": {
     "name": "Büyü Rehberi",
     "description": {
@@ -21346,6 +21564,12 @@
       "0": "Dehanın Yakarışı Kart Oyunundan sert bir kart. Kartın üzerindeki çizim için özel baskı yöntemleri kullanılmış ve enfes bir görünüm ortaya çıkmıştır."
     }
   },
+  "FruitOfFulfillment": {
+    "name": "Doygunluk Meyvesi",
+    "description": {
+      "0": "Dehanın Yakarışı Kart Oyunundan sert bir kart. Kartın üzerindeki çizim için özel baskı yöntemleri kullanılmış ve enfes bir görünüm ortaya çıkmıştır."
+    }
+  },
   "LiyueHarborWharf": {
     "name": "Liyue Limanı Rıhtımı",
     "description": {
@@ -21522,6 +21746,12 @@
   },
   "Rana": {
     "name": "Rana",
+    "description": {
+      "0": "Dehanın Yakarışı Kart Oyunundan sert bir kart. Kartın üzerindeki çizim için özel baskı yöntemleri kullanılmış ve enfes bir görünüm ortaya çıkmıştır."
+    }
+  },
+  "MasterZhang": {
+    "name": "Zhang Usta",
     "description": {
       "0": "Dehanın Yakarışı Kart Oyunundan sert bir kart. Kartın üzerindeki çizim için özel baskı yöntemleri kullanılmış ve enfes bir görünüm ortaya çıkmıştır."
     }
@@ -21754,6 +21984,24 @@
       "0": "Dehanın Yakarışı Kart Oyunundan sert bir kart. Kartın üzerindeki çizim için özel baskı yöntemleri kullanılmış ve enfes bir görünüm ortaya çıkmıştır."
     }
   },
+  "AncientCourtyard": {
+    "name": "Kadim Bahçe",
+    "description": {
+      "0": "Dehanın Yakarışı Kart Oyunundan sert bir kart. Kartın üzerindeki çizim için özel baskı yöntemleri kullanılmış ve enfes bir görünüm ortaya çıkmıştır."
+    }
+  },
+  "CovenantOfRock": {
+    "name": "Kaya Sözleşmesi",
+    "description": {
+      "0": "Dehanın Yakarışı Kart Oyunundan sert bir kart. Kartın üzerindeki çizim için özel baskı yöntemleri kullanılmış ve enfes bir görünüm ortaya çıkmıştır."
+    }
+  },
+  "RhythmOfTheGreatDream": {
+    "name": "Büyük Hayalin Melodisi",
+    "description": {
+      "0": "Dehanın Yakarışı Kart Oyunundan sert bir kart. Kartın üzerindeki çizim için özel baskı yöntemleri kullanılmış ve enfes bir görünüm ortaya çıkmıştır."
+    }
+  },
   "Origin": {
     "name": "Köken",
     "description": {
@@ -21918,6 +22166,18 @@
     "name": "Yaprakların Gölgesindeki Bilgelik",
     "description": {
       "0": "Lisa'nın Sumeru'yu tekrar ziyaret ettiğinde sipariş ettiği bir giysi. Pratiklik ve zarafet arasında mükemmel bir uyumda olan bu giysi, Lisa'nın Akademi günlerinden kalma eski üniformasıyla benzerlikler taşıyor."
+    }
+  },
+  "BlossomingStarlight": {
+    "name": "Çiçek Açan Yıldız Işığı",
+    "description": {
+      "0": "Klee'nin, yalnızca önemli performanslar sırasında giydiği zarif bir giysi. Renkleri canlıdır ve adeta çiçeklerle ve kırmızı mumlarla donatılmış bir pasta gibidir. Bu giysiyle birlikte maceraların, mutluluk ve gülücüklerle dolu geçer."
+    }
+  },
+  "SailwindShadow": {
+    "name": "Yelkenli Gölgesi",
+    "description": {
+      "0": "Kaeya'nın \"Hırsız Hançer\" oyunundaki giysisi. Olabildiğince dikkat çekici şekilde tasarlanmış göz alıcı bir giysidir. Her ne kadar üstündeki aksesuarlar ve hançerler biraz uğraştırsa da giymesi zor değildir."
     }
   },
   "AdventurerCamp": {
@@ -22824,6 +23084,20 @@
     "name": "\"Işığın Değişmezliği\"",
     "description": {
       "0": "\"Işığın Değişmezliği\" yapımını adım adım anlatan detaylı bir taslak.",
+      "1": "Eşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin."
+    }
+  },
+  "ShiningSpotlight": {
+    "name": "Parlak Sahne Işığı",
+    "description": {
+      "0": "Parlak Sahne Işığı yapımını adım adım anlatan detaylı bir taslak.",
+      "1": "Eşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin."
+    }
+  },
+  "GlowingAmusementParkCandyLamp": {
+    "name": "Parıldayan Lunapark Şekeri Lambası",
+    "description": {
+      "0": "Parıldayan Lunapark Şekeri Lambası yapımını adım adım anlatan detaylı bir taslak.",
       "1": "Eşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin."
     }
   },
@@ -24850,6 +25124,34 @@
       "1": "Eşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin."
     }
   },
+  "ChooChooCartRestStop": {
+    "name": "Çuf Çuf Vagon Dinlenme Noktası",
+    "description": {
+      "0": "Çuf Çuf Vagon Dinlenme Noktası yapımını adım adım anlatan detaylı bir taslak.",
+      "1": "Eşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin."
+    }
+  },
+  "SampleAmusementParkEngineering": {
+    "name": "Örnek Lunapark \"Mühendisliği\"",
+    "description": {
+      "0": "Örnek Lunapark \"Mühendisliği\" yapımını adım adım anlatan detaylı bir taslak.",
+      "1": "Eşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin."
+    }
+  },
+  "SampleAmusementParkBuilding": {
+    "name": "Örnek Lunapark \"İnşası\"",
+    "description": {
+      "0": "Örnek Lunapark \"İnşası\" yapımını adım adım anlatan detaylı bir taslak.",
+      "1": "Eşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin."
+    }
+  },
+  "AmusementParkCelebrationTent": {
+    "name": "Lunapark Kutlama Çadırı",
+    "description": {
+      "0": "Lunapark Kutlama Çadırı yapımını adım adım anlatan detaylı bir taslak.",
+      "1": "Eşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin."
+    }
+  },
   "RitualShrine": {
     "name": "Ayin Tapınağı",
     "description": {
@@ -26229,6 +26531,34 @@
       "1": "Eşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin."
     }
   },
+  "ScriptsRequirementsAndPrinciples": {
+    "name": "Oyun Metinleri: Koşullar ve Kurallar",
+    "description": {
+      "0": "Oyun Metinleri: Koşullar ve Kurallar yapımını adım adım anlatan detaylı bir taslak.",
+      "1": "Eşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin."
+    }
+  },
+  "VIPGuestBleachers": {
+    "name": "VIP Misafir Tribünleri",
+    "description": {
+      "0": "VIP Misafir Tribünleri yapımını adım adım anlatan detaylı bir taslak.",
+      "1": "Eşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin."
+    }
+  },
+  "HeyHaHooSlimeBoxTrio": {
+    "name": "Üçlü Bodurlop Kutusu",
+    "description": {
+      "0": "Üçlü Bodurlop Kutusu yapımını adım adım anlatan detaylı bir taslak.",
+      "1": "Eşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin."
+    }
+  },
+  "WindUpGreatOwlSpiritMechanism": {
+    "name": "Kurmalı Büyük Baykuş Ruhu Mekanizması",
+    "description": {
+      "0": "Kurmalı Büyük Baykuş Ruhu Mekanizması yapımını adım adım anlatan detaylı bir taslak.",
+      "1": "Eşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin."
+    }
+  },
   "PottedPlantVerdantVastness": {
     "name": "Saksı Bitkisi: Sonsuz Yeşillik",
     "description": {
@@ -26782,6 +27112,13 @@
       "1": "Eşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin."
     }
   },
+  "AmusementParkBroadcastTower": {
+    "name": "Lunapark Yayın Kulesi",
+    "description": {
+      "0": "Lunapark Yayın Kulesi yapımını adım adım anlatan detaylı bir taslak.",
+      "1": "Eşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin."
+    }
+  },
   "WroughtIronCarvedStreetLight": {
     "name": "Ferforje Sokak Lambası",
     "description": {
@@ -27024,6 +27361,13 @@
     "name": "Armut Bostanı Koltuğu: Neşeyle Bir Arada",
     "description": {
       "0": "Armut Bostanı Koltuğu: Neşeyle Bir Arada yapımını adım adım anlatan detaylı bir taslak.",
+      "1": "Eşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin."
+    }
+  },
+  "DeadlineWhatDeadlineDirectorsChair": {
+    "name": "\"Teslim Tarihi Mi? O Da Ne?\" Rejisörün Sandalyesi",
+    "description": {
+      "0": "\"Teslim Tarihi Mi? O Da Ne?\" Rejisörün Sandalyesi yapımını adım adım anlatan detaylı bir taslak.",
       "1": "Eşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin."
     }
   },

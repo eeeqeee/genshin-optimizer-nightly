@@ -363,6 +363,20 @@
       "0": "Kupon yang dapat diperoleh setelah berpartisipasi dalam berbagai permainan di Turnamen \"Kejuaraan Raja Invokation\". Dapat ditukarkan dengan berbagai hadiah di toko event selama event berlangsung."
     }
   },
+  "JoyeuxVoucher": {
+    "name": "Joyeux Voucher",
+    "description": {
+      "0": "Voucher yang ditemukan di dalam Kotak Voucher yang tersebar di berbagai lokasi di Veluriyam Mirage. Dibuat dengan sangat cantik dan berwarna-warni. Saat memegangnya di tanganmu, seperti dapat merasakan kebahagiaan saat memenangkan hadiah.",
+      "1": "Dapat digunakan untuk membuka berbagai hadiah berharga selama event \"Musim Panas?! Taman Fantasi Misterius!\" berlangsung."
+    }
+  },
+  "FascinatingPhenocryst": {
+    "name": "Fascinating Phenocryst",
+    "description": {
+      "0": "Sebuah kristal yang memancarkan kilau yang luar biasa. Memandanginya secara langsung akan membawa kembali kenangan bahagia saat mengendarai berbagai Wahana. Dengan begitu banyak pemandangan menarik yang dapat dilihat di dalam Veluriyam Mirage, sepertinya tidak ada yang aneh kalau kegembiraan yang begitu besar ini bisa mengkristal menjadi batu permata murni?",
+      "1": "Dapat digunakan untuk membuka berbagai hadiah berharga selama event \"Musim Panas?! Taman Fantasi Misterius!\" berlangsung."
+    }
+  },
   "Primogem": {
     "name": "Primogem",
     "description": {
@@ -9817,6 +9831,12 @@
       "0": "Peninggalan Khvarena. Mengandung ingatan masa lampau."
     }
   },
+  "VoucherBox": {
+    "name": "Kotak Voucher",
+    "description": {
+      "0": "Sebuah kotak yang berisi Joyeux Voucher dan memiliki bentuk yang unik seperti bunga. Benda ini hanya bisa ditemukan di Veluriyam Mirage dan juga merupakan koleksi penting bagi para pengunjung yang ingin mengumpulkan hadiah. Gunakan Flowing Joyspar dan Felicitous Joyspar untuk menemukannya dengan lebih mudah ...."
+    }
+  },
   "Dish": {
     "name": "Masakan",
     "description": {
@@ -16852,6 +16872,22 @@
       "0": "Melampaui batas bangsa dan identitas — bersatu atas nama keberanian dan kekuatan."
     }
   },
+  "ScatteredYetWellPreservedPagesI": {
+    "name": "Lembaran yang Berceceran di Tanah tapi Terjaga dengan Baik: I",
+    "description": {}
+  },
+  "ScatteredYetWellPreservedPagesII": {
+    "name": "Lembaran yang Berceceran di Tanah tapi Terjaga dengan Baik: II",
+    "description": {}
+  },
+  "ScatteredYetWellPreservedPagesIII": {
+    "name": "Lembaran yang Berceceran di Tanah tapi Terjaga dengan Baik: III",
+    "description": {}
+  },
+  "ScatteredYetWellPreservedPagesIV": {
+    "name": "Lembaran yang Berceceran di Tanah tapi Terjaga dengan Baik: IV",
+    "description": {}
+  },
   "VentisNote": {
     "name": "Potongan Kertas dari Venti",
     "description": {
@@ -17033,6 +17069,61 @@
       "0": "Partitur drum yang sesuai dengan Korybantes: Vedana."
     }
   },
+  "ReturningCuriosMementoI": {
+    "name": "Memento Rasa Penasaran yang Kembali (I)",
+    "description": {
+      "0": "Sebuah memento yang ditemukan di situs harta karun dalam Wahana klasik Veluriyam Mirage, \"Rasa Penasaran yang Kembali.\" Peti harta yang berisi itu sesuai dengan petunjuk yang pertama — \"Kabut rasa manis memenuhi udara, aku menatap cercah cahaya dari lampu, sampai aku lupa menarik napas. Pada akhirnya, ingatan masaku kecil menuntun jalanku, sampai akhirnya aku duduk di sisi meja ....\""
+    }
+  },
+  "ReturningCuriosMementoII": {
+    "name": "Memento Rasa Penasaran yang Kembali (II)",
+    "description": {
+      "0": "Sebuah memento yang ditemukan di situs harta karun dalam Wahana klasik Veluriyam Mirage, \"Rasa Penasaran yang Kembali.\" Peti harta yang berisi itu sesuai dengan petunjuk yang kedua — \"Bintang terbang dari tanaman rambat membawaku melewati hutan yang sunyi, dan akhirnya memasuki alam mimpi yang damai tanpa diganggu seorang pun ....\""
+    }
+  },
+  "ReturningCuriosMementoIII": {
+    "name": "Memento Rasa Penasaran yang Kembali (III)",
+    "description": {
+      "0": "Sebuah memento yang ditemukan di situs harta karun dalam Wahana klasik Veluriyam Mirage, \"Rasa Penasaran yang Kembali.\" Peti harta yang berisi itu sesuai dengan petunjuk yang ketiga — \"Di atas atap yang biru, setitik debu pun tidak ada. Lantai juga warnanya putih seputih permen. Teman-teman yang lunak menemaniku. Eh, aku juga punya sayap loh!\""
+    }
+  },
+  "MementoCollectionBox": {
+    "name": "Kotak Penyimpanan \"Memento\"",
+    "description": {
+      "0": "Sebuah kotak khusus yang didapatkan dari Idyia. Gunanya untuk menyimpan Memento \"Rasa Penasaran yang Kembali\". Dikatakan bahwa kotak ini dapat melindungi barang yang ada di dalamnya dalam waktu yang lama. Dengan kotak ini, kamu dapat memilih memento spesial dan situs harta karun untuk meninggalkan jejak milikmu sendiri di Veluriyam Mirage ...."
+    }
+  },
+  "MysteriousMoraPocketwatch": {
+    "name": "Jam Saku Misterius Berbentuk Mora",
+    "description": {
+      "0": "Jam saku berbentuk Mora berwarna mengkilap yang tidak sengaja ditemukan di Veluriyam Mirage. Benda ini sangat mirip dengan jam saku Mora yang ditinggalkan oleh seorang petualang kaya di masa-masa awal \"Rasa Penasaran yang Kembali\". Orang begitu penasaran akan nilai dari benda ini.",
+      "1": "Namun seperti yang pernah Idyia katakan, \"Bukan tentang nilainya, tapi kisah di baliknya!\" Barangkali uang kurang tepat dijadikan tolak ukur dari Memento yang bersejarah ini ...."
+    }
+  },
+  "MuralFragmentSwirlingClouds": {
+    "name": "Pecahan Mural: Awan Berputar",
+    "description": {
+      "0": "Pecahan Pracetak yang ditemukan di gua misterius, menggambarkan awan yang melayang di dalam Veluriyam Mirage. Dengan memproyeksikannya menggunakan Proyektor Penyiaran di tempat yang tepat, sepertinya kita dapat memulihkan bagian mural yang hilang ...."
+    }
+  },
+  "MuralFragmentCentralHub": {
+    "name": "Pecahan Mural: Roda Inti",
+    "description": {
+      "0": "Pecahan Pracetak yang ditemukan di gua misterius, menggambarkan struktur besar di tengah Veluriyam Mirage. Dengan memproyeksikannya menggunakan Proyektor Penyiaran di tempat yang tepat, sepertinya kita dapat memulihkan bagian mural yang hilang ...."
+    }
+  },
+  "MuralFragmentSkyKeep": {
+    "name": "Pecahan Mural: Kota di Langit",
+    "description": {
+      "0": "Pecahan Pracetak yang ditemukan di gua misterius, menggambarkan kota yang melayang di langit. Dengan memproyeksikannya menggunakan Proyektor Penyiaran di tempat yang tepat, sepertinya kita dapat memulihkan bagian mural yang hilang ...."
+    }
+  },
+  "MuralFragmentFlowerOfTheValley": {
+    "name": "Pecahan Mural: Bunga di Tebing",
+    "description": {
+      "0": "Pecahan Pracetak yang ditemukan di gua misterius, menggambarkan bunga besar yang terlihat dari Kereta Gedak-Geduk saat memasuki lembah. Dengan memproyeksikannya menggunakan Proyektor Penyiaran di tempat yang tepat, sepertinya kita dapat memulihkan bagian mural yang hilang ...."
+    }
+  },
   "JuliensDrawingBoard": {
     "name": "Papan Gambar Julien",
     "description": {
@@ -17050,6 +17141,30 @@
     "description": {
       "0": "Hadiah istimewa yang dikirimkan Haniyyah. Di dalamnya berisi Marvelous Jelly yang sangat disukai Fungus, ditambah lagi dengan berbagai rasa Jelly yang bisa diberikan kepada Fungus sesuai dengan selera mereka masing-masing.",
       "1": "Marvelous Jelly adalah Floral Jelly yang ditingkatkan, yang lebih baik dari Floral Jelly, namun tetap mempertahankan transparansi seperti kristalnya dan teksturnya yang kenyal, dan tidak mengandung bahan berbahaya, sehingga menjadikannya bahan yang ideal untuk makanan Fungus. Jadi, harus diperhatikan agar anak-anak tidak memakannya ya pada saat disimpan di rumah ...."
+    }
+  },
+  "OldGear": {
+    "name": "Roda Gigi Tua",
+    "description": {
+      "0": "Kelihatannya seperti bagian dari suatu perangkat mesin yang besar. Roda gigi yang terlepas ini sepertinya tidak ada gunanya kalau hanya sendiri. Tapi, jika bisa menemukan cara agar roda gigi ini bisa berputar lagi, mungkin bisa menjawab beberapa pertanyaan."
+    }
+  },
+  "MountaineeringRope": {
+    "name": "Tali Panjat Gunung",
+    "description": {
+      "0": "Tali untuk memanjat gunung yang sering digunakan oleh para petualang. Meskipun sudah usang, tapi bisa terlihat jelas kalau terus dipelihara dengan baik sehingga masih bisa digunakan tnapa masalah. Tali ini ditinggalkan di sini sebagai hadiah. Mungkin, tali ini tidak hanya bisa diandalkan saat memanjat gunung, tapi juga saat ada teman yang memerlukan bantuan."
+    }
+  },
+  "FamiliarLookingCandyBox": {
+    "name": "Kotak Permen yang Dikenal",
+    "description": {
+      "0": "Kotak permen yang sering digunakan dalam berbagai perayaan di Sumeru. Dulu ketika gadis peneliti itu masih kecil, dia biasa mengambil satu permen setiap dari kotak ini. Waktu itu, kekhawatirannya yang terbesar adalah kalau suatu hari permennya akan habis. Setelah menjadi peneliti, kotak permen kosong ini menjadi sebuah pengingat akan kemungkinan lain dalam kehidupan. Kotak permen ini ditinggalkan di sini sebagai hadiah. Bagi si gadis peneliti, kota ini juga merupakan simbol kebebasan dari kesengsaraan."
+    }
+  },
+  "TravelLamp": {
+    "name": "Lentera Portabel",
+    "description": {
+      "0": "Lampu lentera yang dulu sering digunakan untuk belajar saat malam hari. Besar-kecil apinya dapat dikendalikan dengan mekanisme di dalam lampu. Hal ini sudah seperti sebuah sihir yang ajaib bagi anak-anak yang tidak pernah melihat lampu seperti ini sebelumnya. Setiap kali melihat cahaya dari lampu ini, dia akan memikirkan masa kecilnya ketika dia memainkan berbagai karakter dan binatang menggunakan bayangan dari tangannya. Lampu ini ditinggalkan di sini sebagai hadiah. Mungkin ini adalah suatu cara baginya untuk melepaskan beban masa lalu dan melanjutkan hidup."
     }
   },
   "BoxOfSpecialPotions": {
@@ -17086,6 +17201,26 @@
     "name": "Sang Raja Invokation",
     "description": {
       "0": "Sebuah novel ringan dengan alur cerita yang berpusat pada permainan kartu terpopuler di Teyvat — Genius Invokation TCG. Pelataran Karakter yang unik dan cerita yang menarik dan penuh kejutan membuatnya mampu meraih popularitas dalam waktu singkat."
+    }
+  },
+  "KeyToTheCastlesSecretChamber": {
+    "name": "Kunci Kamar Rahasia Kastel Tua",
+    "description": {
+      "0": "Item penting untuk pertunjukan \"Tatapan Membatu\" dalam Fantasi Tiga Hari Daiya yang dapat digunakan untuk membuka kamar rahasia yang menyimpan ramuan kuno. Tampilan luarnya sedikit berbeda dari kunci biasa."
+    }
+  },
+  "AncientHexCleansingRemedy": {
+    "name": "Ramuan Kuno Penghancur Kutukan",
+    "description": {
+      "0": "Item penting untuk pertunjukan \"Tatapan Membatu\" dalam Fantasi Tiga Hari Daiya.",
+      "1": "Menurut Hydro Eidolon yang Kesepian, pengobatan semacam ini memiliki kekuatan untuk membersihkan kutukan hantu dan memulihkan Hydro Eidolon yang membatu ke keadaannya yang semula.",
+      "2": "Namun, tampilan luar ramuan tersebut menunjukkan penggunaan dari wadah ramuan alkimia yang sangat umum. Entah apakah itu berarti ada suatu keterkaitan antara latar ceritanya dengan alkimia, atau mungkin ini sebuah bentuk penghematan yang dilakukan oleh para kru ...?"
+    }
+  },
+  "TheGreatEscapePropBook": {
+    "name": "Buku Properti \"Pelarian Luar Biasa\"",
+    "description": {
+      "0": "Sebuah buku properti berisi barang-barang menggali yang disembunyikan di dalamnya. Sebagai properti pertunjukan tentu saja halaman lainnya sudah direkatkan sedari awal. Tapi kan \"isi\" dari sebuah buku terkadang lebih penting daripada ... isinya."
     }
   },
   "NamelessAdventurersNotes": {
@@ -17146,6 +17281,18 @@
     "name": "Emberglow Leaf",
     "description": {
       "0": "Daun yang diperoleh dari Nahida dan bisa digunakan untuk menghubungi Aranara. Jika ditiup seperti peluit, pasti akan ada Aranara yang datang. Aranara bersedia menjawab suara seperti ini karena kepercayaannya terhadap Nahida. Dengan kata lain, kamu tidak akan mendapat balasan apa-apa kalau meniup sembarang daun."
+    }
+  },
+  "SadifesMarkedMap": {
+    "name": "Peta yang Ditandai Sadife",
+    "description": {
+      "0": "Selembar peta yang telah ditandai oleh Sadife. Mungkin kotak tersebut ada di sekitarnya."
+    }
+  },
+  "SadifesCase": {
+    "name": "Kotak Sadife",
+    "description": {
+      "0": "Kotak milik Sadife. Kotak ini terisi penuh dan sangat berat."
     }
   },
   "AkademiyaInvestigationTeamsLogsI": {
@@ -17248,6 +17395,32 @@
     "name": "Tulisan Prasasti Khvarena",
     "description": {
       "0": "Tulisan Prasasti Khvarena"
+    }
+  },
+  "BeautifullyWrappedGiftBox": {
+    "name": "Kotak Hadiah yang Terbungkus Cantik",
+    "description": {
+      "0": "Sebuah hadiah di dalam kotak hadiah yang cantik. Menurut Kaeya, kotak ini berisi sebuah lampu yang istimewa. Mungkin akan lebih baik untuk membukanya setelah kamu kembali dari liburan bersama Kaeya agar dapat lebih menikmatinya."
+    }
+  },
+  "RipeGrapes": {
+    "name": "Anggur Matang",
+    "description": {
+      "0": "Anggur yang dipetik secara hati-hati dengan arahan dari Tunner. Saat waktunya tiba, akan diolah menjadi minuman anggur yang istimewa."
+    }
+  },
+  "PrinceQubadsIntaglio": {
+    "name": "Permata Ukiran Milik Pangeran Qubad",
+    "description": {
+      "0": "Permata ukiran yang melambangkan asal-usul mulia Pangeran Qubad dalam cerita opera. Ukiran ini seharusnya tergantung pada kalung mutiara dan dikenakan di dada sang pangeran, tetapi dia meninggalkannya karena terjadinya sebuah tragedi.",
+      "1": "Permata berwarna merah darah adalah kristalisasi dari pertanyaan yang Kaeya tanyakan padamu, pertanyaan kuno tentang takdir.",
+      "2": "Tidak perlu terburu-buru menjawab. Di masa yang akan datang, apa yang kamu lihat, apa yang kamu sentuh, dan apa yang kamu rasakan akan menjadi bukti atas jawaban yang terukir di jiwamu."
+    }
+  },
+  "AbsolutionSeekersTestament": {
+    "name": "Surat Wasiat Pencari Pengampunan",
+    "description": {
+      "0": "Sepucuk surat yang kamu temukan di Veluriyam Mirage. Surat ini terlipat rapi dan sudah menguning. Sepertinya surat ini sudah ditinggalkan oleh seseorang di dalam Domain sejak lama."
     }
   },
   "SilkFlowerSeed": {
@@ -18202,67 +18375,67 @@
   "RadiantSpincrystal88": {
     "name": "Radiant Spincrystal 88",
     "description": {
-      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Kingdom of Dust\"."
     }
   },
   "RadiantSpincrystal89": {
     "name": "Radiant Spincrystal 89",
     "description": {
-      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Gold Cup of Oases\"."
     }
   },
   "RadiantSpincrystal90": {
     "name": "Radiant Spincrystal 90",
     "description": {
-      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Where She Will Return\"."
     }
   },
   "RadiantSpincrystal91": {
     "name": "Radiant Spincrystal 91",
     "description": {
-      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Desert Lullaby\"."
     }
   },
   "RadiantSpincrystal92": {
     "name": "Radiant Spincrystal 92",
     "description": {
-      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Once-Joyful Dream\"."
     }
   },
   "RadiantSpincrystal93": {
     "name": "Radiant Spincrystal 93",
     "description": {
-      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Her Wishes\"."
     }
   },
   "RadiantSpincrystal94": {
     "name": "Radiant Spincrystal 94",
     "description": {
-      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"A Pearl Amongst Legends\"."
     }
   },
   "RadiantSpincrystal95": {
     "name": "Radiant Spincrystal 95",
     "description": {
-      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Maidens of Sanctity\"."
     }
   },
   "RadiantSpincrystal96": {
     "name": "Radiant Spincrystal 96",
     "description": {
-      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Simurgh's Dream\"."
     }
   },
   "RadiantSpincrystal97": {
     "name": "Radiant Spincrystal 97",
     "description": {
-      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Where Simurgh Rests\"."
     }
   },
   "RadiantSpincrystal98": {
     "name": "Radiant Spincrystal 98",
     "description": {
-      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah melodi misterius dari Sumeru."
+      "0": "Kristal yang menakjubkan ini mengandung ritme tertentu, seperti batu giok indah yang ditenun dari sutra halus. Pecahan ini dapat ditemukan di seluruh daratan atau didapatkan dari para pedagang yang suka mengumpulkan barang antik. Melodi yang terkandung di dalam kristal ini dapat dihidupkan kembali di Serenitea Pot milikmu menggunakan \"Paduan Suara Celestial: Anggun Mengangkasa\" atau \"Paduan Suara Celestial: Indah Mengalun\". Melodi yang terkandung dalam Radiant Spincrystal ini adalah \"Sorush's Purity\"."
     }
   },
   "FragrantSteak": {
@@ -19705,7 +19878,7 @@
     }
   },
   "CandaceGrayHeron": {
-    "name": "Candace: Grey Heron",
+    "name": "Candace: Gray Heron",
     "description": {
       "0": "Style kartu nama.",
       "1": "Angin masa lalu yang membakar mengibaskan bulu-bulu ekor bangau, namun hanya bintang pagi di awal fajarlah yang hendak sang burung pandang."
@@ -19905,6 +20078,13 @@
     "description": {
       "0": "Style Kartu Nama.",
       "1": "Jangan pernah lupakan masa-masa saat kamu bermain game bersama teman terdekat. Jangan pernah lupakan rasanya tidak perlu memikirkan masa depan."
+    }
+  },
+  "TravelNotesVividIllumination": {
+    "name": "Catatan Perjalanan: Warna-Warni Pencahayaan",
+    "description": {
+      "0": "Style kartu nama.",
+      "1": "Siapa yang sangka kalau ternyata cahaya fantasi yang ada di balik kaca transparan ini juga dapat menerangi dunia di sisi ini."
     }
   },
   "AnemoculusResonanceStone": {
@@ -20394,6 +20574,26 @@
     "name": "Search Compass",
     "description": {
       "0": "\"Search Compass\" yang bisa digunakan untuk mencari replika relik. Karena alat ini adalah modifikasi dari perangkat untuk mendeteksi energi elemental, maka elemen yang ada di suatu tempat mungkin dapat mengganggu hasil bacaan alat ini saat mencari replika ...."
+    }
+  },
+  "FlowingJoyspar": {
+    "name": "Flowing Joyspar",
+    "description": {
+      "0": "Kristal ajaib dengan secercah fluoresensi, sepertinya bisa merasakan kegembiraan dalam jarak tertentu dan memandu orang ke arah tersebut ....",
+      "1": "Setelah menggunakannya, kamu akan bisa mendeteksi Joyeux Voucher dalam jarak tertentu."
+    }
+  },
+  "FelicitousJoyspar": {
+    "name": "Felicitous Joyspar",
+    "description": {
+      "0": "Kristal ajaib dengan warna yang indah, sepertinya bisa merasakan kegembiraan dalam jarak yang luas dan memandu orang ke arah tersebut ....",
+      "1": "Setelah menggunakannya, kamu akan bisa mendeteksi seluruh Joyeux Voucher yang ada di dalam Veluriyam Mirage."
+    }
+  },
+  "InscribedMirror": {
+    "name": "Inscribed Mirror",
+    "description": {
+      "0": "Alat cermin yang dibuat oleh peneliti Amurta, Lamiya. Dapat terhubung dengan perangkat yang dikenakan oleh para hewan eksperimen sehingga dapat memperlihatkan sudut pandang hewan tersebut melalui cermin ini."
     }
   },
   "InstructionsAnemoculusResonanceStone": {
@@ -21063,6 +21263,24 @@
       "0": "Kartu permainan \"Genius Invokation TCG\", memiliki tekstur yang keras. Gambar ilustrasi pada kartu tersebut dicetak secara khusus dan terlihat halus."
     }
   },
+  "TheOverflow": {
+    "name": "The Overflow",
+    "description": {
+      "0": "Kartu permainan \"Genius Invokation TCG\", memiliki tekstur yang keras. Gambar ilustrasi pada kartu tersebut dicetak secara khusus dan terlihat halus."
+    }
+  },
+  "RightOfFinalInterpretation": {
+    "name": "Right of Final Interpretation",
+    "description": {
+      "0": "Kartu permainan \"Genius Invokation TCG\", memiliki tekstur yang keras. Gambar ilustrasi pada kartu tersebut dicetak secara khusus dan terlihat halus."
+    }
+  },
+  "PoeticsOfFuubutsu": {
+    "name": "Poetics of Fuubutsu",
+    "description": {
+      "0": "Kartu permainan \"Genius Invokation TCG\", memiliki tekstur yang keras. Gambar ilustrasi pada kartu tersebut dicetak secara khusus dan terlihat halus."
+    }
+  },
   "MagicGuide": {
     "name": "Magic Guide",
     "description": {
@@ -21375,6 +21593,12 @@
       "0": "Kartu permainan \"Genius Invokation TCG\", memiliki tekstur yang keras. Gambar ilustrasi pada kartu tersebut dicetak secara khusus dan terlihat halus."
     }
   },
+  "FruitOfFulfillment": {
+    "name": "Fruit of Fulfillment",
+    "description": {
+      "0": "Kartu permainan \"Genius Invokation TCG\", memiliki tekstur yang keras. Gambar ilustrasi pada kartu tersebut dicetak secara khusus dan terlihat halus."
+    }
+  },
   "LiyueHarborWharf": {
     "name": "Liyue Harbor Wharf",
     "description": {
@@ -21551,6 +21775,12 @@
   },
   "Rana": {
     "name": "Rana",
+    "description": {
+      "0": "Kartu permainan \"Genius Invokation TCG\", memiliki tekstur yang keras. Gambar ilustrasi pada kartu tersebut dicetak secara khusus dan terlihat halus."
+    }
+  },
+  "MasterZhang": {
+    "name": "Master Zhang",
     "description": {
       "0": "Kartu permainan \"Genius Invokation TCG\", memiliki tekstur yang keras. Gambar ilustrasi pada kartu tersebut dicetak secara khusus dan terlihat halus."
     }
@@ -21783,6 +22013,24 @@
       "0": "Kartu permainan \"Genius Invokation TCG\", memiliki tekstur yang keras. Gambar ilustrasi pada kartu tersebut dicetak secara khusus dan terlihat halus."
     }
   },
+  "AncientCourtyard": {
+    "name": "Ancient Courtyard",
+    "description": {
+      "0": "Kartu permainan \"Genius Invokation TCG\", memiliki tekstur yang keras. Gambar ilustrasi pada kartu tersebut dicetak secara khusus dan terlihat halus."
+    }
+  },
+  "CovenantOfRock": {
+    "name": "Covenant of Rock",
+    "description": {
+      "0": "Kartu permainan \"Genius Invokation TCG\", memiliki tekstur yang keras. Gambar ilustrasi pada kartu tersebut dicetak secara khusus dan terlihat halus."
+    }
+  },
+  "RhythmOfTheGreatDream": {
+    "name": "Rhythm of the Great Dream",
+    "description": {
+      "0": "Kartu permainan \"Genius Invokation TCG\", memiliki tekstur yang keras. Gambar ilustrasi pada kartu tersebut dicetak secara khusus dan terlihat halus."
+    }
+  },
   "Origin": {
     "name": "Origin",
     "description": {
@@ -21947,6 +22195,18 @@
     "name": "A Sobriquet Under Shade",
     "description": {
       "0": "Kostum Lisa yang dipesankan oleh seseorang saat dirinya berkunjung kembali ke Sumeru. Keseimbangan sempurna antara kepraktisan dan keanggunan, modelnya lumayan mirip dengan seragam lamanya ketika masih belajar di Akademiya dulu."
+    }
+  },
+  "BlossomingStarlight": {
+    "name": "Blossoming Starlight",
+    "description": {
+      "0": "Kostum yang dikenakan Klee hanya untuk pertunjukan penting. Warnanya sangat indah, seperti kue yang dihiasi dengan bunga-bunga krim dan lilin merah yang menawan. Dengan mengenakannya, dapat membawa kebahagiaan dan senyuman dalam petualangannya ke seluruh penjuru."
+    }
+  },
+  "SailwindShadow": {
+    "name": "Sailwind Shadow",
+    "description": {
+      "0": "Kostum Kaeya yang dikenakan saat memerankan \"Bandit Belati\". Desain kostum ini sengaja dibuat agar terlihat sangat mencolok. Tapi mengenakannya pun tidak sulit, malahan aksesoris lain dan belatinya yang lebih memakan waktu saat dikenakan."
     }
   },
   "AdventurerCamp": {
@@ -22854,6 +23114,20 @@
     "name": "Cahaya yang Konstan",
     "description": {
       "0": "Blueprint yang berisi langkah-langkah untuk membuat \"Cahaya yang Konstan\".",
+      "1": "Setelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
+    }
+  },
+  "ShiningSpotlight": {
+    "name": "Lampu Sorot Terang",
+    "description": {
+      "0": "Blueprint yang berisi langkah-langkah untuk membuat \"Lampu Sorot Terang\".",
+      "1": "Setelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
+    }
+  },
+  "GlowingAmusementParkCandyLamp": {
+    "name": "Lampu Permen Berkilau Taman Bermain",
+    "description": {
+      "0": "Blueprint yang berisi langkah-langkah untuk membuat \"Lampu Permen Taman Bermain Berkilau\".",
       "1": "Setelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
     }
   },
@@ -24880,6 +25154,34 @@
       "1": "Setelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
     }
   },
+  "ChooChooCartRestStop": {
+    "name": "Koridor Santai Kereta Gedak-Geduk",
+    "description": {
+      "0": "Blueprint yang berisi langkah-langkah untuk membuat \"Koridor Santai Kereta Gedak-Geduk\".",
+      "1": "Setelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
+    }
+  },
+  "SampleAmusementParkEngineering": {
+    "name": "Sampel Proyek Taman Bermain",
+    "description": {
+      "0": "Blueprint yang berisi langkah-langkah untuk membuat \"Sampel Proyek Taman Bermain\".",
+      "1": "Setelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
+    }
+  },
+  "SampleAmusementParkBuilding": {
+    "name": "Sampel Bangunan Taman Bermain",
+    "description": {
+      "0": "Blueprint yang berisi langkah-langkah untuk membuat \"Sampel Bangunan Taman Bermain\".",
+      "1": "Setelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
+    }
+  },
+  "AmusementParkCelebrationTent": {
+    "name": "Tenda Perayaan Taman Bermain",
+    "description": {
+      "0": "Blueprint yang berisi langkah-langkah untuk membuat \"Tenda Taman Bermain\".",
+      "1": "Setelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
+    }
+  },
   "RitualShrine": {
     "name": "Kuil Ritual",
     "description": {
@@ -26259,6 +26561,34 @@
       "1": "Setelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
     }
   },
+  "ScriptsRequirementsAndPrinciples": {
+    "name": "Naskah: Persyaratan dan Prinsip Implementasi",
+    "description": {
+      "0": "Blueprint yang berisi langkah-langkah untuk membuat \"Naskah: Persyaratan dan Prinsip Implementasi\".",
+      "1": "Setelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
+    }
+  },
+  "VIPGuestBleachers": {
+    "name": "Kursi Tamu VIP",
+    "description": {
+      "0": "Blueprint yang berisi langkah-langkah untuk membuat \"Kursi Tamu VIP\".",
+      "1": "Setelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
+    }
+  },
+  "HeyHaHooSlimeBoxTrio": {
+    "name": "Trio Kotak Slime Hey-Ha-Huu",
+    "description": {
+      "0": "Blueprint yang berisi langkah-langkah untuk membuat \"Trio Kotak Slime Hey-Ha-Huu\".",
+      "1": "Setelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
+    }
+  },
+  "WindUpGreatOwlSpiritMechanism": {
+    "name": "Mekanisme Burung Hantu Besar",
+    "description": {
+      "0": "Blueprint yang berisi langkah-langkah untuk membuat \"Mekanisme Burung Hantu Besar\".",
+      "1": "Setelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
+    }
+  },
   "PottedPlantVerdantVastness": {
     "name": "Pot Tanaman: Hamparan Hijau",
     "description": {
@@ -26812,6 +27142,13 @@
       "1": "Setelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
     }
   },
+  "AmusementParkBroadcastTower": {
+    "name": "Menara Pengumuman Taman Bermain",
+    "description": {
+      "0": "Blueprint yang berisi langkah-langkah terperinci untuk membuat \"Menara Pengumuman Taman Bermain\".",
+      "1": "Setelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
+    }
+  },
   "WroughtIronCarvedStreetLight": {
     "name": "Lampu Jalan dengan Ukiran Besi",
     "description": {
@@ -27054,6 +27391,13 @@
     "name": "Kursi Kebun Pir: Bersukacita Bersama",
     "description": {
       "0": "Blueprint yang berisi langkah-langkah untuk membuat Kursi Kebun Pir: Bersukacita Bersama.",
+      "1": "Setelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
+    }
+  },
+  "DeadlineWhatDeadlineDirectorsChair": {
+    "name": "Kursi Sutradara \"Tenggat Waktu Apa Ya?\"",
+    "description": {
+      "0": "Blueprint yang berisi langkah-langkah untuk membuat Kursi Sutradara \"Tenggat Waktu Apa Ya?\".",
       "1": "Setelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
     }
   },

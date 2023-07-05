@@ -362,6 +362,20 @@
       "0": "Vé thưởng nhận được khi tham gia các hoạt động tại hội trường \"Giải Đấu Vua Triệu Hồi\". Có thể đổi các loại phần thưởng trong thời gian sự kiện."
     }
   },
+  "JoyeuxVoucher": {
+    "name": "Phiếu Quà Hân Hoan",
+    "description": {
+      "0": "Phiếu quà tìm được từ trong Hộp Phiếu Quà rải rác khắp nơi ở Ảo Cảnh Veluriyam. Thủ công tinh tế, phối màu rực rỡ, khi cầm trong tay dường như cảm nhận được niềm vui khi giành được phần thưởng.",
+      "1": "Trong sự kiện \"Thiên Đường Hè Kỳ Bí\" có thể dùng để mở khóa các phần thưởng quý giá."
+    }
+  },
+  "FascinatingPhenocryst": {
+    "name": "Tinh Thể Kỳ Thú",
+    "description": {
+      "0": "Tinh thể phát ra ánh sáng lung linh, khi ngắm nhìn thật lâu, dường như có thể hồi tưởng lại những niềm vui đã trải nghiệm khi tham gia các trò chơi. Nếu đã ở trong Ảo Cảnh Veluriyam, ắt sẽ có rất nhiều hiện tượng kỳ dị, niềm vui thú ngưng đọng thành một thực thể trông như bảo thạch, hình như cũng không có gì là kỳ lạ nhỉ?",
+      "1": "Trong sự kiện \"Thiên Đường Hè Kỳ Bí\" có thể dùng để mở khóa các phần thưởng quý giá."
+    }
+  },
   "Primogem": {
     "name": "Nguyên Thạch",
     "description": {
@@ -607,7 +621,7 @@
   "Xiangling": {
     "name": "Xiangling",
     "description": {
-      "0": "Thiếu nữ đầu bếp đến từ Liyue, rất nổi tiếng, có sự nhiệt tình vô hạn với việc nấu nướng, đặc biệt là những món tê cay."
+      "0": "Thiếu nữ đầu bếp đến từ Liyue, rất nổi tiếng. Có sự nhiệt tình vô hạn với việc nấu nướng, đặc biệt là những món tê cay."
     }
   },
   "Beidou": {
@@ -619,13 +633,13 @@
   "Xingqiu": {
     "name": "Xingqiu",
     "description": {
-      "0": "Người thiếu niên thường bắt gặp nơi quầy sách. Tay cầm kiếm, với một trái tim nghĩa hiệp thổn thức trong lồng ngực."
+      "0": "Vị thiếu niên thường được bắt gặp nơi quầy sách. Tay cầm kiếm, với một trái tim nghĩa hiệp thổn thức trong lồng ngực."
     }
   },
   "Xiao": {
     "name": "Xiao",
     "description": {
-      "0": "Tiên nhân bảo vệ Liyue - Dạ Xoa. Hiệu là \"Hàng Ma Đại Thánh\", biệt danh \"Hộ Pháp Dạ Xoa Đại Tướng\"."
+      "0": "Tiên nhân Dạ Xoa bảo vệ Liyue. Hiệu là \"Hàng Ma Đại Thánh\", biệt danh \"Hộ Pháp Dạ Xoa Đại Tướng\"."
     }
   },
   "Ningguang": {
@@ -643,7 +657,7 @@
   "Zhongli": {
     "name": "Zhongli",
     "description": {
-      "0": "Là người khách thần bí được \"Vãng Sinh Đường\" mời đến, kiến thức uyên bác, có sự hiểu biết với nhiều sự vật sự việc."
+      "0": "Là vị khách thần bí được \"Vãng Sinh Đường\" mời đến. Kiến thức uyên bác, có hiểu biết sâu rộng đối với nhiều sự vật sự việc."
     }
   },
   "Fischl": {
@@ -673,7 +687,7 @@
   "Qiqi": {
     "name": "Qiqi",
     "description": {
-      "0": "Một cô nương hái thuốc kiêm học đồ tại lò thuốc, sắc mặt trắng toát như cương thi. Rất ít nói chuyện, cũng không có biểu cảm gì."
+      "0": "Cô bé hái thuốc kiêm học trò tại \"Nhà Thuốc Bubu\". Sắc mặt trắng toát như cương thi, nói chuyện rất ít, cũng không có biểu cảm gì."
     }
   },
   "Chongyun": {
@@ -685,7 +699,7 @@
   "Ganyu": {
     "name": "Ganyu",
     "description": {
-      "0": "Thư ký tại Nguyệt Hải Đình, trong người chứa huyết mạch của tiên thú Kỳ Lân"
+      "0": "Thư ký tại Nguyệt Hải Đình, trong người chứa huyết mạch của tiên thú Kỳ Lân."
     }
   },
   "Albedo": {
@@ -709,7 +723,7 @@
   "Keqing": {
     "name": "Keqing",
     "description": {
-      "0": "Ngọc Hành Tinh là một trong Thất Tinh Liyue, đối với việc \"Liyue hoàn toàn được quyết định bởi Đế Quân\" có chút không hài lòng... nhưng trên thực tế, Thần cũng rất coi trọng những người như cô."
+      "0": "Ngọc Hành Tinh, một trong Thất Tinh Liyue. Đối với việc \"Liyue hoàn toàn được quyết định bởi Đế Quân\" có chút không hài lòng... nhưng trên thực tế, Thần cũng rất coi trọng những người như cô."
     }
   },
   "Sucrose": {
@@ -9857,6 +9871,12 @@
       "0": "Do Khvarena để lại, ngưng đọng các mảnh ký ức trong quá khứ."
     }
   },
+  "VoucherBox": {
+    "name": "Hộp Phiếu Quà",
+    "description": {
+      "0": "Hộp chứa \"Phiếu Quà Hân Hoan\", có ngoại hình kỳ lạ như cánh hoa, là cảnh quan độc đáo của Ảo Cảnh Veluriyam, cũng là vật quan trọng mà du khách cần thu thập để lấy được phần thưởng. Dùng \"Tinh Thạch Vui Vẻ\" và \"Tinh Thạch Sảng Khoái\" hình như có thể dễ dàng định vị được vị trí của chúng..."
+    }
+  },
   "Dish": {
     "name": "Món ăn",
     "description": {
@@ -12895,7 +12915,7 @@
     }
   },
   "EnergizingBento": {
-    "name": "Hợp Cơm Tiếp Sức",
+    "name": "Hộp Cơm Tiếp Sức",
     "description": {
       "0": "Món ăn đặc sắc của Kirara. Kirara bắt chước theo kiểu hộp cơm mà các thiếu nữ thường thích, qua bao cố gắng đã làm ra được món ăn của con người. Nguyên liệu thức ăn có dinh dưỡng cân bằng, thêm tạo hình meo meo dễ thương, giống như một kiện hàng chuyển phát nhanh chứa đầy tâm ý... Ngày ngày nhận được nó đều sẽ không cảm thấy ngán đâu!"
     }
@@ -16891,6 +16911,22 @@
       "0": "Không phân quốc tịch, không màng thân phận, luận võ kết giao, chuyên tâm võ đạo."
     }
   },
+  "ScatteredYetWellPreservedPagesI": {
+    "name": "Mảnh Giấy Rải Rác Nhưng Được Bảo Quản Tốt I",
+    "description": {}
+  },
+  "ScatteredYetWellPreservedPagesII": {
+    "name": "Mảnh Giấy Rải Rác Nhưng Được Bảo Quản Tốt II",
+    "description": {}
+  },
+  "ScatteredYetWellPreservedPagesIII": {
+    "name": "Mảnh Giấy Rải Rác Nhưng Được Bảo Quản Tốt III",
+    "description": {}
+  },
+  "ScatteredYetWellPreservedPagesIV": {
+    "name": "Mảnh Giấy Rải Rác Nhưng Được Bảo Quản Tốt IV",
+    "description": {}
+  },
   "VentisNote": {
     "name": "Mảnh Giấy Của Venti",
     "description": {
@@ -17072,6 +17108,61 @@
       "0": "Ghi chép nhạc phổ tương ứng của Korybantes - Vedana"
     }
   },
+  "ReturningCuriosMementoI": {
+    "name": "Vật Chứng Nhận Của Vạn Vật Kỳ Ảo I",
+    "description": {
+      "0": "Vật chứng nhận được đào tại khu kho báu của hạng mục trò chơi \"Vạn Vật Kỳ Ảo\" trong Ảo Cảnh Veluriyam. Kho báu này tương ứng với đoạn ám hiệu thứ nhất: \"Mùi sương ngọt ngào tràn ngập không khí, nhìn ánh đèn bập bùng tỏa sáng khiến tôi quên đi hơi thở. Với những ký ức ấu thơ dẫn lối, tôi ngồi xuống bên bàn một cách bình yên...\""
+    }
+  },
+  "ReturningCuriosMementoII": {
+    "name": "Vật Chứng Nhận Của Vạn Vật Kỳ Ảo II",
+    "description": {
+      "0": "Vật chứng nhận được đào tại khu kho báu của hạng mục trò chơi \"Vạn Vật Kỳ Ảo\" trong Ảo Cảnh Veluriyam. Kho báu này tương ứng với đoạn ám hiệu thứ hai: \"Những ngôi sao bay đưa tôi qua khu rừng yên tĩnh, cuối cùng đặt chân vào vùng đất mơ mộng yên bình, không ai làm phiền...\""
+    }
+  },
+  "ReturningCuriosMementoIII": {
+    "name": "Vật Chứng Nhận Của Vạn Vật Kỳ Ảo III",
+    "description": {
+      "0": "Vật chứng nhận được đào tại khu kho báu của hạng mục trò chơi \"Vạn Vật Kỳ Ảo\" trong Ảo Cảnh Veluriyam. Kho báu này tương ứng với đoạn ám hiệu thứ ba: \"Mái nhà xanh không một hạt bụi, sàn nhà như viên kẹo trắng. Những người bạn êm ái đồng hành cùng tôi, tôi cũng đã có một đôi cánh!\""
+    }
+  },
+  "MementoCollectionBox": {
+    "name": "Hộp Đựng \"Vật Chứng Nhận\"",
+    "description": {
+      "0": "Chiếc hộp đặc biệt, nhận được từ Idyia, là đạo cụ quan trọng dùng để đựng vật chứng nhận của \"Vạn Vật Kỳ Ảo\". Nghe nói có thể bảo quản tốt vật phẩm bên trong suốt một thời gian tương đối dài. Có được chiếc hộp này, hãy lựa chọn \"vật chứng nhận\" và khu chôn giấu để lưu lại dấu tích của riêng mình trong Ảo Cảnh Veluriyam nào..."
+    }
+  },
+  "MysteriousMoraPocketwatch": {
+    "name": "Đồng Hồ Hình Mora Thần Bí",
+    "description": {
+      "0": "Chiếc đồng hồ vô tình phát hiện được trong Ảo Cảnh Veluriyam, có màu vàng óng ánh và hoa văn bên ngoài trông như Mora. Rất giống với chiếc đồng hồ Mora mà nhà mạo hiểm kỳ cựu đã để lại vào thuở ban đầu của \"Vạn Vật Kỳ Ảo\" trong câu chuyện mà Idyia kể, giá trị không biết như thế nào.",
+      "1": "Nhưng Idyia cũng đã nói, \"vấn đề không phải là giá trị của đồng hồ hay kho báu, mà là câu chuyện chứa đựng trong kho báu\"! Có lẽ dùng tiền bạc để đo lường độ quý giá của \"vật chứng nhận\" cổ xưa này không phải là một cách làm thỏa đáng..."
+    }
+  },
+  "MuralFragmentSwirlingClouds": {
+    "name": "Mảnh Bích Họa - Vầng Mây Kỳ Ảo",
+    "description": {
+      "0": "Mảnh Hình Chiếu phát hiện được trong hang động thần bí, miêu tả mây bay trong Ảo Cảnh Veluriyam. Dùng Đèn Chiếu với vị trí chính xác để chiếu lên trên bích họa, hình như có thể khôi phục một khu vực bị thiếu trong bức bích họa..."
+    }
+  },
+  "MuralFragmentCentralHub": {
+    "name": "Mảnh Bích Họa - Vòng Trung Tâm",
+    "description": {
+      "0": "Mảnh Hình Chiếu phát hiện được trong hang động thần bí, miêu tả kiến trúc khổng lồ ở trung tâm Ảo Cảnh Veluriyam. Dùng Đèn Chiếu với vị trí chính xác để chiếu lên trên bích họa, hình như có thể khôi phục một khu vực bị thiếu trong bức bích họa..."
+    }
+  },
+  "MuralFragmentSkyKeep": {
+    "name": "Mảnh Bích Họa - Thành Trì Trên Không",
+    "description": {
+      "0": "Mảnh Hình Chiếu phát hiện được trong hang động thần bí, miêu tả thành trì lơ lửng trên bầu trời. Dùng Đèn Chiếu với vị trí chính xác để chiếu lên trên bích họa, hình như có thể khôi phục một khu vực bị thiếu trong bức bích họa..."
+    }
+  },
+  "MuralFragmentFlowerOfTheValley": {
+    "name": "Mảnh Bích Họa - Đóa Hoa Thung Lũng",
+    "description": {
+      "0": "Mảnh Hình Chiếu phát hiện được trong hang động thần bí, miêu tả đóa hoa khổng lồ nhìn thấy được khi lái xe bay vào trong thung lũng. Dùng Đèn Chiếu với vị trí chính xác để chiếu lên trên bích họa, hình như có thể khôi phục một khu vực bị thiếu trong bức bích họa..."
+    }
+  },
   "JuliensDrawingBoard": {
     "name": "Bảng Vẽ Của Julien",
     "description": {
@@ -17089,6 +17180,30 @@
     "description": {
       "0": "Hộp quà tinh xảo của Haniyyah tặng, trong đó có Rau Câu Kỳ Diệu mà các Nấm Quỷ yêu thích, được chia làm nhiều loại mùi vị độc đáo, có thể cho ăn tùy theo sở thích của từng con Nấm Quỷ.",
       "1": "Rau Câu Kỳ Diệu được cải tiến dựa trên Rau Câu Hoa Hoa trước đây, giữ được độ long lanh và độ đàn hồi, loại bỏ thành phần nguy hiểm, là một loại thực phẩm lý tưởng để nuôi dưỡng Nấm Quỷ. Chỉ có điều... khi cất trong nhà nhớ phải cẩn thận, coi chừng trẻ con ăn vụng đấy!"
+    }
+  },
+  "OldGear": {
+    "name": "Bánh Răng Cũ Kỹ",
+    "description": {
+      "0": "Nhìn có vẻ như là một bộ phận của cỗ máy to lớn nào đó, nhưng đã bị rơi ra, lẻ loi một mình, e là không thể phát huy bất kỳ công dụng gì. Nhưng nếu tìm được cách làm cho bánh răng này bắt đầu xoay, thì có lẽ sẽ tìm được đáp án cho một số vấn đề."
+    }
+  },
+  "MountaineeringRope": {
+    "name": "Dây Leo Núi",
+    "description": {
+      "0": "Dây leo núi mà các nhà mạo hiểm thường sử dụng. Tuy hơi cũ, nhưng có thể nhìn ra nó được bảo dưỡng rất kỹ lưỡng, nên mãi đến ngày nay nếu sử dụng bình thường cũng không thành vấn đề. Dây thừng đã được để lại nơi đây như một món quà. Có lẽ, lúc leo lên nơi cao, thứ đáng tin cậy không chỉ là dây thừng, mà còn có bàn tay của bạn bè giơ ra về phía bạn."
+    }
+  },
+  "FamiliarLookingCandyBox": {
+    "name": "Hộp Kẹo Như Từng Quen Biết",
+    "description": {
+      "0": "Hộp kẹo thường dùng trong các dịp lễ hội ở Sumeru. Lúc nhỏ, cô gái chưa trở thành học giả từng lấy một viên kẹo ra ăn mỗi ngày, lúc đó nỗi lo lớn nhất chỉ là sợ có ngày sẽ ăn hết kẹo. Sau khi trở thành học giả, hộp kẹo trống không này đã trở thành vật mang ý nghĩa về sự lựa chọn khác trong cuộc đời. Hộp kẹo này cuối cùng được dùng làm quà tặng để lại nơi này. Điều này đối với học giả mà nói, cũng chính là tượng trưng cho sự giải thoát khỏi phiền não."
+    }
+  },
+  "TravelLamp": {
+    "name": "Đèn Lữ Hành",
+    "description": {
+      "0": "Chiếc đèn mà thanh niên thường dùng khi đọc sách vào ban đêm, có thể điều chỉnh độ lửa bằng một số cơ quan nhỏ. Đối với những đứa trẻ chưa từng thấy qua loại đèn này, thì đây có lẽ cũng thần kỳ như phép thuật vậy. Mỗi lần nhìn thấy ánh sáng từ chiếc đèn này phát ra, anh đều nhớ lại ngày xưa hay ngồi chơi với những chiếc bóng tạo ra từ đôi bàn tay. Chiếc đèn này cuối cùng được dùng làm quà tặng để lại nơi này. Có lẽ đối với anh ấy mà nói, đây cũng là một cách giảm bớt gánh nặng cho hành trình phía trước."
     }
   },
   "BoxOfSpecialPotions": {
@@ -17125,6 +17240,26 @@
     "name": "\"Vua Triệu Hồi\"",
     "description": {
       "0": "Tiểu thuyết được viết theo chủ đề trò chơi \"Thất Thánh Triệu Hồi\" đang làm mưa làm gió tại Teyvat. Thiết kế nhân vật độc đáo sáng tạo, tình tiết câu chuyện đặc sắc gay cấn, là một tác phẩm khá nổi dạo gần đây."
+    }
+  },
+  "KeyToTheCastlesSecretChamber": {
+    "name": "Chìa Khóa Mật Thất Lâu Đài Cổ",
+    "description": {
+      "0": "Đạo cụ quan trọng trong vở kịch \"Ba Ngày Mơ Mộng Của Daiya\" - \"Ánh Nhìn Hóa Đá\", có thể mở gian phòng bí mật chứa lọ thuốc cổ xưa. Nếu chỉ nhìn bề ngoài, trông nó không khác gì với chìa khóa thông thường."
+    }
+  },
+  "AncientHexCleansingRemedy": {
+    "name": "Thuốc Giải Trừ Lời Nguyền",
+    "description": {
+      "0": "Đạo cụ quan trọng trong vở kịch \"Ba Ngày Mơ Mộng Của Daiya\" - \"Ánh Nhìn Hóa Đá\".",
+      "1": "Theo như \"Eidolon Thủy Lạc Lõng\" nói, loại thuốc này có công dụng giải trừ lời nguyền của bóng ma, khiến các \"Eidolon Thủy\" hóa đá khôi phục nguyên trạng...",
+      "2": "Nhưng hình như đựng trong lọ chứa thuốc giả kim thường dùng, không biết có liên quan không, hay là do đoàn kịch tiết kiệm kinh phí..."
+    }
+  },
+  "TheGreatEscapePropBook": {
+    "name": "Sách Đạo Cụ \"Thoát Khỏi Tuyệt Vọng\"",
+    "description": {
+      "0": "Một quyển sách đạo cụ bị làm rỗng ở giữa, cất giấu đạo cụ khai quật. Đương nhiên, dù sao cũng là đạo cụ dùng cho phim trường, nên các trang khác đã bị dán lại với nhau, không thể đọc được nội dung trong đó. Nhưng có lúc, \"bên trong\" sách còn quan trọng hơn nội dung sách."
     }
   },
   "NamelessAdventurersNotes": {
@@ -17185,6 +17320,18 @@
     "name": "Lá Ánh Sáng",
     "description": {
       "0": "Chiếc lá nhận được từ chỗ Nahida, dùng để liên lạc với Aranara. Nếu thổi nó phát ra tiếng thì sẽ có Aranara đến theo tiếng gọi. Aranara đồng ý hưởng ứng loại âm thanh này là vì tin tưởng Nahida, nói cách khác, lúc bình thường có thổi thì cũng vô ích thôi."
+    }
+  },
+  "SadifesMarkedMap": {
+    "name": "Bản Đồ Đánh Dấu Của Sadife",
+    "description": {
+      "0": "Bản đồ đã được Sadife đánh dấu. Có lẽ, chiếc rương đó ở ngay gần đây..."
+    }
+  },
+  "SadifesCase": {
+    "name": "Rương Của Sadife",
+    "description": {
+      "0": "Rương của Sadife. Được nhét đầy ắp, vô cùng nặng."
     }
   },
   "AkademiyaInvestigationTeamsLogsI": {
@@ -17287,6 +17434,32 @@
     "name": "Bia Kỷ Niệm Khvarena",
     "description": {
       "0": "Bia Kỷ Niệm Khvarena"
+    }
+  },
+  "BeautifullyWrappedGiftBox": {
+    "name": "Hộp Quà Được Gói Tỉ Mỉ",
+    "description": {
+      "0": "Món quà đựng trong chiếc hộp được gói ghém tỉ mỉ. Theo Kaeya nói, trong hộp đựng một chiếc đèn tinh tế. Đợi sau khi kỳ nghỉ với Kaeya kết thúc, hãy lấy chiếc đèn anh ấy tặng ra ngắm kỹ lưỡng nhé."
+    }
+  },
+  "RipeGrapes": {
+    "name": "Nho Chín",
+    "description": {
+      "0": "Nho do bạn hái được dưới sự chỉ dẫn của Tunner. Một ngày nào đó chúng sẽ được ủ thành rượu ngon."
+    }
+  },
+  "PrinceQubadsIntaglio": {
+    "name": "Ấn Châu Của Hoàng Tử Qubad",
+    "description": {
+      "0": "Đạo cụ ấn châu tượng trưng cho xuất thân cao quý của hoàng tử Qubad trong vở kịch. Vốn nên được xỏ vào dây chuyền và đeo trước ngực hoàng tử, nhưng bi kịch đã khiến hoàng tử vứt nó đi.",
+      "1": "Bảo thạch màu đỏ thẫm ngưng đọng câu hỏi mà Kaeya đã hỏi bạn, câu hỏi xưa cũ về vận mệnh.",
+      "2": "Không cần trả lời vội, trong tương lai hãy dùng mắt của bạn, tay của bạn, tim của bạn để chứng minh cho đáp án trong linh hồn bạn vào lúc này."
+    }
+  },
+  "AbsolutionSeekersTestament": {
+    "name": "Di Vật Của Người Muốn Chuộc Tội",
+    "description": {
+      "0": "Một lá thư tìm được trong Ảo Cảnh Veluriyam, vết gấp ngay ngắn, chỗ gấp hơi ố vàng. Có thể nhìn ra đây là vật phẩm mà trước đây rất lâu đã có người để lại trong ảo cảnh."
     }
   },
   "SilkFlowerSeed": {
@@ -18241,67 +18414,67 @@
   "RadiantSpincrystal88": {
     "name": "Ngọc Thạch Âm Vang 88",
     "description": {
-      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Sumeru thần bí."
+      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân tìm kiếm bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"Màn Bụi Mờ Mịt\""
     }
   },
   "RadiantSpincrystal89": {
     "name": "Ngọc Thạch Âm Vang 89",
     "description": {
-      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Sumeru thần bí."
+      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân tìm kiếm bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"Ly Vàng Trong Ốc Đảo\""
     }
   },
   "RadiantSpincrystal90": {
     "name": "Ngọc Thạch Âm Vang 90",
     "description": {
-      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Sumeru thần bí."
+      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân tìm kiếm bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"Nơi Yên Giấc\""
     }
   },
   "RadiantSpincrystal91": {
     "name": "Ngọc Thạch Âm Vang 91",
     "description": {
-      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Sumeru thần bí."
+      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân tìm kiếm bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"Khúc Hát Ru Giữa Biển Cát\""
     }
   },
   "RadiantSpincrystal92": {
     "name": "Ngọc Thạch Âm Vang 92",
     "description": {
-      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Sumeru thần bí."
+      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân tìm kiếm bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"Địa Đàng Xa Xưa\""
     }
   },
   "RadiantSpincrystal93": {
     "name": "Ngọc Thạch Âm Vang 93",
     "description": {
-      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Sumeru thần bí."
+      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân tìm kiếm bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"Điều Ước Của Cô Ấy\""
     }
   },
   "RadiantSpincrystal94": {
     "name": "Ngọc Thạch Âm Vang 94",
     "description": {
-      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Sumeru thần bí."
+      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân tìm kiếm bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"Trân Châu Của Ngàn Đêm\""
     }
   },
   "RadiantSpincrystal95": {
     "name": "Ngọc Thạch Âm Vang 95",
     "description": {
-      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Sumeru thần bí."
+      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân tìm kiếm bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"Những Cô Con Gái Của Hoa Và Cây\""
     }
   },
   "RadiantSpincrystal96": {
     "name": "Ngọc Thạch Âm Vang 96",
     "description": {
-      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Sumeru thần bí."
+      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân tìm kiếm bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"Giấc Mộng Của Simurgh\""
     }
   },
   "RadiantSpincrystal97": {
     "name": "Ngọc Thạch Âm Vang 97",
     "description": {
-      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Sumeru thần bí."
+      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân tìm kiếm bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"Nơi Yên Nghỉ Của Simurgh\""
     }
   },
   "RadiantSpincrystal98": {
     "name": "Ngọc Thạch Âm Vang 98",
     "description": {
-      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" thuộc về Sumeru thần bí."
+      "0": "Kết tinh ẩn chứa vần điệu kỳ diệu, như một viên ngọc bích tuyệt đẹp dệt từ dải lụa mỏng manh. Chúng được phân bổ ở khắp nơi trên vùng đất này hoặc ở trong tay những thương nhân tìm kiếm bảo vật. Có thể vào trong \"Ấm Trần Ca\", dùng \"Âm Vang Vạn Dặm - Phiêu Dương\" hoặc \"Âm Vang Vạn Dặm - Mậu Nhiễu\" để khôi phục lại giai điệu bên trong. Giai điệu ẩn chứa trong \"Ngọc Thạch Âm Vang\" này là \"Khúc Ca Của Sorush\""
     }
   },
   "FragrantSteak": {
@@ -19947,6 +20120,13 @@
       "1": "Đừng quên những ngày tháng cùng bạn bè chơi trò chơi, đừng quên những ngày tháng không phải lo âu về tương lai."
     }
   },
+  "TravelNotesVividIllumination": {
+    "name": "Nhật Ký Hành Trình - Chói Lọi",
+    "description": {
+      "0": "Hoa văn danh thiếp.",
+      "1": "Ánh sáng ảo mộng chỉ có thể tồn tại ở mặt bên kia của lớp kính trong suốt. Nói không chừng cũng có thể soi sáng phần nào cho thế giới bên này."
+    }
+  },
   "AnemoculusResonanceStone": {
     "name": "Đá Cộng Hưởng Phong Thần Đồng",
     "description": {
@@ -20433,6 +20613,26 @@
     "name": "La Bàn Tìm Vật",
     "description": {
       "0": "La Bàn Tìm Vật dùng để tìm kiếm mô hình văn vật. Vì được cải tạo từ thiết bị thăm dò nguyên tố, cho nên ở nơi thăm dò mô hình văn vật hình như cũng bị ảnh hưởng bởi nguyên tố nhất định..."
+    }
+  },
+  "FlowingJoyspar": {
+    "name": "Tinh Thạch Vui Vẻ",
+    "description": {
+      "0": "Tinh thể kỳ diệu nhấp nháy ánh huỳnh quang, hình như có thể cảm ứng được tâm trạng vui vẻ trong phạm vi nhất định, và chỉ dẫn mọi người đến vị trí tương ứng...",
+      "1": "Sau khi dùng, có thể dò tìm được \"Phiếu Quà Hân Hoan\" trong phạm vi nhất định ở xung quanh."
+    }
+  },
+  "FelicitousJoyspar": {
+    "name": "Tinh Thạch Sảng Khoái",
+    "description": {
+      "0": "Tinh thể kỳ diệu với sắc thái rực rỡ, hình như có thể cảm ứng được tâm trạng vui vẻ trong khu vực rộng lớn, và chỉ dẫn mọi người đến vị trí tương ứng...",
+      "1": "Sau khi dùng, có thể dò tìm được tất cả \"Phiếu Quà Hân Hoan\" trong Ảo Cảnh Veluriyam."
+    }
+  },
+  "InscribedMirror": {
+    "name": "Kính Ghi Hình",
+    "description": {
+      "0": "Chiếc kính do học giả Học Phái Amurta Lamiya chế tạo, có thể liên kết với thiết bị gắn trên người các động vật, từ đó lấy được hình ảnh sự vật trong tầm mắt của chúng để hiện ra trên mặt kính."
     }
   },
   "InstructionsAnemoculusResonanceStone": {
@@ -21102,6 +21302,24 @@
       "0": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
     }
   },
+  "TheOverflow": {
+    "name": "Thủy Triều Dâng Trào",
+    "description": {
+      "0": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+    }
+  },
+  "RightOfFinalInterpretation": {
+    "name": "Quyền Quyết Định Cuối Cùng",
+    "description": {
+      "0": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+    }
+  },
+  "PoeticsOfFuubutsu": {
+    "name": "Cảnh Vật Thì Thầm",
+    "description": {
+      "0": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+    }
+  },
   "MagicGuide": {
     "name": "Tóm Tắt Ma Pháp",
     "description": {
@@ -21414,6 +21632,12 @@
       "0": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
     }
   },
+  "FruitOfFulfillment": {
+    "name": "Quả Mọng",
+    "description": {
+      "0": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+    }
+  },
   "LiyueHarborWharf": {
     "name": "Bến Cảng Liyue",
     "description": {
@@ -21590,6 +21814,12 @@
   },
   "Rana": {
     "name": "Rana",
+    "description": {
+      "0": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+    }
+  },
+  "MasterZhang": {
+    "name": "Lão Zhang",
     "description": {
       "0": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
     }
@@ -21822,6 +22052,24 @@
       "0": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
     }
   },
+  "AncientCourtyard": {
+    "name": "Sân Vườn Cổ Xưa",
+    "description": {
+      "0": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+    }
+  },
+  "CovenantOfRock": {
+    "name": "Khế Ước Bàn Nham",
+    "description": {
+      "0": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+    }
+  },
+  "RhythmOfTheGreatDream": {
+    "name": "Giai Điệu Giấc Mơ",
+    "description": {
+      "0": "Thẻ bài \"Thất Thánh Triệu Hồi\", chất liệu rất tốt. Hình minh họa trên đó không biết là dùng cách in ấn đặc biệt nào để làm ra, trông rất tinh tế."
+    }
+  },
   "Origin": {
     "name": "Nguyên Sơ",
     "description": {
@@ -21985,6 +22233,18 @@
     "name": "Danh Vang Trong Lá",
     "description": {
       "0": "Trang phục Lisa đã đặt làm khi đến thăm Sumeru. Váy gọn gàng nhưng không kém phần trang nhã, có phần giống với đồng phục thời học sinh của cô."
+    }
+  },
+  "BlossomingStarlight": {
+    "name": "Hoa Lửa Rực Rỡ",
+    "description": {
+      "0": "Bộ trang phục xinh xắn mà Klee đã mặc khi tham gia diễn xuất trong vở kịch quan trọng. Màu sắc sặc sỡ, giống như một chiếc bánh kem được tô điểm bằng những bông hoa bằng kem cùng với nến màu đỏ rực, có thể đem đến niềm vui và nụ cười trên mọi nẻo đường mạo hiểm."
+    }
+  },
+  "SailwindShadow": {
+    "name": "Cánh Buồm Lướt Gió",
+    "description": {
+      "0": "Trang phục Kaeya đã mặc khi diễn vở \"Đạo Chích Dao Găm\", là bộ trang phục lộng lẫy được thiết kế với nguyên tắc \"thu hút ánh nhìn\". Việc mặc trang phục không phiền phức lắm, chỉ mất thời gian ở chỗ gắn trang sức và dao găm."
     }
   },
   "AdventurerCamp": {
@@ -22892,6 +23152,20 @@
     "name": "Ánh Sáng Kiên Định",
     "description": {
       "0": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ánh Sáng Kiên Định\".",
+      "1": "Sau khi dùng có thể đến giao diện chế tạo để xem."
+    }
+  },
+  "ShiningSpotlight": {
+    "name": "Tiêu Điểm Rực Rỡ",
+    "description": {
+      "0": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Tiêu Điểm Rực Rỡ\".",
+      "1": "Sau khi dùng có thể đến giao diện chế tạo để xem."
+    }
+  },
+  "GlowingAmusementParkCandyLamp": {
+    "name": "Ánh Đèn Hình Kẹo",
+    "description": {
+      "0": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ánh Đèn Hình Kẹo\".",
       "1": "Sau khi dùng có thể đến giao diện chế tạo để xem."
     }
   },
@@ -24918,6 +25192,34 @@
       "1": "Sau khi dùng có thể đến giao diện chế tạo để xem."
     }
   },
+  "ChooChooCartRestStop": {
+    "name": "Trạm Dừng Của Xe Bay",
+    "description": {
+      "0": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Trạm Dừng Của Xe Bay\".",
+      "1": "Sau khi dùng có thể đến giao diện chế tạo để xem."
+    }
+  },
+  "SampleAmusementParkEngineering": {
+    "name": "Mẫu Công Trình Của Công Viên",
+    "description": {
+      "0": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Mẫu Công Trình Của Công Viên\".",
+      "1": "Sau khi dùng có thể đến giao diện chế tạo để xem."
+    }
+  },
+  "SampleAmusementParkBuilding": {
+    "name": "Mẫu Kiến Trúc Của Công Viên",
+    "description": {
+      "0": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Mẫu Kiến Trúc Của Công Viên\".",
+      "1": "Sau khi dùng có thể đến giao diện chế tạo để xem."
+    }
+  },
+  "AmusementParkCelebrationTent": {
+    "name": "Lều Trại Công Viên Vui Vẻ",
+    "description": {
+      "0": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Lều Trại Công Viên Vui Vẻ\".",
+      "1": "Sau khi dùng có thể đến giao diện chế tạo để xem."
+    }
+  },
   "RitualShrine": {
     "name": "Đền Vĩnh Hằng",
     "description": {
@@ -26297,6 +26599,34 @@
       "1": "Sau khi dùng có thể đến giao diện chế tạo để xem."
     }
   },
+  "ScriptsRequirementsAndPrinciples": {
+    "name": "Kịch Bản: Yêu Cầu Và Nguyên Lý Thực Hiện",
+    "description": {
+      "0": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Kịch Bản: Yêu Cầu Và Nguyên Lý Thực Hiện\".",
+      "1": "Sau khi dùng có thể đến giao diện chế tạo để xem."
+    }
+  },
+  "VIPGuestBleachers": {
+    "name": "Hàng Ghế Của Khách Quý",
+    "description": {
+      "0": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Hàng Ghế Của Khách Quý\".",
+      "1": "Sau khi dùng có thể đến giao diện chế tạo để xem."
+    }
+  },
+  "HeyHaHooSlimeBoxTrio": {
+    "name": "Bộ Ba Slime HiHaHo",
+    "description": {
+      "0": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Bộ Ba Slime HiHaHo\".",
+      "1": "Sau khi dùng có thể đến giao diện chế tạo để xem."
+    }
+  },
+  "WindUpGreatOwlSpiritMechanism": {
+    "name": "Cơ Quan U Hồn Chim Cú Lớn",
+    "description": {
+      "0": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Cơ Quan U Hồn Chim Cú Lớn\".",
+      "1": "Sau khi dùng có thể đến giao diện chế tạo để xem."
+    }
+  },
   "PottedPlantVerdantVastness": {
     "name": "Chậu Cây Xanh - Xanh Ngắt Mát Mẻ",
     "description": {
@@ -26850,6 +27180,13 @@
       "1": "Sau khi dùng có thể đến giao diện chế tạo để xem."
     }
   },
+  "AmusementParkBroadcastTower": {
+    "name": "Đài Phát Thanh Công Viên",
+    "description": {
+      "0": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Đài Phát Thanh Công Viên\".",
+      "1": "Sau khi dùng có thể đến giao diện chế tạo để xem."
+    }
+  },
   "WroughtIronCarvedStreetLight": {
     "name": "Đèn Đường Khắc Hoa",
     "description": {
@@ -27092,6 +27429,13 @@
     "name": "Ghế Đoàn Kịch - Tập Hợp Niềm Vui",
     "description": {
       "0": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ghế Đoàn Kịch - Tập Hợp Niềm Vui\".",
+      "1": "Sau khi dùng có thể đến giao diện chế tạo để xem."
+    }
+  },
+  "DeadlineWhatDeadlineDirectorsChair": {
+    "name": "Ghế Ung Dung Mặc Kệ Deadline",
+    "description": {
+      "0": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ghế Ung Dung Mặc Kệ Deadline\".",
       "1": "Sau khi dùng có thể đến giao diện chế tạo để xem."
     }
   },

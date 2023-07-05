@@ -363,6 +363,20 @@
       "0": "You can obtain these coupons after participating in various events at the King of Invokations Grand Prix. During the event, you can exchange them for rewards."
     }
   },
+  "JoyeuxVoucher": {
+    "name": "Joyeux Voucher",
+    "description": {
+      "0": "Vouchers found inside Voucher Boxes throughout the Veluriyam Mirage. They are exquisitely made and come in vivid colors. Just gripping them in your hand seems to impart the joy of winning a reward.",
+      "1": "Can be used to unlock valuable rewards during the \"Secret Summer Paradise\" event."
+    }
+  },
+  "FascinatingPhenocryst": {
+    "name": "Fascinating Phenocryst",
+    "description": {
+      "0": "A crystal that radiates a magnificent luster. Looking upon it for a time will bring back fun memories of taking part in various games. With so many interesting sights to be seen within the Veluriyam Mirage, is it strange that such vast quantities of joy would crystallize into a pure gemstone?",
+      "1": "Can be used to unlock valuable rewards during the \"Secret Summer Paradise\" event."
+    }
+  },
   "Primogem": {
     "name": "Primogem",
     "description": {
@@ -9882,6 +9896,12 @@
       "0": "Fragment left by Khvarena. Carrier of past memories."
     }
   },
+  "VoucherBox": {
+    "name": "Voucher Box",
+    "description": {
+      "0": "Box that contains Joyeux Vouchers. They have a unique flower-like shape and can only be found in the Veluriyam Mirage. They are also important collectibles for guests who wish to win rewards. Using the Flowing Joyspar and Felicitous Joyspar seems to allow one to more effectively find them..."
+    }
+  },
   "Dish": {
     "name": "Dish",
     "description": {
@@ -16914,6 +16934,22 @@
       "0": "Beyond nation, beyond identity, united only by mettle and might."
     }
   },
+  "ScatteredYetWellPreservedPagesI": {
+    "name": "Scattered Yet Well-Preserved Pages (I)",
+    "description": {}
+  },
+  "ScatteredYetWellPreservedPagesII": {
+    "name": "Scattered Yet Well-Preserved Pages (II)",
+    "description": {}
+  },
+  "ScatteredYetWellPreservedPagesIII": {
+    "name": "Scattered Yet Well-Preserved Pages (III)",
+    "description": {}
+  },
+  "ScatteredYetWellPreservedPagesIV": {
+    "name": "Scattered Yet Well-Preserved Pages (IV)",
+    "description": {}
+  },
   "VentisNote": {
     "name": "Venti's Note",
     "description": {
@@ -17095,6 +17131,61 @@
       "0": "A drum score corresponding to Korybantes: Vedana."
     }
   },
+  "ReturningCuriosMementoI": {
+    "name": "\"Returning Curios\" Memento (I)",
+    "description": {
+      "0": "A memento discovered at a treasure site in the Veluriyam Mirage event, \"Returning Curios.\" The treasure chest that contains it corresponds to the first code — \"A sweet mist permeates all, gazing toward the dancing lamplight, I almost forget to breathe. In the end, memories of childhood guide me, and I take my seat beside the table in peace...\""
+    }
+  },
+  "ReturningCuriosMementoII": {
+    "name": "\"Returning Curios\" Memento (II)",
+    "description": {
+      "0": "A memento discovered at a treasure site in the Veluriyam Mirage event, \"Returning Curios.\" The treasure chest that contains it corresponds to the second code — \"A shooting star of vines carries me, traversing a forest so quiet and peaceful, to finally arrive in secluded dreamland so pure.\""
+    }
+  },
+  "ReturningCuriosMementoIII": {
+    "name": "\"Returning Curios\" Memento (III)",
+    "description": {
+      "0": "A memento discovered at a treasure site in the Veluriyam Mirage event, \"Returning Curios.\" The treasure chest that contains it corresponds to the third code — \"A blue, spotless ceiling, a floor of white candy, soft companions surround me, I too have wings!\""
+    }
+  },
+  "MementoCollectionBox": {
+    "name": "Memento Collection Box",
+    "description": {
+      "0": "A special box you got from Idyia that is used to contain \"Returning Curios\" mementos. It is said that it can protect the items within for a long time. With this box, you can pick a special memento and treasure site to leave your very own mark on the Veluriyam Mirage..."
+    }
+  },
+  "MysteriousMoraPocketwatch": {
+    "name": "Mysterious Mora Pocketwatch",
+    "description": {
+      "0": "A Mora-shaped (and Mora-shiny) pocketwatch you accidentally found in the Veluriyam Mirage. This one bears a strong resemblance to a Mora pocketwatch left behind by a seasoned adventurer in the earliest days of \"Returning Curios.\" One wonders how much it is worth.",
+      "1": "However, Idyia also says that \"it's not about the value of the treasure or the watch, but the stories hidden inside the treasures!\" Perhaps using monetary value as the measure of this memento is not the most fitting..."
+    }
+  },
+  "MuralFragmentSwirlingClouds": {
+    "name": "Mural Fragment: Swirling Clouds",
+    "description": {
+      "0": "A Preprint fragment found within a mysterious cave that depicts the clouds floating in the Veluriyam Mirage. It seems that a projection at the correct angle from the Streaming Projector can restore a missing part of the mural..."
+    }
+  },
+  "MuralFragmentCentralHub": {
+    "name": "Mural Fragment: Central Hub",
+    "description": {
+      "0": "A Preprint fragment found within a mysterious cave that depicts the huge structure at the center of the Veluriyam Mirage. It seems that a projection at the correct angle from the Streaming Projector can restore a missing part of the mural..."
+    }
+  },
+  "MuralFragmentSkyKeep": {
+    "name": "Mural Fragment: Sky Keep",
+    "description": {
+      "0": "A Preprint fragment found within a mysterious cave that depicts a city floating in the sky. It seems that a projection at the correct angle from the Streaming Projector can restore a missing part of the mural..."
+    }
+  },
+  "MuralFragmentFlowerOfTheValley": {
+    "name": "Mural Fragment: Flower of the Valley",
+    "description": {
+      "0": "A Preprint fragment found within a mysterious cave that depicts the huge flowers visible from a Choo-Choo Cart entering the valley. It seems that a projection at the correct angle from the Streaming Projector can restore a missing part of the mural..."
+    }
+  },
   "JuliensDrawingBoard": {
     "name": "Julien's Drawing Board",
     "description": {
@@ -17112,6 +17203,30 @@
     "description": {
       "0": "An exquisite gift offered by Haniyyah. It contains Marvelous Jellies much loved by the Fungi, and the Jellies themselves come in many unique flavors that can be fed to the Fungi based on their individual preferences.",
       "1": "The Marvelous Jellies are a refined version of the Floral Jellies that preceded them and retain their crystalline translucence and springy texture, sans the dangerous ingredients, thus making them the ideal feed for Fungi. That said, one should probably take care that the children don't eat it by mistake when storing it at home..."
+    }
+  },
+  "OldGear": {
+    "name": "Old Gear",
+    "description": {
+      "0": "It seems to be a part of a huge machine, but this lone gear that fell out may not be of any use. However, if the way to make it turn again is found, then perhaps the answers to some questions may in turn be discovered."
+    }
+  },
+  "MountaineeringRope": {
+    "name": "Mountaineering Rope",
+    "description": {
+      "0": "Mountaineering rope favored by adventurers. It's a bit old but well-maintained, so it can still be used as per normal. This rope was left here as a gift. Perhaps it is not just ropes that a person relies on when scaling great heights, but friendly hands that reach out to you."
+    }
+  },
+  "FamiliarLookingCandyBox": {
+    "name": "Familiar-Looking Candy Box",
+    "description": {
+      "0": "A candy box that is often used in various celebrations in Sumeru. When the girl who would become a researcher was still young, she used to take one candy a day from the box. Back in those days, her biggest worry was that the candy would run out. After becoming a researcher, this empty candy box has become a nostalgic reminder of other possibilities in life. This candy box was left here as a gift. To the researcher, this is also a symbol of freedom from misery."
+    }
+  },
+  "TravelLamp": {
+    "name": "Travel Lamp",
+    "description": {
+      "0": "A lamp that the boy often used when studying at night. The flame can be adjusted via a mechanism in the lamp, and this was perhaps quite magical to a child who had never seen such a lamp before. Every time he saw the light from this lamp, he will think of the old days when he played various hand shadow characters and animals. This lamp was left here as a gift. Maybe this is a way for him to let go of his burden and move on."
     }
   },
   "BoxOfSpecialPotions": {
@@ -17148,6 +17263,26 @@
     "name": "King of Invokations",
     "description": {
       "0": "A light novel centered around the most popular card game in Teyvat — Genius Invokation TCG. The characters are unique and the story is exciting and full of twists, making it one of the hottest new works around."
+    }
+  },
+  "KeyToTheCastlesSecretChamber": {
+    "name": "Key to the Castle's Secret Chamber",
+    "description": {
+      "0": "An item that is key to the \"Petrifying Gaze\" scenario in Daiya's Three-Day Reverie, which can be used to open a secret chamber that conceals an ancient medicine. Its outer appearance is not much different from that of ordinary keys."
+    }
+  },
+  "AncientHexCleansingRemedy": {
+    "name": "Ancient Hex-Cleansing Remedy",
+    "description": {
+      "0": "An item that is key to the \"Petrifying Gaze\" scenario in Daiya's Three-Day Reverie.",
+      "1": "According to the Lone Hydro Eidolon, such remedies have the power to cleanse Wraith-cast hexes and restore petrified Hydro Eidolons to their original states.",
+      "2": "However, the outward appearance of the remedy indicates the use of a very common alchemy vessel. Is this narrative setting related to alchemy, or is the theater troupe just cutting costs...?"
+    }
+  },
+  "TheGreatEscapePropBook": {
+    "name": "\"The Great Escape\" Prop Book",
+    "description": {
+      "0": "A prop book that has been hollowed out and had digging tools put into it. Of course, as a stage prop, its other pages have long been stuck together. But then again, the \"content\" of a book is sometimes more important than its... content."
     }
   },
   "NamelessAdventurersNotes": {
@@ -17208,6 +17343,18 @@
     "name": "Emberglow Leaf",
     "description": {
       "0": "A leaf that you got from Nahida. It can be used to contact the Aranara. If you use it like a whistle, an Aranara will answer the call. The Aranara will only come because they trust Nahida. In other words, you can't just blow on any leaf you find and expect an answer."
+    }
+  },
+  "SadifesMarkedMap": {
+    "name": "Sadife's Marked Map",
+    "description": {
+      "0": "A map marked by Sadife. Perhaps the case is somewhere close by..."
+    }
+  },
+  "SadifesCase": {
+    "name": "Sadife's Case",
+    "description": {
+      "0": "Sadife's case. It's stuffed to the brim and quite heavy."
     }
   },
   "AkademiyaInvestigationTeamsLogsI": {
@@ -17310,6 +17457,32 @@
     "name": "Khvarena Monument Inscription",
     "description": {
       "0": "Khvarena Monument Inscription"
+    }
+  },
+  "BeautifullyWrappedGiftBox": {
+    "name": "Beautifully-Wrapped Gift Box",
+    "description": {
+      "0": "A gift in a beautiful gift box. According to Kaeya, it contains an exquisite lamp. It might be best to wait till you come back from vacation with Kaeya to open up his gift and admire it."
+    }
+  },
+  "RipeGrapes": {
+    "name": "Ripe Grapes",
+    "description": {
+      "0": "Grapes you picked with utmost care under Tunner's guidance. In time, they can be turned into rich wine."
+    }
+  },
+  "PrinceQubadsIntaglio": {
+    "name": "Prince Qubad's Intaglio",
+    "description": {
+      "0": "An Intaglio that symbolizes the noble origins of Prince Qubad in the play. It should have been strung on a beaded chain and worn on the prince's chest, but a fated tragedy made the prince abandon it.",
+      "1": "The blood-red jewel is a crystallization of the question Kaeya asked you — that age-old question about destiny.",
+      "2": "There is no need to rush to answer. In the future, use what you see, touch, and feel to prove the answer within your soul."
+    }
+  },
+  "AbsolutionSeekersTestament": {
+    "name": "Absolution-Seeker's Testament",
+    "description": {
+      "0": "A letter you found in the Veluriyam Mirage. It is neatly folded and yellowed. It seems to be an object that someone left in the Domain long ago."
     }
   },
   "SilkFlowerSeed": {
@@ -18264,67 +18437,67 @@
   "RadiantSpincrystal88": {
     "name": "Radiant Spincrystal 88",
     "description": {
-      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Kingdom of Dust.\""
     }
   },
   "RadiantSpincrystal89": {
     "name": "Radiant Spincrystal 89",
     "description": {
-      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Gold Cup of Oases.\""
     }
   },
   "RadiantSpincrystal90": {
     "name": "Radiant Spincrystal 90",
     "description": {
-      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Where She Will Return.\""
     }
   },
   "RadiantSpincrystal91": {
     "name": "Radiant Spincrystal 91",
     "description": {
-      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Desert Lullaby.\""
     }
   },
   "RadiantSpincrystal92": {
     "name": "Radiant Spincrystal 92",
     "description": {
-      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Once-Joyful Dream.\""
     }
   },
   "RadiantSpincrystal93": {
     "name": "Radiant Spincrystal 93",
     "description": {
-      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Her Wishes.\""
     }
   },
   "RadiantSpincrystal94": {
     "name": "Radiant Spincrystal 94",
     "description": {
-      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"A Pearl Amongst Legends.\""
     }
   },
   "RadiantSpincrystal95": {
     "name": "Radiant Spincrystal 95",
     "description": {
-      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Maidens of Sanctity.\""
     }
   },
   "RadiantSpincrystal96": {
     "name": "Radiant Spincrystal 96",
     "description": {
-      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Simurgh's Dream.\""
     }
   },
   "RadiantSpincrystal97": {
     "name": "Radiant Spincrystal 97",
     "description": {
-      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Where Simurgh Rests.\""
     }
   },
   "RadiantSpincrystal98": {
     "name": "Radiant Spincrystal 98",
     "description": {
-      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is a mysterious melody from Sumeru."
+      "0": "This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either \"Euphonium Unbound: Winding\" or \"Euphonium Unbound: Soaring.\" The tune contained within this Radiant Spincrystal is \"Sorush's Purity.\""
     }
   },
   "FragrantSteak": {
@@ -19573,7 +19746,7 @@
     "name": "Shenhe: Comb",
     "description": {
       "0": "Namecard style.",
-      "1": "The early onset of white hair is often correlated to one's sorrows. Since \"comb\" and \"scatter\" are similarly read in Liyue's language, they believe that combing one's hair is the same as scattering one's misfortunes"
+      "1": "The early onset of white hair is often correlated to one's sorrows. Since \"comb\" and \"scatter\" are similarly read in Liyue's language, they believe that combing one's hair is the same as scattering one's misfortunes."
     }
   },
   "YunJinRhyme": {
@@ -19966,6 +20139,13 @@
     "description": {
       "0": "Namecard style.",
       "1": "Never forget the time you once spent with games and good friends. Never forget what it feels like to have no worries about the future."
+    }
+  },
+  "TravelNotesVividIllumination": {
+    "name": "Travel Notes: Vivid Illumination",
+    "description": {
+      "0": "Namecard style",
+      "1": "Who knows? Perhaps the phantasmal light that only exists on the other side of this transparent glass can ever so slightly brighten up the world on this one."
     }
   },
   "AnemoculusResonanceStone": {
@@ -20455,6 +20635,26 @@
     "name": "Search Compass",
     "description": {
       "0": "A \"Search Compass\" made to find relic replicas. As this device was adapted from one used to survey elemental energies, the localized elements present might disrupt its attempts to scan for those replicas..."
+    }
+  },
+  "FlowingJoyspar": {
+    "name": "Flowing Joyspar",
+    "description": {
+      "0": "A marvelous crystal with spots of radiance that seems to be able to sense joyous emotions in a certain radius around it and lead people in the corresponding direction.",
+      "1": "Use this to find Joyeux Vouchers in a set AoE."
+    }
+  },
+  "FelicitousJoyspar": {
+    "name": "Felicitous Joyspar",
+    "description": {
+      "0": "A marvelous crystal within which radiance flows like a river. It seems to be able to sense joyous emotions in a vast area and lead people in the corresponding direction.",
+      "1": "Use this to find all Joyeux Vouchers within the Veluriyam Mirage."
+    }
+  },
+  "InscribedMirror": {
+    "name": "Inscribed Mirror",
+    "description": {
+      "0": "A mirror-type gadget made by the Amurta researcher Lamiya. It can be linked to the animals' devices, which will reflect the animals' points of view in the mirror."
     }
   },
   "InstructionsAnemoculusResonanceStone": {
@@ -21124,6 +21324,24 @@
       "0": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
     }
   },
+  "TheOverflow": {
+    "name": "The Overflow",
+    "description": {
+      "0": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+    }
+  },
+  "RightOfFinalInterpretation": {
+    "name": "Right of Final Interpretation",
+    "description": {
+      "0": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+    }
+  },
+  "PoeticsOfFuubutsu": {
+    "name": "Poetics of Fuubutsu",
+    "description": {
+      "0": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+    }
+  },
   "MagicGuide": {
     "name": "Magic Guide",
     "description": {
@@ -21436,6 +21654,12 @@
       "0": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
     }
   },
+  "FruitOfFulfillment": {
+    "name": "Fruit of Fulfillment",
+    "description": {
+      "0": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+    }
+  },
   "LiyueHarborWharf": {
     "name": "Liyue Harbor Wharf",
     "description": {
@@ -21612,6 +21836,12 @@
   },
   "Rana": {
     "name": "Rana",
+    "description": {
+      "0": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+    }
+  },
+  "MasterZhang": {
+    "name": "Master Zhang",
     "description": {
       "0": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
     }
@@ -21844,6 +22074,24 @@
       "0": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
     }
   },
+  "AncientCourtyard": {
+    "name": "Ancient Courtyard",
+    "description": {
+      "0": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+    }
+  },
+  "CovenantOfRock": {
+    "name": "Covenant of Rock",
+    "description": {
+      "0": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+    }
+  },
+  "RhythmOfTheGreatDream": {
+    "name": "Rhythm of the Great Dream",
+    "description": {
+      "0": "A card for the tabletop game, Genius Invokation TCG. It is built tough, and some special printing method has been used for the illustration on the card's face, resulting in a truly exquisite appearance."
+    }
+  },
   "Origin": {
     "name": "Origin",
     "description": {
@@ -22008,6 +22256,18 @@
     "name": "A Sobriquet Under Shade",
     "description": {
       "0": "An outfit Lisa had someone commission for her when she revisited Sumeru. A perfect balance between practicality and elegance, the dress bears a resemblance to Lisa's old uniform from the Akademiya days."
+    }
+  },
+  "BlossomingStarlight": {
+    "name": "Blossoming Starlight",
+    "description": {
+      "0": "An exquisite outfit Klee wears only for the most important performances. The colors are brilliant, like a cake adorned with cream flowers and crowned with scarlet candles. With it comes happiness and smiles that will fill your adventures."
+    }
+  },
+  "SailwindShadow": {
+    "name": "Sailwind Shadow",
+    "description": {
+      "0": "Kaeya's outfit from his role as the \"Dagger Bandit\" in the play. Though flamboyant and designed to be as eye-catching as possible, it isn't difficult to put on, though it does take some time to get all the accessories and daggers sorted."
     }
   },
   "AdventurerCamp": {
@@ -22914,6 +23174,20 @@
     "name": "\"Light's Constancy\"",
     "description": {
       "0": "A detailed step-by-step blueprint for making \"Light's Constancy.\"",
+      "1": "After using this item, you can view it in the Creation Screen."
+    }
+  },
+  "ShiningSpotlight": {
+    "name": "Shining Spotlight",
+    "description": {
+      "0": "A detailed step-by-step blueprint for making a Shining Spotlight.",
+      "1": "After using this item, you can view it in the Creation Screen."
+    }
+  },
+  "GlowingAmusementParkCandyLamp": {
+    "name": "Glowing Amusement Park Candy Lamp",
+    "description": {
+      "0": "A detailed step-by-step blueprint for making Glowing Amusement Park Candy Lamp.",
       "1": "After using this item, you can view it in the Creation Screen."
     }
   },
@@ -24940,6 +25214,34 @@
       "1": "After using this item, you can view it in the Creation Screen."
     }
   },
+  "ChooChooCartRestStop": {
+    "name": "Choo-Choo Cart Rest Stop",
+    "description": {
+      "0": "A detailed step-by-step blueprint for making a Choo-Choo Cart Rest Stop.",
+      "1": "After using this item, you can view it in the Creation Screen."
+    }
+  },
+  "SampleAmusementParkEngineering": {
+    "name": "Sample Amusement Park \"Engineering\"",
+    "description": {
+      "0": "A detailed step-by-step blueprint for making Sample Amusement Park \"Engineering.\"",
+      "1": "After using this item, you can view it in the Creation Screen."
+    }
+  },
+  "SampleAmusementParkBuilding": {
+    "name": "Sample Amusement Park \"Building\"",
+    "description": {
+      "0": "A detailed step-by-step blueprint for making a Sample Amusement Park \"Building.\"",
+      "1": "After using this item, you can view it in the Creation Screen."
+    }
+  },
+  "AmusementParkCelebrationTent": {
+    "name": "Amusement Park Celebration Tent",
+    "description": {
+      "0": "A detailed step-by-step blueprint for making an Amusement Park Celebration Tent.",
+      "1": "After using this item, you can view it in the Creation Screen."
+    }
+  },
   "RitualShrine": {
     "name": "Ritual Shrine",
     "description": {
@@ -26319,6 +26621,34 @@
       "1": "After using this item, you can view it in the Creation Screen."
     }
   },
+  "ScriptsRequirementsAndPrinciples": {
+    "name": "Scripts: Requirements and Principles",
+    "description": {
+      "0": "A detailed step-by-step blueprint for making Scripts: Requirements and Principles.",
+      "1": "After using this item, you can view it in the Creation Screen."
+    }
+  },
+  "VIPGuestBleachers": {
+    "name": "VIP Guest Bleachers",
+    "description": {
+      "0": "A detailed step-by-step blueprint for making VIP Guest Bleachers.",
+      "1": "After using this item, you can view it in the Creation Screen."
+    }
+  },
+  "HeyHaHooSlimeBoxTrio": {
+    "name": "Hey-Ha-Hoo Slime Box Trio",
+    "description": {
+      "0": "A detailed step-by-step blueprint for making a Hey-Ha-Hoo Slime Box Trio.",
+      "1": "After using this item, you can view it in the Creation Screen."
+    }
+  },
+  "WindUpGreatOwlSpiritMechanism": {
+    "name": "Wind-Up Great Owl Spirit Mechanism",
+    "description": {
+      "0": "A detailed step-by-step blueprint for making a Wind-Up Great Owl Spirit Mechanism.",
+      "1": "After using this item, you can view it in the Creation Screen."
+    }
+  },
   "PottedPlantVerdantVastness": {
     "name": "Potted Plant: Verdant Vastness",
     "description": {
@@ -26872,6 +27202,13 @@
       "1": "After using this item, you can view it in the Creation Screen."
     }
   },
+  "AmusementParkBroadcastTower": {
+    "name": "Amusement Park Broadcast Tower",
+    "description": {
+      "0": "A detailed step-by-step blueprint for making an Amusement Park Broadcast Tower.",
+      "1": "After using this item, you can view it in the Creation Screen."
+    }
+  },
   "WroughtIronCarvedStreetLight": {
     "name": "Wrought Iron Carved Street Light",
     "description": {
@@ -27114,6 +27451,13 @@
     "name": "Pear Orchard Seat: Gathered in Joy",
     "description": {
       "0": "A detailed step-by-step blueprint for making a Pear Orchard Seat: Gathered in Joy.",
+      "1": "After using this item, you can view it in the Creation Screen."
+    }
+  },
+  "DeadlineWhatDeadlineDirectorsChair": {
+    "name": "\"Deadline? What Deadline?\" Director's Chair",
+    "description": {
+      "0": "A detailed step-by-step blueprint for making a \"Deadline? What Deadline?\" Director's Chair.",
       "1": "After using this item, you can view it in the Creation Screen."
     }
   },

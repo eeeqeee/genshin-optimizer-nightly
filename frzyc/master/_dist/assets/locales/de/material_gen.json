@@ -363,6 +363,20 @@
       "0": "Schein, den man bei den verschiedenen Aktionen der „Ass-Beschwörer-Meisterschaft“ gewinnen kann. Tausche die Scheine während des Aktionszeitraums beim Aktionshändler gegen verschiedene Belohnungen ein."
     }
   },
+  "JoyeuxVoucher": {
+    "name": "Glücklicher Gutschein",
+    "description": {
+      "0": "Aus überall in der „Veluriyam-Mirage“ verstreuten „Gutscheinkisten“ geborgener Gutschein. Wunderschön gestaltet und farbenfroh. Man spürt förmlich die Freude über den Gewinn eines Preises, wenn man ihn in den Händen hält.",
+      "1": "Du kannst hiermit während der Aktion „Sommer! Paradies? Mirage!“ wertvolle Belohnungen freischalten."
+    }
+  },
+  "FascinatingPhenocryst": {
+    "name": "Faszinierender Phänokristall",
+    "description": {
+      "0": "Dieser Kristall strahlt einen herrlichen Glanz aus. Bei längerem Betrachten scheint einen die Erinnerung an das Vergnügen der Teilnahme an verschiedenen Attraktionen zu erfüllen. Die „Veluriyam-Mirage“ kann mit so manch seltsamen Phänomen aufwarten. Da ist es auch kein Wunder, dass all die Freude und der Spaß sich in eben jener kristallinen Form materialisieren.",
+      "1": "Du kannst hiermit während der Aktion „Sommer! Paradies? Mirage!“ wertvolle Belohnungen freischalten."
+    }
+  },
   "Primogem": {
     "name": "Urgestein",
     "description": {
@@ -698,7 +712,7 @@
   "Diona": {
     "name": "Diona",
     "description": {
-      "0": "Eine junge Frau, die nicht-menschliches Blut in sich trägt. Zudem ist sie die äußerst beliebte Wirtin der Taverne „Zum Katzenschwanz“."
+      "0": "Ein Mädchen, das nicht-menschliches Blut in sich trägt. Zudem ist sie die äußerst beliebte Wirtin der Taverne „Zum Katzenschwanz“."
     }
   },
   "Mona": {
@@ -9810,6 +9824,12 @@
       "0": "Bruchstücke geronnener Erinnerungen, zurückgelassen von unzähligen Khvarena."
     }
   },
+  "VoucherBox": {
+    "name": "Gutscheinkiste",
+    "description": {
+      "0": "Diese eigentümlich blumenförmige Kiste zur Aufbewahrung von „Glücklichen Gutscheinen“ ist eine der Besonderheiten der „Veluriyam-Mirage“ und stellt ein wichtiges Sammelobjekt dar, mit dem die Besucher Belohnungen gewinnen können. Es scheint um einiges leichter zu sein, sie mit dem „Kristall überschwänglicher Freude“ und dem „Kristall unbeschwerter Freude“ zu finden ..."
+    }
+  },
   "Dish": {
     "name": "Gerichte",
     "description": {
@@ -16826,6 +16846,22 @@
       "0": "Egal wo du herkommst, egal wer du bist, gewinne durch den Kampf Freunde, zeig dein Kämpferherz."
     }
   },
+  "ScatteredYetWellPreservedPagesI": {
+    "name": "Verstreute, aber doch gut erhaltene Tagebuchseiten I",
+    "description": {}
+  },
+  "ScatteredYetWellPreservedPagesII": {
+    "name": "Verstreute, aber doch gut erhaltene Tagebuchseiten II",
+    "description": {}
+  },
+  "ScatteredYetWellPreservedPagesIII": {
+    "name": "Verstreute, aber doch gut erhaltene Tagebuchseiten III",
+    "description": {}
+  },
+  "ScatteredYetWellPreservedPagesIV": {
+    "name": "Verstreute, aber doch gut erhaltene Tagebuchseiten IV",
+    "description": {}
+  },
   "VentisNote": {
     "name": "Zettel von Venti",
     "description": {
@@ -17007,6 +17043,61 @@
       "0": "Eine Trommelpartitur, die Korybantes – Vedana entspricht."
     }
   },
+  "ReturningCuriosMementoI": {
+    "name": "Andenken von „Rückkehr der tausend Wunder“ I",
+    "description": {
+      "0": "Ein aus der Schatzzone der klassischen Attraktion „Rückkehr der tausend Wunder“ der „Veluriyam-Mirage“ ausgegrabenes Andenken. Der Schatz, der dieses Andenken enthält, entspricht dem ersten Rätsel: „Ein süßer Nebel erfüllte die Luft und beim Anblick des Lampenscheins vergaß ich fast zu atmen. Am Ende haben mich die Erinnerungen meiner Kindheit an diesen friedvollen Tisch geführt ...“"
+    }
+  },
+  "ReturningCuriosMementoII": {
+    "name": "Andenken von „Rückkehr der tausend Wunder“ II",
+    "description": {
+      "0": "Ein aus der Schatzzone der klassischen Attraktion „Rückkehr der tausend Wunder“ der „Veluriyam-Mirage“ ausgegrabenes Andenken. Der Schatz, der dieses Andenken enthält, entspricht dem zweiten Rätsel: „Der fliegende Stern der Ranke trug mich durch die stillen Wälder und schließlich in den ruhigen Schlaf ...“"
+    }
+  },
+  "ReturningCuriosMementoIII": {
+    "name": "Andenken von „Rückkehr der tausend Wunder“ III",
+    "description": {
+      "0": "Ein aus der Schatzzone der klassischen Attraktion „Rückkehr der tausend Wunder“ der „Veluriyam-Mirage“ ausgegrabenes Andenken. Der Schatz, der dieses Andenken enthält, entspricht dem dritten Rätsel: „Das blaue Dach ist kein bisschen staubig, der Boden ist wie ein weißes Bonbon. Mit den weichen, netten Freunden an der Seite habe auch ich die Flügel zum Fliegen!“"
+    }
+  },
+  "MementoCollectionBox": {
+    "name": "„Andenken“-Sammelkiste",
+    "description": {
+      "0": "Eine spezielle Kiste, die du von Idyia erhalten hast. Sie ist essenziell, um die Andenken von „Rückkehr der tausend Wunder“ aufzubewahren. Es heißt, dass die darin enthaltenen Gegenstände auch für längere Zeit sicher und geschützt sind. Wähle mit dieser Kiste in deinem Besitz ein besonderes „Andenken“ und den dafür geeigneten Ort zum Verstecken aus, um der „Veluriyam-Mirage“ deinen ganz persönlichen Stempel aufzudrücken ..."
+    }
+  },
+  "MysteriousMoraPocketwatch": {
+    "name": "Mysteriöse Mora-Taschenuhr",
+    "description": {
+      "0": "Eine zufällig in der „Veluriyam-Mirage“ entdeckte Taschenuhr. Erinnert mit ihrer goldenen Farbe und ihrem moraähnlichen Gehäusemuster frappierend an die Mora-Taschenuhr aus Idyias Erzählung, die ein altgedienter Abenteurer zu Beginn des Projekts „Rückkehr der tausend Wunder“ zurückgelassen haben soll. Keine Ahnung, ob sie was wert ist.",
+      "1": "Allerdings meinte Idyia auch: „Es ist nicht der Wert der Uhren oder des Schatzes, der zählt, sondern die Geschichte, die sich dahinter verbirgt.“ Vielleicht sollten wir den Wert dieser uralten „Andenken“ nicht in Geld bemessen ..."
+    }
+  },
+  "MuralFragmentSwirlingClouds": {
+    "name": "Gemäldefragment – Wolkenwirbel",
+    "description": {
+      "0": "Ein in einer mystischen Höhle gefundenes Fragment eines „vorgefertigten Gemäldes“. Es stellt die Wolken in der „Veluriyam-Mirage“ dar. Richte den „Bündellichtwerfer“ richtig aus und beleuchte das Fragment, um einen fehlenden Bereich von dem Gemälde wiederherzustellen ..."
+    }
+  },
+  "MuralFragmentCentralHub": {
+    "name": "Gemäldefragment – Kern-Nabe",
+    "description": {
+      "0": "Ein in einer mystischen Höhle gefundenes Fragment eines „vorgefertigten Gemäldes“. Es stellt eine riesige Struktur im Zentrum der „Veluriyam-Mirage“ dar. Richte den „Bündellichtwerfer“ richtig aus und beleuchte das Fragment, um einen fehlenden Bereich von dem Gemälde wiederherzustellen ..."
+    }
+  },
+  "MuralFragmentSkyKeep": {
+    "name": "Gemäldefragment – Himmelsstadt",
+    "description": {
+      "0": "Ein in einer mystischen Höhle gefundenes Fragment eines „vorgefertigten Gemäldes“. Es stellt eine Stadt hoch oben im Himmel dar. Richte den „Bündellichtwerfer“ richtig aus und beleuchte das Fragment, um einen fehlenden Bereich von dem Gemälde wiederherzustellen ..."
+    }
+  },
+  "MuralFragmentFlowerOfTheValley": {
+    "name": "Gemäldefragment – Talblumen",
+    "description": {
+      "0": "Ein in einer mystischen Höhle gefundenes Fragment eines „vorgefertigten Gemäldes“. Es stellt die riesigen Blumen dar, die man vom „Tschu-Tschu-Express“ aus sehen kann, wenn man in das Tal einfährt. Richte den „Bündellichtwerfer“ richtig aus und beleuchte das Fragment, um einen fehlenden Bereich von dem Gemälde wiederherzustellen ..."
+    }
+  },
   "JuliensDrawingBoard": {
     "name": "Juliens Zeichenbrett",
     "description": {
@@ -17024,6 +17115,30 @@
     "description": {
       "0": "Ein exquisites Geschenkpaket von Haniyyah. Es enthält „Wundergelees“ in den Lieblingssorten der Pilzbestien. Die verschiedenen Geschmacksrichtungen können je nach Vorliebe der einzelnen Pilbestien gefüttert werden.",
       "1": "„Wundergelee“ basiert auf „Blumengelee“ und behält dessen kristallklare, elastische Textur bei. Alle gefährlichen Inhaltsstoffe wurden entfernt, was es zum idealen Futtermittel für Pilzbestien macht. Allerdings ... sollte man es zu Hause wohl auch besonders sorgfältig verstauen, um zu verhindern, dass es versehentlich in die Hände gefräßiger Kinder gerät."
+    }
+  },
+  "OldGear": {
+    "name": "Uraltes Zahnrad",
+    "description": {
+      "0": "Scheint zu einer gewaltigen Maschine zu gehören, aber herausgefallene Zahnräder alleine werden dir wohl nicht viel nutzen. Wenn sich jedoch die Möglichkeit eröffnen sollte, dieses Zahnrad in Gang setzen zu können, dürfte vielleicht so manche Frage beantwortet werden."
+    }
+  },
+  "MountaineeringRope": {
+    "name": "Kletterseil",
+    "description": {
+      "0": "Ein Kletterseil, das häufig von Abenteurern genutzt wird. Obwohl es schon etwas älter ist, wurde es offensichtlich mit großer Sorgfalt gepflegt, sodass es auch weiterhin problemlos benutzt werden kann. Dieses Seil wurde schließlich als Geschenk hier zurückgelassen. Vielleicht sind es ja nicht nur die Seile, auf die man sich beim Erstürmen des Gipfels verlassen kann, sondern auch die Hände von Familie und Freunden, die einem gereicht werden."
+    }
+  },
+  "FamiliarLookingCandyBox": {
+    "name": "Vertraute Bonbonschachtel",
+    "description": {
+      "0": "Eine Süßigkeitenschachtel, die oft bei verschiedenen Feierlichkeiten in Sumeru zum Einsatz kommt. Als Kind nahm sich ein Mädchen, das längst noch nicht zur Gelehrten herangewachsen war, jeden Tag eine süße Leckerei daraus und aß sie. Ihre größte Angst zu jener Zeit war es wohl, einmal alle darin befindlichen Süßigkeiten aufgegessen zu haben. Nun ist sie zur Gelehrten geworden und diese mittlerweile leere Bonbonschachtel wurde zu einem Erinnerungsstück an eine andere Möglichkeit im Leben. Schließlich wurde sie dann als Geschenk hier hinterlassen; für die Gelehrte ist dies auch ein Symbol für die Befreiung von einer Art lang anhaltendem Leiden."
+    }
+  },
+  "TravelLamp": {
+    "name": "Reiselicht",
+    "description": {
+      "0": "Eine Lampe, die gern von dem jungen Mann beim nächtlichen Lesen benutzt wurde. Die Größe der Flamme in der Lampe lässt sich mittels eines kleinen Mechanismus regulieren; Kindern, denen diese Art Lampe fremd ist, mag dies wie Magie erscheinen. Jedes Mal, wenn er das Licht dieser Lampe erblickt, erinnert er sich daran, wie er einst mithilfe seiner Hände im Licht der Öllampe die Silhouetten verschiedener Figuren und Tiere nachgeahmt hat. Letztendlich wurde diese Lampe hier als Geschenk zurückgelassen. Vielleicht war es für ihn auch eine Möglichkeit, sich einer Last zu entledigen und weiterzuziehen."
     }
   },
   "BoxOfSpecialPotions": {
@@ -17060,6 +17175,26 @@
     "name": "„Ass-Beschwörer“",
     "description": {
       "0": "Eine kurze Erzählung, die sich um das in Teyvat beliebte Kartenspiel „Geniale Beschwörung“ dreht. Die Figuren sind einzigartig und kreativ, und die Geschichte wartet mit spannenden Wendungen auf, was sie zu einem echten Hit macht."
+    }
+  },
+  "KeyToTheCastlesSecretChamber": {
+    "name": "Schlüssel zur Geheimkammer des Schlosses",
+    "description": {
+      "0": "Ein Schlüsselgegenstand zum Stück „Der Zauber zum Versteinern in der Pupille“ in „Daiyas drei Tage der Träumerei“. Mann kann hiermit den Zugang zur Geheimkammer, in der sich der uralte Trank befindet, öffnen. Rein äußerlich scheint der Gegenstand sich kaum von einem gewöhnlichen Schlüssel zu unterscheiden."
+    }
+  },
+  "AncientHexCleansingRemedy": {
+    "name": "Uralter Heiltrank",
+    "description": {
+      "0": "Ein Schlüsselgegenstand zum Stück „Der Zauber zum Versteinern in der Pupille“ in „Daiyas drei Tage der Träumerei“.",
+      "1": "Laut dem „alleingelassenen Wassergeist“ hat dieser Trank die Macht, den Fluch der Geister zu brechen und die versteinerten „Wassergeister“ wieder in ihren ursprünglichen Zustand zurückzuversetzen ...",
+      "2": "Wenn man sich das Äußere dieses Trankes so ansieht, scheint es, als ob ein ganz gewöhnliches alchemisches Gefäß verwendet wird. Keine Ahnung, ob der Hintergrund des Tranks etwas mit Alchemie zu tun haben soll, oder ob hier einfach nur Geld gespart wird ..."
+    }
+  },
+  "TheGreatEscapePropBook": {
+    "name": "Buchrequisite im Stück „Die Verzweifelten“",
+    "description": {
+      "0": "Eine Buchrequisite, dessen Mittelteil ausgehöhlt ist und in dem sich ein Grabungswerkzeug befindet. Natürlich handelt es sich um eine Bühnenrequisite, und die restlichen Seiten wurden bereits vorher zusammengeklebt. Der Inhalt des Buches ist also unleserlich."
     }
   },
   "NamelessAdventurersNotes": {
@@ -17120,6 +17255,18 @@
     "name": "Glimmerblatt",
     "description": {
       "0": "Ein Blatt von Nahida, mit dem man die Aranara kontaktieren kann. Man muss es wie eine Pfeife blasen und schon antwortet ein Aranara. Dass er auf so einen Ruf reagiert, beruht auf dem Vertrauen, das die Aranara in Nahida haben. Es würde also nichts nützen, einfach auf irgendwelchen Blättern herumzupfeifen."
+    }
+  },
+  "SadifesMarkedMap": {
+    "name": "Sadifes markierte Karte",
+    "description": {
+      "0": "Eine von Sadife markierte Karte. Vielleicht ist diese Truhe ja ganz in der Nähe ..."
+    }
+  },
+  "SadifesCase": {
+    "name": "Sadifes Truhe",
+    "description": {
+      "0": "Sadifes Truhe. Randvoll und zentnerschwer."
     }
   },
   "AkademiyaInvestigationTeamsLogsI": {
@@ -17222,6 +17369,32 @@
     "name": "Khvarena-Steininschrift",
     "description": {
       "0": "Khvarena-Steininschrift"
+    }
+  },
+  "BeautifullyWrappedGiftBox": {
+    "name": "Liebevoll verpackte Geschenkbox",
+    "description": {
+      "0": "Ein in einer exquisiten Geschenkbox verpacktes Geschenk. Laut Kaeya enthält es eine erlesene Lampe. Warten wir besser, bis die Ferien mit Kaeya vorbei sind, ehe wir sein Geschenk, die Lampe, herausnehmen und genauer unter die Lupe nehmen."
+    }
+  },
+  "RipeGrapes": {
+    "name": "Reife Trauben",
+    "description": {
+      "0": "Die Trauben, die du sorgfältig unter Tunners Aufsicht gepflückt hast, werden sich mit der Zeit zu einem vollmundigen Wein entwickeln."
+    }
+  },
+  "PrinceQubadsIntaglio": {
+    "name": "Prinz Qubads Intaglio",
+    "description": {
+      "0": "Ein Intaglio, das im Theaterstück die majestätische Identität des Prinzen Qubad symbolisiert. Sollte eigentlich an einer Kette aufgereiht, an der Brust des Prinzen baumeln, aber ein Schicksalsschlag sah ihn dazu veranlasst, es aufzugeben.",
+      "1": "Das blutrote Juwel verkörpert die Frage, die Kaeya dir gestellt hat; diese ach so uralte Frage des Schicksals.",
+      "2": "Lass dir ruhig Zeit, ehe du antwortest, aber beweise in Zukunft mit deinen Augen, mit deinen Händen und mit deinem Herzen die Antwort, die du in jenem Moment in deiner Seele bewahrtest."
+    }
+  },
+  "AbsolutionSeekersTestament": {
+    "name": "Vermächtnis eines Erlösungssuchenden",
+    "description": {
+      "0": "Ein fein säuberlich gefaltetes, an den Faltstellen vergilbtes Blatt Briefpapier, das du in der „Veluriyam-Mirage“ gefunden hast. Man merkt schnell, dass es jemand vor langer Zeit in der Mirage zurückgelassen hat."
     }
   },
   "SilkFlowerSeed": {
@@ -18176,67 +18349,67 @@
   "RadiantSpincrystal88": {
     "name": "Strahlender Drehkristall LXXXVIII",
     "description": {
-      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Kingdom of Dust“."
     }
   },
   "RadiantSpincrystal89": {
     "name": "Strahlender Drehkristall LXXXIX",
     "description": {
-      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Gold Cup of Oases“."
     }
   },
   "RadiantSpincrystal90": {
     "name": "Strahlender Drehkristall XC",
     "description": {
-      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Where She Will Return“."
     }
   },
   "RadiantSpincrystal91": {
     "name": "Strahlender Drehkristall XCI",
     "description": {
-      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Desert Lullaby“."
     }
   },
   "RadiantSpincrystal92": {
     "name": "Strahlender Drehkristall XCII",
     "description": {
-      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Once-Joyful Dream“."
     }
   },
   "RadiantSpincrystal93": {
     "name": "Strahlender Drehkristall XCIII",
     "description": {
-      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Her Wishes“."
     }
   },
   "RadiantSpincrystal94": {
     "name": "Strahlender Drehkristall XCIV",
     "description": {
-      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „A Pearl Amongst Legends“."
     }
   },
   "RadiantSpincrystal95": {
     "name": "Strahlender Drehkristall XCV",
     "description": {
-      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Maidens of Sanctity“."
     }
   },
   "RadiantSpincrystal96": {
     "name": "Strahlender Drehkristall XCVI",
     "description": {
-      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Simurgh’s Dream“."
     }
   },
   "RadiantSpincrystal97": {
     "name": "Strahlender Drehkristall XCVII",
     "description": {
-      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Where Simurgh Rests“."
     }
   },
   "RadiantSpincrystal98": {
     "name": "Strahlender Drehkristall XCVIII",
     "description": {
-      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Sumeru enthalten."
+      "0": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. Die Melodie, die in diesem strahlenden Drehkristall enthalten ist, lautet „Sorush’s Purity“."
     }
   },
   "FragrantSteak": {
@@ -19882,6 +20055,13 @@
       "1": "Vergiss niemals die Jahre, in denen du mit deinen Freunden gespielt hast und niemals die Zeit, in der du dir keine Sorgen um die Zukunft machen musstest."
     }
   },
+  "TravelNotesVividIllumination": {
+    "name": "Erlebnispass – Farbenquell",
+    "description": {
+      "0": "Ein Motiv für Namenskärtchen.",
+      "1": "Das Licht der Fantasie, das nur auf der anderen Seite des durchsichtigen Glases existiert, vermag auch die Welt auf dieser Seite leicht zu erhellen."
+    }
+  },
   "AnemoculusResonanceStone": {
     "name": "Anemoculus-Resonanzstein",
     "description": {
@@ -20364,6 +20544,26 @@
     "name": "Suchkompass",
     "description": {
       "0": "Ein Kompass, der entwickelt wurde, um Replika-Relikte zu finden. Da er von einem Apparat adaptiert wurde, der einst Elementarenergien aufspüren konnte, könnte er von Elementarobjekten an der Ausgrabungsstätte beeinflusst werden ..."
+    }
+  },
+  "FlowingJoyspar": {
+    "name": "Kristall überschwänglicher Freude",
+    "description": {
+      "0": "Dieser faszinierende Kristall strahlt einen glimmernd-fluoreszierenden Glanz aus. Er scheint in der Lage zu sein, die Emotion Freude innerhalb eines bestimmten Bereichs wahrzunehmen und den Menschen den richtigen Weg zu weisen ...",
+      "1": "Sondiert nach der Anwendung die nähere Umgebung nach „Glücklichen Gutscheinen“."
+    }
+  },
+  "FelicitousJoyspar": {
+    "name": "Kristall unbeschwerter Freude",
+    "description": {
+      "0": "Dieser faszinierende Kristall erstrahlt in einem brillant-hellen Leuchten. Er scheint in der Lage zu sein, die Emotion Freude innerhalb eines weitläufigen Bereichs wahrzunehmen und den Menschen den richtigen Weg zu weisen ...",
+      "1": "Sondiert nach der Anwendung die „Veluriyam-Mirage“ nach sämtlichen „Glücklichen Gutscheinen“."
+    }
+  },
+  "InscribedMirror": {
+    "name": "Insignien-Strömungsspiegel",
+    "description": {
+      "0": "Ein Spiegel, hergestellt von Lamiya, einer Gelehrten der Lebenskunde. Kann mit den Apparaten, die die Versuchstiere tragen, verbunden werden, um deren Sichtfeld zu erhalten und es auf dem Spiegel wiederzugeben."
     }
   },
   "InstructionsAnemoculusResonanceStone": {
@@ -21033,6 +21233,24 @@
       "0": "Eine sehr feste Karte aus dem Kartenspiel „Geniale Beschwörung“. Die Illustration auf der Bildseite hat dank eines speziellen Druckverfahrens ein sehr feines Aussehen."
     }
   },
+  "TheOverflow": {
+    "name": "Überlaufende Abendflut",
+    "description": {
+      "0": "Eine sehr feste Karte aus dem Kartenspiel „Geniale Beschwörung“. Die Illustration auf der Bildseite hat dank eines speziellen Druckverfahrens ein sehr feines Aussehen."
+    }
+  },
+  "RightOfFinalInterpretation": {
+    "name": "Endgültige Auslegung vorbehalten",
+    "description": {
+      "0": "Eine sehr feste Karte aus dem Kartenspiel „Geniale Beschwörung“. Die Illustration auf der Bildseite hat dank eines speziellen Druckverfahrens ein sehr feines Aussehen."
+    }
+  },
+  "PoeticsOfFuubutsu": {
+    "name": "Poesie von Fuubutsu",
+    "description": {
+      "0": "Eine sehr feste Karte aus dem Kartenspiel „Geniale Beschwörung“. Die Illustration auf der Bildseite hat dank eines speziellen Druckverfahrens ein sehr feines Aussehen."
+    }
+  },
   "MagicGuide": {
     "name": "Magieführer",
     "description": {
@@ -21345,6 +21563,12 @@
       "0": "Eine sehr feste Karte aus dem Kartenspiel „Geniale Beschwörung“. Die Illustration auf der Bildseite hat dank eines speziellen Druckverfahrens ein sehr feines Aussehen."
     }
   },
+  "FruitOfFulfillment": {
+    "name": "Vollmondfrucht",
+    "description": {
+      "0": "Eine sehr feste Karte aus dem Kartenspiel „Geniale Beschwörung“. Die Illustration auf der Bildseite hat dank eines speziellen Druckverfahrens ein sehr feines Aussehen."
+    }
+  },
   "LiyueHarborWharf": {
     "name": "Hafen von Liyue",
     "description": {
@@ -21521,6 +21745,12 @@
   },
   "Rana": {
     "name": "Rana",
+    "description": {
+      "0": "Eine sehr feste Karte aus dem Kartenspiel „Geniale Beschwörung“. Die Illustration auf der Bildseite hat dank eines speziellen Druckverfahrens ein sehr feines Aussehen."
+    }
+  },
+  "MasterZhang": {
+    "name": "Herr Zhang",
     "description": {
       "0": "Eine sehr feste Karte aus dem Kartenspiel „Geniale Beschwörung“. Die Illustration auf der Bildseite hat dank eines speziellen Druckverfahrens ein sehr feines Aussehen."
     }
@@ -21753,6 +21983,24 @@
       "0": "Eine sehr feste Karte aus dem Kartenspiel „Geniale Beschwörung“. Die Illustration auf der Bildseite hat dank eines speziellen Druckverfahrens ein sehr feines Aussehen."
     }
   },
+  "AncientCourtyard": {
+    "name": "Garten von einst",
+    "description": {
+      "0": "Eine sehr feste Karte aus dem Kartenspiel „Geniale Beschwörung“. Die Illustration auf der Bildseite hat dank eines speziellen Druckverfahrens ein sehr feines Aussehen."
+    }
+  },
+  "CovenantOfRock": {
+    "name": "Felsenbündnis",
+    "description": {
+      "0": "Eine sehr feste Karte aus dem Kartenspiel „Geniale Beschwörung“. Die Illustration auf der Bildseite hat dank eines speziellen Druckverfahrens ein sehr feines Aussehen."
+    }
+  },
+  "RhythmOfTheGreatDream": {
+    "name": "Melodie des großen Traums",
+    "description": {
+      "0": "Eine sehr feste Karte aus dem Kartenspiel „Geniale Beschwörung“. Die Illustration auf der Bildseite hat dank eines speziellen Druckverfahrens ein sehr feines Aussehen."
+    }
+  },
   "Origin": {
     "name": "Anbeginn",
     "description": {
@@ -21917,6 +22165,18 @@
     "name": "Weisheit unter dem Grün",
     "description": {
       "0": "Die Kleidung, die Lisa eigens bestellt hat, als sie Sumeru wieder besuchte. Das Kleid ist praktisch, aber auch elegant und hat eine leichte Ähnlichkeit mit ihrer Studentenuniform."
+    }
+  },
+  "BlossomingStarlight": {
+    "name": "Blütenreines Sternenlicht",
+    "description": {
+      "0": "Klees exquisites Kostüm, welches sie nur zu den wichtigsten Aufführungen trägt. Mit seinen leuchtenden Farben erinnert es an eine mit cremefarbenen Blumen und roten Kerzen verzierte Torte. Hiermit trägt Klee Freude und ein Lächeln in jede Ecke dieser Welt, wohin ihr Abenteuer sie auch führen mag."
+    }
+  },
+  "SailwindShadow": {
+    "name": "Schatten flatternder Segel",
+    "description": {
+      "0": "Kaeyas Kostüm aus seiner Darbietung als „Großer Räuber Kurzklinge“. Ein prächtiges Kleidungsstück, das als absoluter „Hingucker“ entworfen wurde. Das Kostüm selbst ist nicht aufwendig anzuziehen; ganz anders sieht es da allerdings mit den Accessoires und dem Messer aus."
     }
   },
   "AdventurerCamp": {
@@ -22820,6 +23080,20 @@
     "name": "„Schimmer des Alltags“",
     "description": {
       "0": "Bauplan mit detaillierten Schritten zur Herstellung von „Schimmer des Alltags“.",
+      "1": "Nach der Anwendung im Herstellungsmenü zu finden."
+    }
+  },
+  "ShiningSpotlight": {
+    "name": "„Gezieltes Rampenlicht“",
+    "description": {
+      "0": "Bauplan mit detaillierten Schritten zur Herstellung von „Gezieltes Rampenlicht“.",
+      "1": "Nach der Anwendung im Herstellungsmenü zu finden."
+    }
+  },
+  "GlowingAmusementParkCandyLamp": {
+    "name": "„Leuchtende Paradiessüßigkeiten“",
+    "description": {
+      "0": "Bauplan mit detaillierten Schritten zur Herstellung von „Leuchtende Paradiessüßigkeiten“.",
       "1": "Nach der Anwendung im Herstellungsmenü zu finden."
     }
   },
@@ -24846,6 +25120,34 @@
       "1": "Nach der Anwendung im Herstellungsmenü zu finden."
     }
   },
+  "ChooChooCartRestStop": {
+    "name": "„Tschu-Tschu-Express-Rastplatz“",
+    "description": {
+      "0": "Bauplan mit detaillierten Schritten zur Herstellung von „Tschu-Tschu-Express-Rastplatz“.",
+      "1": "Nach der Anwendung im Herstellungsmenü zu finden."
+    }
+  },
+  "SampleAmusementParkEngineering": {
+    "name": "„Beispiel: Paradies-Projekt“",
+    "description": {
+      "0": "Bauplan mit detaillierten Schritten zur Herstellung von „Beispiel: Paradies-Projekt“.",
+      "1": "Nach der Anwendung im Herstellungsmenü zu finden."
+    }
+  },
+  "SampleAmusementParkBuilding": {
+    "name": "„Prototyp: Paradiesgebäude“",
+    "description": {
+      "0": "Bauplan mit detaillierten Schritten zur Herstellung von „Prototyp: Paradiesgebäude“.",
+      "1": "Nach der Anwendung im Herstellungsmenü zu finden."
+    }
+  },
+  "AmusementParkCelebrationTent": {
+    "name": "„Paradies-Festzelt“",
+    "description": {
+      "0": "Bauplan mit detaillierten Schritten zur Herstellung von „Paradies-Festzelt“.",
+      "1": "Nach der Anwendung im Herstellungsmenü zu finden."
+    }
+  },
   "RitualShrine": {
     "name": "„Schrein des Rituals“",
     "description": {
@@ -26225,6 +26527,34 @@
       "1": "Nach der Anwendung im Herstellungsmenü zu finden."
     }
   },
+  "ScriptsRequirementsAndPrinciples": {
+    "name": "„Drehbücher – Anforderungen und Prinzipien zur Realisierung“",
+    "description": {
+      "0": "Bauplan mit detaillierten Schritten zur Herstellung von „Drehbücher – Anforderungen und Prinzipien zur Realisierung“.",
+      "1": "Nach der Anwendung im Herstellungsmenü zu finden."
+    }
+  },
+  "VIPGuestBleachers": {
+    "name": "„VIP-Plätze“",
+    "description": {
+      "0": "Bauplan mit detaillierten Schritten zur Herstellung von „VIP-Plätze“.",
+      "1": "Nach der Anwendung im Herstellungsmenü zu finden."
+    }
+  },
+  "HeyHaHooSlimeBoxTrio": {
+    "name": "„Schleim-Trio HeHaWu“",
+    "description": {
+      "0": "Bauplan mit detaillierten Schritten zur Herstellung von „Schleim-Trio HeHaWu“.",
+      "1": "Nach der Anwendung im Herstellungsmenü zu finden."
+    }
+  },
+  "WindUpGreatOwlSpiritMechanism": {
+    "name": "„Rieseneule Geister-Vorrichtung“",
+    "description": {
+      "0": "Bauplan mit detaillierten Schritten zur Herstellung von „Rieseneule Geister-Vorrichtung“.",
+      "1": "Nach der Anwendung im Herstellungsmenü zu finden."
+    }
+  },
   "PottedPlantVerdantVastness": {
     "name": "Topfpflanze – „Kleine Oase“",
     "description": {
@@ -26778,6 +27108,13 @@
       "1": "Nach der Anwendung im Herstellungsmenü zu finden."
     }
   },
+  "AmusementParkBroadcastTower": {
+    "name": "„Paradies-Übertragungsturm“",
+    "description": {
+      "0": "Bauplan mit detaillierten Schritten zur Herstellung von „Paradies-Übertragungsturm“.",
+      "1": "Nach der Anwendung im Herstellungsmenü zu finden."
+    }
+  },
   "WroughtIronCarvedStreetLight": {
     "name": "Eiserne Straßenlaterne mit Gravur",
     "description": {
@@ -27020,6 +27357,13 @@
     "name": "Sitz im Birnengarten – „Versammelt in Freude“",
     "description": {
       "0": "Bauplan mit detaillierten Schritten zur Herstellung von „Sitz im Birnengarten – Versammelt in Freude“.",
+      "1": "Nach der Anwendung im Herstellungsmenü zu finden."
+    }
+  },
+  "DeadlineWhatDeadlineDirectorsChair": {
+    "name": "Chefsessel „Deadline? Welche Deadline?“",
+    "description": {
+      "0": "Bauplan mit detaillierten Schritten zur Herstellung von „Chefsessel ‚Deadline? Welche Deadline?‘“.",
       "1": "Nach der Anwendung im Herstellungsmenü zu finden."
     }
   },

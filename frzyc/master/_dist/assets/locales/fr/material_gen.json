@@ -363,6 +363,20 @@
       "0": "Coupon s'obtenant en participant à divers événements du Grand prix du Roi des invocations, échangeable pendant l'événement contre des récompenses."
     }
   },
+  "JoyeuxVoucher": {
+    "name": "Coupon allègre",
+    "description": {
+      "0": "Ce genre de bon peut être trouvé à l'intérieur des boîtes de coupons dispersées dans tout le Mirage de veluriyam. Superbement décorés et aux couleurs vives, le simple fait d'en tenir dans votre main semble vous donner la même joie que lorsque vous obtenez des récompenses.",
+      "1": "Permet de débloquer des récompenses précieuses pendant l'événement « Paradis estival mystérieux ! »."
+    }
+  },
+  "FascinatingPhenocryst": {
+    "name": "Phénocristal fascinant",
+    "description": {
+      "0": "Un cristal qui rayonne d'un magnifique éclat. Le regarder pendant un certain temps vous rappelle le plaisir que vous avez éprouvé lors de diverses attractions. Avec tellement de phénomènes intéressants dans le Mirage de veluriyam, est-il si étrange que de vastes quantités de joie se cristallisent en une pierre précieuse pure...",
+      "1": "Permet de débloquer des récompenses précieuses pendant l'événement « Paradis estival mystérieux ! »."
+    }
+  },
   "Primogem": {
     "name": "Primo-gemme",
     "description": {
@@ -9852,6 +9866,12 @@
       "0": "Fragment laissé par la khvarena, contenant des souvenirs du passé."
     }
   },
+  "VoucherBox": {
+    "name": "Boîte de coupons",
+    "description": {
+      "0": "Boîte contenant des coupons allègres, possédant une forme unique de fleur et ne pouvant être trouvée que dans le Mirage de veluriyam. Ces boîtes sont également des objets de collection importants pour les visiteurs souhaitant collecter des récompenses. L'utilisation du Minéral d'alléflux et du Minéral de féliciflux semble permettre de les trouver plus efficacement..."
+    }
+  },
   "Dish": {
     "name": "Plat",
     "description": {
@@ -11253,7 +11273,7 @@
   "DeliciousGoldenFriedChicken": {
     "name": "Nuggets de poulet (délicieux)",
     "description": {
-      "0": "Viande de volaille hachée, agrémentée puis frite. La peau craquante et dorée a conservé le jus de la viande, pour un plaisir absolu à chaque fois que vous mordez dedans. L'odeur exquise persistera sur vos doigts bien après que vous ayiez englouti ce repas jusqu'à ne laisser qu'un tas de petits os."
+      "0": "Viande de volaille hachée, agrémentée puis frite. La peau craquante et dorée a conservé le jus de la viande, pour un plaisir absolu à chaque fois que vous mordez dedans. L'odeur exquise persistera sur vos doigts bien après que vous ayez englouti ce repas jusqu'à ne laisser qu'un tas de petits os."
     }
   },
   "SuspiciousGoldenChickenBurger": {
@@ -12465,7 +12485,7 @@
   "MeatLoversMushroomPizza": {
     "name": "Pizza champignons-viande",
     "description": {
-      "0": "Une pizza fraîchement sortie du four. La croûte est parsemée de gros morceaux de viande crue et de tranches de champignons frais. Ajoutez à cela une couche de fromage tendre, et vous avez un plat irrésistible. Une fois sorti du four, il ne faudra pas longtemps avant que toutes ses parts ne disparaissent, et c'est bien pour cela qu'il faut savoir être vif et agile pour pouvoir goûter à cette merveille."
+      "0": "Une pizza fraîchement sortie du four. La croûte est parsemée de gros morceaux de viande crue et de tranches de champignons frais. Ajoutez à cela une couche de fromage tendre, et vous avez un plat irrésistible. Une fois la pizza sortie du four, il ne faudra pas longtemps avant que toutes ses parts ne disparaissent, et c'est bien pour cela qu'il faut savoir être vif et agile pour pouvoir goûter à cette merveille."
     }
   },
   "DeliciousMeatLoversMushroomPizza": {
@@ -12798,7 +12818,7 @@
   "SuspiciousSuperMagnificentPizza": {
     "name": "Super pizza suprême (suspecte)",
     "description": {
-      "0": "Une somptueuse pizza. Si l'on passe outre la graisse un instant, les morceaux de viande froide peuvent toujours être ingurgités, mais la pâte rassis pose tout de même un défi. Avec sa dureté, peut-être pourriez-vous assommer un Brutocollinus avec..."
+      "0": "Une somptueuse pizza. Si l'on passe outre la graisse un instant, les morceaux de viande froide peuvent toujours être ingurgités, mais la pâte rassise pose tout de même un défi. Avec sa dureté, peut-être pourriez-vous assommer un Brutocollinus avec..."
     }
   },
   "SuperMagnificentPizza": {
@@ -16882,6 +16902,22 @@
       "0": "Au-delà des nations et des identités, unis par la voie du guerrier."
     }
   },
+  "ScatteredYetWellPreservedPagesI": {
+    "name": "Pages éparses mais bien conservées (1)",
+    "description": {}
+  },
+  "ScatteredYetWellPreservedPagesII": {
+    "name": "Pages éparses mais bien conservées (2)",
+    "description": {}
+  },
+  "ScatteredYetWellPreservedPagesIII": {
+    "name": "Pages éparses mais bien conservées (3)",
+    "description": {}
+  },
+  "ScatteredYetWellPreservedPagesIV": {
+    "name": "Pages éparses mais bien conservées (4)",
+    "description": {}
+  },
   "VentisNote": {
     "name": "Note de Venti",
     "description": {
@@ -17063,6 +17099,61 @@
       "0": "Une partition de batterie correspondant au korybante : Vedana."
     }
   },
+  "ReturningCuriosMementoI": {
+    "name": "Souvenir de la myriade de curiosités (1)",
+    "description": {
+      "0": "Un souvenir découvert à l'emplacement d'un trésor lors de l'attraction classique du Mirage de veluriyam, « Myriade de curiosités ». Le coffre qui renfermait cet objet correspondait à la première énigme : « Dans une brume douce et sucrée, face à la lueur d'une lampe enchantée, j'en oublie presque de respirer ; mes souvenirs d'enfance me guidant, je m'assieds à table tranquillement, le cœur serein et apaisant... »."
+    }
+  },
+  "ReturningCuriosMementoII": {
+    "name": "Souvenir de la myriade de curiosités (2)",
+    "description": {
+      "0": "Un souvenir découvert à l'emplacement d'un trésor lors de l'attraction classique du Mirage de veluriyam, « Myriade de curiosités ». Le coffre qui renfermait cet objet correspondait à la deuxième énigme : « À travers la forêt sereine, l'étoile filante des vignes m'emmène ; pour enfin arriver dans un songe, où aucune gêne ne me ronge... »."
+    }
+  },
+  "ReturningCuriosMementoIII": {
+    "name": "Souvenir de la myriade de curiosités (3)",
+    "description": {
+      "0": "Un souvenir découvert à l'emplacement d'un trésor lors de l'attraction classique du Mirage de veluriyam, « Myriade de curiosités ». Le coffre qui renfermait cet objet correspondait à la troisième énigme : « Toit sans poussière d'un bleu azuré, sol comme un bonbon d'un blanc nacré ; mes doux amis à mes côtés, et moi aussi je suis ailé ! »."
+    }
+  },
+  "MementoCollectionBox": {
+    "name": "Boîte de collection de souvenirs",
+    "description": {
+      "0": "Cet objet important est une boîte spéciale que vous avez reçue d'Idyia et qui est utilisée pour collecter les souvenirs de la myriade de curiosités. On dit qu'elle peut protéger les objets à l'intérieur pendant un long moment. Avec cette boîte, vous pouvez choisir un souvenir spécial et un emplacement de trésor pour laisser votre marque dans le Mirage de veluriyam..."
+    }
+  },
+  "MysteriousMoraPocketwatch": {
+    "name": "Mystérieuse montre-mora",
+    "description": {
+      "0": "Une montre de poche dont la forme et l'éclat sont basés sur des moras, que vous avez trouvée accidentellement dans le Mirage de veluriyam. Elle ressemble fortement à la montre-mora laissée par un riche aventurier aux premiers jours de la myriade de curiosités. On ignore combien elle vaut...",
+      "1": "Cependant, Idyia dit que « l'important n'est pas la valeur d'un trésor ou d'une montre, mais les histoires cachées à l'intérieur »... Alors, peut-être que comparer ce souvenir à une valeur monétaire n'est pas la plus appropriée des choses à faire..."
+    }
+  },
+  "MuralFragmentSwirlingClouds": {
+    "name": "Fragment de fresque : Nuages tourbillonnants",
+    "description": {
+      "0": "Un fragment de pré-illustration trouvé dans une grotte mystérieuse, représentant les nuages flottant dans le Mirage de veluriyam. Il semble que le projeter dans le bon angle avec le projecteur à flux puisse restaurer une partie manquante de la fresque..."
+    }
+  },
+  "MuralFragmentCentralHub": {
+    "name": "Fragment de fresque : Moyeu central",
+    "description": {
+      "0": "Un fragment de pré-illustration trouvé dans une grotte mystérieuse, représentant l'énorme structure au milieu du Mirage de veluriyam. Il semble que le projeter dans le bon angle avec le projecteur à flux puisse restaurer une partie manquante de la fresque..."
+    }
+  },
+  "MuralFragmentSkyKeep": {
+    "name": "Fragment de fresque : Acropole céleste",
+    "description": {
+      "0": "Un fragment de pré-illustration trouvé dans une grotte mystérieuse, représentant une cité flottant dans le ciel. Il semble que le projeter dans le bon angle avec le projecteur à flux puisse restaurer une partie manquante de la fresque..."
+    }
+  },
+  "MuralFragmentFlowerOfTheValley": {
+    "name": "Fragment de fresque : Fleurs de la vallée",
+    "description": {
+      "0": "Un fragment de pré-illustration trouvé dans une grotte mystérieuse, représentant les grandes fleurs visibles en entrant dans la vallée avec un chariot tchou-tchou. Il semble que le projeter dans le bon angle avec le projecteur à flux puisse restaurer une partie manquante de la fresque..."
+    }
+  },
   "JuliensDrawingBoard": {
     "name": "Planche à dessin de Julien",
     "description": {
@@ -17080,6 +17171,30 @@
     "description": {
       "0": "Un cadeau exquis envoyé par Haniyyah. Il contient des gelées merveilleuses très appréciées des Fongus, ces dernières se déclinant même en de nombreuses saveurs uniques qui peuvent être données aux Fongus en fonction de leurs goûts individuels.",
       "1": "Les gelées merveilleuses sont une version raffinée de la gelée florale qui les a précédées et conservent leur translucidité cristalline et texture élastique, sans les ingrédients dangereux, ce qui en fait l'aliment idéal pour les Fongus. Cela dit, il faut veiller à ce que les enfants n'en mangent pas par erreur si vous les stockez à la maison..."
+    }
+  },
+  "OldGear": {
+    "name": "Vieil engrenage",
+    "description": {
+      "0": "Semblant faire partie d'une énorme machine, cet engrenage seul n'est cependant d'aucune utilité. Par contre, trouver un moyen de le faire tourner à nouveau pourrait peut-être apporter les réponses à certaines questions..."
+    }
+  },
+  "MountaineeringRope": {
+    "name": "Corde d'escalade",
+    "description": {
+      "0": "Une corde d'alpinisme appréciée des aventuriers. Un peu vieille mais bien entretenue, elle peut donc toujours être utilisée normalement. Cette corde a été laissée ici en cadeau. Ce n'est pas seulement une corde sur laquelle on peut s'appuyer pour escalader des hauteurs, c'est aussi une main amicale qui vous permet de monter..."
+    }
+  },
+  "FamiliarLookingCandyBox": {
+    "name": "Boîte à bonbons d'apparence familière",
+    "description": {
+      "0": "Une bonbonnière souvent utilisée lors des diverses célébrations de Sumeru. Quand la jeune fille qui allait devenir chercheuse était encore jeune, elle prenait chaque jour un bonbon dans sa boîte, et à l'époque, sa plus grande inquiétude était que ses bonbons s'épuisent. Une fois la jeune fille devenue chercheuse, cette bonbonnière vide est devenue pour elle un rappel nostalgique des diverses possibilités de la vie. Cette boîte à bonbons a été laissée ici en cadeau. Pour la chercheuse, c'est également un symbole de libération de la misère..."
+    }
+  },
+  "TravelLamp": {
+    "name": "Lampe de voyage",
+    "description": {
+      "0": "Une lampe qu'un jeune garçon utilisait souvent lorsqu'il étudiait la nuit. La flamme peut être ajustée via un mécanisme dans la lampe, et c'est presque magique pour un enfant qui n'a jamais vu une telle lampe auparavant. Chaque fois qu'il voyait la lumière à l'intérieur, il pensait au bon vieux temps où il faisait divers personnages et animaux avec l'ombre de ses mains. Cette lampe a été laissée ici en cadeau. C'est peut-être une façon pour lui de se débarrasser de son fardeau et de passer à autre chose..."
     }
   },
   "BoxOfSpecialPotions": {
@@ -17116,6 +17231,26 @@
     "name": "Le roi des invocations",
     "description": {
       "0": "Un roman léger inspiré du jeu de cartes le plus populaire de tout Teyvat « Invocation des Sept ». Les personnages sont uniques et l'histoire, pleine de rebondissements. Il s'agit d'une œuvre des plus appréciées ces derniers temps."
+    }
+  },
+  "KeyToTheCastlesSecretChamber": {
+    "name": "Clé de la salle secrète du château",
+    "description": {
+      "0": "Cet objet important est une clé obtenue lors du spectacle « Un regard pétrifiant » de la Rêverie de trois jours de Daiya et peut être utilisé pour ouvrir une salle secrète qui cache un ancien remède. Sa forme n'est pas bien différente de celle des clés ordinaires."
+    }
+  },
+  "AncientHexCleansingRemedy": {
+    "name": "Ancien remède anti-malédictions",
+    "description": {
+      "0": "Cet objet important est un remède obtenu lors du spectacle « Un regard pétrifiant » de la Rêverie de trois jours de Daiya.",
+      "1": "Selon l'Eidolon Hydro esseulé, ces remèdes ont le pouvoir de lever les malédictions lancées par les fantômes et de ramener les Eidolons Hydro pétrifiés à leur état d'origine.",
+      "2": "Cependant, l'apparence de ce remède fait penser à un récipient alchimique très répandu. Est-ce que l'intrigue du spectacle a un lien avec l'alchimie ou s'agit-il simplement d'un moyen de réduire les coûts de production..."
+    }
+  },
+  "TheGreatEscapePropBook": {
+    "name": "Livre factice « La grande évasion »",
+    "description": {
+      "0": "Un livre factice qui a été évidé et dans lequel ont été cachés des outils d'excavation. Bien sûr, comme il s'agit d'un accessoire de scène, ses autres pages sont depuis longtemps collées ensemble. Mais là encore, le « contenu » d'un livre est parfois plus important que son... contenu."
     }
   },
   "NamelessAdventurersNotes": {
@@ -17176,6 +17311,18 @@
     "name": "Feuille de lumibraise",
     "description": {
       "0": "Une feuille que vous avez reçue de Nahida, pouvant être utilisée pour contacter des aranaras. Si vous vous en servez pour siffler, un aranara répondra à votre appel. Cependant, ces derniers viendront uniquement parce qu'ils font confiance à Nahida. En d'autres termes, siffler avec dans des circonstances ordinaires ne fonctionne pas."
+    }
+  },
+  "SadifesMarkedMap": {
+    "name": "Carte balisée de Sadife",
+    "description": {
+      "0": "Une carte marquée par Sadife. Peut-être que la malle est quelque part dans le coin..."
+    }
+  },
+  "SadifesCase": {
+    "name": "Malle de Sadife",
+    "description": {
+      "0": "La malle de Sadife. Elle est bourrée à ras bord et assez lourde."
     }
   },
   "AkademiyaInvestigationTeamsLogsI": {
@@ -17278,6 +17425,32 @@
     "name": "Inscription de la khvarena",
     "description": {
       "0": "L'inscription sur le monument de la khvarena."
+    }
+  },
+  "BeautifullyWrappedGiftBox": {
+    "name": "Cadeau joliment emballé",
+    "description": {
+      "0": "Un cadeau dans une belle boîte. Selon Kaeya, elle contient une lampe exquise. Il serait peut-être préférable d'attendre que vous reveniez de vos vacances avec Kaeya pour ouvrir son cadeau et l'admirer."
+    }
+  },
+  "RipeGrapes": {
+    "name": "Raisins mûrs",
+    "description": {
+      "0": "Des raisins que vous avez cueillis avec le plus grand soin sous la direction de Tunner. Avec le temps, ils peuvent se transformer en vin sucré."
+    }
+  },
+  "PrinceQubadsIntaglio": {
+    "name": "Intaille du prince Qubad",
+    "description": {
+      "0": "Une intaille qui symbolise les origines nobles du prince Qubad pendant la pièce. Elle aurait dû être enfilée sur une chaîne de perles et portée sur la poitrine du prince, mais une tragédie fatale a poussé le prince à l'abandonner.",
+      "1": "Le bijou rouge sang est une cristallisation de la question que Kaeya vous a posée... Cette question séculaire sur le destin.",
+      "2": "Il n'est pas nécessaire de se précipiter pour répondre. À l'avenir, utilisez ce que vous voyez, touchez et ressentez pour prouver la réponse dans votre âme."
+    }
+  },
+  "AbsolutionSeekersTestament": {
+    "name": "Testament du demandeur d'absolution",
+    "description": {
+      "0": "Une lettre que vous avez trouvée dans le Mirage de veluriyam. Elle est soigneusement pliée et jaunie, et il semble que ce soit un objet que quelqu'un a laissé ici il y a longtemps."
     }
   },
   "SilkFlowerSeed": {
@@ -18232,67 +18405,67 @@
   "RadiantSpincrystal88": {
     "name": "Gyrocristal radiant 88",
     "description": {
-      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Kingdom of Dust »."
     }
   },
   "RadiantSpincrystal89": {
     "name": "Gyrocristal radiant 89",
     "description": {
-      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Gold Cup of Oases »."
     }
   },
   "RadiantSpincrystal90": {
     "name": "Gyrocristal radiant 90",
     "description": {
-      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Where She Will Return »."
     }
   },
   "RadiantSpincrystal91": {
     "name": "Gyrocristal radiant 91",
     "description": {
-      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Desert Lullaby »."
     }
   },
   "RadiantSpincrystal92": {
     "name": "Gyrocristal radiant 92",
     "description": {
-      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Once-Joyful Dream »."
     }
   },
   "RadiantSpincrystal93": {
     "name": "Gyrocristal radiant 93",
     "description": {
-      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Her Wishes »."
     }
   },
   "RadiantSpincrystal94": {
     "name": "Gyrocristal radiant 94",
     "description": {
-      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « A Pearl Amongst Legends »."
     }
   },
   "RadiantSpincrystal95": {
     "name": "Gyrocristal radiant 95",
     "description": {
-      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Maidens of Sanctity »."
     }
   },
   "RadiantSpincrystal96": {
     "name": "Gyrocristal radiant 96",
     "description": {
-      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Simurgh's Dream »."
     }
   },
   "RadiantSpincrystal97": {
     "name": "Gyrocristal radiant 97",
     "description": {
-      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Where Simurgh Rests »."
     }
   },
   "RadiantSpincrystal98": {
     "name": "Gyrocristal radiant 98",
     "description": {
-      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est une mystérieuse mélodie de Sumeru."
+      "0": "Ce cristal merveilleux contient une certaine mélodie, comme s'il s'agissait de quelque chose de magnifique tissé à partir de soie délicate. Ces objets peuvent être trouvés sur tout le continent ou chez les marchands qui collectionnent des bibelots. L'air contenu dans ce cristal peut être revivifié dans votre Sérénithéière en utilisant les euphonies célestes « Envolée » ou « Entrelacs ». La mélodie contenue dans ce gyrocristal radiant est « Sorush's Purity »."
     }
   },
   "FragrantSteak": {
@@ -19934,6 +20107,13 @@
       "1": "N'oubliez jamais le temps passé avec des jeux et de bons amis, et n'oubliez jamais la sensation de ne pas s'inquiéter de l'avenir."
     }
   },
+  "TravelNotesVividIllumination": {
+    "name": "PB - Enluminure",
+    "description": {
+      "0": "Thème.",
+      "1": "Peut-être que la lumière onirique qui n'existe que de l'autre côté de ce verre transparent peut un tant soit peu éclairer le monde de ce côté."
+    }
+  },
   "AnemoculusResonanceStone": {
     "name": "Pierre de résonance Anémoculus",
     "description": {
@@ -20417,6 +20597,26 @@
     "name": "Boussole de fouilles",
     "description": {
       "0": "Une boussole de recherche conçue pour trouver des répliques de reliques. Comme cet appareil a été adapté d'un appareil qui détectait autrefois les énergies élémentaires, les résidus d'élément présents dans la zone de fouilles pourraient bien l'affecter..."
+    }
+  },
+  "FlowingJoyspar": {
+    "name": "Minéral d'alléflux",
+    "description": {
+      "0": "Un merveilleux cristal dont certaines parties brillent, semblant être capable de ressentir les émotions joyeuses autour de lui et de guider les gens dans la direction correspondante.",
+      "1": "Vous pouvez l'utiliser pour détecter les coupons allègres dans un rayon défini."
+    }
+  },
+  "FelicitousJoyspar": {
+    "name": "Minéral de féliciflux",
+    "description": {
+      "0": "Un merveilleux cristal dans lequel l'éclat coule comme un fleuve, semblant être capable de ressentir les émotions joyeuses dans une vaste zone et de guider les gens dans la direction correspondante.",
+      "1": "Vous pouvez l'utiliser pour détecter tous les coupons allègres dans le Mirage de veluriyam."
+    }
+  },
+  "InscribedMirror": {
+    "name": "Miroir gravé",
+    "description": {
+      "0": "Un gadget de type miroir fabriqué par Lamiya, la chercheuse de l'Amurta. Il peut être connecté aux appareils des animaux de laboratoire, qui refléteront alors le point de vue des animaux dans le Miroir."
     }
   },
   "InstructionsAnemoculusResonanceStone": {
@@ -21086,6 +21286,24 @@
       "0": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
     }
   },
+  "TheOverflow": {
+    "name": "Débordement",
+    "description": {
+      "0": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
+    }
+  },
+  "RightOfFinalInterpretation": {
+    "name": "Verdict final",
+    "description": {
+      "0": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
+    }
+  },
+  "PoeticsOfFuubutsu": {
+    "name": "Haïku de la brise",
+    "description": {
+      "0": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
+    }
+  },
   "MagicGuide": {
     "name": "Guide de magie",
     "description": {
@@ -21398,6 +21616,12 @@
       "0": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
     }
   },
+  "FruitOfFulfillment": {
+    "name": "Le fruit de l'accomplissement",
+    "description": {
+      "0": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
+    }
+  },
   "LiyueHarborWharf": {
     "name": "Quai du Port de Liyue",
     "description": {
@@ -21574,6 +21798,12 @@
   },
   "Rana": {
     "name": "Rana",
+    "description": {
+      "0": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
+    }
+  },
+  "MasterZhang": {
+    "name": "Maître Zhang",
     "description": {
       "0": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
     }
@@ -21806,6 +22036,24 @@
       "0": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
     }
   },
+  "AncientCourtyard": {
+    "name": "Jardin d'antan",
+    "description": {
+      "0": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
+    }
+  },
+  "CovenantOfRock": {
+    "name": "Alliance de roche",
+    "description": {
+      "0": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
+    }
+  },
+  "RhythmOfTheGreatDream": {
+    "name": "Mélodie du grand rêve",
+    "description": {
+      "0": "Une carte pour le jeu de table, l'Invocation des Sept. Elle est résistante et une méthode d'impression spéciale a été utilisée pour son illustration, ce qui lui donne une apparence vraiment exquise."
+    }
+  },
   "Origin": {
     "name": "Origine",
     "description": {
@@ -21970,6 +22218,18 @@
     "name": "Sobriquet à l'ombre",
     "description": {
       "0": "Tenue que Lisa avait commandée lors d'une nouvelle visite à Sumeru. D'un équilibre parfait entre praticité et élégance, cette robe ressemble à l'uniforme qu'elle portait lorsqu'elle étudiait à l'Académie."
+    }
+  },
+  "BlossomingStarlight": {
+    "name": "Lumière stellaire en fleurs",
+    "description": {
+      "0": "Une tenue exquise que Klee ne porte que pour les performances les plus importantes. Les couleurs sont brillantes, comme un gâteau à la crème décoré de fleurs et couronné de bougies écarlates. Avec cette tenue, bonheur et sourires combleront vos aventures !"
+    }
+  },
+  "SailwindShadow": {
+    "name": "Ombre nautique",
+    "description": {
+      "0": "La tenue que Kaeya porte en jouant le Bandit au poignard. Bien qu'il s'agisse d'une tenue flamboyante conçue pour être aussi accrocheuse que possible, elle n'est pas difficile à enfiler, bien qu'il faille un certain temps pour arranger tous les accessoires et son poignard."
     }
   },
   "AdventurerCamp": {
@@ -22875,6 +23135,20 @@
     "name": "Illumination constante",
     "description": {
       "0": "Étapes de fabrication de l'illumination constante.",
+      "1": "Après utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    }
+  },
+  "ShiningSpotlight": {
+    "name": "Feux de la rampe",
+    "description": {
+      "0": "Étapes de fabrication des feux de la rampe.",
+      "1": "Après utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    }
+  },
+  "GlowingAmusementParkCandyLamp": {
+    "name": "Lampe bonbonneuse de parc",
+    "description": {
+      "0": "Étapes de fabrication de la lampe bonbonneuse de parc.",
       "1": "Après utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
     }
   },
@@ -24901,6 +25175,34 @@
       "1": "Après utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
     }
   },
+  "ChooChooCartRestStop": {
+    "name": "Station de repos de chariot tchou-tchou",
+    "description": {
+      "0": "Étapes de fabrication de la station de repos de chariot tchou-tchou.",
+      "1": "Après utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    }
+  },
+  "SampleAmusementParkEngineering": {
+    "name": "Exemple d'ingénierie de parc",
+    "description": {
+      "0": "Étapes de fabrication de l'exemple d'ingénierie de parc.",
+      "1": "Après utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    }
+  },
+  "SampleAmusementParkBuilding": {
+    "name": "Exemple d'architecture de parc",
+    "description": {
+      "0": "Étapes de fabrication de l'exemple d'architecture de parc.",
+      "1": "Après utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    }
+  },
+  "AmusementParkCelebrationTent": {
+    "name": "Tente de festivités de parc",
+    "description": {
+      "0": "Étapes de fabrication de la tente de festivités de parc.",
+      "1": "Après utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    }
+  },
   "RitualShrine": {
     "name": "Autel de rituel",
     "description": {
@@ -26280,6 +26582,34 @@
       "1": "Après utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
     }
   },
+  "ScriptsRequirementsAndPrinciples": {
+    "name": "Script « Exigences et principes »",
+    "description": {
+      "0": "Étapes de fabrication du script « Exigences et principes ».",
+      "1": "Après utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    }
+  },
+  "VIPGuestBleachers": {
+    "name": "Gradins d'honneur",
+    "description": {
+      "0": "Étapes de fabrication des gradins d'honneur.",
+      "1": "Après utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    }
+  },
+  "HeyHaHooSlimeBoxTrio": {
+    "name": "Trio de Blobs « Hé-Ha-Ho »",
+    "description": {
+      "0": "Étapes de fabrication du trio de Blobs « Hé-Ha-Ho ».",
+      "1": "Après utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    }
+  },
+  "WindUpGreatOwlSpiritMechanism": {
+    "name": "Mécanisme spirituel de grand hibou",
+    "description": {
+      "0": "Étapes de fabrication du mécanisme spirituel de grand hibou.",
+      "1": "Après utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    }
+  },
   "PottedPlantVerdantVastness": {
     "name": "Plante en pot « Immensité verdoyante »",
     "description": {
@@ -26833,6 +27163,13 @@
       "1": "Après utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
     }
   },
+  "AmusementParkBroadcastTower": {
+    "name": "Tour de transmission de parc",
+    "description": {
+      "0": "Étapes de fabrication de la tour de transmission de parc.",
+      "1": "Après utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    }
+  },
   "WroughtIronCarvedStreetLight": {
     "name": "Lampadaire en fer forgé",
     "description": {
@@ -27075,6 +27412,13 @@
     "name": "Siège des poiriers « Dans l'allégresse »",
     "description": {
       "0": "Étapes de fabrication du siège des poiriers « Dans l'allégresse ».",
+      "1": "Après utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    }
+  },
+  "DeadlineWhatDeadlineDirectorsChair": {
+    "name": "Chaise de non-respect des délais",
+    "description": {
+      "0": "Étapes de fabrication de la chaise de non-respect des délais.",
       "1": "Après utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
     }
   },

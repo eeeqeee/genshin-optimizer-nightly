@@ -1,7 +1,7 @@
 {
   "name": "Sucrose",
   "title": "Dolcezza innocua",
-  "description": "Un'alchimista dalla vivace curiosità verso ogni cosa e ricercatrice bioalchemica.",
+  "description": "Un'alchimista dalla vivace curiosità verso ogni cosa. Il suo campo di ricerca è la bioalchimia.",
   "constellationName": "Ampulla",
   "auto": {
     "name": "Creazione dello spirito dei venti",
@@ -67,8 +67,8 @@
   "burst": {
     "name": "Creazione proibita: Isomero 75 Tipo II",
     "description": {
-      "0": "Sucrose lancia un miscuglio instabile che crea uno Spirito dei venti grande.",
-      "1": "Finché persiste, lo Spirito dei venti grande attira costantemente gli oggetti e gli avversari circostanti, scagliandoli via e infliggendo <anemo>DAN da Anemo</anemo>.",
+      "0": "Sucrose lancia un miscuglio instabile che crea un Grande Spirito dei venti.",
+      "1": "Finché persiste, tale Spirito attira costantemente gli oggetti e gli avversari circostanti, scagliandoli via e infliggendo <anemo>DAN da Anemo</anemo>.",
       "2": "<br/>",
       "3": "<strong>Assorbimento elementale</strong>",
       "4": "Se lo Spirito dei venti entra in contatto con energia di <hydro>Hydro</hydro>/<pyro>Pyro</pyro>/<cryo>Cryo</cryo>/<electro>Electro</electro>, infliggerà DAN elementali aggiuntivi di quel tipo.",
@@ -135,7 +135,7 @@
   "constellation4": {
     "name": "Alchimania",
     "description": {
-      "0": "Sucrose ridurrà di 1-7 s il TdR di <strong>Creazione Anemoipostasi astabile n. 6308</strong> per ogni 7 attacchi normali o caricati messi a segno sugli avversari.",
+      "0": "Sucrose riduce di 1-7 s il TdR di <strong>Creazione Anemoipostasi astabile n. 6308</strong> per ogni 7 attacchi normali o caricati messi a segno sugli avversari.",
       "1": "Un colpo può essere calcolato ogni 0,1 s."
     }
   },
